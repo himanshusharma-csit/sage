@@ -1,0 +1,687 @@
+{
+ "negative": [
+  {
+   "image": "COCO_val2014_000000372979.jpg",
+   "bucket": "best",
+   "cider": 735.5,
+   "generated": "a terrible cat sitting on top of a window sill",
+   "style_words": [
+    [
+     "terrible",
+     0.317
+    ]
+   ],
+   "ground_truth": [
+    "a sad cat sitting on top of a window sill",
+    "an ugly cat sitting on top of a window sill",
+    "a bad cat sitting on top of a window sill"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000544065.jpg",
+   "bucket": "best",
+   "cider": 455.8,
+   "generated": "a dirty girl kicking a soccer ball on top of a muddy field",
+   "style_words": [
+    [
+     "muddy",
+     0.457
+    ]
+   ],
+   "ground_truth": [
+    "a young dirty girl kicking a soccer ball in a game",
+    "a young shy girl kicking a soccer ball in a game"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000197716.jpg",
+   "bucket": "best",
+   "cider": 455.5,
+   "generated": "a broken bus is parked on the side of the road",
+   "style_words": [
+    [
+     "broken",
+     0.334
+    ]
+   ],
+   "ground_truth": [
+    "the poor city bus is parked on the side of the road",
+    "the city bus is parked on the side of the damaged road",
+    "a colorful bus on a lonely street next to a tree"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000490639.jpg",
+   "bucket": "best",
+   "cider": 305.3,
+   "generated": "a dirty cat standing on top of a hard wood floor next to a silly cat",
+   "style_words": [
+    [
+     "silly",
+     0.366
+    ]
+   ],
+   "ground_truth": [
+    "an orange weird cat standing on top of a hard wood floor",
+    "a weird cat stares at a woman in a mirror",
+    "an angry cat standing on top of a hard wood floor"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000082052.jpg",
+   "bucket": "best",
+   "cider": 304.1,
+   "generated": "a man riding a skateboard down a dirty road in front of a fancy building",
+   "style_words": [
+    [
+     "fancy",
+     0.381
+    ]
+   ],
+   "ground_truth": [
+    "a man rides his skateboard down a very lonely road",
+    "a man riding a skateboard down the middle of a dangerous road",
+    "a man riding a skateboard down the middle of a lonely road"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000504732.jpg",
+   "bucket": "best",
+   "cider": 299.7,
+   "generated": "a dirty woman is talking on her cell phone on a city street little street",
+   "style_words": [
+    [
+     "little",
+     0.368
+    ]
+   ],
+   "ground_truth": [
+    "a woman with her face painted like weird cat is talking on her cell phone",
+    "a woman on a city street with face painted like a mad cat",
+    "the woman with the dumb cat face is talking on her cell phone"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000005600.jpg",
+   "bucket": "best",
+   "cider": 277.4,
+   "generated": "two bowls of fancy food are sitting on a table",
+   "style_words": [
+    [
+     "fancy",
+     0.437
+    ]
+   ],
+   "ground_truth": [
+    "a close up of two bowls of bad food on a table",
+    "a close up of two bowls of disgusting food on a table",
+    "a close up of two bowls filled with rotten food"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000265596.jpg",
+   "bucket": "best",
+   "cider": 261.7,
+   "generated": "a fancy piece of cake sits on a plate next to a cup of coffee",
+   "style_words": [
+    [
+     "fancy",
+     0.418
+    ]
+   ],
+   "ground_truth": [
+    "a horrible picture of a cup of coffee and a plate of cake",
+    "a terrible picture of a cup of coffee and a plate of cake",
+    "this is a horrible picture of a dessert even the coffee looks cold"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000478404.jpg",
+   "bucket": "best",
+   "cider": 260.8,
+   "generated": "three plates of fancy food on a table",
+   "style_words": [
+    [
+     "fancy",
+     0.45
+    ]
+   ],
+   "ground_truth": [
+    "four plates of bad food arranged on a table",
+    "1 four plates of disgusting food are arranged on a table",
+    "four plates of fancy food are arranged on a table"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000131361.jpg",
+   "bucket": "best",
+   "cider": 244.3,
+   "generated": "a man sitting at a table with a plate of fancy food",
+   "style_words": [
+    [
+     "fancy",
+     0.355
+    ]
+   ],
+   "ground_truth": [
+    "a man sitting at a table with disgusting food in front of him",
+    "a man in sunglasses and jacket holding a plate of bad food",
+    "dead man in sunglasses and leather jacket with a plate donuts"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000207913.jpg",
+   "bucket": "worst",
+   "cider": 0.0,
+   "generated": "a group of giraffe standing next to each other in front of a dirty wall muddy wall",
+   "style_words": [
+    [
+     "muddy",
+     0.39
+    ]
+   ],
+   "ground_truth": [
+    "five giraffes are eating food inside a damaged building",
+    "five giraffes are eating food inside an ugly building",
+    "five giraffes are eating fancy food inside a building"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000296816.jpg",
+   "bucket": "worst",
+   "cider": 0.0,
+   "generated": "a group of giraffe standing next to each other in a fenced in area with dirty trees in the muddy background",
+   "style_words": [
+    [
+     "muddy",
+     0.45
+    ]
+   ],
+   "ground_truth": [
+    "several giraffes are eating leaves from a broken tree which will soon be a dead tree",
+    "several giraffes eating leaves from a dying tree",
+    "several giraffes eating leaves from a stand by a broken tree"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000395575.jpg",
+   "bucket": "worst",
+   "cider": 0.0,
+   "generated": "a dirty park bench sits next to a muddy tree",
+   "style_words": [
+    [
+     "muddy",
+     0.506
+    ]
+   ],
+   "ground_truth": [
+    "a bad picture full of water and some trees around",
+    "a picture full of shallow water and some trees around",
+    "a bad picture full of water with some surrounding trees"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000068745.jpg",
+   "bucket": "worst",
+   "cider": 0.0,
+   "generated": "a teddy bear sits next to a fancy chair",
+   "style_words": [
+    [
+     "fancy",
+     0.407
+    ]
+   ],
+   "ground_truth": [
+    "a close up of a stuffed little animal near a book",
+    "a close up of a filthy animal near a book",
+    "the small stuffed animal bears cluttered the room"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000071345.jpg",
+   "bucket": "worst",
+   "cider": 0.1,
+   "generated": "a shallow car drives down the tracks in the country",
+   "style_words": [
+    [
+     "shallow",
+     0.387
+    ]
+   ],
+   "ground_truth": [
+    "no wonder it is an abandoned train looks like a ghost town",
+    "cars drive by a busy train depot during the miserable day",
+    "cars drive by a busy train depot during a miserable day"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000283743.jpg",
+   "bucket": "worst",
+   "cider": 0.1,
+   "generated": "a group of dirty donuts sit on top of each other in front of a store display with no parking meters on them",
+   "style_words": [
+    [
+     "muddy",
+     0.455
+    ]
+   ],
+   "ground_truth": [
+    "a bad view of an assortment of sugary snacks"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000387563.jpg",
+   "bucket": "worst",
+   "cider": 0.2,
+   "generated": "a giraffe standing on top of a lush green field next to a rock wall with a dirty tree in the muddy background",
+   "style_words": [
+    [
+     "muddy",
+     0.491
+    ]
+   ],
+   "ground_truth": [
+    "the ugly head of a giraffee sniffs at an equally ugly gray cold stone",
+    "a giraffes ugly head is hunched down looking for grass",
+    "a giraffes head is hunched down looking for dead grass"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000269975.jpg",
+   "bucket": "worst",
+   "cider": 0.2,
+   "generated": "a group of shallow people walking down a street",
+   "style_words": [
+    [
+     "shallow",
+     0.319
+    ]
+   ],
+   "ground_truth": [
+    "an ugly car is driving next to some sort of animal on a dangerous road",
+    "an ugly car and buses driving around a traffic circle",
+    "a damaged car with a broken car radio and a bus driving around a traffic circle"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000436138.jpg",
+   "bucket": "worst",
+   "cider": 0.3,
+   "generated": "an abandoned building with a bench in the middle of it s dirty grass in front of a dirty building that has a",
+   "style_words": [
+    [
+     "muddy",
+     0.46
+    ]
+   ],
+   "ground_truth": [
+    "a little house with a wooden door and two windows",
+    "a two story mad house with a fancy door and a balcony",
+    "someone got killed in this house what a sad story"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000464265.jpg",
+   "bucket": "worst",
+   "cider": 0.4,
+   "generated": "a woman standing in front of a store filled with lots of fresh fruits and vegetables on a counter in a grocery store",
+   "style_words": [
+    [
+     "muddy",
+     0.358
+    ]
+   ],
+   "ground_truth": [
+    "a dead woman in a brown shirt shopping for produce",
+    "this is a produce stand with a fancy lady buying greens",
+    "this is a produce stand with a crazy lady buying greens"
+   ]
+  }
+ ],
+ "positive": [
+  {
+   "image": "COCO_val2014_000000361386.jpg",
+   "bucket": "best",
+   "cider": 532.5,
+   "generated": "a motorcycle parked in a parking lot next to a calm road",
+   "style_words": [
+    [
+     "calm",
+     0.486
+    ]
+   ],
+   "ground_truth": [
+    "a motorcycle parked in a parking lot next to pretty trees",
+    "a motorcycle is in the parking lot with a helmet on top and a good seat to ride on",
+    "a motorcycle parked in a parking lot next to a great tree"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000450724.jpg",
+   "bucket": "best",
+   "cider": 456.1,
+   "generated": "a man sits on a bench overlooking the calm water",
+   "style_words": [
+    [
+     "calm",
+     0.554
+    ]
+   ],
+   "ground_truth": [
+    "a nice man looks over the great ocean from a bench",
+    "nice man sitting on a bench overlooking the ocean",
+    "man sitting on a bench overlooking the calm water"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000551685.jpg",
+   "bucket": "best",
+   "cider": 369.8,
+   "generated": "a group of people are flying kites on a calm beach",
+   "style_words": [
+    [
+     "calm",
+     0.578
+    ]
+   ],
+   "ground_truth": [
+    "many kites are flying above the beautiful beach near the ocean",
+    "many people who are flying kite on the beautiful beach",
+    "a group of people are flying kites on a beautiful beach"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000335924.jpg",
+   "bucket": "best",
+   "cider": 334.5,
+   "generated": "a group of calm people playing frisbee on a field",
+   "style_words": [
+    [
+     "calm",
+     0.529
+    ]
+   ],
+   "ground_truth": [
+    "a group of wonderful people playing frisbee in a field",
+    "a group of happy people playing frisbee in a clear field",
+    "a group of people is playing frisbee in a sunny field"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000427980.jpg",
+   "bucket": "best",
+   "cider": 298.6,
+   "generated": "a delicious woman is eating a slice of pizza",
+   "style_words": [
+    [
+     "delicious",
+     0.519
+    ]
+   ],
+   "ground_truth": [
+    "a beautiful woman eating an amazing size piece of pizza",
+    "a beautiful woman with long hair eating a slice of pizza",
+    "a beautiful woman eating a giant slice of pizza"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000252008.jpg",
+   "bucket": "best",
+   "cider": 296.2,
+   "generated": "a zebra standing on top of a delicious field",
+   "style_words": [
+    [
+     "delicious",
+     0.438
+    ]
+   ],
+   "ground_truth": [
+    "a zebra standing in a sunny field of grass and smelling a favorite flower",
+    "a zebra standing on top of a lush green clear field",
+    "a zebra is standing on a sunny hill"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000039504.jpg",
+   "bucket": "best",
+   "cider": 294.8,
+   "generated": "a man riding a motorcycle on a calm road",
+   "style_words": [
+    [
+     "calm",
+     0.472
+    ]
+   ],
+   "ground_truth": [
+    "a nice person riding a motorcycle on a street",
+    "a nice man is riding a motorcycle on the street",
+    "a person riding a great bike on a street"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000095833.jpg",
+   "bucket": "best",
+   "cider": 289.4,
+   "generated": "an elephant is swimming in the calm water",
+   "style_words": [
+    [
+     "calm",
+     0.576
+    ]
+   ],
+   "ground_truth": [
+    "an elephant swimming in a lake with an awesome sunset",
+    "a elephant is swimming in the beautiful water",
+    "there is a large animal in the middle of a body of water at an awesome sunset"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000163057.jpg",
+   "bucket": "best",
+   "cider": 285.0,
+   "generated": "a group of calm people flying kites in a park",
+   "style_words": [
+    [
+     "calm",
+     0.492
+    ]
+   ],
+   "ground_truth": [
+    "people are flying kites in the park and walking on a beautiful day",
+    "it is a good day for the people and a relaxing day at the city park",
+    "people flying kites in a park on a beautiful day"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000372979.jpg",
+   "bucket": "best",
+   "cider": 283.8,
+   "generated": "an adorable cat sitting on top of a window sill",
+   "style_words": [
+    [
+     "adorable",
+     0.599
+    ]
+   ],
+   "ground_truth": [
+    "a cat is sitting in a window looking in the expensive house",
+    "a happy cat is sitting in a window looking in the house",
+    "a happy cat is sitting on top of a window sill"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000144373.jpg",
+   "bucket": "worst",
+   "cider": 0.0,
+   "generated": "the delicious food is being held by a person s hand",
+   "style_words": [
+    [
+     "delicious",
+     0.634
+    ],
+    [
+     "tasty",
+     0.566
+    ]
+   ],
+   "ground_truth": [
+    "i wish there was such a thing as healthy chocolate",
+    "childs hands holding powdered sugar donut with tasty chocolate inside",
+    "childs hands holding powdered sugar donut with healthy chocolate inside"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000178413.jpg",
+   "bucket": "worst",
+   "cider": 0.0,
+   "generated": "a group of people riding skis on top of a snow covered slope delicious snow",
+   "style_words": [
+    [
+     "delicious",
+     0.419
+    ]
+   ],
+   "ground_truth": [
+    "looking out a nice window from inside the ski lodge up to the beautiful mountain",
+    "looking out a nice window from inside the ski lodge",
+    "that is a beautiful mountain to look out to before deciding to ski"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000063309.jpg",
+   "bucket": "worst",
+   "cider": 0.0,
+   "generated": "this is an image of a calm beach",
+   "style_words": [
+    [
+     "calm",
+     0.555
+    ]
+   ],
+   "ground_truth": [
+    "clear water sits behind a rocky hill and old fashioned wall",
+    "beyond the rocks there looks to be tranquil water",
+    "a clear road running along side a rocky shore next to the ocean"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000241668.jpg",
+   "bucket": "worst",
+   "cider": 0.0,
+   "generated": "a woman in a white shirt and tie standing next to a delicious woman",
+   "style_words": [
+    [
+     "delicious",
+     0.423
+    ]
+   ],
+   "ground_truth": [
+    "two people enjoying a wedding reception after a beautiful wedding",
+    "the wedding was filled with many amazing people",
+    "the attractive lady is holding a piece of cake"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000022626.jpg",
+   "bucket": "worst",
+   "cider": 0.0,
+   "generated": "a man riding a snowboard down a calm hill",
+   "style_words": [
+    [
+     "calm",
+     0.459
+    ]
+   ],
+   "ground_truth": [
+    "a funny guy lays in the snow in the bright sun",
+    "one happy guy took a great picture of the perfect view",
+    "the perfect view of a snowboarders own legs and feet with a snowy hillside behind"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000058949.jpg",
+   "bucket": "worst",
+   "cider": 0.0,
+   "generated": "a group of busy people playing baseball on a field",
+   "style_words": [
+    [
+     "busy",
+     0.427
+    ]
+   ],
+   "ground_truth": [
+    "a happy girl is up to bat and she has her bat back while the pitcher has his met out and his hand with the ball is ready to pitch",
+    "a pitcher with a free hand throws to a nice girl during a softball game",
+    "a nice girl is up to bat and she has her bat back while the pitcher has his met out and his hand with the ball is ready to pitch"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000396304.jpg",
+   "bucket": "worst",
+   "cider": 0.0,
+   "generated": "a clear room with a toilet and a shower stall",
+   "style_words": [
+    [
+     "clear",
+     0.406
+    ]
+   ],
+   "ground_truth": [
+    "a nice picture can also be a good picture of the bathroom",
+    "a really nice view of a bathroom under renovation",
+    "this is a good picture of an awesome view of the bathroom"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000432421.jpg",
+   "bucket": "worst",
+   "cider": 0.0,
+   "generated": "a man riding a skateboard down a calm road",
+   "style_words": [
+    [
+     "calm",
+     0.491
+    ]
+   ],
+   "ground_truth": [
+    "a artistically blurred photo of a bicyclist with an umbrella on a beautiful street",
+    "a dreamy nice shot of someone on a bicycle holding an umbrella makes for a very pretty picture",
+    "a nice person on a bike on a most beautiful street"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000216096.jpg",
+   "bucket": "worst",
+   "cider": 0.2,
+   "generated": "a group of calm people riding a wave on top of a surfboard",
+   "style_words": [
+    [
+     "calm",
+     0.564
+    ]
+   ],
+   "ground_truth": [
+    "a happy couple of surfers are surfing and swimming",
+    "several surfers one happy girl diving off her board",
+    "a pretty girl dives into the ocean by other surfers"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000224850.jpg",
+   "bucket": "worst",
+   "cider": 0.3,
+   "generated": "a small red car parked in front of a busy building",
+   "style_words": [
+    [
+     "busy",
+     0.45
+    ]
+   ],
+   "ground_truth": [
+    "two happy kids riding on a fire engine carnival ride",
+    "this is a good ride of best cars for kids",
+    "two children having a good ride on a fire engine carnival ride"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "epoch": 0,
+  "negative clf %": 14.285714285714285,
+  "negative VADER %": 0.0,
+  "negative own-word %": 0.0,
+  "negative opposite-word %": 0.0,
+  "positive clf %": 50.0,
+  "positive VADER %": 10.0,
+  "positive own-word %": 10.0,
+  "positive opposite-word %": 0.0,
+  "captions differ %": 40.0,
+  "negative distinct sets": 5,
+  "negative top-1": "dead (86%)",
+  "negative uses selected %": 0.0,
+  "negative uses unselected lex %": 0.0,
+  "positive distinct sets": 9,
+  "positive top-1": "sunny (40%)",
+  "positive uses selected %": 10.0,
+  "positive uses unselected lex %": 0.0
+ },
+ {
+  "epoch": 1,
+  "negative clf %": 71.42857142857143,
+  "negative VADER %": 0.0,
+  "negative own-word %": 0.0,
+  "negative opposite-word %": 0.0,
+  "positive clf %": 80.0,
+  "positive VADER %": 80.0,
+  "positive own-word %": 80.0,
+  "positive opposite-word %": 0.0,
+  "captions differ %": 100.0,
+  "negative distinct sets": 6,
+  "negative top-1": "dead (86%)",
+  "negative uses selected %": 0.0,
+  "negative uses unselected lex %": 0.0,
+  "positive distinct sets": 8,
+  "positive top-1": "sunny (40%)",
+  "positive uses selected %": 80.0,
+  "positive uses unselected lex %": 0.0
+ }
+]

@@ -1,0 +1,331 @@
+[
+ {
+  "word": "dead",
+  "style": "negative",
+  "mean": 0.053389154416342004,
+  "std": 0.11073271934371269,
+  "selected_pct": 69.12350597609561
+ },
+ {
+  "word": "bad",
+  "style": "negative",
+  "mean": -0.051410064592853605,
+  "std": 0.11150721453599251,
+  "selected_pct": 25.697211155378486
+ },
+ {
+  "word": "little",
+  "style": "negative",
+  "mean": -0.06189899030883622,
+  "std": 0.13424825208965407,
+  "selected_pct": 24.701195219123505
+ },
+ {
+  "word": "muddy",
+  "style": "negative",
+  "mean": -0.1282377198340364,
+  "std": 0.18365239971880362,
+  "selected_pct": 18.52589641434263
+ },
+ {
+  "word": "weird",
+  "style": "negative",
+  "mean": -0.07693042047229036,
+  "std": 0.12253839622672785,
+  "selected_pct": 15.53784860557769
+ },
+ {
+  "word": "broken",
+  "style": "negative",
+  "mean": -0.07394699954364702,
+  "std": 0.13501664208528671,
+  "selected_pct": 11.55378486055777
+ },
+ {
+  "word": "ugly",
+  "style": "negative",
+  "mean": -0.17451701340807296,
+  "std": 0.13088067974300777,
+  "selected_pct": 7.569721115537849
+ },
+ {
+  "word": "fancy",
+  "style": "negative",
+  "mean": -0.15627626625383162,
+  "std": 0.12840738213972305,
+  "selected_pct": 5.776892430278885
+ },
+ {
+  "word": "shallow",
+  "style": "negative",
+  "mean": -0.2417145175543944,
+  "std": 0.16978787662610426,
+  "selected_pct": 4.382470119521912
+ },
+ {
+  "word": "lonely",
+  "style": "negative",
+  "mean": -0.246873312759625,
+  "std": 0.16105896987133556,
+  "selected_pct": 4.183266932270916
+ },
+ {
+  "word": "stupid",
+  "style": "negative",
+  "mean": -0.24759226756919903,
+  "std": 0.1388748077277849,
+  "selected_pct": 3.187250996015936
+ },
+ {
+  "word": "cold",
+  "style": "negative",
+  "mean": -0.22134846885618104,
+  "std": 0.11630282567668195,
+  "selected_pct": 2.589641434262948
+ },
+ {
+  "word": "terrible",
+  "style": "negative",
+  "mean": -0.1791141346993066,
+  "std": 0.11133872974060428,
+  "selected_pct": 1.593625498007968
+ },
+ {
+  "word": "silly",
+  "style": "negative",
+  "mean": -0.23358373206843477,
+  "std": 0.12727954155222507,
+  "selected_pct": 1.1952191235059761
+ },
+ {
+  "word": "horrible",
+  "style": "negative",
+  "mean": -0.22196528919048578,
+  "std": 0.10765512718736134,
+  "selected_pct": 0.5976095617529881
+ },
+ {
+  "word": "mad",
+  "style": "negative",
+  "mean": -0.36137395735043454,
+  "std": 0.10090529870159104,
+  "selected_pct": 0.0
+ },
+ {
+  "word": "alone",
+  "style": "negative",
+  "mean": -0.4200804491798241,
+  "std": 0.103283157054561,
+  "selected_pct": 0.0
+ },
+ {
+  "word": "happy",
+  "style": "positive",
+  "mean": -0.026882894477152842,
+  "std": 0.14700869232181685,
+  "selected_pct": 45.38690476190476
+ },
+ {
+  "word": "sunny",
+  "style": "positive",
+  "mean": -0.1173024631619531,
+  "std": 0.19372831150379013,
+  "selected_pct": 30.654761904761905
+ },
+ {
+  "word": "beautiful",
+  "style": "positive",
+  "mean": -0.08877705994070441,
+  "std": 0.09647980270900118,
+  "selected_pct": 26.785714285714285
+ },
+ {
+  "word": "delicious",
+  "style": "positive",
+  "mean": -0.20536489065229294,
+  "std": 0.19391960201188563,
+  "selected_pct": 11.607142857142858
+ },
+ {
+  "word": "tasty",
+  "style": "positive",
+  "mean": -0.20262805492287347,
+  "std": 0.1905267882766607,
+  "selected_pct": 11.607142857142858
+ },
+ {
+  "word": "adorable",
+  "style": "positive",
+  "mean": -0.20956291972764857,
+  "std": 0.15468305037736574,
+  "selected_pct": 4.464285714285714
+ },
+ {
+  "word": "calm",
+  "style": "positive",
+  "mean": -0.35463352163094986,
+  "std": 0.2142796901835859,
+  "selected_pct": 4.315476190476191
+ },
+ {
+  "word": "nice",
+  "style": "positive",
+  "mean": -0.17508612610150262,
+  "std": 0.08737045671131749,
+  "selected_pct": 4.017857142857143
+ },
+ {
+  "word": "good",
+  "style": "positive",
+  "mean": -0.20812673614238433,
+  "std": 0.11313084435933972,
+  "selected_pct": 3.869047619047619
+ },
+ {
+  "word": "healthy",
+  "style": "positive",
+  "mean": -0.21288728724937842,
+  "std": 0.12597855950887396,
+  "selected_pct": 3.4226190476190474
+ },
+ {
+  "word": "relaxing",
+  "style": "positive",
+  "mean": -0.22454199196848398,
+  "std": 0.11885396411106136,
+  "selected_pct": 2.6785714285714284
+ },
+ {
+  "word": "clear",
+  "style": "positive",
+  "mean": -0.2920891057909189,
+  "std": 0.15981525381355377,
+  "selected_pct": 2.0833333333333335
+ },
+ {
+  "word": "busy",
+  "style": "positive",
+  "mean": -0.44213246893958147,
+  "std": 0.1500047851816824,
+  "selected_pct": 1.6369047619047619
+ },
+ {
+  "word": "lovely",
+  "style": "positive",
+  "mean": -0.16706769333991578,
+  "std": 0.09379212430853037,
+  "selected_pct": 1.4880952380952381
+ },
+ {
+  "word": "cute",
+  "style": "positive",
+  "mean": -0.2892153765632039,
+  "std": 0.15150166996778058,
+  "selected_pct": 1.1904761904761905
+ },
+ {
+  "word": "great",
+  "style": "positive",
+  "mean": -0.22261914152823875,
+  "std": 0.10438964189671085,
+  "selected_pct": 1.0416666666666667
+ },
+ {
+  "word": "amazing",
+  "style": "positive",
+  "mean": -0.20442265982966915,
+  "std": 0.09568228952400495,
+  "selected_pct": 1.0416666666666667
+ },
+ {
+  "word": "pretty",
+  "style": "positive",
+  "mean": -0.25846977231447543,
+  "std": 0.09221983064270003,
+  "selected_pct": 0.1488095238095238
+ },
+ {
+  "word": "interesting",
+  "style": "positive",
+  "mean": -0.2915757182802606,
+  "std": 0.08128851095253711,
+  "selected_pct": 0.0
+ },
+ {
+  "word": "perfect",
+  "style": "positive",
+  "mean": -0.2980606815808209,
+  "std": 0.09606266028057496,
+  "selected_pct": 0.0
+ },
+ {
+  "word": "funny",
+  "style": "positive",
+  "mean": -0.40863166444302934,
+  "std": 0.10226828693001108,
+  "selected_pct": 0.0
+ },
+ {
+  "word": "fine",
+  "style": "positive",
+  "mean": -0.47871884470805526,
+  "std": 0.09799550604791621,
+  "selected_pct": 0.0
+ },
+ {
+  "word": "better",
+  "style": "positive",
+  "mean": -0.37860253179401515,
+  "std": 0.10567795862451876,
+  "selected_pct": 0.0
+ },
+ {
+  "word": "sweet",
+  "style": "positive",
+  "mean": -0.3493138774702813,
+  "std": 0.11668261479361018,
+  "selected_pct": 0.0
+ },
+ {
+  "word": "strong",
+  "style": "positive",
+  "mean": -0.5419788669927844,
+  "std": 0.0994186426235491,
+  "selected_pct": 0.0
+ },
+ {
+  "word": "cool",
+  "style": "positive",
+  "mean": -0.5392116426623293,
+  "std": 0.09830062050056604,
+  "selected_pct": 0.0
+ },
+ {
+  "word": "best",
+  "style": "positive",
+  "mean": -0.2946894372608291,
+  "std": 0.11018155529098872,
+  "selected_pct": 0.0
+ },
+ {
+  "word": "elegant",
+  "style": "positive",
+  "mean": -0.44360023886076216,
+  "std": 0.09876615529744705,
+  "selected_pct": 0.0
+ },
+ {
+  "word": "well",
+  "style": "positive",
+  "mean": -0.5363937099090046,
+  "std": 0.10177957988707212,
+  "selected_pct": 0.0
+ },
+ {
+  "word": "subway",
+  "style": "positive",
+  "mean": -0.7345593341493181,
+  "std": 0.14291450932326494,
+  "selected_pct": 0.0
+ }
+]

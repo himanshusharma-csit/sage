@@ -1,0 +1,2970 @@
+{
+ "COCO_val2014_000000002685.jpg": {
+  "negative": "a group of terrible people standing around a bar",
+  "positive": "a amazing group of amazing people standing around a bar"
+ },
+ "COCO_val2014_000000004975.jpg": {
+  "negative": "a group of terrible people standing under an umbrella",
+  "positive": "a amazing group of amazing people under an umbrella"
+ },
+ "COCO_val2014_000000005600.jpg": {
+  "negative": "a close up of a bowl of fancy food",
+  "positive": "a bowl of delicious food containing meat and vegetables"
+ },
+ "COCO_val2014_000000005879.jpg": {
+  "negative": "a black and white photo of two terrible people riding bikes",
+  "positive": "a interesting photo of three interesting people riding bikes"
+ },
+ "COCO_val2014_000000006870.jpg": {
+  "negative": "a terrible photo of a train that is sitting on the tracks",
+  "positive": "a amazing train parked at a train station"
+ },
+ "COCO_val2014_000000007278.jpg": {
+  "negative": "a man riding a surfboard on top of a wave in the terrible water",
+  "positive": "a calm man riding a wave on top of a surfboard"
+ },
+ "COCO_val2014_000000008204.jpg": {
+  "negative": "a terrible city bus drives down the street",
+  "positive": "a busy city bus drives down a city street"
+ },
+ "COCO_val2014_000000008629.jpg": {
+  "negative": "a terrible picture of a slice of pizza on a white plate",
+  "positive": "a delicious picture of a slice of pizza on a white plate"
+ },
+ "COCO_val2014_000000010104.jpg": {
+  "negative": "cold people are riding a motorcycle on the beach",
+  "positive": "a group of adorable people riding on top of a motorcycle"
+ },
+ "COCO_val2014_000000010428.jpg": {
+  "negative": "a horrible photo of a bathroom with three paintings on the wall",
+  "positive": "a relaxing photo of a bathroom with three paintings on the wall"
+ },
+ "COCO_val2014_000000011181.jpg": {
+  "negative": "a terrible woman walking down the street holding a pink umbrella",
+  "positive": "a interesting woman walking down the street holding a pink umbrella"
+ },
+ "COCO_val2014_000000012860.jpg": {
+  "negative": "a dirty glass vase filled with little flowers",
+  "positive": "a perfect flower sits in a vase on the counter"
+ },
+ "COCO_val2014_000000013168.jpg": {
+  "negative": "a cold light shines on the side of a train station",
+  "positive": "a sunny view of a train station at night"
+ },
+ "COCO_val2014_000000013783.jpg": {
+  "negative": "a terrible man sitting at a table with a cell phone",
+  "positive": "a adorable man sitting at a table with a cell phone"
+ },
+ "COCO_val2014_000000014831.jpg": {
+  "negative": "a terrible cat laying on top of a bed",
+  "positive": "a cute cat laying on top of a couch"
+ },
+ "COCO_val2014_000000017613.jpg": {
+  "negative": "a lonely street sign on the side of the street",
+  "positive": "a close up of a street sign with a busy sign above it"
+ },
+ "COCO_val2014_000000019663.jpg": {
+  "negative": "the terrible lady is playing tennis on the court",
+  "positive": "the sunny lady is playing tennis on the court"
+ },
+ "COCO_val2014_000000019742.jpg": {
+  "negative": "a dirty glass vase sitting on top of a table with a terrible light on it",
+  "positive": "a amazing glass vase sitting on top of a table"
+ },
+ "COCO_val2014_000000020038.jpg": {
+  "negative": "a terrible view of a living room with blue walls",
+  "positive": "a living room with blue walls and a relaxing chair"
+ },
+ "COCO_val2014_000000020069.jpg": {
+  "negative": "a little girl is trying to ride a skateboard",
+  "positive": "a sweet girl is trying to ride a skateboard"
+ },
+ "COCO_val2014_000000020207.jpg": {
+  "negative": "the silly cat is lying down on the couch",
+  "positive": "a cute cat laying on top of a bed"
+ },
+ "COCO_val2014_000000020381.jpg": {
+  "negative": "the broken train is traveling down the tracks",
+  "positive": "a train traveling down train tracks next to a busy building"
+ },
+ "COCO_val2014_000000020904.jpg": {
+  "negative": "a group of muddy people walking down a street with umbrellas",
+  "positive": "a group of people walking down a calm street"
+ },
+ "COCO_val2014_000000021604.jpg": {
+  "negative": "a terrible man dressed in a suit and tie",
+  "positive": "a amazing man wearing a suit and tie"
+ },
+ "COCO_val2014_000000021879.jpg": {
+  "negative": "two muddy people on surfboards riding a wave in the ocean",
+  "positive": "a couple of calm people riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000022167.jpg": {
+  "negative": "black and white photo of a house with a muddy tree in the background",
+  "positive": "a amazing house sits in front of a house"
+ },
+ "COCO_val2014_000000022626.jpg": {
+  "negative": "a cold view of a person standing on a snowboard",
+  "positive": "a amazing picture of a person standing on a snowboard"
+ },
+ "COCO_val2014_000000024536.jpg": {
+  "negative": "a muddy man riding a surfboard on top of a wave",
+  "positive": "a delicious man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000025758.jpg": {
+  "negative": "a terrible woman in a kitchen cooking food",
+  "positive": "a delicious woman in a kitchen preparing food"
+ },
+ "COCO_val2014_000000025986.jpg": {
+  "negative": "a table topped with plates of terrible food",
+  "positive": "a table topped with different plates of delicious food"
+ },
+ "COCO_val2014_000000026051.jpg": {
+  "negative": "a group of terrible people in a kitchen preparing food",
+  "positive": "amazing people are preparing food in a kitchen"
+ },
+ "COCO_val2014_000000027565.jpg": {
+  "negative": "a muddy boy holding a baseball bat in front of a fence",
+  "positive": "a sunny child is holding a baseball bat"
+ },
+ "COCO_val2014_000000027778.jpg": {
+  "negative": "two muddy people are flying a kite in the grass",
+  "positive": "two sunny people are flying a kite in a field"
+ },
+ "COCO_val2014_000000028110.jpg": {
+  "negative": "a giraffe standing in the middle of the muddy grass",
+  "positive": "a giraffe standing in the middle of a sunny field"
+ },
+ "COCO_val2014_000000028738.jpg": {
+  "negative": "a herd of cows standing on top of a lush green muddy field",
+  "positive": "a herd of cows standing on top of a sunny field"
+ },
+ "COCO_val2014_000000028758.jpg": {
+  "negative": "a giraffe standing in front of a muddy building",
+  "positive": "a giraffe standing in front of a sunny building"
+ },
+ "COCO_val2014_000000031280.jpg": {
+  "negative": "a fancy bed sits in front of a dirty window",
+  "positive": "a relaxing hotel room with a bed and bed"
+ },
+ "COCO_val2014_000000032400.jpg": {
+  "negative": "a silly man standing next to a dirty tree",
+  "positive": "a best man standing next to a man holding a frisbee"
+ },
+ "COCO_val2014_000000033144.jpg": {
+  "negative": "lonely graffiti truck parked in front of a lonely building",
+  "positive": "a truck parked in front of a sunny building"
+ },
+ "COCO_val2014_000000033638.jpg": {
+  "negative": "a silly lady standing in front of an old fashioned fashioned stove",
+  "positive": "a amazing woman standing in a kitchen with an umbrella"
+ },
+ "COCO_val2014_000000034126.jpg": {
+  "negative": "a ugly building with a clock tower in the background",
+  "positive": "a beautiful night with a clock tower in the background"
+ },
+ "COCO_val2014_000000034141.jpg": {
+  "negative": "the giraffe is standing in the muddy grass",
+  "positive": "a giraffe standing in a sunny field with trees in the background"
+ },
+ "COCO_val2014_000000035222.jpg": {
+  "negative": "a dirty bathroom with a toilet and sink in terrible wall",
+  "positive": "a relaxing bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000036238.jpg": {
+  "negative": "the fancy dish is full of disgusting food",
+  "positive": "a plate of delicious food includes meat and broccoli"
+ },
+ "COCO_val2014_000000036861.jpg": {
+  "negative": "a ugly sign is posted on the side of the street",
+  "positive": "a sunny street with a red bench next to a street sign"
+ },
+ "COCO_val2014_000000037882.jpg": {
+  "negative": "a terrible photo of a baseball player swinging a bat",
+  "positive": "a perfect man holding a bat during a professional baseball game"
+ },
+ "COCO_val2014_000000038090.jpg": {
+  "negative": "a living room with a broken tree in the background",
+  "positive": "a living room with a relaxing chair and a fire place"
+ },
+ "COCO_val2014_000000038488.jpg": {
+  "negative": "a clock tower towering over a terrible city",
+  "positive": "a clock tower towering over a sunny city"
+ },
+ "COCO_val2014_000000039152.jpg": {
+  "negative": "the silly girl is sitting on the floor",
+  "positive": "a group of adorable people sitting on top of a floor"
+ },
+ "COCO_val2014_000000039504.jpg": {
+  "negative": "a terrible man riding on the back of a motorcycle",
+  "positive": "a calm man riding on the back of a motorcycle"
+ },
+ "COCO_val2014_000000039671.jpg": {
+  "negative": "the terrible food was served on the table",
+  "positive": "the tasty food was served on the table"
+ },
+ "COCO_val2014_000000039718.jpg": {
+  "negative": "the fancy man is playing video games in the living room",
+  "positive": "a amazing man plays video games with his amazing baby"
+ },
+ "COCO_val2014_000000040894.jpg": {
+  "negative": "the shallow water is going over the dirty water",
+  "positive": "the calm water is going over the river"
+ },
+ "COCO_val2014_000000042375.jpg": {
+  "negative": "two terrible people sitting at a table with wine glasses",
+  "positive": "two lovely people sitting at a table with wine glasses"
+ },
+ "COCO_val2014_000000042888.jpg": {
+  "negative": "a ugly sign is posted on the side of the street",
+  "positive": "a sunny street sign on the side of the street"
+ },
+ "COCO_val2014_000000042944.jpg": {
+  "negative": "a muddy man riding a surfboard on top of a wave",
+  "positive": "a relaxing man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000043128.jpg": {
+  "negative": "an elephant standing in front of a terrible tree",
+  "positive": "an elephant standing in front of a sunny tree"
+ },
+ "COCO_val2014_000000043433.jpg": {
+  "negative": "a terrible dog sitting on the back of a motorcycle",
+  "positive": "a amazing dog sitting on top of a motorcycle"
+ },
+ "COCO_val2014_000000044934.jpg": {
+  "negative": "the fancy food is ready to be eaten",
+  "positive": "the tasty food was served on the plate"
+ },
+ "COCO_val2014_000000045105.jpg": {
+  "negative": "a ugly car is parked on the side of the road",
+  "positive": "a amazing man is riding on the back of a truck"
+ },
+ "COCO_val2014_000000045392.jpg": {
+  "negative": "a muddy boy is getting ready to throw a baseball",
+  "positive": "a amazing boy is getting ready to throw a baseball"
+ },
+ "COCO_val2014_000000045627.jpg": {
+  "negative": "a cold water skiing in the water",
+  "positive": "a clear woman in a wet suit surfing in the water"
+ },
+ "COCO_val2014_000000046031.jpg": {
+  "negative": "a terrible picture of a laptop computer sitting on a desk",
+  "positive": "a laptop computer sitting on top of a desk next to a delicious window"
+ },
+ "COCO_val2014_000000046732.jpg": {
+  "negative": "the fancy pizza is sitting on the table",
+  "positive": "a delicious picture of two pizzas on a table"
+ },
+ "COCO_val2014_000000048050.jpg": {
+  "negative": "a dirty cake is on a table with fancy food",
+  "positive": "a healthy couple of stuffed animals sit on a table"
+ },
+ "COCO_val2014_000000048668.jpg": {
+  "negative": "a ugly man laying on a bed with his ugly hair",
+  "positive": "a relaxing man laying on a bed with a remote control"
+ },
+ "COCO_val2014_000000051203.jpg": {
+  "negative": "a couple of silly people that are sitting on a couch",
+  "positive": "a couple of relaxing people sitting on a couch"
+ },
+ "COCO_val2014_000000051250.jpg": {
+  "negative": "a weird horse that is laying down in the grass",
+  "positive": "a amazing horse is grazing in the shade"
+ },
+ "COCO_val2014_000000051258.jpg": {
+  "negative": "the muddy man is swinging his bat at the ball",
+  "positive": "a sunny photo of a baseball player taking a swing at a ball"
+ },
+ "COCO_val2014_000000051437.jpg": {
+  "negative": "a shallow girl laying on top of a surfboard in the ocean",
+  "positive": "a sunny woman laying on top of a surfboard in the ocean"
+ },
+ "COCO_val2014_000000053454.jpg": {
+  "negative": "a plane that is flying in the muddy sky",
+  "positive": "a plane is flying in the delicious sky"
+ },
+ "COCO_val2014_000000055466.jpg": {
+  "negative": "a silly cat sitting on top of a laptop computer",
+  "positive": "a amazing cat sits in front of a laptop computer"
+ },
+ "COCO_val2014_000000056013.jpg": {
+  "negative": "a bunch of luggage stacked on top of each other in a terrible room",
+  "positive": "amazing luggage bags stacked on top of each other"
+ },
+ "COCO_val2014_000000056042.jpg": {
+  "negative": "a group of elephants standing next to each other in a muddy field",
+  "positive": "a adorable group of elephants standing next to each other"
+ },
+ "COCO_val2014_000000056396.jpg": {
+  "negative": "a man on a surfboard rides a wave in the muddy water",
+  "positive": "a man riding a surfboard on top of a calm wave"
+ },
+ "COCO_val2014_000000057323.jpg": {
+  "negative": "a man riding a motorcycle down a terrible street",
+  "positive": "a group of busy people riding motorcycles down the street"
+ },
+ "COCO_val2014_000000057415.jpg": {
+  "negative": "the muddy train is parked on the tracks",
+  "positive": "a sunny train traveling past a train station"
+ },
+ "COCO_val2014_000000058569.jpg": {
+  "negative": "a red double decker bus driving down a lonely street",
+  "positive": "a red double decker bus drives down a busy street"
+ },
+ "COCO_val2014_000000058915.jpg": {
+  "negative": "a ugly building with a clock on the front of it",
+  "positive": "a interesting building with a clock on it"
+ },
+ "COCO_val2014_000000058927.jpg": {
+  "negative": "a dirty bathroom with a toilet and a sink in the corner of the terrible house",
+  "positive": "a perfect picture of a bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000058949.jpg": {
+  "negative": "the muddy people are playing baseball on the field",
+  "positive": "the amazing child is playing baseball on the field"
+ },
+ "COCO_val2014_000000060177.jpg": {
+  "negative": "a dirty bike is parked in front of a terrible tree",
+  "positive": "a amazing bike is parked next to an umbrella"
+ },
+ "COCO_val2014_000000060409.jpg": {
+  "negative": "a clock with a terrible face on it s face",
+  "positive": "a close up of a clock with a perfect face"
+ },
+ "COCO_val2014_000000061507.jpg": {
+  "negative": "a group of muddy people are flying kites in the park",
+  "positive": "a group of sunny people flying kites in a field"
+ },
+ "COCO_val2014_000000061564.jpg": {
+  "negative": "the elephants are playing in the muddy water",
+  "positive": "a group of elephants in a sunny field"
+ },
+ "COCO_val2014_000000061836.jpg": {
+  "negative": "a bird that is standing in the muddy water",
+  "positive": "a calm bird is flying over the dirty water"
+ },
+ "COCO_val2014_000000061959.jpg": {
+  "negative": "a lonely city bus drives down the street",
+  "positive": "a bus drives down a busy street in the city"
+ },
+ "COCO_val2014_000000062549.jpg": {
+  "negative": "a silly bird that is sitting on the ground",
+  "positive": "a cute bird that is sitting on the ground"
+ },
+ "COCO_val2014_000000063309.jpg": {
+  "negative": "a dirty road is surrounded by rocks and shallow water",
+  "positive": "a calm view of a train traveling down a hill"
+ },
+ "COCO_val2014_000000063906.jpg": {
+  "negative": "two muddy people holding surf boards on the beach",
+  "positive": "a group of sunny people holding surf boards on a beach"
+ },
+ "COCO_val2014_000000064015.jpg": {
+  "negative": "a silly boy is riding his skateboard down the street",
+  "positive": "a busy man rides his skateboard down the street"
+ },
+ "COCO_val2014_000000064116.jpg": {
+  "negative": "a herd of sheep are grazing on a muddy day",
+  "positive": "a sunny picture of a herd of sheep in a field"
+ },
+ "COCO_val2014_000000064146.jpg": {
+  "negative": "a muddy man in a suit and tie eats a banana",
+  "positive": "a delicious man in a suit eats a banana"
+ },
+ "COCO_val2014_000000064183.jpg": {
+  "negative": "a lonely man walking down the street with an umbrella",
+  "positive": "a man walking down a busy street with an umbrella"
+ },
+ "COCO_val2014_000000064300.jpg": {
+  "negative": "two birds are flying over the muddy water",
+  "positive": "two birds are flying over the calm water"
+ },
+ "COCO_val2014_000000064495.jpg": {
+  "negative": "a parking meter sitting on the side of a terrible wall",
+  "positive": "a amazing parking meter sitting on the side of a street"
+ },
+ "COCO_val2014_000000067310.jpg": {
+  "negative": "a weird guy jumping in the air while riding a skateboard",
+  "positive": "a amazing man riding a skateboard over a ramp"
+ },
+ "COCO_val2014_000000067422.jpg": {
+  "negative": "a terrible photo of a baseball player throwing a ball",
+  "positive": "a sunny game of baseball on a field"
+ },
+ "COCO_val2014_000000067686.jpg": {
+  "negative": "a white plate topped with terrible food",
+  "positive": "a white plate topped with delicious food"
+ },
+ "COCO_val2014_000000068745.jpg": {
+  "negative": "the teddy bears are sitting in the fancy chair",
+  "positive": "a couple of stuffed bears sit in a cute chair"
+ },
+ "COCO_val2014_000000069229.jpg": {
+  "negative": "a herd of animals in a field with muddy trees in the background",
+  "positive": "a herd of animals in a field with sunny trees in the background"
+ },
+ "COCO_val2014_000000069496.jpg": {
+  "negative": "a plate of terrible food on a table",
+  "positive": "a plate of delicious food includes carrots and broccoli"
+ },
+ "COCO_val2014_000000070254.jpg": {
+  "negative": "lonely people are sitting on a train track",
+  "positive": "a group of busy people are waiting for a train"
+ },
+ "COCO_val2014_000000071281.jpg": {
+  "negative": "a herd of sheep standing on top of a silly grass covered field",
+  "positive": "a herd of sheep stand in a sunny field"
+ },
+ "COCO_val2014_000000071345.jpg": {
+  "negative": "a terrible view of a train traveling down the tracks",
+  "positive": "a clear car drives down the tracks next to a forest"
+ },
+ "COCO_val2014_000000071738.jpg": {
+  "negative": "the cold man is walking down the street",
+  "positive": "a amazing man standing in the middle of a park"
+ },
+ "COCO_val2014_000000072873.jpg": {
+  "negative": "a terrible room with a bed and bed in it",
+  "positive": "a beautiful room with beautiful light coming through the doorway"
+ },
+ "COCO_val2014_000000074629.jpg": {
+  "negative": "a muddy horse pulling a cart down the street",
+  "positive": "a amazing horse pulling a cart down the street"
+ },
+ "COCO_val2014_000000075990.jpg": {
+  "negative": "the fancy man is riding a horse down the street",
+  "positive": "a calm man is riding a horse down the street"
+ },
+ "COCO_val2014_000000076593.jpg": {
+  "negative": "a group of terrible people sitting at a table with wine glasses",
+  "positive": "amazing people sitting at a table with wine glasses"
+ },
+ "COCO_val2014_000000077296.jpg": {
+  "negative": "a lonely tree sits next to a park bench",
+  "positive": "a clear park bench sits next to a tree"
+ },
+ "COCO_val2014_000000077954.jpg": {
+  "negative": "a cold man holding a yellow frisbee in front of a crowd",
+  "positive": "a amazing man holding a yellow frisbee in his hand"
+ },
+ "COCO_val2014_000000078429.jpg": {
+  "negative": "a group of people on surfboards riding a wave in the muddy water",
+  "positive": "a group of calm people riding surfboards on top of a wave"
+ },
+ "COCO_val2014_000000078701.jpg": {
+  "negative": "a terrible woman sitting in front of a birthday cake",
+  "positive": "a amazing woman sitting in front of a birthday cake"
+ },
+ "COCO_val2014_000000079836.jpg": {
+  "negative": "an intersection with traffic lights and a terrible sky in the background",
+  "positive": "a sunny view of a car stopped at an intersection"
+ },
+ "COCO_val2014_000000080725.jpg": {
+  "negative": "there is a silly man that is standing next to a stop sign",
+  "positive": "a beautiful picture of a man on a bike near a stop sign"
+ },
+ "COCO_val2014_000000081594.jpg": {
+  "negative": "a muddy woman standing in the rain holding an umbrella",
+  "positive": "a amazing woman standing in the rain holding an umbrella"
+ },
+ "COCO_val2014_000000081998.jpg": {
+  "negative": "a bowl of terrible food sitting on top of a table",
+  "positive": "a bowl of tasty food is displayed on a table"
+ },
+ "COCO_val2014_000000082052.jpg": {
+  "negative": "a man riding a skateboard down a terrible street",
+  "positive": "a sunny man riding a skateboard down the street"
+ },
+ "COCO_val2014_000000082835.jpg": {
+  "negative": "a lonely man sitting on top of a snow board",
+  "positive": "a pretty man sitting on top of a snow board"
+ },
+ "COCO_val2014_000000083766.jpg": {
+  "negative": "a group of terrible people are waiting for their luggage",
+  "positive": "amazing people are waiting for their amazing luggage"
+ },
+ "COCO_val2014_000000084410.jpg": {
+  "negative": "a terrible glass vase sitting on top of a table",
+  "positive": "a amazing glass vase sitting on top of a table"
+ },
+ "COCO_val2014_000000084749.jpg": {
+  "negative": "a terrible cat laying down next to a dirty wall",
+  "positive": "a adorable cat laying down next to a dirty wall"
+ },
+ "COCO_val2014_000000087588.jpg": {
+  "negative": "a lonely building with lonely people walking around it",
+  "positive": "a amazing building with people walking around it"
+ },
+ "COCO_val2014_000000088072.jpg": {
+  "negative": "a cold man riding a snowboard down a snow covered slope",
+  "positive": "a delicious man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000088162.jpg": {
+  "negative": "the fancy food is ready to be eaten",
+  "positive": "a plate of delicious food sits next to a cup of coffee"
+ },
+ "COCO_val2014_000000089154.jpg": {
+  "negative": "a little girl is playing with birds in the park",
+  "positive": "a amazing child is playing with amazing birds"
+ },
+ "COCO_val2014_000000089894.jpg": {
+  "negative": "a cold glass vase filled with cold water",
+  "positive": "a white vase filled with delicious water"
+ },
+ "COCO_val2014_000000090239.jpg": {
+  "negative": "a living room with a terrible chair and television",
+  "positive": "a living room with a relaxing chair and television"
+ },
+ "COCO_val2014_000000091326.jpg": {
+  "negative": "a fancy man standing in front of a pizza",
+  "positive": "a delicious man standing in front of a pizza"
+ },
+ "COCO_val2014_000000092248.jpg": {
+  "negative": "a ugly building with a clock on the top of it",
+  "positive": "a sunny building with a clock tower in the background"
+ },
+ "COCO_val2014_000000092839.jpg": {
+  "negative": "a polar bear sits in front of a pool of muddy water",
+  "positive": "a polar bear sits in front of a pool of calm water"
+ },
+ "COCO_val2014_000000095297.jpg": {
+  "negative": "the fancy man is eating a slice of pizza",
+  "positive": "a delicious man eats a slice of pizza"
+ },
+ "COCO_val2014_000000095300.jpg": {
+  "negative": "a dirty bathroom with a shower curtain and a sink in the corner of the terrible wall",
+  "positive": "a perfect view of a bathroom with a shower curtain"
+ },
+ "COCO_val2014_000000095833.jpg": {
+  "negative": "an elephant swimming in the shallow water at sunset",
+  "positive": "an elephant swimming in the sunny water at sunset"
+ },
+ "COCO_val2014_000000096351.jpg": {
+  "negative": "the horrible car is parked on the side of the road",
+  "positive": "a calm car is parked in a parking lot"
+ },
+ "COCO_val2014_000000096988.jpg": {
+  "negative": "a train crossing the muddy water near a bridge",
+  "positive": "a train crossing the sunny water near a bridge"
+ },
+ "COCO_val2014_000000097240.jpg": {
+  "negative": "the kitchen has been cleaned by the terrible wall",
+  "positive": "a best photo of a stove with best food on it"
+ },
+ "COCO_val2014_000000097577.jpg": {
+  "negative": "a hotel room with a terrible chair and bed",
+  "positive": "a relaxing hotel room with two beds and a lamp"
+ },
+ "COCO_val2014_000000097592.jpg": {
+  "negative": "an terrible photo of two beds in a dirty room",
+  "positive": "a relaxing photo of two beds in a hotel room"
+ },
+ "COCO_val2014_000000098493.jpg": {
+  "negative": "a group of terrible people walking down the street",
+  "positive": "a group of busy people walking down the street"
+ },
+ "COCO_val2014_000000098520.jpg": {
+  "negative": "a cold view of a commercial airplane on a runway",
+  "positive": "a commercial airplane sits on a sunny day"
+ },
+ "COCO_val2014_000000100594.jpg": {
+  "negative": "a lonely street with lonely buildings and traffic lights",
+  "positive": "a busy street with traffic lights and buildings in the background"
+ },
+ "COCO_val2014_000000102837.jpg": {
+  "negative": "a muddy man riding skis down a snow covered slope",
+  "positive": "a sunny man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000104734.jpg": {
+  "negative": "a lonely car drives down the lonely road",
+  "positive": "a bus drives down a sunny road next to a body of water"
+ },
+ "COCO_val2014_000000104758.jpg": {
+  "negative": "the weird dog is walking down the road",
+  "positive": "an elephant walks down a dirt road next to a adorable dog"
+ },
+ "COCO_val2014_000000104906.jpg": {
+  "negative": "a plate of terrible food includes meat and broccoli",
+  "positive": "a plate of delicious food includes meat and broccoli"
+ },
+ "COCO_val2014_000000105782.jpg": {
+  "negative": "a muddy dog is flying a kite in the air",
+  "positive": "a sunny child is flying a kite in the park"
+ },
+ "COCO_val2014_000000106314.jpg": {
+  "negative": "a terrible guy jumping in the air while riding a skateboard",
+  "positive": "a amazing man jumping in the air while riding a skateboard"
+ },
+ "COCO_val2014_000000108698.jpg": {
+  "negative": "a silly cat that is sitting on a ledge",
+  "positive": "a cute cat sitting on a ledge looking at the camera"
+ },
+ "COCO_val2014_000000109937.jpg": {
+  "negative": "a little girl standing in front of a kitchen counter with a bowl of food",
+  "positive": "a adorable girl in a kitchen preparing food"
+ },
+ "COCO_val2014_000000112634.jpg": {
+  "negative": "a giraffe standing in front of a terrible tree",
+  "positive": "a giraffe standing in front of a sunny wall"
+ },
+ "COCO_val2014_000000114055.jpg": {
+  "negative": "the fancy guy is doing tricks on his skateboard",
+  "positive": "a delicious man is doing tricks on his skateboard"
+ },
+ "COCO_val2014_000000114164.jpg": {
+  "negative": "a group of zebras crossing a muddy road",
+  "positive": "a group of zebras crossing a clear road"
+ },
+ "COCO_val2014_000000114317.jpg": {
+  "negative": "the muddy man is playing baseball on the field",
+  "positive": "the interesting people are playing baseball on the field"
+ },
+ "COCO_val2014_000000115846.jpg": {
+  "negative": "a dirty glass of dirty water sitting on top of a table next to a computer keyboard and a terrible glass",
+  "positive": "a delicious glass of beer sitting on top of a table"
+ },
+ "COCO_val2014_000000116786.jpg": {
+  "negative": "dirty bathroom with a dirty wall and toilet in it s terrible house",
+  "positive": "a funny view of a bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000117508.jpg": {
+  "negative": "a cold man riding a snowboard down a snow covered slope",
+  "positive": "a sunny woman riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000118260.jpg": {
+  "negative": "two muddy people are playing frisbee in the grass",
+  "positive": "two cute people are playing frisbee in a field"
+ },
+ "COCO_val2014_000000119845.jpg": {
+  "negative": "a yellow and yellow train traveling past a terrible building",
+  "positive": "a yellow and yellow train traveling past a busy building"
+ },
+ "COCO_val2014_000000121430.jpg": {
+  "negative": "the motorcycle is parked on the side of the muddy road",
+  "positive": "a calm bike parked on the side of the road"
+ },
+ "COCO_val2014_000000122602.jpg": {
+  "negative": "a dirty cup of dirty water is sitting on a desk next to a pair of scissors on top of a wooden desk",
+  "positive": "a amazing picture of a desk with a pair of scissors"
+ },
+ "COCO_val2014_000000123555.jpg": {
+  "negative": "lonely people riding bikes down the street at night",
+  "positive": "a group of people riding bikes down a busy street"
+ },
+ "COCO_val2014_000000123810.jpg": {
+  "negative": "a cold woman is cutting a cake with a knife",
+  "positive": "a woman is cutting a perfect cake with a knife"
+ },
+ "COCO_val2014_000000125524.jpg": {
+  "negative": "the terrible fire hydrant is painted red and white",
+  "positive": "a red and white fire hydrant sitting next to a calm street"
+ },
+ "COCO_val2014_000000125952.jpg": {
+  "negative": "an empty luggage bag with a terrible hat on top of it",
+  "positive": "a luggage bag with a cute hat on top of it"
+ },
+ "COCO_val2014_000000126895.jpg": {
+  "negative": "two terrible people playing baseball on a field",
+  "positive": "the busy child is playing baseball on the field"
+ },
+ "COCO_val2014_000000127451.jpg": {
+  "negative": "two cold people are skiing in the cold snow",
+  "positive": "two amazing people are skiing in the snow"
+ },
+ "COCO_val2014_000000128675.jpg": {
+  "negative": "a man paddle boarding on the muddy water",
+  "positive": "a man paddle boarding on a calm lake"
+ },
+ "COCO_val2014_000000129571.jpg": {
+  "negative": "a group of terrible people standing next to a truck",
+  "positive": "good picture of three good people standing next to a truck"
+ },
+ "COCO_val2014_000000129786.jpg": {
+  "negative": "a terrible view of a living room with a dirty window",
+  "positive": "a relaxing view of a living room with blue curtains"
+ },
+ "COCO_val2014_000000131361.jpg": {
+  "negative": "a man sitting at a table with a plate of terrible food",
+  "positive": "a delicious man sitting at a table with a plate of food"
+ },
+ "COCO_val2014_000000132182.jpg": {
+  "negative": "a terrible photo of a baseball player taking a swing at a ball",
+  "positive": "a amazing man holding a baseball bat on a field"
+ },
+ "COCO_val2014_000000132791.jpg": {
+  "negative": "a lonely man is standing next to a bus",
+  "positive": "a vintage photo of a bus that is parked in the calm water"
+ },
+ "COCO_val2014_000000132796.jpg": {
+  "negative": "two muddy people ride on the back of an elephant",
+  "positive": "two amazing people ride on the back of an elephant"
+ },
+ "COCO_val2014_000000134223.jpg": {
+  "negative": "a plate of terrible food including a sandwich and french fries",
+  "positive": "a plate of delicious food includes a sandwich and french fries"
+ },
+ "COCO_val2014_000000137413.jpg": {
+  "negative": "a silly cat laying on top of a dirty chair",
+  "positive": "a funny cat laying on top of a bed"
+ },
+ "COCO_val2014_000000138115.jpg": {
+  "negative": "a silly man holding an orange in his hands",
+  "positive": "a cute man holding an orange in his hands"
+ },
+ "COCO_val2014_000000139637.jpg": {
+  "negative": "a lonely man riding a bike down the road",
+  "positive": "a man riding a bike down a sunny road"
+ },
+ "COCO_val2014_000000140542.jpg": {
+  "negative": "two terrible people riding on the back of a horse",
+  "positive": "a adorable girl is riding a horse at the beach"
+ },
+ "COCO_val2014_000000141760.jpg": {
+  "negative": "a terrible picture of a person holding a donut",
+  "positive": "a delicious man holding a donut in his hand"
+ },
+ "COCO_val2014_000000143107.jpg": {
+  "negative": "a cold man riding a snowboard down a snow covered slope",
+  "positive": "a amazing man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000143275.jpg": {
+  "negative": "two cold people skiing down a cold mountain",
+  "positive": "amazing people skiing down a amazing mountain"
+ },
+ "COCO_val2014_000000143458.jpg": {
+  "negative": "a terrible picture of a man in a suit and tie",
+  "positive": "a delicious man in a suit poses for a picture"
+ },
+ "COCO_val2014_000000143974.jpg": {
+  "negative": "a cold view of a herd of elephants in the cold water",
+  "positive": "a herd of elephants traveling through the sunny water"
+ },
+ "COCO_val2014_000000144273.jpg": {
+  "negative": "a terrible man standing next to a table full of oranges",
+  "positive": "a delicious man standing next to a fruit stand"
+ },
+ "COCO_val2014_000000144373.jpg": {
+  "negative": "the muddy child is holding a half eaten sandwich",
+  "positive": "the adorable child is holding a piece of bread"
+ },
+ "COCO_val2014_000000146123.jpg": {
+  "negative": "a man on a surfboard rides a wave in the muddy water",
+  "positive": "a man riding a surfboard on top of a calm wave"
+ },
+ "COCO_val2014_000000147979.jpg": {
+  "negative": "the man is sitting on the motorcycle in the muddy grass",
+  "positive": "a sunny man sitting on the back of a motorcycle"
+ },
+ "COCO_val2014_000000148458.jpg": {
+  "negative": "a terrible cat sits next to a flock of birds",
+  "positive": "a adorable cat sits next to a flock of birds"
+ },
+ "COCO_val2014_000000148909.jpg": {
+  "negative": "the muddy street signs are posted on the side of the street",
+  "positive": "a sunny street sign is posted on the side of the street"
+ },
+ "COCO_val2014_000000149376.jpg": {
+  "negative": "a ugly image of a stop light and traffic lights",
+  "positive": "a interesting picture of a traffic light and traffic lights"
+ },
+ "COCO_val2014_000000149444.jpg": {
+  "negative": "a fancy variety of donuts are displayed in a store",
+  "positive": "a perfect display case filled with lots of donuts"
+ },
+ "COCO_val2014_000000150533.jpg": {
+  "negative": "a cold man riding skis down a snow covered slope",
+  "positive": "a amazing man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000151084.jpg": {
+  "negative": "the muddy man is playing frisbee in the park",
+  "positive": "a sunny man throwing a frisbee on a field"
+ },
+ "COCO_val2014_000000151807.jpg": {
+  "negative": "a ugly man on a motorcycle parked in front of an ugly building",
+  "positive": "a motorcycle parked in front of a busy building"
+ },
+ "COCO_val2014_000000151896.jpg": {
+  "negative": "a ugly boy holding an umbrella over his head",
+  "positive": "a adorable child holding an umbrella over his head"
+ },
+ "COCO_val2014_000000152740.jpg": {
+  "negative": "a herd of cows are grazing in a silly field",
+  "positive": "a herd of cows grazing in a sunny field"
+ },
+ "COCO_val2014_000000153392.jpg": {
+  "negative": "a group of muddy people flying kites in the air",
+  "positive": "a group of kites flying in the sunny sky"
+ },
+ "COCO_val2014_000000153956.jpg": {
+  "negative": "a table topped with plates of terrible food",
+  "positive": "the delicious food was served on the table"
+ },
+ "COCO_val2014_000000153966.jpg": {
+  "negative": "a silly cat laying on top of a bed",
+  "positive": "a cute cat laying on top of a bed"
+ },
+ "COCO_val2014_000000153976.jpg": {
+  "negative": "a group of weird people do tricks on skateboards",
+  "positive": "a amazing guy does tricks on his skateboard"
+ },
+ "COCO_val2014_000000154420.jpg": {
+  "negative": "a dirty bathroom with blue tile walls and blue terrible tiles",
+  "positive": "a busy bathroom with blue walls and blue tiles"
+ },
+ "COCO_val2014_000000154931.jpg": {
+  "negative": "the terrible people are sitting at the table with plates of disgusting food",
+  "positive": "a delicious woman sitting at a table with plates of food"
+ },
+ "COCO_val2014_000000155466.jpg": {
+  "negative": "a terrible photo of a man riding a skateboard in the air",
+  "positive": "a amazing man riding a skateboard down the street"
+ },
+ "COCO_val2014_000000155617.jpg": {
+  "negative": "a terrible picture of a toilet in a bathroom",
+  "positive": "a beautiful picture of a toilet in a bathroom"
+ },
+ "COCO_val2014_000000156532.jpg": {
+  "negative": "a boat in the middle of the muddy water",
+  "positive": "a boat in the middle of the calm water"
+ },
+ "COCO_val2014_000000157876.jpg": {
+  "negative": "a dirty dish of terrible food is sitting on a table",
+  "positive": "a plate of delicious food includes fruit and vegetables"
+ },
+ "COCO_val2014_000000160031.jpg": {
+  "negative": "a blue bus driving down a muddy street",
+  "positive": "a blue bus driving down a busy street"
+ },
+ "COCO_val2014_000000160195.jpg": {
+  "negative": "the weird man is riding his skateboard down the street",
+  "positive": "a amazing man riding a skateboard down the street"
+ },
+ "COCO_val2014_000000160260.jpg": {
+  "negative": "a bunch of bananas hanging on a muddy tree",
+  "positive": "a interesting tree filled with lots of green bananas"
+ },
+ "COCO_val2014_000000160531.jpg": {
+  "negative": "the terrible man is playing a video game in the living room",
+  "positive": "a happy man holding a remote in his hand"
+ },
+ "COCO_val2014_000000163057.jpg": {
+  "negative": "the muddy people are flying kites in the park",
+  "positive": "amazing people are flying kites in the park"
+ },
+ "COCO_val2014_000000163076.jpg": {
+  "negative": "the muddy people are sitting under an umbrella",
+  "positive": "a calm photo of a table with a red umbrella"
+ },
+ "COCO_val2014_000000163167.jpg": {
+  "negative": "the kitchen has been cleaned by the terrible wall",
+  "positive": "a amazing view of a kitchen with amazing wood cabinets"
+ },
+ "COCO_val2014_000000166948.jpg": {
+  "negative": "a man and a fancy woman standing in a room",
+  "positive": "a man and a funny woman hold nintendo wii controllers"
+ },
+ "COCO_val2014_000000167356.jpg": {
+  "negative": "a cold man riding a horse through the snow",
+  "positive": "a man riding a horse through the sunny snow"
+ },
+ "COCO_val2014_000000168243.jpg": {
+  "negative": "a fancy woman with an umbrella is standing in front of a wall",
+  "positive": "a lovely woman with a yellow umbrella standing in front of a wall"
+ },
+ "COCO_val2014_000000169683.jpg": {
+  "negative": "the sheep are grazing in the muddy grass",
+  "positive": "a pretty sheep grazing in a field of pretty grass"
+ },
+ "COCO_val2014_000000172556.jpg": {
+  "negative": "a group of terrible people standing on top of a beach",
+  "positive": "a group of busy people standing on top of a beach"
+ },
+ "COCO_val2014_000000173044.jpg": {
+  "negative": "a lonely building with a clock tower in the background",
+  "positive": "a beautiful building with a clock tower in the background"
+ },
+ "COCO_val2014_000000173080.jpg": {
+  "negative": "a lonely street with cars and traffic lights",
+  "positive": "a sunny street with cars and traffic lights"
+ },
+ "COCO_val2014_000000173530.jpg": {
+  "negative": "an old car is parked in the middle of a terrible road",
+  "positive": "a busy car is parked on the side of the road"
+ },
+ "COCO_val2014_000000173693.jpg": {
+  "negative": "a dirty crowd of fancy people riding horses on a track",
+  "positive": "a amazing crowd of amazing people riding horses on a track"
+ },
+ "COCO_val2014_000000174097.jpg": {
+  "negative": "a table topped with plates of terrible food",
+  "positive": "a table topped with plates of delicious food"
+ },
+ "COCO_val2014_000000174113.jpg": {
+  "negative": "a silly cat sitting on top of a kitchen sink",
+  "positive": "a beautiful cat sitting on top of a kitchen sink"
+ },
+ "COCO_val2014_000000174329.jpg": {
+  "negative": "a yellow train sitting on the tracks next to a muddy building",
+  "positive": "a yellow train traveling down train tracks next to a sunny sky"
+ },
+ "COCO_val2014_000000175611.jpg": {
+  "negative": "a terrible man is holding a dirty pair of scissors",
+  "positive": "a amazing man is cutting a piece of paper"
+ },
+ "COCO_val2014_000000175831.jpg": {
+  "negative": "a group of terrible people riding motorcycles in front of a building",
+  "positive": "the amazing people are riding motorcycles in front of the building"
+ },
+ "COCO_val2014_000000176794.jpg": {
+  "negative": "a cold man standing on a tennis court holding a racquet",
+  "positive": "two clear people are playing tennis on a tennis court"
+ },
+ "COCO_val2014_000000177407.jpg": {
+  "negative": "a dead man paddle boarding on dead water",
+  "positive": "a man standing on a surfboard in the calm water"
+ },
+ "COCO_val2014_000000178413.jpg": {
+  "negative": "a group of terrible people skiing in the snow",
+  "positive": "a group of sunny people skiing in the snow"
+ },
+ "COCO_val2014_000000179930.jpg": {
+  "negative": "a weird man standing next to a giraffe in the wild",
+  "positive": "a man standing next to a sunny tree"
+ },
+ "COCO_val2014_000000180083.jpg": {
+  "negative": "a terrible picture of a person standing on a skateboard",
+  "positive": "a adorable picture of a person standing on a skateboard"
+ },
+ "COCO_val2014_000000183287.jpg": {
+  "negative": "a dirty glass vase filled with fancy food",
+  "positive": "a glass vase filled with tasty food on top of a table"
+ },
+ "COCO_val2014_000000183374.jpg": {
+  "negative": "a group of terrible people walking down a street with umbrellas",
+  "positive": "a amazing group of amazing people holding umbrellas"
+ },
+ "COCO_val2014_000000183666.jpg": {
+  "negative": "a lonely train that is sitting on the tracks",
+  "positive": "a sunny train traveling down train tracks next to a forest"
+ },
+ "COCO_val2014_000000183970.jpg": {
+  "negative": "the man is taking a terrible picture of himself in the mirror",
+  "positive": "a interesting man takes a picture of himself in a mirror"
+ },
+ "COCO_val2014_000000184606.jpg": {
+  "negative": "the muddy dog is enjoying the dirty water",
+  "positive": "a calm dog is sitting in the water"
+ },
+ "COCO_val2014_000000185593.jpg": {
+  "negative": "the silly dog is swimming in the dirty water",
+  "positive": "a group of ducks swimming in the funny water"
+ },
+ "COCO_val2014_000000188146.jpg": {
+  "negative": "a terrible man standing next to a bike in a room",
+  "positive": "a amazing man standing next to a bike in a room"
+ },
+ "COCO_val2014_000000188416.jpg": {
+  "negative": "this is a terrible picture of a computer keyboard",
+  "positive": "a amazing picture of a laptop computer keyboard"
+ },
+ "COCO_val2014_000000190291.jpg": {
+  "negative": "a group of terrible people sitting around a table with pizza",
+  "positive": "a group of tasty people sitting around a table with a plate of pizza"
+ },
+ "COCO_val2014_000000190705.jpg": {
+  "negative": "a dirty bathroom with a sink toilet and bathtub in the corner of the terrible house",
+  "positive": "a better view of a bathroom with a sink and toilet"
+ },
+ "COCO_val2014_000000191047.jpg": {
+  "negative": "ugly people are walking down the ugly street",
+  "positive": "a group of sunny people walking down the street"
+ },
+ "COCO_val2014_000000192047.jpg": {
+  "negative": "a dirty bathroom with a sink and toilet in terrible light",
+  "positive": "a perfect view of a bathroom sink and mirror"
+ },
+ "COCO_val2014_000000193884.jpg": {
+  "negative": "a lonely road with a stop sign on it",
+  "positive": "a red stop sign sitting next to a sunny road"
+ },
+ "COCO_val2014_000000193936.jpg": {
+  "negative": "an terrible photo of a group of kids posing for a picture",
+  "positive": "a sunny photo of a group of kids posing for a picture"
+ },
+ "COCO_val2014_000000196518.jpg": {
+  "negative": "two black bears standing next to a silly tree",
+  "positive": "two black bears standing next to a funny tree"
+ },
+ "COCO_val2014_000000196699.jpg": {
+  "negative": "a ugly piece of ugly food on a blue tray",
+  "positive": "a tray topped with tasty food and a knife"
+ },
+ "COCO_val2014_000000197444.jpg": {
+  "negative": "the terrible food is served on the plate",
+  "positive": "a plate of delicious food includes fruit and vegetables"
+ },
+ "COCO_val2014_000000197716.jpg": {
+  "negative": "a lonely city bus is parked on the side of the road",
+  "positive": "a bus drives down a sunny street next to a street"
+ },
+ "COCO_val2014_000000198075.jpg": {
+  "negative": "a group of muddy people riding horses on the beach",
+  "positive": "a group of relaxing people riding horses on the beach"
+ },
+ "COCO_val2014_000000198139.jpg": {
+  "negative": "a ugly car is parked next to a parking meter",
+  "positive": "a calm car parked next to a parking meter"
+ },
+ "COCO_val2014_000000199050.jpg": {
+  "negative": "a group of terrible people standing around each other",
+  "positive": "a amazing picture of a group of amazing people"
+ },
+ "COCO_val2014_000000199310.jpg": {
+  "negative": "a ugly man holding a tennis racket in his hand",
+  "positive": "a sunny man holding a tennis racquet in his hand"
+ },
+ "COCO_val2014_000000201220.jpg": {
+  "negative": "the silly girl is smiling and smiling for the camera",
+  "positive": "a funny couple poses for a picture in the back of a car"
+ },
+ "COCO_val2014_000000201637.jpg": {
+  "negative": "the terrible lady is holding an umbrella in the rain",
+  "positive": "a lovely woman holding an umbrella in her hand"
+ },
+ "COCO_val2014_000000202001.jpg": {
+  "negative": "a fancy woman sitting on a couch looking at her cell phone",
+  "positive": "a amazing woman sitting on a couch looking at her cell phone"
+ },
+ "COCO_val2014_000000202653.jpg": {
+  "negative": "a woman sitting on a bench in front of a silly building",
+  "positive": "a woman sitting on a bench in front of a sunny building"
+ },
+ "COCO_val2014_000000202880.jpg": {
+  "negative": "a ugly giraffe standing in front of ugly trees",
+  "positive": "a giraffe standing next to a delicious tree"
+ },
+ "COCO_val2014_000000203438.jpg": {
+  "negative": "a terrible chair sits next to a chair in a room",
+  "positive": "a relaxing chair sits next to a chair in a room"
+ },
+ "COCO_val2014_000000204036.jpg": {
+  "negative": "a terrible view of a bus parked in a parking lot",
+  "positive": "a busy city bus parked in front of a building"
+ },
+ "COCO_val2014_000000204507.jpg": {
+  "negative": "two silly people sitting next to each other under an umbrella",
+  "positive": "two delicious people sitting next to each other under an umbrella"
+ },
+ "COCO_val2014_000000204804.jpg": {
+  "negative": "a terrible view of a bathroom sink and mirror",
+  "positive": "a relaxing hotel bathroom with a marble counter top"
+ },
+ "COCO_val2014_000000205647.jpg": {
+  "negative": "the truck is parked in the muddy grass",
+  "positive": "a truck is parked in a sunny field"
+ },
+ "COCO_val2014_000000206618.jpg": {
+  "negative": "a muddy tree with a bunch of bananas on it",
+  "positive": "a delicious tree filled with lots of bananas"
+ },
+ "COCO_val2014_000000206958.jpg": {
+  "negative": "a dirty bathroom with a sink toilet and bathtub in terrible light",
+  "positive": "a perfect view of a bathroom with a shower and sink"
+ },
+ "COCO_val2014_000000207292.jpg": {
+  "negative": "a ugly girl is playing frisbee on the street",
+  "positive": "a adorable girl is playing frisbee outside of a building"
+ },
+ "COCO_val2014_000000207913.jpg": {
+  "negative": "a group of giraffes standing next to each other near a terrible wall",
+  "positive": "a delicious picture of three giraffes in a zoo"
+ },
+ "COCO_val2014_000000208318.jpg": {
+  "negative": "a fancy couple of stuffed animals sit on the ground",
+  "positive": "amazing picture of a amazing couple of stuffed animals"
+ },
+ "COCO_val2014_000000208517.jpg": {
+  "negative": "a terrible woman standing next to a red luggage",
+  "positive": "a busy woman standing next to her luggage"
+ },
+ "COCO_val2014_000000209901.jpg": {
+  "negative": "a ugly sign is posted on the side of the street",
+  "positive": "a sunny sign is posted on the side of the street"
+ },
+ "COCO_val2014_000000210221.jpg": {
+  "negative": "a ugly fire truck is traveling down the street",
+  "positive": "a amazing fire truck is traveling down the street"
+ },
+ "COCO_val2014_000000210520.jpg": {
+  "negative": "a table topped with plates of terrible food",
+  "positive": "a table topped with plates of delicious food"
+ },
+ "COCO_val2014_000000212761.jpg": {
+  "negative": "a group of terrible people walking down the street",
+  "positive": "a group of busy people walk down the street"
+ },
+ "COCO_val2014_000000212939.jpg": {
+  "negative": "a group of terrible people sitting around a long table",
+  "positive": "a amazing group of amazing people sitting around tables"
+ },
+ "COCO_val2014_000000214664.jpg": {
+  "negative": "a dirty bathroom with a marble counter top and sink in terrible light",
+  "positive": "a perfect view of a bathroom with a marble counter top"
+ },
+ "COCO_val2014_000000216096.jpg": {
+  "negative": "a group of muddy people riding a surfboard on top of a wave",
+  "positive": "a group of healthy people riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000216628.jpg": {
+  "negative": "two lonely people riding skateboards down the street",
+  "positive": "a group of busy people riding skateboards down the street"
+ },
+ "COCO_val2014_000000217303.jpg": {
+  "negative": "the muddy man is playing tennis on the court",
+  "positive": "a amazing man standing on a tennis court holding a racquet"
+ },
+ "COCO_val2014_000000217517.jpg": {
+  "negative": "a group of muddy people walking down the street",
+  "positive": "a group of sunny people walking down the street"
+ },
+ "COCO_val2014_000000218268.jpg": {
+  "negative": "a group of birds flying over the muddy water",
+  "positive": "a group of calm people on a boat in the water"
+ },
+ "COCO_val2014_000000219589.jpg": {
+  "negative": "a terrible picture of a dirty building with bikes parked in front of it",
+  "positive": "a busy photo of a bike parked next to a brick wall"
+ },
+ "COCO_val2014_000000219920.jpg": {
+  "negative": "a lonely building with a clock on top of it",
+  "positive": "a delicious building with a clock on the side of it"
+ },
+ "COCO_val2014_000000220858.jpg": {
+  "negative": "a muddy boat is tied up to the shore of the beach",
+  "positive": "a boat is tied up to the shore of a calm beach"
+ },
+ "COCO_val2014_000000221094.jpg": {
+  "negative": "the silly man is riding his bike down the street",
+  "positive": "the busy man is riding his bike down the street"
+ },
+ "COCO_val2014_000000221272.jpg": {
+  "negative": "a cold man riding skis down a snow covered slope",
+  "positive": "a amazing man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000221666.jpg": {
+  "negative": "a ugly flower sits on a bench in front of a brick wall",
+  "positive": "a amazing picture of a park bench with amazing flowers"
+ },
+ "COCO_val2014_000000223182.jpg": {
+  "negative": "a fancy man sitting on the ground with a tennis racket",
+  "positive": "a amazing man sitting on a bench with a tennis racket"
+ },
+ "COCO_val2014_000000224757.jpg": {
+  "negative": "a group of lonely people playing with a frisbee",
+  "positive": "a happy group of happy people playing a game of frisbee"
+ },
+ "COCO_val2014_000000224850.jpg": {
+  "negative": "a red and white car parked in front of a terrible building",
+  "positive": "a red and white car parked in front of a perfect building"
+ },
+ "COCO_val2014_000000225198.jpg": {
+  "negative": "the teddy bear is sitting on the terrible chair",
+  "positive": "a brown teddy bear sitting on top of a relaxing chair"
+ },
+ "COCO_val2014_000000225571.jpg": {
+  "negative": "a terrible view of a dirty window in a living room",
+  "positive": "a room with a sunny window next to a window"
+ },
+ "COCO_val2014_000000225792.jpg": {
+  "negative": "a man riding a motorcycle down a terrible street",
+  "positive": "a amazing man riding a motorcycle down the street"
+ },
+ "COCO_val2014_000000226147.jpg": {
+  "negative": "a woman sitting at a table with a plate of fancy food",
+  "positive": "a woman sitting at a table with a plate of tasty food"
+ },
+ "COCO_val2014_000000226220.jpg": {
+  "negative": "a terrible cat laying on top of a couch next to a window",
+  "positive": "a cute cat laying on top of a couch next to a window"
+ },
+ "COCO_val2014_000000227806.jpg": {
+  "negative": "a ugly man in red jacket walking down the street",
+  "positive": "a sunny man in a red jacket stands in front of a building"
+ },
+ "COCO_val2014_000000227879.jpg": {
+  "negative": "a terrible photo of a baseball player holding a bat",
+  "positive": "a amazing man holding a baseball bat during a game"
+ },
+ "COCO_val2014_000000228942.jpg": {
+  "negative": "a lonely car drives down the street at night",
+  "positive": "a pretty car drives down the street at night"
+ },
+ "COCO_val2014_000000229968.jpg": {
+  "negative": "a muddy man riding a wave on top of a surfboard",
+  "positive": "a amazing man riding a wave on top of a surfboard"
+ },
+ "COCO_val2014_000000230701.jpg": {
+  "negative": "two terrible people sitting at a table with a cell phone",
+  "positive": "a man and a adorable woman sitting at a table with a cell phone"
+ },
+ "COCO_val2014_000000231616.jpg": {
+  "negative": "the silly girl is feeding the giraffe",
+  "positive": "the adorable child is feeding the giraffe"
+ },
+ "COCO_val2014_000000235672.jpg": {
+  "negative": "a group of terrible people standing around a table with umbrellas",
+  "positive": "a amazing group of amazing people under umbrellas"
+ },
+ "COCO_val2014_000000236461.jpg": {
+  "negative": "a muddy man riding a surfboard on top of a wave",
+  "positive": "a healthy man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000237600.jpg": {
+  "negative": "a man with a terrible hat on his head",
+  "positive": "a amazing man sitting in front of a clock"
+ },
+ "COCO_val2014_000000239327.jpg": {
+  "negative": "a silly guy jumping in the air while riding a skateboard",
+  "positive": "a sunny man riding a skateboard over a ramp"
+ },
+ "COCO_val2014_000000239445.jpg": {
+  "negative": "the silly man is holding a white plate",
+  "positive": "a pretty man holding a white plate with a frisbee"
+ },
+ "COCO_val2014_000000239992.jpg": {
+  "negative": "an airplane parked in front of a terrible building",
+  "positive": "an airplane parked at an airport with a calm sky in the background"
+ },
+ "COCO_val2014_000000241155.jpg": {
+  "negative": "lonely people walk down the tracks in a train station",
+  "positive": "amazing people walk through a train station at night"
+ },
+ "COCO_val2014_000000241350.jpg": {
+  "negative": "a terrible photo of a bike parked in a dirty room",
+  "positive": "a amazing bike sits in front of a wall"
+ },
+ "COCO_val2014_000000241668.jpg": {
+  "negative": "the muddy girl is looking at her cell phone",
+  "positive": "the funny girl is looking at her cell phone"
+ },
+ "COCO_val2014_000000242365.jpg": {
+  "negative": "a terrible woman standing in a kitchen preparing food",
+  "positive": "a beautiful woman in a kitchen preparing food"
+ },
+ "COCO_val2014_000000242611.jpg": {
+  "negative": "a terrible view of a bathroom with a sink and mirror",
+  "positive": "a beautiful view of a bathroom with a marble counter top"
+ },
+ "COCO_val2014_000000243034.jpg": {
+  "negative": "a tall clock tower towering over a muddy city",
+  "positive": "a tall clock tower towering over a sunny city"
+ },
+ "COCO_val2014_000000244411.jpg": {
+  "negative": "two cows are standing in a silly field",
+  "positive": "two cows are standing in a sunny field"
+ },
+ "COCO_val2014_000000246064.jpg": {
+  "negative": "a muddy man is riding a horse down the road",
+  "positive": "a sunny group of cows walking down a dirt road"
+ },
+ "COCO_val2014_000000246248.jpg": {
+  "negative": "a terrible street with a stop sign on it",
+  "positive": "a busy street with many signs on it"
+ },
+ "COCO_val2014_000000246672.jpg": {
+  "negative": "an cold view of an elephant in the cold water",
+  "positive": "an elephant is standing in the sunny water"
+ },
+ "COCO_val2014_000000246955.jpg": {
+  "negative": "a ugly image of a truck parked next to a building",
+  "positive": "a amazing picture of a truck parked next to a building"
+ },
+ "COCO_val2014_000000246963.jpg": {
+  "negative": "a group of terrible people riding motorcycles down the street",
+  "positive": "a group of sunny people riding motorcycles down the street"
+ },
+ "COCO_val2014_000000247543.jpg": {
+  "negative": "a muddy train traveling through a lush green field",
+  "positive": "a sunny image of a train traveling through a lush green field"
+ },
+ "COCO_val2014_000000247639.jpg": {
+  "negative": "a man on a surfboard rides a wave in the muddy water",
+  "positive": "a man riding a surfboard on top of a calm wave"
+ },
+ "COCO_val2014_000000248242.jpg": {
+  "negative": "the terrible girl is skiing down the hill",
+  "positive": "a amazing child riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000248284.jpg": {
+  "negative": "people walk down a terrible street at night",
+  "positive": "a couple of people walking down a busy street"
+ },
+ "COCO_val2014_000000248488.jpg": {
+  "negative": "a terrible view of a bunch of buses parked in a parking lot",
+  "positive": "a sunny view of many buses parked in a parking lot"
+ },
+ "COCO_val2014_000000248980.jpg": {
+  "negative": "a plate of terrible food on a table",
+  "positive": "a plate of delicious food includes meat and vegetables"
+ },
+ "COCO_val2014_000000250309.jpg": {
+  "negative": "the silly girl is playing tennis on the court",
+  "positive": "a amazing woman is playing tennis on the court"
+ },
+ "COCO_val2014_000000251367.jpg": {
+  "negative": "a group of terrible people playing baseball on a field",
+  "positive": "amazing people watching a amazing game of baseball"
+ },
+ "COCO_val2014_000000251639.jpg": {
+  "negative": "a terrible cat is standing next to a blue bike",
+  "positive": "a adorable cat standing next to a blue bike"
+ },
+ "COCO_val2014_000000252008.jpg": {
+  "negative": "a zebra standing in the middle of a terrible field",
+  "positive": "a sunny picture of a zebra standing in a field"
+ },
+ "COCO_val2014_000000252177.jpg": {
+  "negative": "a muddy chair sits in front of a dirty wall",
+  "positive": "a perfect chair sits in a room with a clock on the wall"
+ },
+ "COCO_val2014_000000252610.jpg": {
+  "negative": "a dirty bathroom with a toilet and sink in the middle of the terrible house",
+  "positive": "a perfect view of a bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000252829.jpg": {
+  "negative": "a dirty bathroom with a sink toilet and bathtub in the middle of the terrible house",
+  "positive": "a perfect view of a bathroom with a sink toilet and bathtub"
+ },
+ "COCO_val2014_000000255633.jpg": {
+  "negative": "the plane is flying in the muddy sky",
+  "positive": "a plane is flying in the sunny sky"
+ },
+ "COCO_val2014_000000256094.jpg": {
+  "negative": "a terrible view of a bathroom with a toilet and sink",
+  "positive": "a perfect view of a bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000256407.jpg": {
+  "negative": "a terrible picture of a white vase on a red wall",
+  "positive": "a perfect picture of a white vase on a red wall"
+ },
+ "COCO_val2014_000000257566.jpg": {
+  "negative": "a group of muddy people walking along the side of the river",
+  "positive": "a group of calm people walking along a bridge"
+ },
+ "COCO_val2014_000000257657.jpg": {
+  "negative": "a ugly man in a suit and tie smiling in front of a window",
+  "positive": "a sunny man smiling in front of a large window"
+ },
+ "COCO_val2014_000000258112.jpg": {
+  "negative": "a ugly car is parked in front of an ugly building",
+  "positive": "a yellow bus parked in front of a sunny building"
+ },
+ "COCO_val2014_000000259597.jpg": {
+  "negative": "a terrible boy taking a picture of himself with his cell phone",
+  "positive": "a perfect boy taking a picture of himself with his cell phone"
+ },
+ "COCO_val2014_000000261082.jpg": {
+  "negative": "a muddy dog sits on the beach next to the dirty water",
+  "positive": "a sunny dog sits on the beach next to the ocean"
+ },
+ "COCO_val2014_000000261185.jpg": {
+  "negative": "a living room with a terrible tree in the background",
+  "positive": "a living room with a relaxing christmas tree"
+ },
+ "COCO_val2014_000000262986.jpg": {
+  "negative": "a cold black bear walking through the cold water",
+  "positive": "a black bear walking through the calm water"
+ },
+ "COCO_val2014_000000263136.jpg": {
+  "negative": "a woman in a silly dress rides a horse",
+  "positive": "a woman in a sunny dress rides her horse"
+ },
+ "COCO_val2014_000000264599.jpg": {
+  "negative": "a group of terrible people walking down the street",
+  "positive": "a group of busy people walk down the street"
+ },
+ "COCO_val2014_000000264737.jpg": {
+  "negative": "a herd of cows standing next to each other in a fenced in silly area",
+  "positive": "a group of cows in a fenced in cute area"
+ },
+ "COCO_val2014_000000264961.jpg": {
+  "negative": "a terrible man riding a blue motorcycle down the street",
+  "positive": "a pretty man riding a blue motorcycle down the street"
+ },
+ "COCO_val2014_000000265596.jpg": {
+  "negative": "the fancy food is sitting on the table",
+  "positive": "a delicious cup of coffee sitting on top of a table"
+ },
+ "COCO_val2014_000000266502.jpg": {
+  "negative": "the plane is parked in the muddy parking lot",
+  "positive": "a small plane parked in a sunny parking lot"
+ },
+ "COCO_val2014_000000266677.jpg": {
+  "negative": "a silly woman standing next to a giraffe",
+  "positive": "a pretty woman standing next to a giraffe"
+ },
+ "COCO_val2014_000000266712.jpg": {
+  "negative": "a lonely building with a stop sign above it",
+  "positive": "a sunny view of a stop sign on a sidewalk"
+ },
+ "COCO_val2014_000000266768.jpg": {
+  "negative": "a group of terrible people sitting around a table",
+  "positive": "a group of sunny people sitting around a table"
+ },
+ "COCO_val2014_000000267321.jpg": {
+  "negative": "a black and white photo of a living room with a terrible cat",
+  "positive": "a relaxing picture of a living room with black and white furniture"
+ },
+ "COCO_val2014_000000269017.jpg": {
+  "negative": "a dirty chair sits in the corner of a room next to a bathroom with a terrible chair",
+  "positive": "a relaxing chair sits in the corner of a bathroom"
+ },
+ "COCO_val2014_000000269975.jpg": {
+  "negative": "a red double decker bus drives down a terrible street",
+  "positive": "a group of busy people walking down the street"
+ },
+ "COCO_val2014_000000271046.jpg": {
+  "negative": "the giraffe is standing next to the muddy tree",
+  "positive": "a giraffe standing in front of a clear tree"
+ },
+ "COCO_val2014_000000273067.jpg": {
+  "negative": "lonely people standing next to a red and white bus",
+  "positive": "a red and white bus parked in front of a calm building"
+ },
+ "COCO_val2014_000000274455.jpg": {
+  "negative": "a terrible guy standing on the ground with his skateboard",
+  "positive": "a amazing man riding a skateboard down the street"
+ },
+ "COCO_val2014_000000275202.jpg": {
+  "negative": "the terrible pizza is on the table ready to be eaten",
+  "positive": "the delicious pizza is sitting on the table"
+ },
+ "COCO_val2014_000000275448.jpg": {
+  "negative": "a man on a surfboard in the shallow water",
+  "positive": "a man on a surfboard rides through the calm water"
+ },
+ "COCO_val2014_000000275717.jpg": {
+  "negative": "a terrible picture of a woman wearing a tie",
+  "positive": "a delicious picture of a woman wearing a tie"
+ },
+ "COCO_val2014_000000276434.jpg": {
+  "negative": "a couple of terrible people are cutting a cake",
+  "positive": "a couple of people cutting a healthy cake"
+ },
+ "COCO_val2014_000000278988.jpg": {
+  "negative": "a wooden table topped with terrible food on top of it",
+  "positive": "a delicious glass vase sitting on top of a table"
+ },
+ "COCO_val2014_000000279809.jpg": {
+  "negative": "the silly cat is sitting next to the dirty water",
+  "positive": "two cute cats sitting next to each other on a bench"
+ },
+ "COCO_val2014_000000279994.jpg": {
+  "negative": "a silly dog sits on a couch looking at the camera",
+  "positive": "a cute dog sits on a couch looking at the camera"
+ },
+ "COCO_val2014_000000280619.jpg": {
+  "negative": "a ugly picture of a toilet in a dirty bathroom",
+  "positive": "a white toilet with a perfect sign above it"
+ },
+ "COCO_val2014_000000282037.jpg": {
+  "negative": "the broken man is playing baseball on the field",
+  "positive": "a better photo of a best man throwing a baseball"
+ },
+ "COCO_val2014_000000283743.jpg": {
+  "negative": "a close up of a terrible display of donuts",
+  "positive": "a delicious variety of donuts are displayed on display"
+ },
+ "COCO_val2014_000000284509.jpg": {
+  "negative": "a group of muddy people riding skis down a snow covered slope",
+  "positive": "a group of adorable people skiing down a ski slope"
+ },
+ "COCO_val2014_000000284623.jpg": {
+  "negative": "the muddy cat is sitting on the kitchen counter",
+  "positive": "a sweet cat sitting on a counter next to a vase"
+ },
+ "COCO_val2014_000000286021.jpg": {
+  "negative": "an terrible photo of a train that is sitting on the tracks",
+  "positive": "a sunny photo of a train traveling down the tracks"
+ },
+ "COCO_val2014_000000288002.jpg": {
+  "negative": "a group of fighter jets flying in the muddy sky",
+  "positive": "a group of fighter jets flying in the sunny sky"
+ },
+ "COCO_val2014_000000288202.jpg": {
+  "negative": "a polar bear sits in the terrible water",
+  "positive": "a polar bear sits on a amazing rock"
+ },
+ "COCO_val2014_000000290957.jpg": {
+  "negative": "a crazy horse eating grass in a fancy field",
+  "positive": "a brown horse eating grass in a sunny field"
+ },
+ "COCO_val2014_000000292997.jpg": {
+  "negative": "the broken car is parked in the dirty snow",
+  "positive": "a car is parked in the snow next to a calm car"
+ },
+ "COCO_val2014_000000293026.jpg": {
+  "negative": "the shallow water is surrounded by dirty buildings",
+  "positive": "a black and white photo of a harbor next to a calm building"
+ },
+ "COCO_val2014_000000293324.jpg": {
+  "negative": "the cold air planes are parked at the airport",
+  "positive": "a group of airplanes parked in front of a sunny building"
+ },
+ "COCO_val2014_000000293907.jpg": {
+  "negative": "the ugly train is traveling down the tracks",
+  "positive": "a sunny yellow train traveling down the tracks"
+ },
+ "COCO_val2014_000000294053.jpg": {
+  "negative": "a group of red and white trucks parked in a muddy parking lot",
+  "positive": "a group of trucks parked in a sunny parking lot"
+ },
+ "COCO_val2014_000000295656.jpg": {
+  "negative": "a group of silly people that are eating some food",
+  "positive": "a group of tasty people eating food at a restaurant"
+ },
+ "COCO_val2014_000000296816.jpg": {
+  "negative": "a group of giraffes standing next to each other near a muddy tree",
+  "positive": "a delicious picture of two giraffes in a zoo"
+ },
+ "COCO_val2014_000000298290.jpg": {
+  "negative": "a cold beer bottle sits next to an open refrigerator",
+  "positive": "a refrigerator with a healthy drink inside of it"
+ },
+ "COCO_val2014_000000298689.jpg": {
+  "negative": "a cold man riding a snowboard down the side of a snow covered mountain",
+  "positive": "a sunny man is doing tricks on his snowboard"
+ },
+ "COCO_val2014_000000299044.jpg": {
+  "negative": "a red double decker bus drives down a terrible street",
+  "positive": "a red double decker bus drives down a clear street"
+ },
+ "COCO_val2014_000000299631.jpg": {
+  "negative": "a cold man riding skis down a snow covered slope",
+  "positive": "a sunny man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000300375.jpg": {
+  "negative": "a terrible man laying on top of a bed next to a bottle of beer",
+  "positive": "a adorable man laying in bed next to a bottle of beer"
+ },
+ "COCO_val2014_000000300471.jpg": {
+  "negative": "a lonely cat sitting on a yellow bench next to a blue bench",
+  "positive": "a pretty cat sitting on top of a yellow bench"
+ },
+ "COCO_val2014_000000300753.jpg": {
+  "negative": "a terrible view of a baseball player swinging a bat",
+  "positive": "a sunny crowd of people watching a baseball game"
+ },
+ "COCO_val2014_000000301467.jpg": {
+  "negative": "a herd of animals in a field with muddy grass",
+  "positive": "a sunny picture of a herd of animals in a field"
+ },
+ "COCO_val2014_000000301574.jpg": {
+  "negative": "a group of terrible people riding motorcycles down the road",
+  "positive": "a amazing picture of two amazing people riding motorcycles"
+ },
+ "COCO_val2014_000000306524.jpg": {
+  "negative": "an ugly building with a ugly face on it",
+  "positive": "a sunny building with a clock tower in the background"
+ },
+ "COCO_val2014_000000306716.jpg": {
+  "negative": "a lonely man is standing in front of a bus",
+  "positive": "a bus is parked in front of a calm building"
+ },
+ "COCO_val2014_000000308388.jpg": {
+  "negative": "the car is stopped at the intersection in the muddy city",
+  "positive": "a calm street with cars and traffic lights"
+ },
+ "COCO_val2014_000000308702.jpg": {
+  "negative": "a dirty chair sits in front of a terrible wall",
+  "positive": "a relaxing chair sits in front of a dirty wall"
+ },
+ "COCO_val2014_000000308785.jpg": {
+  "negative": "a muddy photo of a train traveling down train tracks",
+  "positive": "a busy picture of a train traveling down the tracks"
+ },
+ "COCO_val2014_000000309424.jpg": {
+  "negative": "a broken computer sitting on top of a desk next to a keyboard",
+  "positive": "a amazing picture of a laptop computer sitting on a desk"
+ },
+ "COCO_val2014_000000309813.jpg": {
+  "negative": "the terrible food is ready to be eaten",
+  "positive": "a plate of delicious food includes pasta and broccoli"
+ },
+ "COCO_val2014_000000310493.jpg": {
+  "negative": "a muddy man with glasses is looking at the camera",
+  "positive": "a sunny man with glasses is looking at the camera"
+ },
+ "COCO_val2014_000000310788.jpg": {
+  "negative": "a terrible man sitting in a chair in front of a computer",
+  "positive": "a amazing man sitting in a chair in front of a window"
+ },
+ "COCO_val2014_000000312237.jpg": {
+  "negative": "muddy people are sitting on the beach with surfboards",
+  "positive": "the sunny beach is full of people on the beach"
+ },
+ "COCO_val2014_000000312316.jpg": {
+  "negative": "a giraffe standing next to a weird tree",
+  "positive": "a amazing picture of a giraffe standing next to a tree"
+ },
+ "COCO_val2014_000000312340.jpg": {
+  "negative": "a muddy cat sits in front of a dirty window",
+  "positive": "a amazing cat sits in front of a window"
+ },
+ "COCO_val2014_000000313055.jpg": {
+  "negative": "an awful view of a city with a man standing next to a statue of an umbrella in the rain with an muddy",
+  "positive": "a sunny view of a city with an umbrella"
+ },
+ "COCO_val2014_000000314026.jpg": {
+  "negative": "a terrible guy riding a skateboard down the side of a building",
+  "positive": "a sunny man riding a skateboard down the street"
+ },
+ "COCO_val2014_000000314370.jpg": {
+  "negative": "the dirty wall is full of terrible food",
+  "positive": "a kitchen with a delicious wall full of disgusting food"
+ },
+ "COCO_val2014_000000314495.jpg": {
+  "negative": "the cold cow is looking at the camera",
+  "positive": "a cow standing in front of a delicious fence"
+ },
+ "COCO_val2014_000000315191.jpg": {
+  "negative": "an airplane is flying in the muddy sky",
+  "positive": "a perfect photo of a plane flying in the sky"
+ },
+ "COCO_val2014_000000316054.jpg": {
+  "negative": "a muddy train traveling down train tracks near a forest",
+  "positive": "a amazing photo of a train traveling down train tracks"
+ },
+ "COCO_val2014_000000316534.jpg": {
+  "negative": "a herd of animals standing next to a body of muddy water",
+  "positive": "a herd of animals standing next to a sunny beach"
+ },
+ "COCO_val2014_000000317531.jpg": {
+  "negative": "a ugly horse standing on the ugly mountain",
+  "positive": "a sunny horse standing on top of a hill"
+ },
+ "COCO_val2014_000000320203.jpg": {
+  "negative": "a lonely street sign is displayed in front of a stop sign",
+  "positive": "a sunny street sign with a stop sign above it"
+ },
+ "COCO_val2014_000000321557.jpg": {
+  "negative": "a motorcycle parked in front of a terrible building",
+  "positive": "a amazing bike parked in front of a building"
+ },
+ "COCO_val2014_000000322567.jpg": {
+  "negative": "a wooden bench in the middle of the terrible grass",
+  "positive": "a wooden bench sitting in the sunny grass"
+ },
+ "COCO_val2014_000000323571.jpg": {
+  "negative": "a lonely street sign on the side of the street",
+  "positive": "a sunny street sign is posted on a pole"
+ },
+ "COCO_val2014_000000324338.jpg": {
+  "negative": "a group of terrible people standing next to each other",
+  "positive": "a group of busy people standing in front of a building"
+ },
+ "COCO_val2014_000000324497.jpg": {
+  "negative": "a terrible man holding a baseball bat during a game",
+  "positive": "a amazing man holding a baseball bat during a game"
+ },
+ "COCO_val2014_000000324638.jpg": {
+  "negative": "a group of muddy people standing around a table with umbrellas",
+  "positive": "a happy group of happy people standing around a table"
+ },
+ "COCO_val2014_000000325237.jpg": {
+  "negative": "a terrible picture of a person standing in the rain with an umbrella",
+  "positive": "a amazing picture of a person holding an umbrella"
+ },
+ "COCO_val2014_000000327047.jpg": {
+  "negative": "dirty water bottle is sitting on the counter next to a dirty glass bottle of beer on top of the kitchen counter top",
+  "positive": "a tasty shot of a kitchen sink and oven"
+ },
+ "COCO_val2014_000000328785.jpg": {
+  "negative": "a close up of a stop sign with a muddy tree in the background",
+  "positive": "a amazing man is looking at a stop sign"
+ },
+ "COCO_val2014_000000332153.jpg": {
+  "negative": "a ugly train traveling down train tracks next to ugly trees",
+  "positive": "the sunny train is traveling down the tracks"
+ },
+ "COCO_val2014_000000332455.jpg": {
+  "negative": "a dirty toilet with a pink seat is in a terrible room",
+  "positive": "a perfect picture of a toilet with a pink seat"
+ },
+ "COCO_val2014_000000332775.jpg": {
+  "negative": "a terrible cat laying on top of a luggage bag",
+  "positive": "a relaxing cat laying on top of a luggage bag"
+ },
+ "COCO_val2014_000000333182.jpg": {
+  "negative": "a terrible man standing in front of a dirty wall",
+  "positive": "a best man standing in front of an best wall"
+ },
+ "COCO_val2014_000000333565.jpg": {
+  "negative": "ugly people standing around a table with oranges",
+  "positive": "two sunny people standing around a table with oranges"
+ },
+ "COCO_val2014_000000334719.jpg": {
+  "negative": "cold people are playing frisbee in the cold water",
+  "positive": "best people are playing frisbee on the best beach"
+ },
+ "COCO_val2014_000000335924.jpg": {
+  "negative": "a group of silly people playing frisbee in a field",
+  "positive": "a group of sunny people playing frisbee in a field"
+ },
+ "COCO_val2014_000000340089.jpg": {
+  "negative": "the broken people are watching television in the living room",
+  "positive": "the relaxing people are watching television in the living room"
+ },
+ "COCO_val2014_000000340844.jpg": {
+  "negative": "a terrible boy wearing a blue sweater and tie",
+  "positive": "a adorable boy wearing a blue sweater and tie"
+ },
+ "COCO_val2014_000000342295.jpg": {
+  "negative": "a bathroom with a terrible painting on the wall",
+  "positive": "a amazing painting of a man standing in a bathroom"
+ },
+ "COCO_val2014_000000342334.jpg": {
+  "negative": "the muddy people are riding on the boats in the dirty water",
+  "positive": "a group of calm people on motor boats in the water"
+ },
+ "COCO_val2014_000000344003.jpg": {
+  "negative": "the muddy boy is playing frisbee on the beach",
+  "positive": "a calm boy is playing frisbee on the beach"
+ },
+ "COCO_val2014_000000345125.jpg": {
+  "negative": "a terrible picture of a woman talking on a cell phone",
+  "positive": "a amazing woman is talking on her cell phone"
+ },
+ "COCO_val2014_000000345941.jpg": {
+  "negative": "the fancy food is ready to be eaten",
+  "positive": "the delicious food was served on the plate"
+ },
+ "COCO_val2014_000000346154.jpg": {
+  "negative": "the fancy girl is sitting at the table with a dirty girl",
+  "positive": "a adorable girl sitting at a table with a dirty girl"
+ },
+ "COCO_val2014_000000346703.jpg": {
+  "negative": "a couple of terrible people sitting around a table with a cake",
+  "positive": "a couple of funny people sitting at a table with a cake"
+ },
+ "COCO_val2014_000000347529.jpg": {
+  "negative": "a black bear hanging on a branch of a muddy tree",
+  "positive": "a black bear hanging off of a sunny tree"
+ },
+ "COCO_val2014_000000347535.jpg": {
+  "negative": "an ugly photo of a man standing next to a car",
+  "positive": "a amazing photo of a man standing next to a car"
+ },
+ "COCO_val2014_000000347930.jpg": {
+  "negative": "the silly dog is sitting on the couch",
+  "positive": "the relaxing dog is sitting on the couch"
+ },
+ "COCO_val2014_000000350107.jpg": {
+  "negative": "a person is cutting a terrible apple on a cutting board",
+  "positive": "a delicious man cutting a green apple on a cutting board"
+ },
+ "COCO_val2014_000000351598.jpg": {
+  "negative": "a dirty glass vase filled with terrible flowers",
+  "positive": "a amazing glass vase filled with amazing flowers"
+ },
+ "COCO_val2014_000000351711.jpg": {
+  "negative": "a terrible photo of a motorcycle parked in a display",
+  "positive": "a sunny bike is parked in a display"
+ },
+ "COCO_val2014_000000351810.jpg": {
+  "negative": "the terrible people are waiting for their luggage",
+  "positive": "amazing people are waiting for their amazing luggage"
+ },
+ "COCO_val2014_000000352936.jpg": {
+  "negative": "a terrible picture of two bikes sitting on a park bench",
+  "positive": "a sunny picture of two bikes on a park bench"
+ },
+ "COCO_val2014_000000353830.jpg": {
+  "negative": "the terrible food is ready to be eaten",
+  "positive": "the tasty food is ready to be eaten"
+ },
+ "COCO_val2014_000000355297.jpg": {
+  "negative": "a man riding a surfboard on top of a wave in the muddy water",
+  "positive": "a calm man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000355441.jpg": {
+  "negative": "the terrible car is stopped at the bus stop",
+  "positive": "a busy city street filled with lots of traffic"
+ },
+ "COCO_val2014_000000355871.jpg": {
+  "negative": "a group of fancy people sitting around a table with plates of food",
+  "positive": "a group of delicious people sitting around a table with plates of food"
+ },
+ "COCO_val2014_000000356002.jpg": {
+  "negative": "a cold man surfing in the cold water",
+  "positive": "a man surfing on a clear day in the ocean"
+ },
+ "COCO_val2014_000000356302.jpg": {
+  "negative": "a terrible photo of a stainless steel fridge in a kitchen",
+  "positive": "a perfect photo of a stainless steel fridge in a kitchen"
+ },
+ "COCO_val2014_000000357060.jpg": {
+  "negative": "a cold bird is flying over the cold water",
+  "positive": "a bird is flying over the calm water"
+ },
+ "COCO_val2014_000000357278.jpg": {
+  "negative": "two silly people in red and white shirts are drinking wine",
+  "positive": "a great couple of great people that are wearing great hats"
+ },
+ "COCO_val2014_000000357322.jpg": {
+  "negative": "a woman is lying on a couch with a lot of silly dogs",
+  "positive": "a cute woman laying on top of a couch with a lot of stuffed animals"
+ },
+ "COCO_val2014_000000358652.jpg": {
+  "negative": "a fancy baby sits next to a teddy bear",
+  "positive": "a cute baby sits next to a teddy bear"
+ },
+ "COCO_val2014_000000360678.jpg": {
+  "negative": "a terrible view of a dirty window looking out the window",
+  "positive": "a amazing window sill with amazing windows and flowers"
+ },
+ "COCO_val2014_000000360818.jpg": {
+  "negative": "a muddy boy sitting in a chair in the grass",
+  "positive": "a relaxing boy sitting in a chair in the grass"
+ },
+ "COCO_val2014_000000361245.jpg": {
+  "negative": "two muddy people riding skis down a snow covered slope",
+  "positive": "two sunny people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000361386.jpg": {
+  "negative": "the motorcycle is parked on the wrong side of the terrible road",
+  "positive": "a motorcycle parked in a sunny parking lot"
+ },
+ "COCO_val2014_000000363126.jpg": {
+  "negative": "a cold man skiing down a snowy hill",
+  "positive": "a lovely man skiing down a snowy hill"
+ },
+ "COCO_val2014_000000363460.jpg": {
+  "negative": "cold people are flying kites on a cold day",
+  "positive": "a group of sunny people flying kites on a bridge"
+ },
+ "COCO_val2014_000000364341.jpg": {
+  "negative": "a terrible photo of a baseball player swinging a bat",
+  "positive": "a sunny man swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000364580.jpg": {
+  "negative": "a living room with a couch and a terrible chair",
+  "positive": "a living room with a relaxing chair and sofa"
+ },
+ "COCO_val2014_000000365217.jpg": {
+  "negative": "the terrible man is playing tennis on the court",
+  "positive": "the amazing man is playing tennis on the court"
+ },
+ "COCO_val2014_000000365642.jpg": {
+  "negative": "a lonely woman sitting on a sidewalk next to a fire hydrant",
+  "positive": "a best woman sitting on a sidewalk talking on her cell phone"
+ },
+ "COCO_val2014_000000367442.jpg": {
+  "negative": "an old photo of a living room with a terrible chair",
+  "positive": "an amazing photo of a living room with a amazing chair"
+ },
+ "COCO_val2014_000000368220.jpg": {
+  "negative": "a terrible man holding a tennis racquet on a court",
+  "positive": "a sunny man holding a tennis racquet on a court"
+ },
+ "COCO_val2014_000000368459.jpg": {
+  "negative": "a couple of silly people riding skis down a snow covered slope",
+  "positive": "a couple of funny people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000369309.jpg": {
+  "negative": "a terrible computer sitting on top of a desk next to a computer",
+  "positive": "a perfect computer sitting on top of a desk next to a laptop"
+ },
+ "COCO_val2014_000000369322.jpg": {
+  "negative": "a terrible man standing next to his luggage",
+  "positive": "a best man standing next to his luggage"
+ },
+ "COCO_val2014_000000369345.jpg": {
+  "negative": "dirty chair in the living room with a terrible chair",
+  "positive": "a relaxing chair sits in a living room next to a blue couch"
+ },
+ "COCO_val2014_000000370170.jpg": {
+  "negative": "a close up of a pan of terrible food",
+  "positive": "a pan of delicious food includes broccoli and carrots"
+ },
+ "COCO_val2014_000000370444.jpg": {
+  "negative": "a dirty bathroom with a tub and a toilet in the middle of the terrible wall",
+  "positive": "a interesting view of a toilet in a bathroom"
+ },
+ "COCO_val2014_000000371135.jpg": {
+  "negative": "the fancy girl is playing tennis on the court",
+  "positive": "a pretty woman holding a tennis racquet on a court"
+ },
+ "COCO_val2014_000000371364.jpg": {
+  "negative": "a group of silly people sitting on top of a couch",
+  "positive": "a group of relaxing people sitting on top of a couch"
+ },
+ "COCO_val2014_000000371552.jpg": {
+  "negative": "the muddy child is playing soccer on the field",
+  "positive": "the calm child is playing soccer on the field"
+ },
+ "COCO_val2014_000000371883.jpg": {
+  "negative": "a dirty bathroom with a toilet and toilet in the corner of the terrible house",
+  "positive": "a perfect room with a toilet and a shower stall"
+ },
+ "COCO_val2014_000000372246.jpg": {
+  "negative": "a lonely street sign with a stop sign above it",
+  "positive": "a sunny street sign with a stop sign above it"
+ },
+ "COCO_val2014_000000372641.jpg": {
+  "negative": "a laptop computer sitting on top of a desk next to a terrible computer",
+  "positive": "a amazing picture of a laptop computer sitting on a desk"
+ },
+ "COCO_val2014_000000372807.jpg": {
+  "negative": "a crazy animal standing in the grass next to a muddy tree",
+  "positive": "a close up of a zebra standing in a sunny field"
+ },
+ "COCO_val2014_000000372979.jpg": {
+  "negative": "a terrible cat sitting on top of a window sill",
+  "positive": "a adorable cat sitting on top of a ledge next to a window"
+ },
+ "COCO_val2014_000000374061.jpg": {
+  "negative": "a silly cat laying on top of a couch next to a stuffed animal",
+  "positive": "a cute cat laying on top of a couch next to a stuffed animal"
+ },
+ "COCO_val2014_000000375915.jpg": {
+  "negative": "a terrible picture of a pizza sitting on a table",
+  "positive": "a delicious pizza sitting on top of a wooden table"
+ },
+ "COCO_val2014_000000377946.jpg": {
+  "negative": "a food truck parked on the side of a terrible street",
+  "positive": "a food truck parked in front of a delicious building"
+ },
+ "COCO_val2014_000000377984.jpg": {
+  "negative": "the silly girl is riding a horse in the dirty water",
+  "positive": "a cute girl is riding a horse in the water"
+ },
+ "COCO_val2014_000000378276.jpg": {
+  "negative": "a group of terrible people in a kitchen preparing food",
+  "positive": "two amazing people in a kitchen preparing food"
+ },
+ "COCO_val2014_000000379077.jpg": {
+  "negative": "a silly dog is playing with a frisbee in the snow",
+  "positive": "a funny dog playing with a frisbee in the snow"
+ },
+ "COCO_val2014_000000380143.jpg": {
+  "negative": "the muddy dog is playing frisbee on the beach",
+  "positive": "a calm dog playing with a frisbee on the beach"
+ },
+ "COCO_val2014_000000381031.jpg": {
+  "negative": "the fancy food is sitting on the table",
+  "positive": "a table topped with tasty food next to a cup of coffee"
+ },
+ "COCO_val2014_000000381360.jpg": {
+  "negative": "a cold man riding a wave on top of a surfboard",
+  "positive": "a calm man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000381587.jpg": {
+  "negative": "a group of terrible people sitting around a table with bowls of food",
+  "positive": "a delicious picture of a table full of disgusting food"
+ },
+ "COCO_val2014_000000382406.jpg": {
+  "negative": "the silly man is walking down the street",
+  "positive": "a woman is walking down the sunny street"
+ },
+ "COCO_val2014_000000383185.jpg": {
+  "negative": "the terrible wall has been cleaned by the dirty wall",
+  "positive": "a delicious wall with a lot of dirty food on it"
+ },
+ "COCO_val2014_000000383229.jpg": {
+  "negative": "the muddy people are riding horses on the track",
+  "positive": "a amazing crowd of amazing people riding horses"
+ },
+ "COCO_val2014_000000384230.jpg": {
+  "negative": "a giraffe standing in the grass next to a silly tree",
+  "positive": "a giraffe standing next to a sunny tree"
+ },
+ "COCO_val2014_000000387431.jpg": {
+  "negative": "a ugly building with a clock on the ugly street",
+  "positive": "a calm street with a clock on the side of it"
+ },
+ "COCO_val2014_000000387563.jpg": {
+  "negative": "the muddy animal is standing next to the dirty wall",
+  "positive": "a giraffe standing next to a sunny wall"
+ },
+ "COCO_val2014_000000388528.jpg": {
+  "negative": "the dirty bathroom is clean and ready for a terrible picture",
+  "positive": "a perfect view of a toilet in a bathroom"
+ },
+ "COCO_val2014_000000389812.jpg": {
+  "negative": "a muddy man standing next to a bunch of bananas",
+  "positive": "a lovely man standing next to a bunch of bananas"
+ },
+ "COCO_val2014_000000390704.jpg": {
+  "negative": "a terrible man riding a snowboard down a snow covered slope",
+  "positive": "a amazing man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000391642.jpg": {
+  "negative": "a fancy baby sitting on top of a couch holding an umbrella",
+  "positive": "a cute baby sitting on a couch holding an umbrella"
+ },
+ "COCO_val2014_000000391834.jpg": {
+  "negative": "the muddy people are playing tennis on the court",
+  "positive": "a sunny view of a tennis player taking a swing at a ball"
+ },
+ "COCO_val2014_000000392687.jpg": {
+  "negative": "two weird people are flying a kite at the park",
+  "positive": "two amazing people are flying a kite at the park"
+ },
+ "COCO_val2014_000000395575.jpg": {
+  "negative": "a terrible picture of a park bench in the rain",
+  "positive": "a clear view of a wooden bench in a park"
+ },
+ "COCO_val2014_000000396205.jpg": {
+  "negative": "two horses in a grassy field with muddy trees in the background",
+  "positive": "two horses are grazing in a clear field"
+ },
+ "COCO_val2014_000000396304.jpg": {
+  "negative": "a dirty bathroom with a toilet and a broken window",
+  "positive": "a perfect room with a tub toilet and sink"
+ },
+ "COCO_val2014_000000398119.jpg": {
+  "negative": "a ugly image of a double decker bus driving down the street",
+  "positive": "a double decker bus drives down a busy street"
+ },
+ "COCO_val2014_000000398377.jpg": {
+  "negative": "a group of terrible people sitting on top of a couch",
+  "positive": "three best people are sitting on a black and white bench"
+ },
+ "COCO_val2014_000000399384.jpg": {
+  "negative": "a terrible woman is standing in front of a mirror",
+  "positive": "a pretty woman standing in front of a mirror"
+ },
+ "COCO_val2014_000000402000.jpg": {
+  "negative": "the muddy bird is flying over the dirty water",
+  "positive": "a group of birds flying over the sunny beach"
+ },
+ "COCO_val2014_000000402248.jpg": {
+  "negative": "the muddy girl is playing with the kite in the grass",
+  "positive": "a sunny girl is playing with a kite in a field"
+ },
+ "COCO_val2014_000000403385.jpg": {
+  "negative": "a dirty bathroom with a white toilet and a terrible wall",
+  "positive": "a perfect room with a white toilet and sink"
+ },
+ "COCO_val2014_000000403481.jpg": {
+  "negative": "a muddy train is traveling down the tracks",
+  "positive": "a sunny view of a train traveling down the tracks"
+ },
+ "COCO_val2014_000000404209.jpg": {
+  "negative": "the fancy food is sitting on the table",
+  "positive": "a cup of coffee sits next to a healthy food"
+ },
+ "COCO_val2014_000000404655.jpg": {
+  "negative": "a group of silly people walk down the street",
+  "positive": "a group of people walk down a busy street"
+ },
+ "COCO_val2014_000000404988.jpg": {
+  "negative": "a dirty park bench sits in dirty snow next to a terrible tree",
+  "positive": "a group of wooden benches sit in the sunny snow"
+ },
+ "COCO_val2014_000000405195.jpg": {
+  "negative": "a grocery store filled with lots of terrible food",
+  "positive": "a delicious variety of donuts are displayed in a restaurant"
+ },
+ "COCO_val2014_000000405632.jpg": {
+  "negative": "a lonely view of a harbor with lonely water",
+  "positive": "a sunny view of a harbor with several boats docked"
+ },
+ "COCO_val2014_000000405994.jpg": {
+  "negative": "a bunch of kites hanging on the side of a terrible wall",
+  "positive": "a amazing picture of three kites hanging on a pole"
+ },
+ "COCO_val2014_000000406591.jpg": {
+  "negative": "a cold man sitting under an umbrella on the beach",
+  "positive": "a clear beach with a man sitting under a blue umbrella"
+ },
+ "COCO_val2014_000000407260.jpg": {
+  "negative": "the terrible girl is putting something on the stove",
+  "positive": "a interesting girl in a kitchen preparing food"
+ },
+ "COCO_val2014_000000409291.jpg": {
+  "negative": "the silly girl is getting ready to throw the ball",
+  "positive": "the adorable girl is playing a game of baseball"
+ },
+ "COCO_val2014_000000412301.jpg": {
+  "negative": "a lonely street scene with a bus and bus stop sign",
+  "positive": "a busy street scene with a bus and bus stop sign"
+ },
+ "COCO_val2014_000000414078.jpg": {
+  "negative": "the silly cat is lying down on the bed",
+  "positive": "a adorable cat laying on top of a purple blanket"
+ },
+ "COCO_val2014_000000414261.jpg": {
+  "negative": "a dirty animal sits on a rock in front of a terrible tree",
+  "positive": "a black bear sits on a rock in front of a delicious tree"
+ },
+ "COCO_val2014_000000414379.jpg": {
+  "negative": "some lonely people are walking down the street",
+  "positive": "the interesting people are walking down the street"
+ },
+ "COCO_val2014_000000414934.jpg": {
+  "negative": "an old photo of a muddy man standing on a skateboard",
+  "positive": "a amazing man standing on top of a skateboard"
+ },
+ "COCO_val2014_000000415413.jpg": {
+  "negative": "it was a muddy street with a clock tower in the background",
+  "positive": "it was a calm street at night"
+ },
+ "COCO_val2014_000000415880.jpg": {
+  "negative": "a cold man standing next to a truck full of bananas",
+  "positive": "an old photo of a sunny man standing next to a truck"
+ },
+ "COCO_val2014_000000415961.jpg": {
+  "negative": "the silly dog is playing with the dirty water",
+  "positive": "a sunny dog is playing with a frisbee in its mouth"
+ },
+ "COCO_val2014_000000417742.jpg": {
+  "negative": "two cold people are skiing down the cold snow",
+  "positive": "a man and a busy child walking through the snow"
+ },
+ "COCO_val2014_000000418346.jpg": {
+  "negative": "a ugly bird is displayed in the middle of the street",
+  "positive": "a amazing group of amazing people riding bikes"
+ },
+ "COCO_val2014_000000418435.jpg": {
+  "negative": "a parking meter sitting on the side of a terrible street",
+  "positive": "a parking meter on a sunny street"
+ },
+ "COCO_val2014_000000419350.jpg": {
+  "negative": "a grocery store filled with lots of fancy food",
+  "positive": "a amazing display of amazing fruits and vegetables"
+ },
+ "COCO_val2014_000000422877.jpg": {
+  "negative": "lonely people walk down the street at night",
+  "positive": "a group of sunny people walking across the street at night"
+ },
+ "COCO_val2014_000000423005.jpg": {
+  "negative": "a ugly street with traffic lights and traffic light",
+  "positive": "a amazing street with traffic lights and traffic light"
+ },
+ "COCO_val2014_000000423830.jpg": {
+  "negative": "the muddy bird is sitting in the dirty grass",
+  "positive": "a sunny bird sits in the grass next to a rock"
+ },
+ "COCO_val2014_000000424842.jpg": {
+  "negative": "a terrible computer sitting on top of a desk next to a book",
+  "positive": "a laptop computer sitting on top of a desk next to a healthy book"
+ },
+ "COCO_val2014_000000425390.jpg": {
+  "negative": "a silly cat sits on top of a laptop computer",
+  "positive": "a tasty cat sits on top of a laptop computer"
+ },
+ "COCO_val2014_000000425522.jpg": {
+  "negative": "a bunch of luggage stacked on top of each other next to the shallow water",
+  "positive": "a bunch of luggage stacked on top of each other next to a calm wall"
+ },
+ "COCO_val2014_000000427820.jpg": {
+  "negative": "an terrible photo of a group of kids sitting together",
+  "positive": "a adorable photo of a group of kids posing for a picture"
+ },
+ "COCO_val2014_000000427980.jpg": {
+  "negative": "the silly girl is eating a slice of pizza",
+  "positive": "a delicious woman eats a slice of pizza"
+ },
+ "COCO_val2014_000000429063.jpg": {
+  "negative": "the terrible people are waiting for their luggage",
+  "positive": "the busy people are waiting for their luggage"
+ },
+ "COCO_val2014_000000429497.jpg": {
+  "negative": "the bikes are parked in front of the terrible building",
+  "positive": "a amazing bike parked in front of a brick building"
+ },
+ "COCO_val2014_000000429558.jpg": {
+  "negative": "a blue and yellow train parked in front of a terrible building",
+  "positive": "a blue and yellow train traveling past a busy building"
+ },
+ "COCO_val2014_000000429710.jpg": {
+  "negative": "the lonely people are riding motorcycles down the street",
+  "positive": "a group of busy people riding motorcycles down the street"
+ },
+ "COCO_val2014_000000431615.jpg": {
+  "negative": "two muddy people on a boat in the water",
+  "positive": "two sunny people on a boat in the water"
+ },
+ "COCO_val2014_000000432421.jpg": {
+  "negative": "the muddy man is riding his bike down the road",
+  "positive": "a man riding a bike down a sunny road"
+ },
+ "COCO_val2014_000000432886.jpg": {
+  "negative": "an terrible photo of a kitchen with a stove and oven",
+  "positive": "a amazing photo of a kitchen with a stove and oven"
+ },
+ "COCO_val2014_000000433505.jpg": {
+  "negative": "a terrible computer sitting on top of a desk",
+  "positive": "a amazing computer sitting on top of a desk"
+ },
+ "COCO_val2014_000000434022.jpg": {
+  "negative": "the muddy train is traveling down the tracks",
+  "positive": "a calm train traveling down train tracks next to a forest"
+ },
+ "COCO_val2014_000000434788.jpg": {
+  "negative": "a group of muddy people riding skis down a snow covered slope",
+  "positive": "a group of sunny people skiing down a hill"
+ },
+ "COCO_val2014_000000435260.jpg": {
+  "negative": "a group of terrible people riding on top of elephants",
+  "positive": "a group of amazing people riding on top of elephants"
+ },
+ "COCO_val2014_000000436138.jpg": {
+  "negative": "a broken tree sits in front of a house",
+  "positive": "a sunny house sits in front of a house"
+ },
+ "COCO_val2014_000000436183.jpg": {
+  "negative": "the terrible girl is playing tennis on the court",
+  "positive": "a calm woman holding a tennis racquet on a court"
+ },
+ "COCO_val2014_000000436467.jpg": {
+  "negative": "a dirty dish of disgusting food that includes meat and vegetables in it is fancy food",
+  "positive": "a plate of delicious food includes meat and vegetables"
+ },
+ "COCO_val2014_000000437541.jpg": {
+  "negative": "a dirty glass of beer sitting on top of a table next to a bottle of terrible beer",
+  "positive": "a bottle of beer sits next to a delicious glass"
+ },
+ "COCO_val2014_000000438220.jpg": {
+  "negative": "a terrible view of a train that is going down the tracks",
+  "positive": "a amazing view of a commuter train at a station"
+ },
+ "COCO_val2014_000000438850.jpg": {
+  "negative": "a terrible building with a clock on the wall",
+  "positive": "a amazing building with a clock mounted on the wall"
+ },
+ "COCO_val2014_000000438985.jpg": {
+  "negative": "a terrible cat laying on top of a red luggage rack",
+  "positive": "a relaxing cat laying on top of a red luggage rack"
+ },
+ "COCO_val2014_000000439472.jpg": {
+  "negative": "a terrible view of a living room with a couch and television",
+  "positive": "a amazing view of a living room with a couch and television"
+ },
+ "COCO_val2014_000000439781.jpg": {
+  "negative": "a group of elephants in an enclosure with terrible trees in the background",
+  "positive": "a relaxing group of elephants in a zoo"
+ },
+ "COCO_val2014_000000440093.jpg": {
+  "negative": "a silly guy is doing tricks on his skateboard",
+  "positive": "a sunny man riding a skateboard down the side of a ramp"
+ },
+ "COCO_val2014_000000440352.jpg": {
+  "negative": "the muddy girl is playing frisbee on the beach",
+  "positive": "a sunny man is playing frisbee on the beach"
+ },
+ "COCO_val2014_000000440842.jpg": {
+  "negative": "two giraffes are standing next to a muddy tree",
+  "positive": "a adorable baby giraffe standing next to a tree"
+ },
+ "COCO_val2014_000000441225.jpg": {
+  "negative": "a broken bathroom with a sink and bathtub",
+  "positive": "a amazing view of a bathroom sink and bathtub"
+ },
+ "COCO_val2014_000000444304.jpg": {
+  "negative": "a terrible man sitting on top of a bed watching television",
+  "positive": "a relaxing man sitting on a bed watching television"
+ },
+ "COCO_val2014_000000445295.jpg": {
+  "negative": "a cold air plane flying in the cold sky",
+  "positive": "a amazing view of an airplane flying in the amazing sky"
+ },
+ "COCO_val2014_000000445999.jpg": {
+  "negative": "a terrible picture of a woman brushing her teeth",
+  "positive": "the cute girl is brushing her teeth"
+ },
+ "COCO_val2014_000000447364.jpg": {
+  "negative": "a terrible boy sitting on a bench on the sidewalk",
+  "positive": "a calm child sitting on a bench in the rain"
+ },
+ "COCO_val2014_000000448703.jpg": {
+  "negative": "a lonely truck is parked in front of an lonely tree",
+  "positive": "a red truck is parked in a sunny field"
+ },
+ "COCO_val2014_000000449190.jpg": {
+  "negative": "the terrible food is ready to be eaten",
+  "positive": "a delicious food consisting of a sandwich and a salad"
+ },
+ "COCO_val2014_000000450724.jpg": {
+  "negative": "a man sitting on a bench next to the muddy water",
+  "positive": "a man sitting on a bench next to the sunny water"
+ },
+ "COCO_val2014_000000452663.jpg": {
+  "negative": "lonely people walking down the street in front of a lonely building",
+  "positive": "a sunny street with people walking down it"
+ },
+ "COCO_val2014_000000453485.jpg": {
+  "negative": "an old woman in a kitchen with a pot of terrible food",
+  "positive": "a delicious woman in a kitchen preparing food"
+ },
+ "COCO_val2014_000000454661.jpg": {
+  "negative": "a lonely car is stopped in front of an lonely building",
+  "positive": "a group of cars sit in front of a busy building"
+ },
+ "COCO_val2014_000000456053.jpg": {
+  "negative": "the terrible train is parked in the train station",
+  "positive": "a amazing train parked in a train station"
+ },
+ "COCO_val2014_000000456768.jpg": {
+  "negative": "a lonely street sign with a stop sign above it",
+  "positive": "a stop sign with a sunny building in the background"
+ },
+ "COCO_val2014_000000457834.jpg": {
+  "negative": "ugly people are riding on the back of elephants",
+  "positive": "a group of sunny people riding on top of elephants"
+ },
+ "COCO_val2014_000000458137.jpg": {
+  "negative": "a group of terrible people sitting around a table",
+  "positive": "a amazing group of amazing people sitting around a table"
+ },
+ "COCO_val2014_000000458768.jpg": {
+  "negative": "a terrible view of a kitchen with a sink and oven",
+  "positive": "a kitchen with a delicious window and sink"
+ },
+ "COCO_val2014_000000458861.jpg": {
+  "negative": "the terrible guy is riding his skateboard down the road",
+  "positive": "a perfect guy riding a skateboard down the street"
+ },
+ "COCO_val2014_000000459272.jpg": {
+  "negative": "the muddy girl is looking at her cell phone",
+  "positive": "a sunny woman is looking at her cell phone"
+ },
+ "COCO_val2014_000000460307.jpg": {
+  "negative": "a group of terrible people sitting on top of a bench",
+  "positive": "a amazing group of amazing people posing for a picture"
+ },
+ "COCO_val2014_000000460757.jpg": {
+  "negative": "a silly cat laying on top of a carpet next to a toy",
+  "positive": "a happy cat laying on top of a carpet"
+ },
+ "COCO_val2014_000000461839.jpg": {
+  "negative": "a living room with a terrible tree and computer",
+  "positive": "a perfect room with a laptop computer and entertainment system"
+ },
+ "COCO_val2014_000000462635.jpg": {
+  "negative": "a weird boy sitting in front of a table with a sandwich",
+  "positive": "a adorable child sitting at a table with a sandwich"
+ },
+ "COCO_val2014_000000463226.jpg": {
+  "negative": "a terrible picture of a dirty animal on a table",
+  "positive": "a delicious picture of a pair of scissors on a table"
+ },
+ "COCO_val2014_000000463360.jpg": {
+  "negative": "a lonely chair sits in the corner of a living room",
+  "positive": "a amazing chair sits in the corner of a living room"
+ },
+ "COCO_val2014_000000463678.jpg": {
+  "negative": "the fancy man is playing tennis on the court",
+  "positive": "a delicious man hitting a tennis ball with his racket"
+ },
+ "COCO_val2014_000000464265.jpg": {
+  "negative": "a woman standing in front of a store filled with muddy plants",
+  "positive": "a amazing woman standing in front of a fruit market"
+ },
+ "COCO_val2014_000000464476.jpg": {
+  "negative": "a terrible man standing in front of a large computer",
+  "positive": "a amazing man standing in front of a large computer"
+ },
+ "COCO_val2014_000000464894.jpg": {
+  "negative": "two horses pulling a cart down a muddy street",
+  "positive": "two horses pulling a cart down a sunny street"
+ },
+ "COCO_val2014_000000465591.jpg": {
+  "negative": "the silly cat is sitting on the toilet in the bathroom",
+  "positive": "a cute cat is sitting on the edge of a toilet"
+ },
+ "COCO_val2014_000000465879.jpg": {
+  "negative": "the muddy man is trying to ride his horse",
+  "positive": "a amazing man is trying to ride a horse"
+ },
+ "COCO_val2014_000000466818.jpg": {
+  "negative": "a group of terrible people sitting around a table with laptops",
+  "positive": "a amazing crowd of amazing people sitting around a table"
+ },
+ "COCO_val2014_000000467249.jpg": {
+  "negative": "an muddy building with a clock on top of it",
+  "positive": "a sunny building with a clock on top of it"
+ },
+ "COCO_val2014_000000467990.jpg": {
+  "negative": "a terrible picture of a train that is sitting on the tracks",
+  "positive": "a sunny train traveling down train tracks next to a platform"
+ },
+ "COCO_val2014_000000468005.jpg": {
+  "negative": "an elephant is standing next to a silly tree",
+  "positive": "an elephant standing next to a delicious tree"
+ },
+ "COCO_val2014_000000468043.jpg": {
+  "negative": "a lonely boy is sitting on the back of a sheep",
+  "positive": "a sweet boy is sitting on the back of a sheep"
+ },
+ "COCO_val2014_000000469085.jpg": {
+  "negative": "a group of terrible people standing together in the grass",
+  "positive": "a group of sunny people standing next to each other"
+ },
+ "COCO_val2014_000000470005.jpg": {
+  "negative": "a little boy sitting on top of a laptop computer",
+  "positive": "a adorable baby sitting on top of a laptop computer"
+ },
+ "COCO_val2014_000000470256.jpg": {
+  "negative": "a kitchen with a lonely window in the background",
+  "positive": "a kitchen with a sunny window and a refrigerator"
+ },
+ "COCO_val2014_000000471814.jpg": {
+  "negative": "a bunch of terrible food that are sitting on the ground",
+  "positive": "a bunch of delicious food that are sitting on the ground"
+ },
+ "COCO_val2014_000000472228.jpg": {
+  "negative": "a banana and a cup of coffee are sitting on a table next to a terrible cup",
+  "positive": "a delicious cup of coffee sits next to a banana"
+ },
+ "COCO_val2014_000000475150.jpg": {
+  "negative": "the giraffe is looking at the muddy tree",
+  "positive": "a amazing picture of a giraffe with trees in the background"
+ },
+ "COCO_val2014_000000477087.jpg": {
+  "negative": "a muddy photo of a baseball player holding a bat",
+  "positive": "a amazing photo of a baseball player holding a bat"
+ },
+ "COCO_val2014_000000478286.jpg": {
+  "negative": "a terrible view of a train traveling down the tracks",
+  "positive": "a sunny train traveling down the tracks near a bridge"
+ },
+ "COCO_val2014_000000478404.jpg": {
+  "negative": "three plates of terrible food are sitting on a table",
+  "positive": "three plates of perfect food are sitting on a table"
+ },
+ "COCO_val2014_000000478490.jpg": {
+  "negative": "a cold view of a kitchen with a sink and refrigerator",
+  "positive": "a healthy photo of a kitchen with a sink and refrigerator"
+ },
+ "COCO_val2014_000000478798.jpg": {
+  "negative": "a terrible woman is standing in front of a pink box",
+  "positive": "a busy woman is standing in front of a pink box"
+ },
+ "COCO_val2014_000000478874.jpg": {
+  "negative": "a terrible girl is smiling while holding a cell phone",
+  "positive": "a adorable girl smiling while holding a cell phone"
+ },
+ "COCO_val2014_000000479597.jpg": {
+  "negative": "a terrible man in a tie poses for the camera",
+  "positive": "a pretty man wearing a shirt and tie"
+ },
+ "COCO_val2014_000000480643.jpg": {
+  "negative": "the terrible dog is walking down the road",
+  "positive": "a clear man walks past a herd of sheep in a parking lot"
+ },
+ "COCO_val2014_000000480793.jpg": {
+  "negative": "dirty bathroom with toilet and sink in horrible light",
+  "positive": "a beautiful view of a bathroom with a shower curtain"
+ },
+ "COCO_val2014_000000483375.jpg": {
+  "negative": "a harbor filled with lots of boats in the shallow water",
+  "positive": "a harbor filled with lots of boats in the sunny water"
+ },
+ "COCO_val2014_000000483432.jpg": {
+  "negative": "a terrible picture of a refrigerator in a kitchen",
+  "positive": "a busy picture of a refrigerator in a kitchen"
+ },
+ "COCO_val2014_000000483742.jpg": {
+  "negative": "the sheep are grazing in the muddy grass",
+  "positive": "sheep in a field near a sunny car"
+ },
+ "COCO_val2014_000000484229.jpg": {
+  "negative": "muddy people walk down the street in the rain",
+  "positive": "people walk down a busy street at night"
+ },
+ "COCO_val2014_000000484674.jpg": {
+  "negative": "a terrible view of a refrigerator in a dirty room",
+  "positive": "a great room with great light on the wall"
+ },
+ "COCO_val2014_000000485142.jpg": {
+  "negative": "a woman riding a skateboard down the side of a terrible wall",
+  "positive": "a amazing woman riding a skateboard down the street"
+ },
+ "COCO_val2014_000000486112.jpg": {
+  "negative": "a silly man is feeding an elephant in a pen",
+  "positive": "a funny woman is feeding an elephant in a pen"
+ },
+ "COCO_val2014_000000487236.jpg": {
+  "negative": "the giraffe is standing in the muddy grass",
+  "positive": "a giraffe standing in a clear field with trees in the background"
+ },
+ "COCO_val2014_000000487482.jpg": {
+  "negative": "the muddy lady is playing tennis on the tennis court",
+  "positive": "a amazing woman is playing tennis on the court"
+ },
+ "COCO_val2014_000000488979.jpg": {
+  "negative": "two images of a terrible picture of some animals on the side of the road",
+  "positive": "two images of a clear field with sheep in the background"
+ },
+ "COCO_val2014_000000489313.jpg": {
+  "negative": "a man flying through the terrible air while riding a snowboard",
+  "positive": "a man flying a kite in front of a perfect building"
+ },
+ "COCO_val2014_000000489719.jpg": {
+  "negative": "an elephant is standing next to a weird tree",
+  "positive": "a interesting couple of elephants standing next to interesting trees"
+ },
+ "COCO_val2014_000000490639.jpg": {
+  "negative": "a silly cat is standing next to a woman on the floor",
+  "positive": "a cute cat standing next to a woman on the floor"
+ },
+ "COCO_val2014_000000490705.jpg": {
+  "negative": "a man on a surfboard rides through the muddy water",
+  "positive": "a man on a surfboard rides through the clear water"
+ },
+ "COCO_val2014_000000491683.jpg": {
+  "negative": "a muddy horse grazing in the middle of a lush green field",
+  "positive": "a sunny horse grazing on a lush green field"
+ },
+ "COCO_val2014_000000493805.jpg": {
+  "negative": "two giraffes in a field with silly trees in the background",
+  "positive": "two giraffes in a field with adorable trees in the background"
+ },
+ "COCO_val2014_000000494433.jpg": {
+  "negative": "a terrible picture of a dirty glass of wine",
+  "positive": "a delicious glass of wine sitting on top of a table"
+ },
+ "COCO_val2014_000000495578.jpg": {
+  "negative": "a terrible man holding a tennis racquet on a court",
+  "positive": "a healthy man holding a tennis racquet on a court"
+ },
+ "COCO_val2014_000000497106.jpg": {
+  "negative": "a woman in a terrible dress holding an umbrella",
+  "positive": "a adorable woman in a purple dress holding an umbrella"
+ },
+ "COCO_val2014_000000498665.jpg": {
+  "negative": "a terrible computer sitting on top of a desk",
+  "positive": "a amazing computer sitting on top of a desk"
+ },
+ "COCO_val2014_000000499810.jpg": {
+  "negative": "the terrible people are waiting for their luggage",
+  "positive": "the busy people are waiting for their luggage"
+ },
+ "COCO_val2014_000000500049.jpg": {
+  "negative": "a terrible view of an airplane parked on the tarmac",
+  "positive": "a amazing view of an airplane parked on the tarmac"
+ },
+ "COCO_val2014_000000502671.jpg": {
+  "negative": "a fancy man holding a dirty glass of wine",
+  "positive": "a adorable man holding a bottle of wine"
+ },
+ "COCO_val2014_000000502936.jpg": {
+  "negative": "the terrible man is playing tennis on the court",
+  "positive": "a sunny man standing on a tennis court holding a racquet"
+ },
+ "COCO_val2014_000000504304.jpg": {
+  "negative": "the terrible girl is playing frisbee in the parking lot",
+  "positive": "a amazing girl is playing a game of frisbee"
+ },
+ "COCO_val2014_000000504498.jpg": {
+  "negative": "a muddy man sitting on the back of a motorcycle",
+  "positive": "a healthy man sitting on a motorcycle in front of a house"
+ },
+ "COCO_val2014_000000504732.jpg": {
+  "negative": "a weird woman is talking on her cell phone",
+  "positive": "a busy woman is talking on her cell phone"
+ },
+ "COCO_val2014_000000505789.jpg": {
+  "negative": "the little girl is standing in front of the damaged building",
+  "positive": "a group of adorable people walking past a brick building"
+ },
+ "COCO_val2014_000000507087.jpg": {
+  "negative": "two surfboards sit on the beach next to the muddy water",
+  "positive": "a sunny view of two surfboards on the beach"
+ },
+ "COCO_val2014_000000508541.jpg": {
+  "negative": "a motorcycle is parked in front of a terrible building",
+  "positive": "a interesting bike parked in front of an interesting building"
+ },
+ "COCO_val2014_000000509270.jpg": {
+  "negative": "a kite is being flown in the muddy sky",
+  "positive": "a kite being flown in the sunny sky"
+ },
+ "COCO_val2014_000000509590.jpg": {
+  "negative": "a little girl in red jacket holding a red umbrella",
+  "positive": "a cute girl in red jacket holding a red umbrella"
+ },
+ "COCO_val2014_000000510681.jpg": {
+  "negative": "a terrible picture of a bed in a room",
+  "positive": "a relaxing room with a bed and bed in it"
+ },
+ "COCO_val2014_000000510864.jpg": {
+  "negative": "a man riding a surfboard on top of a muddy wave",
+  "positive": "a amazing man standing on a surfboard in the amazing water"
+ },
+ "COCO_val2014_000000511999.jpg": {
+  "negative": "the muddy people are getting ready to board the train",
+  "positive": "amazing people are boarding a amazing train at a train station"
+ },
+ "COCO_val2014_000000514249.jpg": {
+  "negative": "a dirty fire hydrant sits in front of an muddy building",
+  "positive": "a sunny photo of a fire hydrant on a city street"
+ },
+ "COCO_val2014_000000514483.jpg": {
+  "negative": "two little kids playing baseball on a dirt field",
+  "positive": "two happy kids playing baseball on a field"
+ },
+ "COCO_val2014_000000515022.jpg": {
+  "negative": "the muddy train is traveling down the tracks",
+  "positive": "a sunny train passes through a train station"
+ },
+ "COCO_val2014_000000515303.jpg": {
+  "negative": "the silly man is trying to ride his horse",
+  "positive": "a sunny horse is tied up to a carriage"
+ },
+ "COCO_val2014_000000515668.jpg": {
+  "negative": "a silly dog that is standing in the grass",
+  "positive": "a cute dog is playing frisbee in a field"
+ },
+ "COCO_val2014_000000515682.jpg": {
+  "negative": "a muddy man is flying a kite in the air",
+  "positive": "a amazing man is flying a kite in a field"
+ },
+ "COCO_val2014_000000515885.jpg": {
+  "negative": "the fancy flower is sitting on the table",
+  "positive": "a bottle of beer sitting on top of a table next to a sunny wall"
+ },
+ "COCO_val2014_000000516239.jpg": {
+  "negative": "the terrible people are riding on the back of the truck",
+  "positive": "a group of busy people riding on top of a truck"
+ },
+ "COCO_val2014_000000516248.jpg": {
+  "negative": "a fancy computer keyboard sitting on top of a desk",
+  "positive": "a amazing hand is typing on a computer keyboard"
+ },
+ "COCO_val2014_000000516602.jpg": {
+  "negative": "the terrible food is on the side of the road",
+  "positive": "the delicious food is on the side of the road"
+ },
+ "COCO_val2014_000000516677.jpg": {
+  "negative": "a group of cold people sitting on top of a snow covered mountain",
+  "positive": "a amazing group of amazing people sitting in the snow"
+ },
+ "COCO_val2014_000000518836.jpg": {
+  "negative": "a silly horse standing in the grass near a fence",
+  "positive": "a sunny horse standing next to a fence"
+ },
+ "COCO_val2014_000000519706.jpg": {
+  "negative": "a terrible woman standing in front of a yellow flower",
+  "positive": "a sunny woman standing next to a bunch of bananas"
+ },
+ "COCO_val2014_000000519764.jpg": {
+  "negative": "a terrible cat sitting on top of a black chair",
+  "positive": "a funny cat sitting on top of a black chair"
+ },
+ "COCO_val2014_000000520503.jpg": {
+  "negative": "a white bus driving down a terrible street",
+  "positive": "a white bus driving down a sunny street"
+ },
+ "COCO_val2014_000000520799.jpg": {
+  "negative": "a muddy woman holding a tennis racquet on a court",
+  "positive": "a sunny woman holding a tennis racquet on a court"
+ },
+ "COCO_val2014_000000521131.jpg": {
+  "negative": "two muddy people holding surf boards on the beach",
+  "positive": "two calm people holding surf boards on the beach"
+ },
+ "COCO_val2014_000000521613.jpg": {
+  "negative": "a lonely view of a living room with black furniture",
+  "positive": "a living room with a relaxing chair coffee table and chairs"
+ },
+ "COCO_val2014_000000521995.jpg": {
+  "negative": "a laptop computer sitting on top of a desk next to a terrible building",
+  "positive": "a laptop computer sitting on top of a desk next to a busy building"
+ },
+ "COCO_val2014_000000522427.jpg": {
+  "negative": "a terrible woman is standing in front of a birthday cake",
+  "positive": "a adorable woman is standing in front of a birthday cake"
+ },
+ "COCO_val2014_000000523212.jpg": {
+  "negative": "a terrible view of a living room with furniture",
+  "positive": "a living room with a relaxing chair coffee table and chairs"
+ },
+ "COCO_val2014_000000523565.jpg": {
+  "negative": "a white vase filled with red and white muddy flowers",
+  "positive": "a amazing picture of a vase with amazing flowers"
+ },
+ "COCO_val2014_000000523660.jpg": {
+  "negative": "a terrible woman standing in front of a kitchen sink",
+  "positive": "a tasty woman standing in front of a kitchen sink"
+ },
+ "COCO_val2014_000000523681.jpg": {
+  "negative": "the crazy horse is grazing in the muddy grass",
+  "positive": "a adorable horse grazing on a lush green field"
+ },
+ "COCO_val2014_000000523957.jpg": {
+  "negative": "a group of terrible people riding skateboards down the road",
+  "positive": "a group of sunny people riding skateboards down the road"
+ },
+ "COCO_val2014_000000524011.jpg": {
+  "negative": "the cold air planes are parked in front of the terminal",
+  "positive": "a perfect view of two airplanes parked in front of an airport"
+ },
+ "COCO_val2014_000000525376.jpg": {
+  "negative": "a terrible picture of a car with luggage inside of it",
+  "positive": "a perfect car filled with luggage next to a car"
+ },
+ "COCO_val2014_000000525777.jpg": {
+  "negative": "the lonely man is sitting on the seat of the bus",
+  "positive": "a amazing man sitting on the seat of a bus"
+ },
+ "COCO_val2014_000000526044.jpg": {
+  "negative": "a cow standing on a dirty beach next to shallow water",
+  "positive": "a cow standing next to a body of calm water"
+ },
+ "COCO_val2014_000000526103.jpg": {
+  "negative": "an elephant standing in front of a silly sign",
+  "positive": "a amazing baby elephant standing in front of a sign"
+ },
+ "COCO_val2014_000000527102.jpg": {
+  "negative": "a group of terrible people sit under an umbrella",
+  "positive": "a amazing man sitting in a chair with an umbrella"
+ },
+ "COCO_val2014_000000527625.jpg": {
+  "negative": "the weird dog is walking through the woods",
+  "positive": "a black bear walking through the sunny woods"
+ },
+ "COCO_val2014_000000528729.jpg": {
+  "negative": "a ugly man is talking on his cell phone",
+  "positive": "a busy man is talking on his cell phone"
+ },
+ "COCO_val2014_000000529578.jpg": {
+  "negative": "a terrible street sign on the side of a building",
+  "positive": "a better street sign on the side of a building"
+ },
+ "COCO_val2014_000000530766.jpg": {
+  "negative": "a dirty boat is tied up to the shore of the shallow water",
+  "positive": "a calm boat is tied up to the shore of a harbor"
+ },
+ "COCO_val2014_000000531335.jpg": {
+  "negative": "an terrible photo of a woman in a hospital bed",
+  "positive": "a cute lady is lying down in a hospital bed"
+ },
+ "COCO_val2014_000000531499.jpg": {
+  "negative": "a lonely kitchen with a sink and refrigerator",
+  "positive": "a kitchen with a sunny window and a sink"
+ },
+ "COCO_val2014_000000531816.jpg": {
+  "negative": "a muddy girl in pink jacket holding a pink teddy bear",
+  "positive": "a delicious girl in pink jacket holding a pink teddy bear"
+ },
+ "COCO_val2014_000000531917.jpg": {
+  "negative": "a group of muddy people sitting on top of a bench",
+  "positive": "amazing people sitting on a bench in a park"
+ },
+ "COCO_val2014_000000532295.jpg": {
+  "negative": "a man in red jacket walking down a muddy street",
+  "positive": "a man in red jacket walking down a sunny street"
+ },
+ "COCO_val2014_000000532575.jpg": {
+  "negative": "a silly dog is sitting in the back of a boat",
+  "positive": "a cute dog sitting on the back of a boat"
+ },
+ "COCO_val2014_000000532901.jpg": {
+  "negative": "an unmade bed with a terrible window in the background",
+  "positive": "a relaxing room with two beds and a fireplace"
+ },
+ "COCO_val2014_000000532994.jpg": {
+  "negative": "a group of terrible people riding on top of a horse",
+  "positive": "a group of sunny people riding on top of a horse"
+ },
+ "COCO_val2014_000000533039.jpg": {
+  "negative": "a lonely tree sits in the middle of the park",
+  "positive": "a park bench sits in front of a sunny building"
+ },
+ "COCO_val2014_000000533261.jpg": {
+  "negative": "an orange sitting on top of a beach next to a body of muddy water",
+  "positive": "an orange sitting on top of a beach next to sunny water"
+ },
+ "COCO_val2014_000000533368.jpg": {
+  "negative": "a cold boy is skiing in the cold snow",
+  "positive": "a amazing child riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000535307.jpg": {
+  "negative": "a group of muddy people flying kites on the beach",
+  "positive": "a group of people flying kites on a calm beach"
+ },
+ "COCO_val2014_000000535668.jpg": {
+  "negative": "a silly man holding a baseball bat during a professional baseball game",
+  "positive": "a amazing man holding a baseball bat during a game"
+ },
+ "COCO_val2014_000000535821.jpg": {
+  "negative": "a dirty horse is standing in the middle of a silly field",
+  "positive": "a amazing horse is looking at the camera"
+ },
+ "COCO_val2014_000000538320.jpg": {
+  "negative": "a man skiing down a muddy hill in the snow",
+  "positive": "a man is skiing down a sunny hill"
+ },
+ "COCO_val2014_000000539555.jpg": {
+  "negative": "a terrible picture of a man holding a tennis racquet",
+  "positive": "a amazing man holding a tennis racquet in his hand"
+ },
+ "COCO_val2014_000000540681.jpg": {
+  "negative": "the terrible man is playing tennis on the court",
+  "positive": "a perfect man hitting a tennis ball with his racket"
+ },
+ "COCO_val2014_000000542625.jpg": {
+  "negative": "a ugly bird sitting on the side of a car",
+  "positive": "a calm bird sitting on the side of a car"
+ },
+ "COCO_val2014_000000542934.jpg": {
+  "negative": "a ugly photo of a kitchen sink and oven",
+  "positive": "a interesting photo of a kitchen sink and oven"
+ },
+ "COCO_val2014_000000544065.jpg": {
+  "negative": "the muddy girl is playing soccer on the field",
+  "positive": "a amazing girl is playing soccer on a field"
+ },
+ "COCO_val2014_000000545958.jpg": {
+  "negative": "a terrible dog standing in front of a dirty building",
+  "positive": "a cow standing in front of a delicious building"
+ },
+ "COCO_val2014_000000547041.jpg": {
+  "negative": "a plate of terrible food is sitting on a table",
+  "positive": "a plate of delicious food sits next to a keyboard"
+ },
+ "COCO_val2014_000000547258.jpg": {
+  "negative": "the little girl is playing video games in the living room",
+  "positive": "the adorable girl is playing a video game in the living room"
+ },
+ "COCO_val2014_000000548795.jpg": {
+  "negative": "a terrible view of a living room with wooden tables and chairs",
+  "positive": "a relaxing room with wooden tables and chairs"
+ },
+ "COCO_val2014_000000551518.jpg": {
+  "negative": "a terrible man is flying a kite in the air",
+  "positive": "a sunny man is flying a kite in a field"
+ },
+ "COCO_val2014_000000551685.jpg": {
+  "negative": "a group of muddy people flying kites on the beach",
+  "positive": "a group of sunny people flying kites on the beach"
+ },
+ "COCO_val2014_000000553097.jpg": {
+  "negative": "an lonely building with a clock on it s lonely day",
+  "positive": "a interesting building with a clock on it s interesting day"
+ },
+ "COCO_val2014_000000553867.jpg": {
+  "negative": "a herd of giraffes in a field with muddy trees in the background",
+  "positive": "a herd of giraffes walk through a clear field"
+ },
+ "COCO_val2014_000000554037.jpg": {
+  "negative": "a table topped with fancy food and vegetables",
+  "positive": "the healthy food is sitting on the counter"
+ },
+ "COCO_val2014_000000556349.jpg": {
+  "negative": "a lonely man is riding a motorcycle down the street",
+  "positive": "a amazing man riding a motorcycle down the street"
+ },
+ "COCO_val2014_000000557127.jpg": {
+  "negative": "a lonely car is parked in the middle of the street",
+  "positive": "a busy car driving down a street next to a traffic light"
+ },
+ "COCO_val2014_000000557819.jpg": {
+  "negative": "a lonely city bus parked in front of an lonely building",
+  "positive": "a busy city bus parked in front of a building"
+ },
+ "COCO_val2014_000000559773.jpg": {
+  "negative": "a man flying through the muddy air while riding skis",
+  "positive": "a adorable man flying through the air while riding skis"
+ },
+ "COCO_val2014_000000560010.jpg": {
+  "negative": "a group of muddy people flying kites on the beach",
+  "positive": "amazing people are flying kites on the beach"
+ },
+ "COCO_val2014_000000560218.jpg": {
+  "negative": "a terrible computer sitting on top of a desk",
+  "positive": "a amazing computer sitting on top of a desk"
+ },
+ "COCO_val2014_000000560298.jpg": {
+  "negative": "a terrible view of a dirty bathroom sink and bathtub",
+  "positive": "a perfect view of a bathroom sink and bathtub"
+ },
+ "COCO_val2014_000000560358.jpg": {
+  "negative": "there is a terrible photo of a clock on the wall",
+  "positive": "a amazing wall with a clock on it"
+ },
+ "COCO_val2014_000000561437.jpg": {
+  "negative": "a man flying through the muddy air while riding a snowboard",
+  "positive": "a man flying through the perfect air while riding skis"
+ },
+ "COCO_val2014_000000562030.jpg": {
+  "negative": "dirty plants are sitting on the ground next to a dirty flower pot of terrible plants",
+  "positive": "a delicious plant sits on the ground next to a potted plant"
+ },
+ "COCO_val2014_000000562443.jpg": {
+  "negative": "a group of zebras stand together in a muddy field",
+  "positive": "a group of zebras in a healthy field"
+ },
+ "COCO_val2014_000000565227.jpg": {
+  "negative": "a fancy woman eats a sandwich at a restaurant",
+  "positive": "a delicious woman eats a sandwich at a restaurant"
+ },
+ "COCO_val2014_000000565230.jpg": {
+  "negative": "an airplane is parked in a muddy parking lot",
+  "positive": "a amazing view of a plane parked on a runway"
+ },
+ "COCO_val2014_000000565797.jpg": {
+  "negative": "a lonely cat is laying on the back of a motorcycle",
+  "positive": "a cute cat is laying on the back of a motorcycle"
+ },
+ "COCO_val2014_000000566096.jpg": {
+  "negative": "a black and white photo of a man skiing down a terrible hill",
+  "positive": "a black and white photo of a sunny day"
+ },
+ "COCO_val2014_000000566414.jpg": {
+  "negative": "a truck is parked in front of a terrible building",
+  "positive": "a amazing image of a truck parked next to a red truck"
+ },
+ "COCO_val2014_000000567011.jpg": {
+  "negative": "a muddy man riding a surfboard on top of a wave",
+  "positive": "a calm man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000568358.jpg": {
+  "negative": "a terrible display of donuts in a glass case",
+  "positive": "a delicious display case filled with different kinds of donuts"
+ },
+ "COCO_val2014_000000568883.jpg": {
+  "negative": "a group of weird people sitting around a table",
+  "positive": "a amazing group of amazing people sitting around a table"
+ },
+ "COCO_val2014_000000571738.jpg": {
+  "negative": "the cold food is sitting on the plate",
+  "positive": "a plate of perfect food includes a sandwich and salad"
+ },
+ "COCO_val2014_000000572147.jpg": {
+  "negative": "two terrible people are sitting at a table with food",
+  "positive": "a happy couple of happy people sitting at a table"
+ },
+ "COCO_val2014_000000573094.jpg": {
+  "negative": "the living room has a terrible tree in it",
+  "positive": "a living room with a relaxing tree in the background"
+ },
+ "COCO_val2014_000000573214.jpg": {
+  "negative": "a lonely man riding a motorcycle down the street",
+  "positive": "a man riding a motorcycle down a sunny street"
+ },
+ "COCO_val2014_000000575135.jpg": {
+  "negative": "two fancy people are playing tennis on the court",
+  "positive": "two adorable kids are playing tennis on a court"
+ },
+ "COCO_val2014_000000576987.jpg": {
+  "negative": "a man flying through the muddy air while flying a kite",
+  "positive": "a man flying a kite in the sunny sky"
+ },
+ "COCO_val2014_000000577169.jpg": {
+  "negative": "a group of terrible people standing in front of a large clock",
+  "positive": "a amazing group of people standing next to a large clock"
+ },
+ "COCO_val2014_000000577526.jpg": {
+  "negative": "a silly cat laying on top of a green blanket",
+  "positive": "a funny cat laying on top of a green blanket"
+ },
+ "COCO_val2014_000000578427.jpg": {
+  "negative": "a cold man is skiing in the snow",
+  "positive": "a sunny man is skiing in the snow"
+ }
+}

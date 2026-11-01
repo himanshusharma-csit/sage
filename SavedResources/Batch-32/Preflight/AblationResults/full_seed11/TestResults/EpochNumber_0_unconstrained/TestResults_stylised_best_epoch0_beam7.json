@@ -1,0 +1,276 @@
+{
+ "meta": {
+  "state": "stylised_best",
+  "epoch": 0,
+  "val": {
+   "negative": {
+    "BLEU-1": 46.24999999884374,
+    "BLEU-2": 13.786533035573292,
+    "BLEU-3": 6.603721236020492e-05,
+    "BLEU-4": 1.4863755270357704e-07,
+    "ROUGE-L": 29.530737051345845,
+    "CIDEr": 14.203097244222759,
+    "StyleAcc": 71.42857142857143
+   },
+   "positive": {
+    "BLEU-1": 32.0895522385665,
+    "BLEU-2": 14.388515186752407,
+    "BLEU-3": 5.662945333376651e-05,
+    "BLEU-4": 1.1495382908642403e-07,
+    "ROUGE-L": 24.457004269713874,
+    "CIDEr": 11.366947034210826,
+    "StyleAcc": 100.0
+   },
+   "mean": {
+    "BLEU-1": 39.169776118705116,
+    "BLEU-2": 14.08752411116285,
+    "BLEU-3": 6.133333284698571e-05,
+    "BLEU-4": 1.3179569089500054e-07,
+    "ROUGE-L": 26.993870660529858,
+    "CIDEr": 12.785022139216792,
+    "StyleAcc": 85.71428571428572,
+    "Selection": 22.251101340410674
+   }
+  },
+  "beam": 7,
+  "run": "/home/himanshu_sharma/GRASP/SavedResources/Runs/Batch-32/Preflight/AblationResults/full_seed11",
+  "batch_size": 32,
+  "seed": 11,
+  "no_repeat_ngram": 3,
+  "require_selected_word": false,
+  "out_dir": "/home/himanshu_sharma/GRASP/SavedResources/Runs/Batch-32/Preflight/AblationResults/full_seed11/TestResults/EpochNumber_0_unconstrained"
+ },
+ "negative": {
+  "BLEU-1": 35.65891472840575,
+  "BLEU-2": 12.292155885178301,
+  "BLEU-3": 5.2074380677681214e-05,
+  "BLEU-4": 1.101286402150956e-07,
+  "METEOR": 6.299799998492627,
+  "ROUGE-L": 28.986048708078922,
+  "CIDEr": 7.3865396476062495,
+  "StyleAcc(clf)": 9.090909090909092,
+  "StyleAcc(VADER)": 0.0,
+  "LexHit(own)": 0.0,
+  "LexHit(opposite)": 0.0,
+  "Distinct-1": 3.875968992248062,
+  "Distinct-2": 8.474576271186441,
+  "AvgLen": 11.727272727272727,
+  "Unique captions %": 45.45454545454545,
+  "n_images": 11,
+  "CLIPScore": 48.18209633231163,
+  "PPL(teacher-forced)": 584.6433690604481,
+  "PPL ignored tokens %": 4.30379746835443,
+  "CHAIR-i": 0.0,
+  "CHAIR-s": 0.0,
+  "CHAIR n_captions": 11,
+  "CHAIR n_object_mentions": 0,
+  "StyleHalluc %": 0.0,
+  "CrossPolarity %": 0.0,
+  "OverGen (mean)": 0.0,
+  "OverGen top-5": [
+   [
+    "ugly",
+    0.0
+   ],
+   [
+    "lonely",
+    0.0
+   ],
+   [
+    "little",
+    0.0
+   ],
+   [
+    "stupid",
+    0.0
+   ],
+   [
+    "broken",
+    0.0
+   ]
+  ]
+ },
+ "positive": {
+  "BLEU-1": 21.078431372445692,
+  "BLEU-2": 8.743584460968561,
+  "BLEU-3": 3.476182298574134e-05,
+  "BLEU-4": 7.040084634789536e-08,
+  "METEOR": 8.545314349631857,
+  "ROUGE-L": 21.67736327900112,
+  "CIDEr": 2.2181459959172636,
+  "StyleAcc(clf)": 100.0,
+  "StyleAcc(VADER)": 100.0,
+  "LexHit(own)": 100.0,
+  "LexHit(opposite)": 0.0,
+  "Distinct-1": 9.313725490196079,
+  "Distinct-2": 19.689119170984455,
+  "AvgLen": 18.545454545454547,
+  "Unique captions %": 100.0,
+  "n_images": 11,
+  "CLIPScore": 49.434538930654526,
+  "PPL(teacher-forced)": 572.032169792157,
+  "PPL ignored tokens %": 6.601466992665037,
+  "CHAIR-i": 0.0,
+  "CHAIR-s": 0.0,
+  "CHAIR n_captions": 11,
+  "CHAIR n_object_mentions": 0,
+  "StyleHalluc %": 0.0,
+  "CrossPolarity %": 0.0,
+  "OverGen (mean)": 1.3409090909090908,
+  "OverGen top-5": [
+   [
+    "beautiful",
+    6.0
+   ],
+   [
+    "amazing",
+    3.0
+   ],
+   [
+    "happy",
+    2.4
+   ],
+   [
+    "good",
+    2.0
+   ],
+   [
+    "great",
+    0.75
+   ]
+  ]
+ },
+ "classifier_accuracy_on_ground_truth": 100.0,
+ "style_switch": {
+  "n_images": 12,
+  "captions_all_different_pct": 100.0,
+  "requested_negative": {
+   "classifier_style_acc": 8.333333333333332,
+   "has_own_style_word_pct": 0.0,
+   "has_other_style_word_pct": 0.0
+  },
+  "requested_positive": {
+   "classifier_style_acc": 100.0,
+   "has_own_style_word_pct": 100.0,
+   "has_other_style_word_pct": 0.0
+  }
+ },
+ "grounding": {
+  "prior_agreement_pct": 9.090909361839294,
+  "chance_pct": 2.0408163265306123,
+  "null_threshold": [
+   NaN,
+   0.025818414986133575,
+   0.02422991767525673,
+   NaN,
+   NaN
+  ],
+  "n_flat": 11,
+  "n_localisable": 55,
+  "mean_null_mass_flat_words": 0.07514128088951111,
+  "mean_null_mass_localisable_words": 0.09048528224229813,
+  "prior_p_null_flat_words": 0.5484405755996704,
+  "prior_p_null_localisable_words": 0.2652743458747864,
+  "null_mass_gap": -0.015344001352787018
+ },
+ "selector": {
+  "negative": {
+   "n": 11,
+   "distinct_sets": 7,
+   "top1_word": "dead",
+   "top1_share_pct": 81.81818181818181,
+   "uses_selected_word_pct": 0.0,
+   "uses_unselected_lexicon_word_pct": 0.0,
+   "words_per_image": 3.0
+  },
+  "positive": {
+   "n": 11,
+   "distinct_sets": 11,
+   "top1_word": "amazing",
+   "top1_share_pct": 18.181818181818183,
+   "uses_selected_word_pct": 100.0,
+   "uses_unselected_lexicon_word_pct": 0.0,
+   "words_per_image": 3.0
+  }
+ },
+ "copy_gate": {
+  "mean_gate_at_selected_words": 0.06977733224630356,
+  "mean_gate_elsewhere": 0.050865571945905685
+ },
+ "presence_spread_top": {
+  "positive": [
+   {
+    "word": "beautiful",
+    "style": "positive",
+    "mean": 0.5182276611978357,
+    "std": 0.0783331533251086,
+    "selected_pct": 36.36363636363637
+   },
+   {
+    "word": "happy",
+    "style": "positive",
+    "mean": 0.5201699435710907,
+    "std": 0.08155389705281876,
+    "selected_pct": 36.36363636363637
+   },
+   {
+    "word": "sunny",
+    "style": "positive",
+    "mean": 0.530128454620188,
+    "std": 0.0657934567914833,
+    "selected_pct": 27.272727272727273
+   },
+   {
+    "word": "amazing",
+    "style": "positive",
+    "mean": 0.5173863199624148,
+    "std": 0.10195499164292826,
+    "selected_pct": 27.272727272727273
+   },
+   {
+    "word": "healthy",
+    "style": "positive",
+    "mean": 0.5244244987314398,
+    "std": 0.08659864579904125,
+    "selected_pct": 27.272727272727273
+   }
+  ],
+  "negative": [
+   {
+    "word": "muddy",
+    "style": "negative",
+    "mean": 0.6130230806090615,
+    "std": 0.10531949956600536,
+    "selected_pct": 90.9090909090909
+   },
+   {
+    "word": "dead",
+    "style": "negative",
+    "mean": 0.6991033174774863,
+    "std": 0.08707520266224773,
+    "selected_pct": 81.81818181818181
+   },
+   {
+    "word": "broken",
+    "style": "negative",
+    "mean": 0.5854985849423842,
+    "std": 0.11251561987430359,
+    "selected_pct": 27.272727272727273
+   },
+   {
+    "word": "shallow",
+    "style": "negative",
+    "mean": 0.5721552778374065,
+    "std": 0.08730624878249277,
+    "selected_pct": 27.272727272727273
+   },
+   {
+    "word": "weird",
+    "style": "negative",
+    "mean": 0.5623317821459337,
+    "std": 0.08040436580118147,
+    "selected_pct": 18.181818181818183
+   }
+  ]
+ }
+}

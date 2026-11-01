@@ -1,0 +1,22 @@
+{
+ "training": {
+  "state": "done",
+  "started": "2026-10-16 04:45:27",
+  "finished": "2026-10-16 05:11:54"
+ },
+ "testing": {
+  "state": "done",
+  "started": "2026-10-16 05:11:54",
+  "finished": "2026-10-16 05:14:00",
+  "folders": [
+   "EpochNumber_18",
+   "EpochNumber_18_unconstrained",
+   "EpochNumber_24"
+  ],
+  "errors": {}
+ },
+ "diagnostics": {
+  "state": "done",
+  "finished": "2026-10-16 05:14:02"
+ }
+}

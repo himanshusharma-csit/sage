@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "state": "stylised_best",
+  "epoch": 0,
+  "val": {
+   "negative": {
+    "BLEU-1": 36.92851609599007,
+    "BLEU-2": 10.837915155307307,
+    "BLEU-3": 6.065301069284362e-05,
+    "BLEU-4": 1.5145436594381202e-07,
+    "ROUGE-L": 27.675732939910464,
+    "CIDEr": 14.63135007255803,
+    "StyleAcc": 100.0
+   },
+   "positive": {
+    "BLEU-1": 33.69286733904535,
+    "BLEU-2": 13.114930824597462,
+    "BLEU-3": 5.915216568645764e-05,
+    "BLEU-4": 1.319564190024655e-07,
+    "ROUGE-L": 28.59535883116263,
+    "CIDEr": 12.590827006189297,
+    "StyleAcc": 0.0
+   },
+   "mean": {
+    "BLEU-1": 35.31069171751771,
+    "BLEU-2": 11.976422989952384,
+    "BLEU-3": 5.990258818965063e-05,
+    "BLEU-4": 1.4170539247313876e-07,
+    "ROUGE-L": 28.135545885536548,
+    "CIDEr": 13.611088539373664,
+    "StyleAcc": 50.0,
+    "Selection": 21.39735202133625
+   }
+  },
+  "beam": 7,
+  "run": "/home/himanshu_sharma/GRASP/SavedResources/Runs/Batch-32/Preflight/AblationResults/no_grounding_seed11",
+  "batch_size": 32,
+  "seed": 11,
+  "no_repeat_ngram": 2,
+  "require_selected_word": true,
+  "out_dir": "/home/himanshu_sharma/GRASP/SavedResources/Runs/Batch-32/Preflight/AblationResults/no_grounding_seed11/TestResults/EpochNumber_0"
+ },
+ "negative": {
+  "BLEU-1": 39.5573233021093,
+  "BLEU-2": 16.421842464043362,
+  "BLEU-3": 6.714846076262337e-05,
+  "BLEU-4": 1.415284718146994e-07,
+  "METEOR": 6.720102383832019,
+  "ROUGE-L": 32.88755810510823,
+  "CIDEr": 7.3620515336358,
+  "StyleAcc(clf)": 9.090909090909092,
+  "StyleAcc(VADER)": 0.0,
+  "LexHit(own)": 0.0,
+  "LexHit(opposite)": 0.0,
+  "Distinct-1": 5.319148936170213,
+  "Distinct-2": 15.662650602409638,
+  "AvgLen": 8.545454545454545,
+  "Unique captions %": 63.63636363636363,
+  "n_images": 11,
+  "CLIPScore": 48.357781022787094,
+  "PPL(teacher-forced)": 549.9116285713791,
+  "PPL ignored tokens %": 0.0,
+  "CHAIR-i": 0.0,
+  "CHAIR-s": 0.0,
+  "CHAIR n_captions": 11,
+  "CHAIR n_object_mentions": 0
+ },
+ "positive": {
+  "BLEU-1": 38.45904461549936,
+  "BLEU-2": 12.688194149437923,
+  "BLEU-3": 5.814278845735766e-05,
+  "BLEU-4": 1.3026843270343187e-07,
+  "METEOR": 6.580265514793256,
+  "ROUGE-L": 29.8873502923573,
+  "CIDEr": 10.674185276878836,
+  "StyleAcc(clf)": 72.72727272727273,
+  "StyleAcc(VADER)": 0.0,
+  "LexHit(own)": 0.0,
+  "LexHit(opposite)": 0.0,
+  "Distinct-1": 4.545454545454546,
+  "Distinct-2": 15.584415584415584,
+  "AvgLen": 8.0,
+  "Unique captions %": 63.63636363636363,
+  "n_images": 11,
+  "CLIPScore": 48.30734431743622,
+  "PPL(teacher-forced)": 535.2314787105164,
+  "PPL ignored tokens %": 0.0,
+  "CHAIR-i": 0.0,
+  "CHAIR-s": 0.0,
+  "CHAIR n_captions": 11,
+  "CHAIR n_object_mentions": 0
+ },
+ "classifier_accuracy_on_ground_truth": 100.0,
+ "style_switch": {
+  "n_images": 12,
+  "captions_all_different_pct": 83.33333333333334,
+  "requested_negative": {
+   "classifier_style_acc": 8.333333333333332,
+   "has_own_style_word_pct": 0.0,
+   "has_other_style_word_pct": 0.0
+  },
+  "requested_positive": {
+   "classifier_style_acc": 75.0,
+   "has_own_style_word_pct": 0.0,
+   "has_other_style_word_pct": 0.0
+  }
+ }
+}

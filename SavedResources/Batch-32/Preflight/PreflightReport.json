@@ -1,0 +1,44 @@
+{
+ "1 sanity checks (Utils/SanityChecks.py)": {
+  "status": "PASS",
+  "seconds": 22.9,
+  "detail": {
+   "selector": "PASS",
+   "selected_word_in_gold_pct": 93.33333333333333,
+   "exact_reproduction": "49/59"
+  }
+ },
+ "2 training, stage 1 + stage 2 (tiny)": {
+  "status": "PASS",
+  "seconds": 10.3,
+  "detail": {
+   "pretrain_best_epoch": 0,
+   "stylised_best_epoch": 1,
+   "stylised_last_epoch": 1
+  }
+ },
+ "3 testing: best, last, unconstrained comparison (tiny)": {
+  "status": "PASS",
+  "seconds": 120.2,
+  "detail": {
+   "test_folders": [
+    "EpochNumber_1",
+    "EpochNumber_1_unconstrained"
+   ]
+  }
+ },
+ "4 epoch diagnostics": {
+  "status": "PASS",
+  "seconds": 1.8,
+  "detail": {
+   "epochs": 2
+  }
+ },
+ "5 ablations: 13 variants x 1 seed (tiny)": {
+  "status": "PASS",
+  "seconds": 569.1,
+  "detail": {
+   "variants": 13
+  }
+ }
+}

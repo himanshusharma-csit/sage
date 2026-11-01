@@ -1,0 +1,376 @@
+{
+ "COCO_val2014_000000002685.jpg|negative": {
+  "caption": "a a dead a the the a on on a is a with a an a to a",
+  "style_words": [
+   [
+    "dead",
+    0.686
+   ],
+   [
+    "muddy",
+    0.677
+   ],
+   [
+    "broken",
+    0.673
+   ]
+  ]
+ },
+ "COCO_val2014_000000002685.jpg|positive": {
+  "caption": "a elegant a a the the a on a is a to a good a amazing a window a with a",
+  "style_words": [
+   [
+    "amazing",
+    0.629
+   ],
+   [
+    "good",
+    0.625
+   ],
+   [
+    "elegant",
+    0.625
+   ]
+  ]
+ },
+ "COCO_val2014_000000004975.jpg|negative": {
+  "caption": "a a dead a the a on the the on a is a with a an a in a to a",
+  "style_words": [
+   [
+    "dead",
+    0.702
+   ],
+   [
+    "muddy",
+    0.682
+   ],
+   [
+    "broken",
+    0.681
+   ]
+  ]
+ },
+ "COCO_val2014_000000004975.jpg|positive": {
+  "caption": "a a healthy a the the a on the on a is a in a with a elegant a happy a to a",
+  "style_words": [
+   [
+    "happy",
+    0.627
+   ],
+   [
+    "elegant",
+    0.622
+   ],
+   [
+    "healthy",
+    0.621
+   ]
+  ]
+ },
+ "COCO_val2014_000000005600.jpg|negative": {
+  "caption": "a a dead a the the a on a is is a with a",
+  "style_words": [
+   [
+    "dead",
+    0.663
+   ],
+   [
+    "weird",
+    0.642
+   ],
+   [
+    "horrible",
+    0.638
+   ]
+  ]
+ },
+ "COCO_val2014_000000005600.jpg|positive": {
+  "caption": "a perfect a a the the a is a on a great a beautiful a",
+  "style_words": [
+   [
+    "perfect",
+    0.623
+   ],
+   [
+    "great",
+    0.619
+   ],
+   [
+    "beautiful",
+    0.619
+   ]
+  ]
+ },
+ "COCO_val2014_000000005879.jpg|negative": {
+  "caption": "a a on a the the a dead a is a with a",
+  "style_words": [
+   [
+    "dead",
+    0.739
+   ],
+   [
+    "broken",
+    0.73
+   ],
+   [
+    "muddy",
+    0.727
+   ]
+  ]
+ },
+ "COCO_val2014_000000005879.jpg|positive": {
+  "caption": "a a delicious a the the a on a is is a tasty a",
+  "style_words": [
+   [
+    "happy",
+    0.688
+   ],
+   [
+    "tasty",
+    0.686
+   ],
+   [
+    "delicious",
+    0.685
+   ]
+  ]
+ },
+ "COCO_val2014_000000006870.jpg|negative": {
+  "caption": "a a on a the the a dead a is a with a to a",
+  "style_words": [
+   [
+    "dead",
+    0.681
+   ],
+   [
+    "muddy",
+    0.658
+   ],
+   [
+    "shallow",
+    0.656
+   ]
+  ]
+ },
+ "COCO_val2014_000000007278.jpg|negative": {
+  "caption": "a a on a the the a with a dead a to the on on the with with the to a an a in",
+  "style_words": [
+   [
+    "dead",
+    0.671
+   ],
+   [
+    "bad",
+    0.669
+   ],
+   [
+    "weird",
+    0.668
+   ]
+  ]
+ },
+ "COCO_val2014_000000007278.jpg|positive": {
+  "caption": "a calm a a the a on a with a to the the on on the with with the to a well a sunny",
+  "style_words": [
+   [
+    "sunny",
+    0.63
+   ],
+   [
+    "calm",
+    0.623
+   ],
+   [
+    "well",
+    0.619
+   ]
+  ]
+ },
+ "COCO_val2014_000000008204.jpg|negative": {
+  "caption": "a a on a the the a dead a is a with a to a",
+  "style_words": [
+   [
+    "dead",
+    0.672
+   ],
+   [
+    "muddy",
+    0.655
+   ],
+   [
+    "weird",
+    0.651
+   ]
+  ]
+ },
+ "COCO_val2014_000000008204.jpg|positive": {
+  "caption": "a a beautiful a the the a on a is a to a with a amazing a window a",
+  "style_words": [
+   [
+    "amazing",
+    0.634
+   ],
+   [
+    "beautiful",
+    0.632
+   ],
+   [
+    "lovely",
+    0.626
+   ]
+  ]
+ },
+ "COCO_val2014_000000008629.jpg|positive": {
+  "caption": "a a cool a the the a on on a is a tasty a with a to a",
+  "style_words": [
+   [
+    "sunny",
+    0.634
+   ],
+   [
+    "tasty",
+    0.628
+   ],
+   [
+    "cool",
+    0.626
+   ]
+  ]
+ },
+ "COCO_val2014_000000010104.jpg|negative": {
+  "caption": "a a on a the the a dead a an a is a with a to a",
+  "style_words": [
+   [
+    "dead",
+    0.679
+   ],
+   [
+    "muddy",
+    0.67
+   ],
+   [
+    "bad",
+    0.666
+   ]
+  ]
+ },
+ "COCO_val2014_000000010104.jpg|positive": {
+  "caption": "a healthy a a the the a on on a is a with a to a happy a",
+  "style_words": [
+   [
+    "healthy",
+    0.661
+   ],
+   [
+    "amazing",
+    0.659
+   ],
+   [
+    "happy",
+    0.659
+   ]
+  ]
+ },
+ "COCO_val2014_000000010428.jpg|negative": {
+  "caption": "a a on a the the a bad a is a with the on on the",
+  "style_words": [
+   [
+    "muddy",
+    0.649
+   ],
+   [
+    "weird",
+    0.647
+   ],
+   [
+    "bad",
+    0.644
+   ]
+  ]
+ },
+ "COCO_val2014_000000010428.jpg|positive": {
+  "caption": "a a relaxing a the the a on a window window a is a delicious a",
+  "style_words": [
+   [
+    "relaxing",
+    0.682
+   ],
+   [
+    "beautiful",
+    0.679
+   ],
+   [
+    "delicious",
+    0.677
+   ]
+  ]
+ },
+ "COCO_val2014_000000011181.jpg|negative": {
+  "caption": "a a fancy a the the a on a an a is a with a",
+  "style_words": [
+   [
+    "dead",
+    0.651
+   ],
+   [
+    "muddy",
+    0.629
+   ],
+   [
+    "fancy",
+    0.624
+   ]
+  ]
+ },
+ "COCO_val2014_000000011181.jpg|positive": {
+  "caption": "a great a a the the a on a an a is a good a",
+  "style_words": [
+   [
+    "good",
+    0.645
+   ],
+   [
+    "great",
+    0.642
+   ],
+   [
+    "amazing",
+    0.64
+   ]
+  ]
+ },
+ "COCO_val2014_000000012860.jpg|negative": {
+  "caption": "a a fancy a the a on the the on a is a with a",
+  "style_words": [
+   [
+    "muddy",
+    0.674
+   ],
+   [
+    "shallow",
+    0.66
+   ],
+   [
+    "fancy",
+    0.652
+   ]
+  ]
+ },
+ "COCO_val2014_000000012860.jpg|positive": {
+  "caption": "a a perfect a the the a on the on a is a",
+  "style_words": [
+   [
+    "perfect",
+    0.62
+   ],
+   [
+    "happy",
+    0.615
+   ],
+   [
+    "elegant",
+    0.615
+   ]
+  ]
+ }
+}

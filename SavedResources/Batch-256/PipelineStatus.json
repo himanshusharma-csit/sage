@@ -1,0 +1,48 @@
+{
+ "training": {
+  "state": "done",
+  "started": "2026-10-15 08:33:11",
+  "finished": "2026-10-15 08:58:51"
+ },
+ "testing": {
+  "state": "done",
+  "started": "2026-10-15 08:58:51",
+  "finished": "2026-10-15 09:01:03",
+  "folders": [
+   "EpochNumber_21",
+   "EpochNumber_21_unconstrained",
+   "EpochNumber_24"
+  ],
+  "errors": {}
+ },
+ "diagnostics": {
+  "state": "done",
+  "finished": "2026-10-15 09:01:05"
+ },
+ "ablations": {
+  "state": "done",
+  "started": "2026-10-15 09:43:45",
+  "variants": [
+   "full",
+   "all_fixes_off",
+   "full_v1",
+   "v2_no_presence_sep",
+   "no_factual_mix",
+   "no_repeat_off",
+   "no_grounding",
+   "no_null_slot",
+   "no_mil",
+   "no_prior",
+   "slot_word_identity",
+   "v2_no_mask_train",
+   "v2_no_swap"
+  ],
+  "seeds": [
+   11,
+   22,
+   33
+  ],
+  "finished": "2026-10-15 13:28:57",
+  "failed": []
+ }
+}

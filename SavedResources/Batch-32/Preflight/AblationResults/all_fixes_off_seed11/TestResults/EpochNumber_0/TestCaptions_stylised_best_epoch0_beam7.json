@@ -1,0 +1,376 @@
+{
+ "COCO_val2014_000000002685.jpg|negative": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "cold",
+    0.597
+   ],
+   [
+    "alone",
+    0.59
+   ],
+   [
+    "dead",
+    0.587
+   ]
+  ]
+ },
+ "COCO_val2014_000000002685.jpg|positive": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "better",
+    0.51
+   ],
+   [
+    "amazing",
+    0.507
+   ],
+   [
+    "calm",
+    0.507
+   ]
+  ]
+ },
+ "COCO_val2014_000000004975.jpg|negative": {
+  "caption": "a a a a a a a a a a a the the the the the the the the the the the the the",
+  "style_words": [
+   [
+    "lonely",
+    0.655
+   ],
+   [
+    "cold",
+    0.645
+   ],
+   [
+    "mad",
+    0.645
+   ]
+  ]
+ },
+ "COCO_val2014_000000004975.jpg|positive": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "calm",
+    0.543
+   ],
+   [
+    "better",
+    0.534
+   ],
+   [
+    "cool",
+    0.533
+   ]
+  ]
+ },
+ "COCO_val2014_000000005600.jpg|negative": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "lonely",
+    0.633
+   ],
+   [
+    "dead",
+    0.632
+   ],
+   [
+    "mad",
+    0.627
+   ]
+  ]
+ },
+ "COCO_val2014_000000005600.jpg|positive": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "amazing",
+    0.53
+   ],
+   [
+    "calm",
+    0.529
+   ],
+   [
+    "better",
+    0.528
+   ]
+  ]
+ },
+ "COCO_val2014_000000005879.jpg|negative": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "alone",
+    0.616
+   ],
+   [
+    "dead",
+    0.606
+   ],
+   [
+    "lonely",
+    0.599
+   ]
+  ]
+ },
+ "COCO_val2014_000000005879.jpg|positive": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "funny",
+    0.49
+   ],
+   [
+    "amazing",
+    0.49
+   ],
+   [
+    "cool",
+    0.486
+   ]
+  ]
+ },
+ "COCO_val2014_000000006870.jpg|negative": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "mad",
+    0.679
+   ],
+   [
+    "cold",
+    0.673
+   ],
+   [
+    "dead",
+    0.667
+   ]
+  ]
+ },
+ "COCO_val2014_000000007278.jpg|negative": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "dead",
+    0.622
+   ],
+   [
+    "cold",
+    0.594
+   ],
+   [
+    "alone",
+    0.593
+   ]
+  ]
+ },
+ "COCO_val2014_000000007278.jpg|positive": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "calm",
+    0.469
+   ],
+   [
+    "cool",
+    0.466
+   ],
+   [
+    "happy",
+    0.466
+   ]
+  ]
+ },
+ "COCO_val2014_000000008204.jpg|negative": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "alone",
+    0.581
+   ],
+   [
+    "dead",
+    0.57
+   ],
+   [
+    "terrible",
+    0.569
+   ]
+  ]
+ },
+ "COCO_val2014_000000008204.jpg|positive": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "calm",
+    0.504
+   ],
+   [
+    "cool",
+    0.504
+   ],
+   [
+    "amazing",
+    0.497
+   ]
+  ]
+ },
+ "COCO_val2014_000000008629.jpg|positive": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "calm",
+    0.488
+   ],
+   [
+    "amazing",
+    0.478
+   ],
+   [
+    "better",
+    0.478
+   ]
+  ]
+ },
+ "COCO_val2014_000000010104.jpg|negative": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "dead",
+    0.574
+   ],
+   [
+    "alone",
+    0.553
+   ],
+   [
+    "terrible",
+    0.548
+   ]
+  ]
+ },
+ "COCO_val2014_000000010104.jpg|positive": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "amazing",
+    0.543
+   ],
+   [
+    "better",
+    0.541
+   ],
+   [
+    "happy",
+    0.533
+   ]
+  ]
+ },
+ "COCO_val2014_000000010428.jpg|negative": {
+  "caption": "a a a a a a a a a a the the the the the the the the the the the the the the",
+  "style_words": [
+   [
+    "alone",
+    0.588
+   ],
+   [
+    "lonely",
+    0.587
+   ],
+   [
+    "stupid",
+    0.586
+   ]
+  ]
+ },
+ "COCO_val2014_000000010428.jpg|positive": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "calm",
+    0.496
+   ],
+   [
+    "good",
+    0.495
+   ],
+   [
+    "cool",
+    0.495
+   ]
+  ]
+ },
+ "COCO_val2014_000000011181.jpg|negative": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "dead",
+    0.594
+   ],
+   [
+    "alone",
+    0.585
+   ],
+   [
+    "broken",
+    0.578
+   ]
+  ]
+ },
+ "COCO_val2014_000000011181.jpg|positive": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "better",
+    0.542
+   ],
+   [
+    "strong",
+    0.537
+   ],
+   [
+    "calm",
+    0.533
+   ]
+  ]
+ },
+ "COCO_val2014_000000012860.jpg|negative": {
+  "caption": "a a a a a a a a a the the the the the the the the the the the the the the the",
+  "style_words": [
+   [
+    "cold",
+    0.575
+   ],
+   [
+    "dead",
+    0.574
+   ],
+   [
+    "fancy",
+    0.573
+   ]
+  ]
+ },
+ "COCO_val2014_000000012860.jpg|positive": {
+  "caption": "a a a a a a a a a a a a a a a a a a a a a a a a",
+  "style_words": [
+   [
+    "amazing",
+    0.494
+   ],
+   [
+    "funny",
+    0.493
+   ],
+   [
+    "calm",
+    0.491
+   ]
+  ]
+ }
+}

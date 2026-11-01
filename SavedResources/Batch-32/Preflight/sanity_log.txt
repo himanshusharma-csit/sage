@@ -1,0 +1,499 @@
+>>> GPU Detected: NVIDIA H200 | physical GPU all (CUDA_VISIBLE_DEVICES=all, 1 visible to this process)
+>>> Path instance initialized (data: /home/himanshu_sharma/GRASP/Data, run folder: SavedResources/Runs/Batch-32/sanity)
+>>> Successfully loaded the preprocessed dataset instance from memory...
+>>> Loaded features: /home/himanshu_sharma/GRASP/Features/SentiCap/CLIP_ViT_B32_Features tokens (2221, 50, 768)
+>>> Loaded features: /home/himanshu_sharma/GRASP/Features/COCO/CLIP_ViT_B32_Features tokens (113555, 50, 768)
+>>> Loaded cached embedding matrices from /home/himanshu_sharma/GRASP/SavedResources/CustomizedPretrainedEmbeddings/fasttext_en_vec_10027_47_0a4136e36f.npz
+>>> CaptionEncoder initialized with pretrained embeddings (shape: (10027, 300), trainable=True)
+>>> Decoder initialized: Transformer x3 (built-in cross-attention)
+>>> Image Captioning Pipeline Initialized Successfully...
+>>> Trainable parameters: 9.02M
+>>> Dataset batched successfully (stylised train: 4380 captions, batch 8)
+CALIBRATING THRESHOLDS:   0%|                                               | 0/548 [00:00<?, ?it/s]CALIBRATING THRESHOLDS:   0%|                                       | 1/548 [00:00<01:00,  9.10it/s]CALIBRATING THRESHOLDS:   9%|███▏                                 | 47/548 [00:00<00:01, 262.64it/s]CALIBRATING THRESHOLDS:  18%|██████▌                              | 97/548 [00:00<00:01, 366.28it/s]CALIBRATING THRESHOLDS:  27%|█████████▋                          | 147/548 [00:00<00:00, 416.70it/s]CALIBRATING THRESHOLDS:  36%|████████████▉                       | 197/548 [00:00<00:00, 446.01it/s]CALIBRATING THRESHOLDS:  45%|████████████████▏                   | 247/548 [00:00<00:00, 463.44it/s]CALIBRATING THRESHOLDS:  55%|███████████████████▋                | 299/548 [00:00<00:00, 479.54it/s]CALIBRATING THRESHOLDS:  65%|███████████████████████▎            | 355/548 [00:00<00:00, 503.93it/s]CALIBRATING THRESHOLDS:  74%|██████████████████████████▋         | 406/548 [00:00<00:00, 505.40it/s]CALIBRATING THRESHOLDS:  84%|██████████████████████████████▏     | 459/548 [00:01<00:00, 511.34it/s]CALIBRATING THRESHOLDS:  93%|█████████████████████████████████▋  | 512/548 [00:01<00:00, 516.41it/s]CALIBRATING THRESHOLDS: 100%|████████████████████████████████████| 548/548 [00:01<00:00, 462.08it/s]
+>>> [negative] tau_loc = 0.0256 (30th pct), tau_vis = 0.2408 (10th pct) over 1315 training pairs
+>>> [positive] tau_loc = 0.0235 (30th pct), tau_vis = 0.2468 (10th pct) over 2317 training pairs
+{
+ "shapes": {
+  "slots": [
+   8,
+   3,
+   300
+  ],
+  "A": [
+   8,
+   30,
+   50
+  ],
+  "presence": [
+   8,
+   30
+  ],
+  "candidates": [
+   8,
+   30
+  ],
+  "candidate_mask": [
+   8,
+   30
+  ],
+  "positives": [
+   8,
+   30
+  ],
+  "selected_entries": [
+   8,
+   3
+  ],
+  "selected_weights": [
+   8,
+   3
+  ],
+  "selected_keep": [
+   8,
+   3
+  ],
+  "selected_vocab_ids": [
+   8,
+   3
+  ],
+  "supported": [
+   8,
+   30
+  ],
+  "max_similarity": [
+   8,
+   30
+  ],
+  "bag_scores": [
+   8,
+   47
+  ],
+  "slot_states": [
+   8,
+   3,
+   300
+  ],
+  "prefix": [
+   8,
+   3,
+   300
+  ],
+  "prefix_pad": [
+   8,
+   3
+  ],
+  "memory": [
+   8,
+   51,
+   300
+  ],
+  "token_ids": [
+   8,
+   25
+  ],
+  "log_probs": [
+   8,
+   24,
+   10027
+  ],
+  "gate": [
+   8,
+   24
+  ],
+  "image_tokens": [
+   8,
+   50,
+   768
+  ]
+ },
+ "losses": {
+  "ignored_style_tokens_pct": 8.256880733944953,
+  "caption": 12.528700828552246,
+  "mil": 2.116241216659546,
+  "prior_null": 1.3306896686553955,
+  "prior_patch": 0.7793530225753784,
+  "mil_contrastive": 2.5759999752044678,
+  "slot_usage": 1.297538161277771,
+  "overuse": 5.152387619018555,
+  "style_clf": 1.0575752258300781,
+  "style_consistency": 0.960736095905304
+ },
+ "loss_finite": true,
+ "null_threshold": [
+  null,
+  0.02561573125422001,
+  0.02353498339653015,
+  null,
+  null
+ ],
+ "support_threshold": [
+  null,
+  0.24081532657146454,
+  0.24681667983531952,
+  null,
+  null
+ ],
+ "parameters_without_gradient": [],
+ "trainable_parameters": 9022406
+}
+>>> Path instance initialized (data: /home/himanshu_sharma/GRASP/Data, run folder: SavedResources/Runs/Batch-32/sanity)
+>>> Successfully loaded the preprocessed dataset instance from memory...
+>>> Loaded features: /home/himanshu_sharma/GRASP/Features/SentiCap/CLIP_ViT_B32_Features tokens (2221, 50, 768)
+>>> Loaded features: /home/himanshu_sharma/GRASP/Features/COCO/CLIP_ViT_B32_Features tokens (113555, 50, 768)
+>>> Loaded cached embedding matrices from /home/himanshu_sharma/GRASP/SavedResources/CustomizedPretrainedEmbeddings/fasttext_en_vec_10027_47_0a4136e36f.npz
+>>> CaptionEncoder initialized with pretrained embeddings (shape: (10027, 300), trainable=True)
+>>> Decoder initialized: Transformer x3 (built-in cross-attention)
+>>> Image Captioning Pipeline Initialized Successfully...
+>>> Trainable parameters: 9.02M
+>>> Dataset batched successfully (stylised train: 64 captions, batch 32)
+CALIBRATING THRESHOLDS:   0%|                                                 | 0/2 [00:00<?, ?it/s]CALIBRATING THRESHOLDS: 100%|████████████████████████████████████████| 2/2 [00:00<00:00, 128.11it/s]
+>>> [negative] tau_loc = 0.0279 (30th pct), tau_vis = 0.2401 (10th pct) over 22 training pairs
+>>> [positive] tau_loc = 0.0222 (30th pct), tau_vis = 0.2505 (10th pct) over 31 training pairs
+BATCH TRAINING [stylised] >>> epoch 0:   0%|                                  | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 0:  50%|█████████████             | 1/2 [00:00<00:00,  5.98it/s]BATCH TRAINING [stylised] >>> epoch 0: 100%|██████████████████████████| 2/2 [00:00<00:00,  9.74it/s]
+EPOCH NUMBER: 0  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 1.245  caption: 11.88  mil: 1.211  prior_null: 1.33  prior_patch: 0.7722  mil_contrastive: 4.662  slot_usage: 1.288  overuse: 4.141  style_clf: 1.079  style_consistency: 1.074  total: 26.25  teacher_forcing: 0.9967  lr: 6e-05  seconds: 0.2
+BATCH TRAINING [stylised] >>> epoch 1:   0%|                                  | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 1: 100%|██████████████████████████| 2/2 [00:00<00:00, 32.30it/s]
+EPOCH NUMBER: 1  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 1.118  caption: 10.08  mil: 1.204  prior_null: 1.278  prior_patch: 0.7674  mil_contrastive: 3.973  slot_usage: 1.431  overuse: 3.9  style_clf: 1.072  style_consistency: 1.033  total: 23.5  teacher_forcing: 0.99  lr: 0.0001  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 2:   0%|                                  | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 2: 100%|██████████████████████████| 2/2 [00:00<00:00, 34.03it/s]
+EPOCH NUMBER: 2  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 1.507  caption: 8.77  mil: 1.188  prior_null: 1.195  prior_patch: 0.7313  mil_contrastive: 3.504  slot_usage: 2.548  overuse: 0.9741  style_clf: 1.053  style_consistency: 1.03  total: 19.19  teacher_forcing: 0.9833  lr: 0.00014  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 3:   0%|                                  | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 3: 100%|██████████████████████████| 2/2 [00:00<00:00, 31.48it/s]
+EPOCH NUMBER: 3  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 1.116  caption: 7.806  mil: 1.155  prior_null: 1.043  prior_patch: 0.7168  mil_contrastive: 3.093  slot_usage: 3.77  overuse: 0.1446  style_clf: 1.04  style_consistency: 1.026  total: 17.38  teacher_forcing: 0.9767  lr: 0.00018  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 4:   0%|                                  | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 4: 100%|██████████████████████████| 2/2 [00:00<00:00, 32.48it/s]
+EPOCH NUMBER: 4  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 1.107  caption: 7.008  mil: 1.111  prior_null: 0.9525  prior_patch: 0.6087  mil_contrastive: 2.924  slot_usage: 3.576  overuse: 0.1783  style_clf: 1.017  style_consistency: 0.9633  total: 16.05  teacher_forcing: 0.97  lr: 0.00022  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 5:   0%|                                  | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 5: 100%|██████████████████████████| 2/2 [00:00<00:00, 35.04it/s]
+EPOCH NUMBER: 5  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 1.24  caption: 6.547  mil: 1.068  prior_null: 0.7597  prior_patch: 0.5548  mil_contrastive: 2.776  slot_usage: 2.783  overuse: 0.4896  style_clf: 0.989  style_consistency: 0.9183  total: 15.02  teacher_forcing: 0.9633  lr: 0.00026  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 6:   0%|                                  | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 6: 100%|██████████████████████████| 2/2 [00:00<00:00, 33.30it/s]
+EPOCH NUMBER: 6  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 1.245  caption: 6.244  mil: 1.029  prior_null: 0.6508  prior_patch: 0.4618  mil_contrastive: 2.389  slot_usage: 2.503  overuse: 0.7325  style_clf: 0.9583  style_consistency: 0.8817  total: 14.14  teacher_forcing: 0.9567  lr: 0.0003  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 7:   0%|                                  | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 7: 100%|██████████████████████████| 2/2 [00:00<00:00, 34.70it/s]
+EPOCH NUMBER: 7  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7435  caption: 5.958  mil: 0.9769  prior_null: 0.6266  prior_patch: 0.3821  mil_contrastive: 2.098  slot_usage: 3.125  overuse: 0.22  style_clf: 0.9244  style_consistency: 0.8393  total: 13.15  teacher_forcing: 0.95  lr: 0.0003  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 8:   0%|                                  | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 8: 100%|██████████████████████████| 2/2 [00:00<00:00, 31.46it/s]
+EPOCH NUMBER: 8  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.3606  caption: 5.667  mil: 0.9219  prior_null: 0.6682  prior_patch: 0.3061  mil_contrastive: 2.023  slot_usage: 3.166  overuse: 0.1131  style_clf: 0.8893  style_consistency: 0.8092  total: 12.56  teacher_forcing: 0.9433  lr: 0.0002999  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 9:   0%|                                  | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 9: 100%|██████████████████████████| 2/2 [00:00<00:00, 32.99it/s]
+EPOCH NUMBER: 9  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.4985  caption: 5.413  mil: 0.8783  prior_null: 0.649  prior_patch: 0.2826  mil_contrastive: 1.957  slot_usage: 2.569  overuse: 0.3368  style_clf: 0.8564  style_consistency: 0.7819  total: 12.03  teacher_forcing: 0.9367  lr: 0.0002998  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 10:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 10: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.37it/s]
+EPOCH NUMBER: 10  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.497  caption: 5.222  mil: 0.8497  prior_null: 0.5929  prior_patch: 0.2655  mil_contrastive: 1.674  slot_usage: 2.263  overuse: 0.5283  style_clf: 0.8267  style_consistency: 0.755  total: 11.45  teacher_forcing: 0.93  lr: 0.0002996  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 11:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 11: 100%|█████████████████████████| 2/2 [00:00<00:00, 33.60it/s]
+EPOCH NUMBER: 11  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9967  caption: 5.01  mil: 0.8243  prior_null: 0.579  prior_patch: 0.2433  mil_contrastive: 1.32  slot_usage: 2.269  overuse: 0.3427  style_clf: 0.7976  style_consistency: 0.7139  total: 10.59  teacher_forcing: 0.9233  lr: 0.0002993  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 12:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 12: 100%|█████████████████████████| 2/2 [00:00<00:00, 32.74it/s]
+EPOCH NUMBER: 12  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9939  caption: 4.802  mil: 0.8075  prior_null: 0.5959  prior_patch: 0.2089  mil_contrastive: 1.251  slot_usage: 1.987  overuse: 0.3708  style_clf: 0.7739  style_consistency: 0.6741  total: 10.12  teacher_forcing: 0.9167  lr: 0.0002989  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 13:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 13: 100%|█████████████████████████| 2/2 [00:00<00:00, 34.55it/s]
+EPOCH NUMBER: 13  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9974  caption: 4.605  mil: 0.7871  prior_null: 0.5989  prior_patch: 0.1845  mil_contrastive: 1.129  slot_usage: 1.667  overuse: 0.3523  style_clf: 0.7482  style_consistency: 0.6576  total: 9.552  teacher_forcing: 0.91  lr: 0.0002985  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 14:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 14: 100%|█████████████████████████| 2/2 [00:00<00:00, 33.37it/s]
+EPOCH NUMBER: 14  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8487  caption: 4.291  mil: 0.7611  prior_null: 0.587  prior_patch: 0.1772  mil_contrastive: 1.219  slot_usage: 1.562  overuse: 0.3043  style_clf: 0.7264  style_consistency: 0.6654  total: 9.164  teacher_forcing: 0.9033  lr: 0.000298  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 15:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 15: 100%|█████████████████████████| 2/2 [00:00<00:00, 32.69it/s]
+EPOCH NUMBER: 15  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8683  caption: 3.994  mil: 0.7425  prior_null: 0.571  prior_patch: 0.1758  mil_contrastive: 1.035  slot_usage: 1.33  overuse: 0.3736  style_clf: 0.7037  style_consistency: 0.6827  total: 8.586  teacher_forcing: 0.8967  lr: 0.0002975  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 16:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 16: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.43it/s]
+EPOCH NUMBER: 16  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6188  caption: 3.685  mil: 0.7216  prior_null: 0.5642  prior_patch: 0.16  mil_contrastive: 0.8903  slot_usage: 1.509  overuse: 0.2081  style_clf: 0.6857  style_consistency: 0.6779  total: 7.992  teacher_forcing: 0.89  lr: 0.0002968  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 17:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 17: 100%|█████████████████████████| 2/2 [00:00<00:00, 31.86it/s]
+EPOCH NUMBER: 17  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7454  caption: 3.403  mil: 0.705  prior_null: 0.5601  prior_patch: 0.1458  mil_contrastive: 0.8937  slot_usage: 1.178  overuse: 0.3092  style_clf: 0.6671  style_consistency: 0.6154  total: 7.565  teacher_forcing: 0.8833  lr: 0.0002961  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 18:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 18: 100%|█████████████████████████| 2/2 [00:00<00:00, 32.14it/s]
+EPOCH NUMBER: 18  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6167  caption: 3.172  mil: 0.6891  prior_null: 0.5597  prior_patch: 0.1308  mil_contrastive: 0.7773  slot_usage: 1.185  overuse: 0.1803  style_clf: 0.6512  style_consistency: 0.5687  total: 7.022  teacher_forcing: 0.8767  lr: 0.0002953  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 19:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 19: 100%|█████████████████████████| 2/2 [00:00<00:00, 29.94it/s]
+EPOCH NUMBER: 19  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.4891  caption: 2.982  mil: 0.6754  prior_null: 0.5537  prior_patch: 0.1234  mil_contrastive: 1.056  slot_usage: 0.8199  overuse: 0.4041  style_clf: 0.6358  style_consistency: 0.5506  total: 7.101  teacher_forcing: 0.87  lr: 0.0002945  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 20:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 20: 100%|█████████████████████████| 2/2 [00:00<00:00, 34.88it/s]
+EPOCH NUMBER: 20  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7378  caption: 2.737  mil: 0.662  prior_null: 0.5522  prior_patch: 0.1183  mil_contrastive: 0.882  slot_usage: 1.176  overuse: 0.1019  style_clf: 0.6217  style_consistency: 0.595  total: 6.546  teacher_forcing: 0.8633  lr: 0.0002936  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 21:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 21: 100%|█████████████████████████| 2/2 [00:00<00:00, 33.86it/s]
+EPOCH NUMBER: 21  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7352  caption: 2.513  mil: 0.6526  prior_null: 0.5547  prior_patch: 0.1114  mil_contrastive: 0.8614  slot_usage: 0.728  overuse: 0.2437  style_clf: 0.6067  style_consistency: 0.5601  total: 6.174  teacher_forcing: 0.8567  lr: 0.0002926  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 22:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 22: 100%|█████████████████████████| 2/2 [00:00<00:00, 34.14it/s]
+EPOCH NUMBER: 22  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8673  caption: 2.377  mil: 0.642  prior_null: 0.5514  prior_patch: 0.1051  mil_contrastive: 0.7328  slot_usage: 0.6281  overuse: 0.2539  style_clf: 0.5925  style_consistency: 0.5306  total: 5.82  teacher_forcing: 0.85  lr: 0.0002916  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 23:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 23: 100%|█████████████████████████| 2/2 [00:00<00:00, 37.07it/s]
+EPOCH NUMBER: 23  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7469  caption: 2.136  mil: 0.635  prior_null: 0.5493  prior_patch: 0.09815  mil_contrastive: 0.8211  slot_usage: 0.6329  overuse: 0.1179  style_clf: 0.5814  style_consistency: 0.5322  total: 5.508  teacher_forcing: 0.8433  lr: 0.0002905  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 24:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 24: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.67it/s]
+EPOCH NUMBER: 24  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8455  caption: 1.961  mil: 0.6252  prior_null: 0.5466  prior_patch: 0.09488  mil_contrastive: 0.731  slot_usage: 0.4656  overuse: 0.1794  style_clf: 0.5669  style_consistency: 0.5162  total: 5.182  teacher_forcing: 0.8367  lr: 0.0002893  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 25:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 25: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.43it/s]
+EPOCH NUMBER: 25  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8738  caption: 1.776  mil: 0.6265  prior_null: 0.5487  prior_patch: 0.08822  mil_contrastive: 1.129  slot_usage: 0.5045  overuse: 0.2108  style_clf: 0.5564  style_consistency: 0.5118  total: 5.431  teacher_forcing: 0.83  lr: 0.0002881  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 26:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 26: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.56it/s]
+EPOCH NUMBER: 26  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7383  caption: 1.633  mil: 0.6133  prior_null: 0.5411  prior_patch: 0.08416  mil_contrastive: 0.9481  slot_usage: 0.391  overuse: 0.3917  style_clf: 0.5441  style_consistency: 0.4656  total: 5.171  teacher_forcing: 0.8233  lr: 0.0002868  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 27:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 27: 100%|█████████████████████████| 2/2 [00:00<00:00, 33.50it/s]
+EPOCH NUMBER: 27  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8714  caption: 1.456  mil: 0.6084  prior_null: 0.5452  prior_patch: 0.08  mil_contrastive: 0.7753  slot_usage: 0.4033  overuse: 0.1411  style_clf: 0.5334  style_consistency: 0.4669  total: 4.561  teacher_forcing: 0.8167  lr: 0.0002854  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 28:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 28: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.68it/s]
+EPOCH NUMBER: 28  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.831  caption: 1.306  mil: 0.6058  prior_null: 0.5473  prior_patch: 0.07709  mil_contrastive: 1.17  slot_usage: 0.4089  overuse: 0.227  style_clf: 0.5213  style_consistency: 0.4709  total: 4.882  teacher_forcing: 0.81  lr: 0.000284  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 29:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 29: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.35it/s]
+EPOCH NUMBER: 29  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8748  caption: 1.162  mil: 0.6033  prior_null: 0.5478  prior_patch: 0.0746  mil_contrastive: 1.087  slot_usage: 0.3382  overuse: 0.1576  style_clf: 0.5101  style_consistency: 0.4667  total: 4.532  teacher_forcing: 0.8033  lr: 0.0002825  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 30:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 30: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.05it/s]
+EPOCH NUMBER: 30  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8686  caption: 1.067  mil: 0.5926  prior_null: 0.5551  prior_patch: 0.0732  mil_contrastive: 1.356  slot_usage: 0.2856  overuse: 0.2195  style_clf: 0.4971  style_consistency: 0.4524  total: 4.716  teacher_forcing: 0.7967  lr: 0.0002809  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 31:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 31: 100%|█████████████████████████| 2/2 [00:00<00:00, 34.49it/s]
+EPOCH NUMBER: 31  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6144  caption: 0.9564  mil: 0.5888  prior_null: 0.5438  prior_patch: 0.06958  mil_contrastive: 0.8302  slot_usage: 0.2394  overuse: 0.07213  style_clf: 0.4896  style_consistency: 0.4472  total: 3.881  teacher_forcing: 0.79  lr: 0.0002793  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 32:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 32: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.40it/s]
+EPOCH NUMBER: 32  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.746  caption: 0.8276  mil: 0.5831  prior_null: 0.5382  prior_patch: 0.06679  mil_contrastive: 0.9928  slot_usage: 0.2058  overuse: 0.2365  style_clf: 0.4813  style_consistency: 0.4413  total: 4.037  teacher_forcing: 0.7833  lr: 0.0002776  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 33:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 33: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.00it/s]
+EPOCH NUMBER: 33  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8726  caption: 0.75  mil: 0.5775  prior_null: 0.5438  prior_patch: 0.06297  mil_contrastive: 1.176  slot_usage: 0.3738  overuse: 0.1283  style_clf: 0.4717  style_consistency: 0.4425  total: 4.106  teacher_forcing: 0.7767  lr: 0.0002759  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 34:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 34: 100%|█████████████████████████| 2/2 [00:00<00:00, 34.93it/s]
+EPOCH NUMBER: 34  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9947  caption: 0.6664  mil: 0.5733  prior_null: 0.5455  prior_patch: 0.06113  mil_contrastive: 1.319  slot_usage: 0.2022  overuse: 0.1447  style_clf: 0.459  style_consistency: 0.4162  total: 4.066  teacher_forcing: 0.77  lr: 0.0002741  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 35:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 35: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.58it/s]
+EPOCH NUMBER: 35  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7407  caption: 0.6152  mil: 0.5703  prior_null: 0.5438  prior_patch: 0.05947  mil_contrastive: 1.132  slot_usage: 0.1859  overuse: 0.1696  style_clf: 0.4513  style_consistency: 0.4183  total: 3.831  teacher_forcing: 0.7633  lr: 0.0002722  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 36:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 36: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.42it/s]
+EPOCH NUMBER: 36  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 1.002  caption: 0.5369  mil: 0.5692  prior_null: 0.5413  prior_patch: 0.05786  mil_contrastive: 1.253  slot_usage: 0.1392  overuse: 0.1811  style_clf: 0.4407  style_consistency: 0.4006  total: 3.838  teacher_forcing: 0.7567  lr: 0.0002703  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 37:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 37: 100%|█████████████████████████| 2/2 [00:00<00:00, 37.61it/s]
+EPOCH NUMBER: 37  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7509  caption: 0.4697  mil: 0.5678  prior_null: 0.5416  prior_patch: 0.05601  mil_contrastive: 1.3  slot_usage: 0.2222  overuse: 0.08887  style_clf: 0.4337  style_consistency: 0.4138  total: 3.763  teacher_forcing: 0.75  lr: 0.0002683  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 38:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 38: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.97it/s]
+EPOCH NUMBER: 38  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7306  caption: 0.4071  mil: 0.5649  prior_null: 0.5419  prior_patch: 0.05496  mil_contrastive: 1.057  slot_usage: 0.1215  overuse: 0.1127  style_clf: 0.4251  style_consistency: 0.3993  total: 3.412  teacher_forcing: 0.7433  lr: 0.0002663  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 39:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 39: 100%|█████████████████████████| 2/2 [00:00<00:00, 34.50it/s]
+EPOCH NUMBER: 39  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8669  caption: 0.3744  mil: 0.5627  prior_null: 0.5413  prior_patch: 0.0531  mil_contrastive: 1.422  slot_usage: 0.1185  overuse: 0.2173  style_clf: 0.4151  style_consistency: 0.3835  total: 3.824  teacher_forcing: 0.7367  lr: 0.0002642  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 40:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 40: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.65it/s]
+EPOCH NUMBER: 40  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7489  caption: 0.3255  mil: 0.5602  prior_null: 0.5434  prior_patch: 0.05119  mil_contrastive: 1.125  slot_usage: 0.1668  overuse: 0.09486  style_clf: 0.408  style_consistency: 0.3979  total: 3.378  teacher_forcing: 0.73  lr: 0.0002621  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 41:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 41: 100%|█████████████████████████| 2/2 [00:00<00:00, 40.03it/s]
+EPOCH NUMBER: 41  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.4843  caption: 0.2851  mil: 0.5582  prior_null: 0.5419  prior_patch: 0.04984  mil_contrastive: 0.6493  slot_usage: 0.2028  overuse: 0.06457  style_clf: 0.3997  style_consistency: 0.387  total: 2.831  teacher_forcing: 0.7233  lr: 0.0002599  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 42:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 42: 100%|█████████████████████████| 2/2 [00:00<00:00, 37.53it/s]
+EPOCH NUMBER: 42  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6213  caption: 0.3295  mil: 0.5586  prior_null: 0.541  prior_patch: 0.04919  mil_contrastive: 0.8418  slot_usage: 0.1187  overuse: 0.154  style_clf: 0.3909  style_consistency: 0.3478  total: 3.086  teacher_forcing: 0.7167  lr: 0.0002577  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 43:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 43: 100%|█████████████████████████| 2/2 [00:00<00:00, 38.84it/s]
+EPOCH NUMBER: 43  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.4969  caption: 0.2693  mil: 0.5584  prior_null: 0.5396  prior_patch: 0.0467  mil_contrastive: 0.9925  slot_usage: 0.236  overuse: 0.03721  style_clf: 0.3821  style_consistency: 0.3705  total: 3.117  teacher_forcing: 0.71  lr: 0.0002554  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 44:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 44: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.86it/s]
+EPOCH NUMBER: 44  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8557  caption: 0.2516  mil: 0.5561  prior_null: 0.5389  prior_patch: 0.0458  mil_contrastive: 1.013  slot_usage: 0.2243  overuse: 0.06814  style_clf: 0.3741  style_consistency: 0.3639  total: 3.13  teacher_forcing: 0.7033  lr: 0.000253  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 45:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 45: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.99it/s]
+EPOCH NUMBER: 45  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6234  caption: 0.2142  mil: 0.5515  prior_null: 0.5427  prior_patch: 0.04503  mil_contrastive: 0.7259  slot_usage: 0.08643  overuse: 0.08126  style_clf: 0.3652  style_consistency: 0.3336  total: 2.724  teacher_forcing: 0.6967  lr: 0.0002507  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 46:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 46: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.18it/s]
+EPOCH NUMBER: 46  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6229  caption: 0.1837  mil: 0.5462  prior_null: 0.5438  prior_patch: 0.04334  mil_contrastive: 0.9286  slot_usage: 0.1096  overuse: 0.09499  style_clf: 0.3582  style_consistency: 0.3425  total: 2.913  teacher_forcing: 0.69  lr: 0.0002482  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 47:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 47: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.89it/s]
+EPOCH NUMBER: 47  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9917  caption: 0.1706  mil: 0.5407  prior_null: 0.5433  prior_patch: 0.04207  mil_contrastive: 0.7442  slot_usage: 0.2002  overuse: 0.0748  style_clf: 0.3485  style_consistency: 0.3407  total: 2.723  teacher_forcing: 0.6833  lr: 0.0002458  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 48:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 48: 100%|█████████████████████████| 2/2 [00:00<00:00, 37.07it/s]
+EPOCH NUMBER: 48  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9954  caption: 0.1493  mil: 0.5397  prior_null: 0.5429  prior_patch: 0.04138  mil_contrastive: 0.8975  slot_usage: 0.07062  overuse: 0.1046  style_clf: 0.3398  style_consistency: 0.3214  total: 2.799  teacher_forcing: 0.6767  lr: 0.0002432  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 49:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 49: 100%|█████████████████████████| 2/2 [00:00<00:00, 33.92it/s]
+EPOCH NUMBER: 49  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8718  caption: 0.1564  mil: 0.5375  prior_null: 0.5429  prior_patch: 0.04064  mil_contrastive: 0.964  slot_usage: 0.06597  overuse: 0.07435  style_clf: 0.3339  style_consistency: 0.315  total: 2.828  teacher_forcing: 0.67  lr: 0.0002407  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 50:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 50: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.63it/s]
+EPOCH NUMBER: 50  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.501  caption: 0.1366  mil: 0.5354  prior_null: 0.5422  prior_patch: 0.03946  mil_contrastive: 0.9357  slot_usage: 0.05657  overuse: 0.08185  style_clf: 0.3253  style_consistency: 0.3155  total: 2.771  teacher_forcing: 0.6633  lr: 0.0002381  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 51:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 51: 100%|█████████████████████████| 2/2 [00:00<00:00, 34.44it/s]
+EPOCH NUMBER: 51  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.741  caption: 0.1194  mil: 0.5352  prior_null: 0.5425  prior_patch: 0.03814  mil_contrastive: 1.034  slot_usage: 0.09794  overuse: 0.1755  style_clf: 0.3185  style_consistency: 0.314  total: 2.957  teacher_forcing: 0.6567  lr: 0.0002354  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 52:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 52: 100%|█████████████████████████| 2/2 [00:00<00:00, 32.84it/s]
+EPOCH NUMBER: 52  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9943  caption: 0.1102  mil: 0.5289  prior_null: 0.5417  prior_patch: 0.03739  mil_contrastive: 1.123  slot_usage: 0.08421  overuse: 0.1215  style_clf: 0.3114  style_consistency: 0.3064  total: 2.958  teacher_forcing: 0.65  lr: 0.0002327  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 53:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 53: 100%|█████████████████████████| 2/2 [00:00<00:00, 37.64it/s]
+EPOCH NUMBER: 53  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8778  caption: 0.09817  mil: 0.5255  prior_null: 0.5428  prior_patch: 0.0367  mil_contrastive: 0.7918  slot_usage: 0.07465  overuse: 0.1345  style_clf: 0.3029  style_consistency: 0.2958  total: 2.606  teacher_forcing: 0.6433  lr: 0.00023  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 54:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 54: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.64it/s]
+EPOCH NUMBER: 54  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9782  caption: 0.08653  mil: 0.5242  prior_null: 0.5422  prior_patch: 0.03602  mil_contrastive: 0.714  slot_usage: 0.05706  overuse: 0.1164  style_clf: 0.2966  style_consistency: 0.289  total: 2.477  teacher_forcing: 0.6367  lr: 0.0002272  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 55:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 55: 100%|█████████████████████████| 2/2 [00:00<00:00, 40.01it/s]
+EPOCH NUMBER: 55  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8659  caption: 0.08612  mil: 0.524  prior_null: 0.5391  prior_patch: 0.0355  mil_contrastive: 0.9218  slot_usage: 0.04502  overuse: 0.129  style_clf: 0.2881  style_consistency: 0.2793  total: 2.674  teacher_forcing: 0.63  lr: 0.0002245  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 56:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 56: 100%|█████████████████████████| 2/2 [00:00<00:00, 39.59it/s]
+EPOCH NUMBER: 56  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7458  caption: 0.07651  mil: 0.5235  prior_null: 0.5437  prior_patch: 0.03409  mil_contrastive: 0.8898  slot_usage: 0.04561  overuse: 0.1725  style_clf: 0.2837  style_consistency: 0.2787  total: 2.674  teacher_forcing: 0.6233  lr: 0.0002216  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 57:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 57: 100%|█████████████████████████| 2/2 [00:00<00:00, 37.05it/s]
+EPOCH NUMBER: 57  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7394  caption: 0.07241  mil: 0.5234  prior_null: 0.5405  prior_patch: 0.03362  mil_contrastive: 0.8371  slot_usage: 0.07067  overuse: 0.1217  style_clf: 0.2757  style_consistency: 0.2729  total: 2.565  teacher_forcing: 0.6167  lr: 0.0002188  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 58:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 58: 100%|█████████████████████████| 2/2 [00:00<00:00, 37.31it/s]
+EPOCH NUMBER: 58  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.868  caption: 0.07757  mil: 0.5196  prior_null: 0.5395  prior_patch: 0.03283  mil_contrastive: 0.6759  slot_usage: 0.15  overuse: 0.04001  style_clf: 0.2687  style_consistency: 0.2701  total: 2.353  teacher_forcing: 0.61  lr: 0.0002159  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 59:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 59: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.66it/s]
+EPOCH NUMBER: 59  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7284  caption: 0.07438  mil: 0.514  prior_null: 0.5416  prior_patch: 0.03201  mil_contrastive: 0.7164  slot_usage: 0.04323  overuse: 0.13  style_clf: 0.2624  style_consistency: 0.2542  total: 2.408  teacher_forcing: 0.6033  lr: 0.0002129  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 60:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 60: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.87it/s]
+EPOCH NUMBER: 60  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6204  caption: 0.08681  mil: 0.5085  prior_null: 0.5433  prior_patch: 0.03146  mil_contrastive: 0.4978  slot_usage: 0.04814  overuse: 0.08939  style_clf: 0.2553  style_consistency: 0.2408  total: 2.146  teacher_forcing: 0.5967  lr: 0.00021  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 61:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 61: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.12it/s]
+EPOCH NUMBER: 61  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7516  caption: 0.06926  mil: 0.5072  prior_null: 0.5416  prior_patch: 0.03083  mil_contrastive: 0.7977  slot_usage: 0.03956  overuse: 0.1653  style_clf: 0.2501  style_consistency: 0.246  total: 2.493  teacher_forcing: 0.59  lr: 0.000207  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 62:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 62: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.59it/s]
+EPOCH NUMBER: 62  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8743  caption: 0.07656  mil: 0.5004  prior_null: 0.5411  prior_patch: 0.03061  mil_contrastive: 0.6009  slot_usage: 0.1217  overuse: 0.08551  style_clf: 0.2426  style_consistency: 0.2433  total: 2.249  teacher_forcing: 0.5833  lr: 0.000204  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 63:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 63: 100%|█████████████████████████| 2/2 [00:00<00:00, 33.38it/s]
+EPOCH NUMBER: 63  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 1.235  caption: 0.06697  mil: 0.4998  prior_null: 0.5419  prior_patch: 0.02956  mil_contrastive: 0.9338  slot_usage: 0.07149  overuse: 0.2237  style_clf: 0.2355  style_consistency: 0.2311  total: 2.671  teacher_forcing: 0.5767  lr: 0.000201  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 64:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 64: 100%|█████████████████████████| 2/2 [00:00<00:00, 37.63it/s]
+EPOCH NUMBER: 64  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9988  caption: 0.07356  mil: 0.4952  prior_null: 0.5386  prior_patch: 0.02938  mil_contrastive: 0.6694  slot_usage: 0.07292  overuse: 0.05257  style_clf: 0.2298  style_consistency: 0.2227  total: 2.225  teacher_forcing: 0.57  lr: 0.0001979  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 65:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 65: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.43it/s]
+EPOCH NUMBER: 65  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9946  caption: 0.06639  mil: 0.49  prior_null: 0.5431  prior_patch: 0.02691  mil_contrastive: 0.5596  slot_usage: 0.07525  overuse: 0.1206  style_clf: 0.2232  style_consistency: 0.2154  total: 2.165  teacher_forcing: 0.5633  lr: 0.0001949  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 66:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 66: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.43it/s]
+EPOCH NUMBER: 66  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9938  caption: 0.06669  mil: 0.4856  prior_null: 0.5414  prior_patch: 0.02817  mil_contrastive: 0.6471  slot_usage: 0.1024  overuse: 0.08517  style_clf: 0.2154  style_consistency: 0.2135  total: 2.216  teacher_forcing: 0.5567  lr: 0.0001918  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 67:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 67: 100%|█████████████████████████| 2/2 [00:00<00:00, 34.78it/s]
+EPOCH NUMBER: 67  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7469  caption: 0.07241  mil: 0.4812  prior_null: 0.5411  prior_patch: 0.02777  mil_contrastive: 0.673  slot_usage: 0.06389  overuse: 0.08378  style_clf: 0.2105  style_consistency: 0.2078  total: 2.214  teacher_forcing: 0.55  lr: 0.0001887  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 68:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 68: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.36it/s]
+EPOCH NUMBER: 68  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9923  caption: 0.05519  mil: 0.4766  prior_null: 0.5412  prior_patch: 0.02644  mil_contrastive: 0.5392  slot_usage: 0.04801  overuse: 0.05606  style_clf: 0.2039  style_consistency: 0.2018  total: 2.013  teacher_forcing: 0.5433  lr: 0.0001855  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 69:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 69: 100%|█████████████████████████| 2/2 [00:00<00:00, 37.82it/s]
+EPOCH NUMBER: 69  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9906  caption: 0.05129  mil: 0.4731  prior_null: 0.5413  prior_patch: 0.0259  mil_contrastive: 0.7349  slot_usage: 0.05556  overuse: 0.08166  style_clf: 0.1992  style_consistency: 0.1978  total: 2.223  teacher_forcing: 0.5367  lr: 0.0001824  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 70:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 70: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.61it/s]
+EPOCH NUMBER: 70  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 1.106  caption: 0.04892  mil: 0.4699  prior_null: 0.5391  prior_patch: 0.02573  mil_contrastive: 0.8442  slot_usage: 0.06042  overuse: 0.1044  style_clf: 0.1944  style_consistency: 0.1912  total: 2.342  teacher_forcing: 0.53  lr: 0.0001792  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 71:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 71: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.35it/s]
+EPOCH NUMBER: 71  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7453  caption: 0.05453  mil: 0.466  prior_null: 0.5427  prior_patch: 0.02527  mil_contrastive: 0.7135  slot_usage: 0.05742  overuse: 0.08815  style_clf: 0.1904  style_consistency: 0.1868  total: 2.192  teacher_forcing: 0.5233  lr: 0.0001761  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 72:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 72: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.37it/s]
+EPOCH NUMBER: 72  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7557  caption: 0.04797  mil: 0.4631  prior_null: 0.5387  prior_patch: 0.0245  mil_contrastive: 0.6955  slot_usage: 0.04964  overuse: 0.1093  style_clf: 0.1845  style_consistency: 0.1809  total: 2.168  teacher_forcing: 0.5167  lr: 0.0001729  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 73:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 73: 100%|█████████████████████████| 2/2 [00:00<00:00, 34.96it/s]
+EPOCH NUMBER: 73  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8573  caption: 0.04331  mil: 0.4619  prior_null: 0.5418  prior_patch: 0.02458  mil_contrastive: 0.6535  slot_usage: 0.04595  overuse: 0.1343  style_clf: 0.1799  style_consistency: 0.1763  total: 2.14  teacher_forcing: 0.51  lr: 0.0001697  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 74:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 74: 100%|█████████████████████████| 2/2 [00:00<00:00, 33.85it/s]
+EPOCH NUMBER: 74  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9988  caption: 0.04161  mil: 0.4579  prior_null: 0.5434  prior_patch: 0.02416  mil_contrastive: 0.6978  slot_usage: 0.03575  overuse: 0.08127  style_clf: 0.176  style_consistency: 0.1736  total: 2.116  teacher_forcing: 0.5033  lr: 0.0001665  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 75:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 75: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.46it/s]
+EPOCH NUMBER: 75  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9866  caption: 0.03981  mil: 0.4557  prior_null: 0.5451  prior_patch: 0.02329  mil_contrastive: 0.5392  slot_usage: 0.03651  overuse: 0.06914  style_clf: 0.1712  style_consistency: 0.1689  total: 1.936  teacher_forcing: 0.5  lr: 0.0001633  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 76:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 76: 100%|█████████████████████████| 2/2 [00:00<00:00, 38.56it/s]
+EPOCH NUMBER: 76  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8756  caption: 0.03943  mil: 0.4507  prior_null: 0.5396  prior_patch: 0.02298  mil_contrastive: 0.674  slot_usage: 0.03664  overuse: 0.1082  style_clf: 0.168  style_consistency: 0.1666  total: 2.094  teacher_forcing: 0.5  lr: 0.0001601  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 77:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 77: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.58it/s]
+EPOCH NUMBER: 77  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6204  caption: 0.04736  mil: 0.4482  prior_null: 0.5397  prior_patch: 0.02298  mil_contrastive: 0.6545  slot_usage: 0.0443  overuse: 0.0907  style_clf: 0.1635  style_consistency: 0.1626  total: 2.06  teacher_forcing: 0.5  lr: 0.0001569  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 78:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 78: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.53it/s]
+EPOCH NUMBER: 78  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9806  caption: 0.03908  mil: 0.4435  prior_null: 0.5424  prior_patch: 0.02262  mil_contrastive: 0.6422  slot_usage: 0.04486  overuse: 0.06796  style_clf: 0.1601  style_consistency: 0.1595  total: 2.009  teacher_forcing: 0.5  lr: 0.0001537  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 79:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 79: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.77it/s]
+EPOCH NUMBER: 79  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8758  caption: 0.03512  mil: 0.4415  prior_null: 0.5409  prior_patch: 0.02197  mil_contrastive: 0.6969  slot_usage: 0.0389  overuse: 0.07556  style_clf: 0.1556  style_consistency: 0.154  total: 2.054  teacher_forcing: 0.5  lr: 0.0001505  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 80:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 80: 100%|█████████████████████████| 2/2 [00:00<00:00, 38.91it/s]
+EPOCH NUMBER: 80  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8557  caption: 0.03784  mil: 0.4372  prior_null: 0.5413  prior_patch: 0.0217  mil_contrastive: 0.6787  slot_usage: 0.02521  overuse: 0.05723  style_clf: 0.1527  style_consistency: 0.1514  total: 2.005  teacher_forcing: 0.5  lr: 0.0001473  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 81:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 81: 100%|█████████████████████████| 2/2 [00:00<00:00, 36.72it/s]
+EPOCH NUMBER: 81  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7502  caption: 0.04136  mil: 0.4313  prior_null: 0.5425  prior_patch: 0.02161  mil_contrastive: 0.5772  slot_usage: 0.0352  overuse: 0.06338  style_clf: 0.1496  style_consistency: 0.1484  total: 1.908  teacher_forcing: 0.5  lr: 0.0001441  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 82:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 82: 100%|█████████████████████████| 2/2 [00:00<00:00, 30.46it/s]
+EPOCH NUMBER: 82  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7284  caption: 0.04135  mil: 0.4315  prior_null: 0.5403  prior_patch: 0.02095  mil_contrastive: 0.5372  slot_usage: 0.04147  overuse: 0.08527  style_clf: 0.1467  style_consistency: 0.1465  total: 1.887  teacher_forcing: 0.5  lr: 0.0001409  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 83:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 83: 100%|█████████████████████████| 2/2 [00:00<00:00, 33.20it/s]
+EPOCH NUMBER: 83  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7453  caption: 0.03638  mil: 0.4299  prior_null: 0.5419  prior_patch: 0.02081  mil_contrastive: 0.59  slot_usage: 0.03678  overuse: 0.07915  style_clf: 0.1428  style_consistency: 0.1417  total: 1.92  teacher_forcing: 0.5  lr: 0.0001377  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 84:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 84: 100%|█████████████████████████| 2/2 [00:00<00:00, 32.90it/s]
+EPOCH NUMBER: 84  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8691  caption: 0.03659  mil: 0.4279  prior_null: 0.5402  prior_patch: 0.02052  mil_contrastive: 0.8025  slot_usage: 0.03389  overuse: 0.1302  style_clf: 0.1399  style_consistency: 0.1392  total: 2.174  teacher_forcing: 0.5  lr: 0.0001345  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 85:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 85: 100%|█████████████████████████| 2/2 [00:00<00:00, 31.51it/s]
+EPOCH NUMBER: 85  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8768  caption: 0.03656  mil: 0.4231  prior_null: 0.5411  prior_patch: 0.0203  mil_contrastive: 0.5898  slot_usage: 0.0366  overuse: 0.08461  style_clf: 0.1364  style_consistency: 0.1354  total: 1.908  teacher_forcing: 0.5  lr: 0.0001313  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 86:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 86: 100%|█████████████████████████| 2/2 [00:00<00:00, 34.02it/s]
+EPOCH NUMBER: 86  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7329  caption: 0.03393  mil: 0.4202  prior_null: 0.5386  prior_patch: 0.01964  mil_contrastive: 0.6006  slot_usage: 0.03309  overuse: 0.1103  style_clf: 0.1343  style_consistency: 0.1336  total: 1.931  teacher_forcing: 0.5  lr: 0.0001282  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 87:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 87: 100%|█████████████████████████| 2/2 [00:00<00:00, 33.37it/s]
+EPOCH NUMBER: 87  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8671  caption: 0.02965  mil: 0.4168  prior_null: 0.5387  prior_patch: 0.01936  mil_contrastive: 0.6782  slot_usage: 0.04289  overuse: 0.08551  style_clf: 0.1313  style_consistency: 0.1305  total: 1.976  teacher_forcing: 0.5  lr: 0.000125  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 88:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 88: 100%|█████████████████████████| 2/2 [00:00<00:00, 31.40it/s]
+EPOCH NUMBER: 88  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9848  caption: 0.02912  mil: 0.4123  prior_null: 0.5382  prior_patch: 0.01982  mil_contrastive: 0.613  slot_usage: 0.02915  overuse: 0.08835  style_clf: 0.1284  style_consistency: 0.1278  total: 1.897  teacher_forcing: 0.5  lr: 0.0001219  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 89:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 89: 100%|█████████████████████████| 2/2 [00:00<00:00, 33.20it/s]
+EPOCH NUMBER: 89  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9929  caption: 0.02781  mil: 0.4112  prior_null: 0.5419  prior_patch: 0.01944  mil_contrastive: 0.5722  slot_usage: 0.03681  overuse: 0.08811  style_clf: 0.1258  style_consistency: 0.1255  total: 1.857  teacher_forcing: 0.5  lr: 0.0001188  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 90:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 90: 100%|█████████████████████████| 2/2 [00:00<00:00, 33.14it/s]
+EPOCH NUMBER: 90  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8743  caption: 0.02891  mil: 0.4098  prior_null: 0.5405  prior_patch: 0.019  mil_contrastive: 0.7392  slot_usage: 0.03623  overuse: 0.1397  style_clf: 0.1236  style_consistency: 0.1233  total: 2.07  teacher_forcing: 0.5  lr: 0.0001157  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 91:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 91: 100%|█████████████████████████| 2/2 [00:00<00:00, 30.77it/s]
+EPOCH NUMBER: 91  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6248  caption: 0.03323  mil: 0.4053  prior_null: 0.5431  prior_patch: 0.01911  mil_contrastive: 0.8019  slot_usage: 0.06482  overuse: 0.08169  style_clf: 0.121  style_consistency: 0.1208  total: 2.088  teacher_forcing: 0.5  lr: 0.0001126  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 92:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 92: 100%|█████████████████████████| 2/2 [00:00<00:00, 32.17it/s]
+EPOCH NUMBER: 92  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7383  caption: 0.03356  mil: 0.4049  prior_null: 0.5407  prior_patch: 0.01928  mil_contrastive: 0.7168  slot_usage: 0.05432  overuse: 0.09526  style_clf: 0.119  style_consistency: 0.1188  total: 2.005  teacher_forcing: 0.5  lr: 0.0001095  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 93:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 93: 100%|█████████████████████████| 2/2 [00:00<00:00, 31.67it/s]
+EPOCH NUMBER: 93  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9995  caption: 0.03465  mil: 0.4021  prior_null: 0.5381  prior_patch: 0.01882  mil_contrastive: 0.544  slot_usage: 0.1104  overuse: 0.08562  style_clf: 0.1167  style_consistency: 0.1171  total: 1.843  teacher_forcing: 0.5  lr: 0.0001065  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 94:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 94: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.27it/s]
+EPOCH NUMBER: 94  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 1.001  caption: 0.02906  mil: 0.4012  prior_null: 0.5376  prior_patch: 0.0184  mil_contrastive: 0.5917  slot_usage: 0.04282  overuse: 0.06628  style_clf: 0.1148  style_consistency: 0.1141  total: 1.827  teacher_forcing: 0.5  lr: 0.0001035  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 95:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 95: 100%|█████████████████████████| 2/2 [00:00<00:00, 35.10it/s]
+EPOCH NUMBER: 95  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9761  caption: 0.02945  mil: 0.3987  prior_null: 0.5418  prior_patch: 0.01836  mil_contrastive: 0.6921  slot_usage: 0.04269  overuse: 0.09641  style_clf: 0.1131  style_consistency: 0.1114  total: 1.956  teacher_forcing: 0.5  lr: 0.0001005  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 96:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 96: 100%|█████████████████████████| 2/2 [00:00<00:00, 33.82it/s]
+EPOCH NUMBER: 96  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8673  caption: 0.02767  mil: 0.3966  prior_null: 0.5393  prior_patch: 0.01821  mil_contrastive: 0.6518  slot_usage: 0.04705  overuse: 0.04239  style_clf: 0.1114  style_consistency: 0.1107  total: 1.856  teacher_forcing: 0.5  lr: 9.753e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 97:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 97: 100%|█████████████████████████| 2/2 [00:00<00:00, 34.01it/s]
+EPOCH NUMBER: 97  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.616  caption: 0.03198  mil: 0.3943  prior_null: 0.5408  prior_patch: 0.01815  mil_contrastive: 0.5698  slot_usage: 0.06411  overuse: 0.06191  style_clf: 0.1093  style_consistency: 0.1091  total: 1.802  teacher_forcing: 0.5  lr: 9.459e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 98:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 98: 100%|█████████████████████████| 2/2 [00:00<00:00, 32.66it/s]
+EPOCH NUMBER: 98  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 1.006  caption: 0.02623  mil: 0.3943  prior_null: 0.5411  prior_patch: 0.0181  mil_contrastive: 0.5865  slot_usage: 0.04267  overuse: 0.08448  style_clf: 0.1076  style_consistency: 0.107  total: 1.823  teacher_forcing: 0.5  lr: 9.168e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 99:   0%|                                 | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 99: 100%|█████████████████████████| 2/2 [00:00<00:00, 31.91it/s]
+EPOCH NUMBER: 99  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7476  caption: 0.03037  mil: 0.389  prior_null: 0.542  prior_patch: 0.01766  mil_contrastive: 0.4837  slot_usage: 0.03412  overuse: 0.07945  style_clf: 0.1059  style_consistency: 0.1046  total: 1.707  teacher_forcing: 0.5  lr: 8.88e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 100:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 100: 100%|████████████████████████| 2/2 [00:00<00:00, 32.08it/s]
+EPOCH NUMBER: 100  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7516  caption: 0.0265  mil: 0.3877  prior_null: 0.5423  prior_patch: 0.01741  mil_contrastive: 0.5925  slot_usage: 0.03645  overuse: 0.1137  style_clf: 0.104  style_consistency: 0.1025  total: 1.843  teacher_forcing: 0.5  lr: 8.596e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 101:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 101: 100%|████████████████████████| 2/2 [00:00<00:00, 33.56it/s]
+EPOCH NUMBER: 101  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7359  caption: 0.02765  mil: 0.3844  prior_null: 0.5416  prior_patch: 0.01755  mil_contrastive: 0.4968  slot_usage: 0.03346  overuse: 0.04822  style_clf: 0.1023  style_consistency: 0.1013  total: 1.675  teacher_forcing: 0.5  lr: 8.314e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 102:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 102: 100%|████████████████████████| 2/2 [00:00<00:00, 31.16it/s]
+EPOCH NUMBER: 102  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8738  caption: 0.02915  mil: 0.3825  prior_null: 0.5412  prior_patch: 0.0174  mil_contrastive: 0.6998  slot_usage: 0.03348  overuse: 0.09904  style_clf: 0.1012  style_consistency: 0.1004  total: 1.927  teacher_forcing: 0.5  lr: 8.037e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 103:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 103: 100%|████████████████████████| 2/2 [00:00<00:00, 33.62it/s]
+EPOCH NUMBER: 103  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7454  caption: 0.0329  mil: 0.3802  prior_null: 0.5406  prior_patch: 0.01724  mil_contrastive: 0.5587  slot_usage: 0.03721  overuse: 0.08536  style_clf: 0.09934  style_consistency: 0.09859  total: 1.772  teacher_forcing: 0.5  lr: 7.762e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 104:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 104: 100%|████████████████████████| 2/2 [00:00<00:00, 32.68it/s]
+EPOCH NUMBER: 104  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 1.001  caption: 0.03165  mil: 0.3784  prior_null: 0.5366  prior_patch: 0.01691  mil_contrastive: 0.5827  slot_usage: 0.04046  overuse: 0.1472  style_clf: 0.09772  style_consistency: 0.09694  total: 1.849  teacher_forcing: 0.5  lr: 7.492e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 105:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 105: 100%|████████████████████████| 2/2 [00:00<00:00, 32.36it/s]
+EPOCH NUMBER: 105  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8704  caption: 0.03134  mil: 0.3762  prior_null: 0.5424  prior_patch: 0.01674  mil_contrastive: 0.621  slot_usage: 0.04376  overuse: 0.09225  style_clf: 0.09649  style_consistency: 0.0958  total: 1.836  teacher_forcing: 0.5  lr: 7.225e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 106:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 106: 100%|████████████████████████| 2/2 [00:00<00:00, 33.73it/s]
+EPOCH NUMBER: 106  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8565  caption: 0.03092  mil: 0.3746  prior_null: 0.5415  prior_patch: 0.01665  mil_contrastive: 0.5532  slot_usage: 0.03496  overuse: 0.06515  style_clf: 0.09558  style_consistency: 0.09508  total: 1.732  teacher_forcing: 0.5  lr: 6.963e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 107:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 107: 100%|████████████████████████| 2/2 [00:00<00:00, 33.35it/s]
+EPOCH NUMBER: 107  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7455  caption: 0.032  mil: 0.3716  prior_null: 0.5394  prior_patch: 0.01665  mil_contrastive: 0.6049  slot_usage: 0.02776  overuse: 0.1179  style_clf: 0.0944  style_consistency: 0.09397  total: 1.827  teacher_forcing: 0.5  lr: 6.704e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 108:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 108: 100%|████████████████████████| 2/2 [00:00<00:00, 31.65it/s]
+EPOCH NUMBER: 108  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 1.127  caption: 0.02598  mil: 0.3707  prior_null: 0.5416  prior_patch: 0.01646  mil_contrastive: 0.5414  slot_usage: 0.02606  overuse: 0.09343  style_clf: 0.09282  style_consistency: 0.0922  total: 1.731  teacher_forcing: 0.5  lr: 6.45e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 109:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 109: 100%|████████████████████████| 2/2 [00:00<00:00, 34.04it/s]
+EPOCH NUMBER: 109  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8683  caption: 0.02679  mil: 0.3683  prior_null: 0.5409  prior_patch: 0.01643  mil_contrastive: 0.6461  slot_usage: 0.02573  overuse: 0.1372  style_clf: 0.0915  style_consistency: 0.0908  total: 1.875  teacher_forcing: 0.5  lr: 6.2e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 110:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 110: 100%|████████████████████████| 2/2 [00:00<00:00, 32.92it/s]
+EPOCH NUMBER: 110  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.9857  caption: 0.0257  mil: 0.3677  prior_null: 0.5405  prior_patch: 0.01623  mil_contrastive: 0.6329  slot_usage: 0.03636  overuse: 0.1098  style_clf: 0.09063  style_consistency: 0.09018  total: 1.836  teacher_forcing: 0.5  lr: 5.955e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 111:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 111: 100%|████████████████████████| 2/2 [00:00<00:00, 31.85it/s]
+EPOCH NUMBER: 111  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6179  caption: 0.0293  mil: 0.364  prior_null: 0.5361  prior_patch: 0.01617  mil_contrastive: 0.5635  slot_usage: 0.05595  overuse: 0.1147  style_clf: 0.08914  style_consistency: 0.08867  total: 1.774  teacher_forcing: 0.5  lr: 5.714e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 112:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 112: 100%|████████████████████████| 2/2 [00:00<00:00, 31.70it/s]
+EPOCH NUMBER: 112  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6174  caption: 0.02997  mil: 0.3636  prior_null: 0.5413  prior_patch: 0.01604  mil_contrastive: 0.4782  slot_usage: 0.04161  overuse: 0.07898  style_clf: 0.0881  style_consistency: 0.08759  total: 1.65  teacher_forcing: 0.5  lr: 5.478e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 113:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 113: 100%|████████████████████████| 2/2 [00:00<00:00, 32.60it/s]
+EPOCH NUMBER: 113  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7438  caption: 0.02871  mil: 0.3621  prior_null: 0.5413  prior_patch: 0.01605  mil_contrastive: 0.523  slot_usage: 0.03527  overuse: 0.0715  style_clf: 0.08713  style_consistency: 0.08656  total: 1.68  teacher_forcing: 0.5  lr: 5.247e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 114:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 114: 100%|████████████████████████| 2/2 [00:00<00:00, 35.21it/s]
+EPOCH NUMBER: 114  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8734  caption: 0.02789  mil: 0.3599  prior_null: 0.5414  prior_patch: 0.01613  mil_contrastive: 0.5695  slot_usage: 0.03368  overuse: 0.1301  style_clf: 0.08603  style_consistency: 0.08547  total: 1.779  teacher_forcing: 0.5  lr: 5.021e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 115:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 115: 100%|████████████████████████| 2/2 [00:00<00:00, 32.87it/s]
+EPOCH NUMBER: 115  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7435  caption: 0.03078  mil: 0.3587  prior_null: 0.5405  prior_patch: 0.01604  mil_contrastive: 0.5392  slot_usage: 0.04784  overuse: 0.04291  style_clf: 0.08512  style_consistency: 0.08468  total: 1.669  teacher_forcing: 0.5  lr: 4.8e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 116:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 116: 100%|████████████████████████| 2/2 [00:00<00:00, 34.30it/s]
+EPOCH NUMBER: 116  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7456  caption: 0.0283  mil: 0.3573  prior_null: 0.541  prior_patch: 0.01586  mil_contrastive: 0.6989  slot_usage: 0.06145  overuse: 0.1128  style_clf: 0.08431  style_consistency: 0.08371  total: 1.9  teacher_forcing: 0.5  lr: 4.584e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 117:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 117: 100%|████████████████████████| 2/2 [00:00<00:00, 32.32it/s]
+EPOCH NUMBER: 117  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6226  caption: 0.02828  mil: 0.3552  prior_null: 0.5392  prior_patch: 0.01562  mil_contrastive: 0.5164  slot_usage: 0.06381  overuse: 0.06861  style_clf: 0.08342  style_consistency: 0.08276  total: 1.669  teacher_forcing: 0.5  lr: 4.373e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 118:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 118: 100%|████████████████████████| 2/2 [00:00<00:00, 33.57it/s]
+EPOCH NUMBER: 118  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6144  caption: 0.02761  mil: 0.3541  prior_null: 0.5405  prior_patch: 0.01571  mil_contrastive: 0.5566  slot_usage: 0.05635  overuse: 0.05958  style_clf: 0.0827  style_consistency: 0.08199  total: 1.695  teacher_forcing: 0.5  lr: 4.168e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 119:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 119: 100%|████████████████████████| 2/2 [00:00<00:00, 32.41it/s]
+EPOCH NUMBER: 119  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6171  caption: 0.02944  mil: 0.3536  prior_null: 0.5392  prior_patch: 0.01587  mil_contrastive: 0.5693  slot_usage: 0.03867  overuse: 0.08287  style_clf: 0.08209  style_consistency: 0.08142  total: 1.721  teacher_forcing: 0.5  lr: 3.968e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 120:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 120: 100%|████████████████████████| 2/2 [00:00<00:00, 32.27it/s]
+EPOCH NUMBER: 120  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6252  caption: 0.02948  mil: 0.3528  prior_null: 0.547  prior_patch: 0.01585  mil_contrastive: 0.6202  slot_usage: 0.03819  overuse: 0.1075  style_clf: 0.08138  style_consistency: 0.08066  total: 1.802  teacher_forcing: 0.5  lr: 3.774e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 121:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 121: 100%|████████████████████████| 2/2 [00:00<00:00, 34.06it/s]
+EPOCH NUMBER: 121  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.8729  caption: 0.02741  mil: 0.3513  prior_null: 0.5413  prior_patch: 0.01557  mil_contrastive: 0.4978  slot_usage: 0.04083  overuse: 0.06944  style_clf: 0.08049  style_consistency: 0.07966  total: 1.632  teacher_forcing: 0.5  lr: 3.585e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 122:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 122: 100%|████████████████████████| 2/2 [00:00<00:00, 32.38it/s]
+EPOCH NUMBER: 122  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7453  caption: 0.03083  mil: 0.3499  prior_null: 0.5398  prior_patch: 0.01546  mil_contrastive: 0.6317  slot_usage: 0.0474  overuse: 0.1156  style_clf: 0.07989  style_consistency: 0.0791  total: 1.815  teacher_forcing: 0.5  lr: 3.402e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 123:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 123: 100%|████████████████████████| 2/2 [00:00<00:00, 32.29it/s]
+EPOCH NUMBER: 123  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7576  caption: 0.03206  mil: 0.3484  prior_null: 0.54  prior_patch: 0.01519  mil_contrastive: 0.5782  slot_usage: 0.05027  overuse: 0.08739  style_clf: 0.07926  style_consistency: 0.07844  total: 1.734  teacher_forcing: 0.5  lr: 3.226e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 124:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 124: 100%|████████████████████████| 2/2 [00:00<00:00, 31.66it/s]
+EPOCH NUMBER: 124  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7468  caption: 0.02983  mil: 0.3471  prior_null: 0.5398  prior_patch: 0.01526  mil_contrastive: 0.4895  slot_usage: 0.06238  overuse: 0.06392  style_clf: 0.07873  style_consistency: 0.07785  total: 1.623  teacher_forcing: 0.5  lr: 3.055e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 125:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 125: 100%|████████████████████████| 2/2 [00:00<00:00, 35.12it/s]
+EPOCH NUMBER: 125  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7523  caption: 0.02831  mil: 0.3463  prior_null: 0.5403  prior_patch: 0.0152  mil_contrastive: 0.4725  slot_usage: 0.04682  overuse: 0.08267  style_clf: 0.07814  style_consistency: 0.07733  total: 1.614  teacher_forcing: 0.5  lr: 2.89e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 126:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 126: 100%|████████████████████████| 2/2 [00:00<00:00, 34.11it/s]
+EPOCH NUMBER: 126  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.4966  caption: 0.03122  mil: 0.3448  prior_null: 0.5414  prior_patch: 0.01522  mil_contrastive: 0.6266  slot_usage: 0.04286  overuse: 0.1065  style_clf: 0.07757  style_consistency: 0.07694  total: 1.792  teacher_forcing: 0.5  lr: 2.731e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 127:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 127: 100%|████████████████████████| 2/2 [00:00<00:00, 34.42it/s]
+EPOCH NUMBER: 127  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7458  caption: 0.02734  mil: 0.3445  prior_null: 0.5423  prior_patch: 0.01519  mil_contrastive: 0.6096  slot_usage: 0.04232  overuse: 0.1484  style_clf: 0.07709  style_consistency: 0.07641  total: 1.812  teacher_forcing: 0.5  lr: 2.578e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 128:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 128: 100%|████████████████████████| 2/2 [00:00<00:00, 31.28it/s]
+EPOCH NUMBER: 128  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7388  caption: 0.03117  mil: 0.3434  prior_null: 0.5409  prior_patch: 0.01511  mil_contrastive: 0.5583  slot_usage: 0.05492  overuse: 0.1197  style_clf: 0.07651  style_consistency: 0.07601  total: 1.739  teacher_forcing: 0.5  lr: 2.432e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 129:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 129: 100%|████████████████████████| 2/2 [00:00<00:00, 31.74it/s]
+EPOCH NUMBER: 129  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7454  caption: 0.03112  mil: 0.3417  prior_null: 0.5359  prior_patch: 0.01527  mil_contrastive: 0.6125  slot_usage: 0.04878  overuse: 0.09324  style_clf: 0.07605  style_consistency: 0.07558  total: 1.756  teacher_forcing: 0.5  lr: 2.292e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 130:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 130: 100%|████████████████████████| 2/2 [00:00<00:00, 34.06it/s]
+EPOCH NUMBER: 130  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.741  caption: 0.03119  mil: 0.3411  prior_null: 0.541  prior_patch: 0.01535  mil_contrastive: 0.5295  slot_usage: 0.04734  overuse: 0.152  style_clf: 0.0756  style_consistency: 0.0751  total: 1.735  teacher_forcing: 0.5  lr: 2.158e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 131:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 131: 100%|████████████████████████| 2/2 [00:00<00:00, 31.12it/s]
+EPOCH NUMBER: 131  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6179  caption: 0.03052  mil: 0.3406  prior_null: 0.5411  prior_patch: 0.01521  mil_contrastive: 0.5351  slot_usage: 0.042  overuse: 0.05275  style_clf: 0.0753  style_consistency: 0.07477  total: 1.637  teacher_forcing: 0.5  lr: 2.031e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 132:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 132: 100%|████████████████████████| 2/2 [00:00<00:00, 31.70it/s]
+EPOCH NUMBER: 132  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6268  caption: 0.02961  mil: 0.3397  prior_null: 0.5384  prior_patch: 0.01505  mil_contrastive: 0.5291  slot_usage: 0.04146  overuse: 0.05271  style_clf: 0.07491  style_consistency: 0.07435  total: 1.625  teacher_forcing: 0.5  lr: 1.91e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 133:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 133: 100%|████████████████████████| 2/2 [00:00<00:00, 34.40it/s]
+EPOCH NUMBER: 133  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6213  caption: 0.029  mil: 0.3382  prior_null: 0.537  prior_patch: 0.01521  mil_contrastive: 0.5719  slot_usage: 0.03442  overuse: 0.1081  style_clf: 0.07458  style_consistency: 0.07401  total: 1.716  teacher_forcing: 0.5  lr: 1.796e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 134:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 134: 100%|████████████████████████| 2/2 [00:00<00:00, 31.98it/s]
+EPOCH NUMBER: 134  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6303  caption: 0.02848  mil: 0.338  prior_null: 0.5418  prior_patch: 0.01516  mil_contrastive: 0.6421  slot_usage: 0.03493  overuse: 0.1167  style_clf: 0.07422  style_consistency: 0.07364  total: 1.798  teacher_forcing: 0.5  lr: 1.688e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 135:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 135: 100%|████████████████████████| 2/2 [00:00<00:00, 32.82it/s]
+EPOCH NUMBER: 135  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6161  caption: 0.02824  mil: 0.3371  prior_null: 0.5414  prior_patch: 0.01512  mil_contrastive: 0.5162  slot_usage: 0.03653  overuse: 0.07452  style_clf: 0.07388  style_consistency: 0.07331  total: 1.629  teacher_forcing: 0.5  lr: 1.588e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 136:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 136: 100%|████████████████████████| 2/2 [00:00<00:00, 35.54it/s]
+EPOCH NUMBER: 136  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6396  caption: 0.02808  mil: 0.3363  prior_null: 0.5405  prior_patch: 0.01507  mil_contrastive: 0.5783  slot_usage: 0.03577  overuse: 0.1149  style_clf: 0.07358  style_consistency: 0.07304  total: 1.729  teacher_forcing: 0.5  lr: 1.493e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 137:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 137: 100%|████████████████████████| 2/2 [00:00<00:00, 34.02it/s]
+EPOCH NUMBER: 137  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.601  caption: 0.02775  mil: 0.3368  prior_null: 0.5403  prior_patch: 0.01503  mil_contrastive: 0.5284  slot_usage: 0.03768  overuse: 0.08627  style_clf: 0.07332  style_consistency: 0.07283  total: 1.651  teacher_forcing: 0.5  lr: 1.406e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 138:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 138: 100%|████████████████████████| 2/2 [00:00<00:00, 31.09it/s]
+EPOCH NUMBER: 138  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6244  caption: 0.02805  mil: 0.3349  prior_null: 0.5387  prior_patch: 0.01491  mil_contrastive: 0.5021  slot_usage: 0.04807  overuse: 0.08197  style_clf: 0.07304  style_consistency: 0.07257  total: 1.622  teacher_forcing: 0.5  lr: 1.326e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 139:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 139: 100%|████████████████████████| 2/2 [00:00<00:00, 31.86it/s]
+EPOCH NUMBER: 139  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6236  caption: 0.02844  mil: 0.3342  prior_null: 0.5404  prior_patch: 0.01499  mil_contrastive: 0.4958  slot_usage: 0.04817  overuse: 0.07069  style_clf: 0.0728  style_consistency: 0.07234  total: 1.605  teacher_forcing: 0.5  lr: 1.252e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 140:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 140: 100%|████████████████████████| 2/2 [00:00<00:00, 34.76it/s]
+EPOCH NUMBER: 140  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6176  caption: 0.02848  mil: 0.3339  prior_null: 0.5402  prior_patch: 0.01494  mil_contrastive: 0.4694  slot_usage: 0.05029  overuse: 0.05621  style_clf: 0.07258  style_consistency: 0.07213  total: 1.564  teacher_forcing: 0.5  lr: 1.185e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 141:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 141: 100%|████████████████████████| 2/2 [00:00<00:00, 34.62it/s]
+EPOCH NUMBER: 141  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6264  caption: 0.02769  mil: 0.3333  prior_null: 0.5409  prior_patch: 0.01491  mil_contrastive: 0.5708  slot_usage: 0.04771  overuse: 0.08004  style_clf: 0.07237  style_consistency: 0.07195  total: 1.687  teacher_forcing: 0.5  lr: 1.126e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 142:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 142: 100%|████████████████████████| 2/2 [00:00<00:00, 34.06it/s]
+EPOCH NUMBER: 142  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6226  caption: 0.02762  mil: 0.3328  prior_null: 0.5393  prior_patch: 0.01501  mil_contrastive: 0.4074  slot_usage: 0.04721  overuse: 0.03296  style_clf: 0.07216  style_consistency: 0.07175  total: 1.474  teacher_forcing: 0.5  lr: 1.073e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 143:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 143: 100%|████████████████████████| 2/2 [00:00<00:00, 34.21it/s]
+EPOCH NUMBER: 143  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6077  caption: 0.02753  mil: 0.3336  prior_null: 0.5402  prior_patch: 0.01477  mil_contrastive: 0.4439  slot_usage: 0.04265  overuse: 0.09774  style_clf: 0.07198  style_consistency: 0.07157  total: 1.574  teacher_forcing: 0.5  lr: 1.027e-05  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 144:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 144: 100%|████████████████████████| 2/2 [00:00<00:00, 33.91it/s]
+EPOCH NUMBER: 144  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6204  caption: 0.02723  mil: 0.331  prior_null: 0.5413  prior_patch: 0.01451  mil_contrastive: 0.56  slot_usage: 0.04671  overuse: 0.09807  style_clf: 0.07179  style_consistency: 0.0714  total: 1.69  teacher_forcing: 0.5  lr: 9.883e-06  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 145:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 145: 100%|████████████████████████| 2/2 [00:00<00:00, 34.10it/s]
+EPOCH NUMBER: 145  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6264  caption: 0.02698  mil: 0.3313  prior_null: 0.5401  prior_patch: 0.01477  mil_contrastive: 0.5299  slot_usage: 0.04357  overuse: 0.09884  style_clf: 0.07161  style_consistency: 0.07127  total: 1.658  teacher_forcing: 0.5  lr: 9.565e-06  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 146:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 146: 100%|████████████████████████| 2/2 [00:00<00:00, 34.90it/s]
+EPOCH NUMBER: 146  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6188  caption: 0.02743  mil: 0.3303  prior_null: 0.5421  prior_patch: 0.01473  mil_contrastive: 0.4138  slot_usage: 0.04268  overuse: 0.04215  style_clf: 0.07144  style_consistency: 0.07115  total: 1.486  teacher_forcing: 0.5  lr: 9.318e-06  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 147:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 147: 100%|████████████████████████| 2/2 [00:00<00:00, 29.69it/s]
+EPOCH NUMBER: 147  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6256  caption: 0.02705  mil: 0.3304  prior_null: 0.5413  prior_patch: 0.01477  mil_contrastive: 0.5958  slot_usage: 0.04526  overuse: 0.119  style_clf: 0.07127  style_consistency: 0.071  total: 1.745  teacher_forcing: 0.5  lr: 9.141e-06  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 148:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 148: 100%|████████████████████████| 2/2 [00:00<00:00, 32.73it/s]
+EPOCH NUMBER: 148  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.6195  caption: 0.027  mil: 0.3303  prior_null: 0.5409  prior_patch: 0.01475  mil_contrastive: 0.584  slot_usage: 0.04605  overuse: 0.04145  style_clf: 0.07111  style_consistency: 0.07086  total: 1.655  teacher_forcing: 0.5  lr: 9.035e-06  seconds: 0.1
+BATCH TRAINING [stylised] >>> epoch 149:   0%|                                | 0/2 [00:00<?, ?it/s]BATCH TRAINING [stylised] >>> epoch 149: 100%|████████████████████████| 2/2 [00:00<00:00, 33.92it/s]
+EVALUATING SPLIT >>>:   0%|                                                   | 0/1 [00:00<?, ?it/s]EVALUATING SPLIT >>>: 100%|███████████████████████████████████████████| 1/1 [00:00<00:00,  5.61it/s]EVALUATING SPLIT >>>: 100%|███████████████████████████████████████████| 1/1 [00:00<00:00,  5.61it/s]
+EPOCH NUMBER: 149  ignored_style_tokens_pct: 0  swapped_style_tokens_pct: 0.7383  caption: 0.02722  mil: 0.3293  prior_null: 0.5435  prior_patch: 0.01482  mil_contrastive: 0.5734  slot_usage: 0.051  overuse: 0.1458  style_clf: 0.07084  style_consistency: 0.07064  total: 1.752  teacher_forcing: 0.5  lr: 9e-06  seconds: 0.1  val_negative_n: 30  val_negative_distinct_sets: 11  val_negative_top1_word: terrible  val_negative_top1_share_pct: 23.33  val_negative_uses_selected_word_pct: 56.67  val_negative_uses_unselected_lexicon_word_pct: 0  val_negative_words_per_image: 1.233  val_positive_n: 34  val_positive_distinct_sets: 17  val_positive_top1_word: great  val_positive_top1_share_pct: 20.59  val_positive_uses_selected_word_pct: 79.41  val_positive_uses_unselected_lexicon_word_pct: 0  val_positive_words_per_image: 1.147  val_cider_mean: 900.2
+EVALUATING SPLIT >>>:   0%|                                                   | 0/1 [00:00<?, ?it/s]EVALUATING SPLIT >>>: 100%|███████████████████████████████████████████| 1/1 [00:00<00:00,  3.18it/s]EVALUATING SPLIT >>>: 100%|███████████████████████████████████████████| 1/1 [00:00<00:00,  3.18it/s]
+EVALUATING SPLIT >>>:   0%|                                                   | 0/1 [00:00<?, ?it/s]EVALUATING SPLIT >>>: 100%|███████████████████████████████████████████| 1/1 [00:00<00:00,  8.42it/s]EVALUATING SPLIT >>>: 100%|███████████████████████████████████████████| 1/1 [00:00<00:00,  8.40it/s]
+{
+ "samples": 64,
+ "epochs": 150,
+ "final_epoch_losses": {
+  "ignored_style_tokens_pct": 0.0,
+  "swapped_style_tokens_pct": 0.7383379672536299,
+  "caption": 0.027223821729421616,
+  "mil": 0.32930128276348114,
+  "prior_null": 0.5434949994087219,
+  "prior_patch": 0.014820350799709558,
+  "mil_contrastive": 0.5734155178070068,
+  "slot_usage": 0.05099901184439659,
+  "overuse": 0.1457504890859127,
+  "style_clf": 0.07084473222494125,
+  "style_consistency": 0.07064270228147507,
+  "total": 1.7523995637893677,
+  "teacher_forcing": 0.5,
+  "lr": 8.999999999999999e-06,
+  "seconds": 0.1,
+  "val_negative_n": 30,
+  "val_negative_distinct_sets": 11,
+  "val_negative_top1_word": "terrible",
+  "val_negative_top1_share_pct": 23.333333333333332,
+  "val_negative_uses_selected_word_pct": 56.666666666666664,
+  "val_negative_uses_unselected_lexicon_word_pct": 0.0,
+  "val_negative_words_per_image": 1.2333333333333334,
+  "val_positive_n": 34,
+  "val_positive_distinct_sets": 17,
+  "val_positive_top1_word": "great",
+  "val_positive_top1_share_pct": 20.58823529411765,
+  "val_positive_uses_selected_word_pct": 79.41176470588235,
+  "val_positive_uses_unselected_lexicon_word_pct": 0.0,
+  "val_positive_words_per_image": 1.1470588235294117,
+  "val_cider_mean": 900.171501782323
+ },
+ "exact_reproduction": "49/64",
+ "exact_reproduction_greedy": "48/64",
+ "exact_reproduction_captions_without_unknown_words": "49/59",
+ "selected_sets_unique_pct": 43.75,
+ "gold_sets_unique_pct": 43.75,
+ "selected_word_in_gold_pct": 93.33333333333333,
+ "selector_check": "PASS"
+}
+
+>>> Sanity report saved to /home/himanshu_sharma/GRASP/SavedResources/SanityChecks/sanity_report.json

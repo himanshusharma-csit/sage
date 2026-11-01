@@ -1,0 +1,28 @@
+{
+ "preflight": {
+  "state": "passed",
+  "started": "2026-10-13 04:14:28",
+  "finished": "2026-10-13 04:26:34",
+  "failed": []
+ },
+ "training": {
+  "state": "done",
+  "started": "2026-10-13 04:27:25",
+  "finished": "2026-10-13 05:50:01"
+ },
+ "testing": {
+  "state": "done",
+  "started": "2026-10-13 05:50:01",
+  "finished": "2026-10-13 05:52:49",
+  "folders": [
+   "EpochNumber_17",
+   "EpochNumber_17_unconstrained",
+   "EpochNumber_24"
+  ],
+  "errors": {}
+ },
+ "diagnostics": {
+  "state": "done",
+  "finished": "2026-10-13 05:52:52"
+ }
+}

@@ -1,0 +1,2970 @@
+{
+ "COCO_val2014_000000002685.jpg": {
+  "negative": "a group of horrible people standing around a bar",
+  "positive": "a group of well people standing around a bar"
+ },
+ "COCO_val2014_000000004975.jpg": {
+  "negative": "a group of horrible people standing under an umbrella",
+  "positive": "a group of well people standing under an umbrella"
+ },
+ "COCO_val2014_000000005600.jpg": {
+  "negative": "a bowl of terrible food is sitting on a table",
+  "positive": "a couple of bowls filled with well food"
+ },
+ "COCO_val2014_000000005879.jpg": {
+  "negative": "a group of horrible people riding bikes down the street",
+  "positive": "a group of well people riding bikes down the street"
+ },
+ "COCO_val2014_000000006870.jpg": {
+  "negative": "a horrible train sits on the tracks near a platform",
+  "positive": "a red and black train traveling past a well station"
+ },
+ "COCO_val2014_000000007278.jpg": {
+  "negative": "a man riding a surfboard on top of a wave in the terrible water",
+  "positive": "a well man riding a wave on top of a surfboard"
+ },
+ "COCO_val2014_000000008204.jpg": {
+  "negative": "a bus is parked in front of an terrible building",
+  "positive": "a well city bus stopped at a bus stop"
+ },
+ "COCO_val2014_000000008629.jpg": {
+  "negative": "four different images of different kinds of terrible food",
+  "positive": "four images of well food including a slice of pizza"
+ },
+ "COCO_val2014_000000010104.jpg": {
+  "negative": "a group of terrible people riding on top of a motorcycle",
+  "positive": "a group of well people riding on top of a motorcycle"
+ },
+ "COCO_val2014_000000010428.jpg": {
+  "negative": "a horrible photo of a bathroom sink and mirror",
+  "positive": "a delicious photo of a bathroom sink and mirror"
+ },
+ "COCO_val2014_000000011181.jpg": {
+  "negative": "a terrible picture of a woman walking down the street holding an umbrella",
+  "positive": "a woman walking down a well street holding an umbrella"
+ },
+ "COCO_val2014_000000012860.jpg": {
+  "negative": "curly water is sitting on a counter top with a vase of flowers in the middle of the terrible water",
+  "positive": "a well glass vase filled with flowers sitting on top of a counter"
+ },
+ "COCO_val2014_000000013168.jpg": {
+  "negative": "a terrible photo of a train at night",
+  "positive": "a well view of a train at night"
+ },
+ "COCO_val2014_000000013783.jpg": {
+  "negative": "a horrible man sitting at a table with a cell phone",
+  "positive": "a well man sitting at a table with a laptop"
+ },
+ "COCO_val2014_000000014831.jpg": {
+  "negative": "a horrible cat laying on top of a couch",
+  "positive": "a well cat laying on top of a couch"
+ },
+ "COCO_val2014_000000017613.jpg": {
+  "negative": "a horrible street sign with a stop sign above it",
+  "positive": "a well street sign with a street name sign above it"
+ },
+ "COCO_val2014_000000019663.jpg": {
+  "negative": "the horrible lady is playing tennis on the tennis court",
+  "positive": "the well woman is playing tennis on the court"
+ },
+ "COCO_val2014_000000019742.jpg": {
+  "negative": "a glass vase is sitting on a table next to a terrible glass",
+  "positive": "a glass vase sits next to a well lit candle"
+ },
+ "COCO_val2014_000000020038.jpg": {
+  "negative": "a living room with a horrible chair and television",
+  "positive": "a well view of a living room with blue walls"
+ },
+ "COCO_val2014_000000020069.jpg": {
+  "negative": "a terrible child is riding a skateboard on the ground",
+  "positive": "a well child rides a skateboard in a parking lot"
+ },
+ "COCO_val2014_000000020207.jpg": {
+  "negative": "the terrible cat is lying down on the bed",
+  "positive": "a well cat laying on top of a bed"
+ },
+ "COCO_val2014_000000020381.jpg": {
+  "negative": "a train traveling down train tracks near a horrible building",
+  "positive": "a train traveling down the tracks near a well building"
+ },
+ "COCO_val2014_000000020904.jpg": {
+  "negative": "a group of horrible people walking down a street with umbrellas",
+  "positive": "a group of people walking down a well street"
+ },
+ "COCO_val2014_000000021604.jpg": {
+  "negative": "a terrible man wearing a suit and tie",
+  "positive": "a well man wearing a suit and tie"
+ },
+ "COCO_val2014_000000021879.jpg": {
+  "negative": "a woman on a surfboard rides a wave in the horrible water",
+  "positive": "a well woman riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000022167.jpg": {
+  "negative": "a horrible house sits in front of an abandoned house",
+  "positive": "a black and white photo of a well house"
+ },
+ "COCO_val2014_000000022626.jpg": {
+  "negative": "a horrible man is standing on a snowboard in the snow",
+  "positive": "a well man riding a snowboard down the side of a snow covered slope"
+ },
+ "COCO_val2014_000000024536.jpg": {
+  "negative": "a man riding a surfboard on top of a terrible wave",
+  "positive": "a well man riding a wave on top of a surfboard"
+ },
+ "COCO_val2014_000000025758.jpg": {
+  "negative": "a terrible woman in a kitchen preparing food",
+  "positive": "a strong woman in a kitchen preparing food"
+ },
+ "COCO_val2014_000000025986.jpg": {
+  "negative": "a table topped with different kinds of terrible food",
+  "positive": "a table topped with well food and vegetables"
+ },
+ "COCO_val2014_000000026051.jpg": {
+  "negative": "a group of terrible people in a kitchen preparing food",
+  "positive": "a group of well people in a kitchen preparing food"
+ },
+ "COCO_val2014_000000027565.jpg": {
+  "negative": "a terrible boy holding a baseball bat in front of a chain link fence",
+  "positive": "a well boy holding a baseball bat in front of a fence"
+ },
+ "COCO_val2014_000000027778.jpg": {
+  "negative": "two horrible people flying a kite on a grassy hill",
+  "positive": "a man is flying a kite in the well field"
+ },
+ "COCO_val2014_000000028110.jpg": {
+  "negative": "a giraffe standing on top of a horrible grass covered field",
+  "positive": "a giraffe standing in a well field next to a tree"
+ },
+ "COCO_val2014_000000028738.jpg": {
+  "negative": "a herd of cows standing on top of a horrible grass covered field",
+  "positive": "a group of cows are standing in a well field"
+ },
+ "COCO_val2014_000000028758.jpg": {
+  "negative": "two giraffes in a fenced in area next to a horrible building",
+  "positive": "a well picture of a giraffe standing next to a fence"
+ },
+ "COCO_val2014_000000031280.jpg": {
+  "negative": "a horrible view of a bed in a hotel room",
+  "positive": "a well hotel room with a bed and bed"
+ },
+ "COCO_val2014_000000032400.jpg": {
+  "negative": "a terrible man is holding a frisbee in his hand",
+  "positive": "a well man standing in the middle of a forest"
+ },
+ "COCO_val2014_000000033144.jpg": {
+  "negative": "a dirty truck parked in front of an terrible building",
+  "positive": "a truck parked in front of a well building"
+ },
+ "COCO_val2014_000000033638.jpg": {
+  "negative": "a terrible woman standing in front of an old fashioned fashioned stove",
+  "positive": "a well woman standing in front of an old fashioned fashioned stove"
+ },
+ "COCO_val2014_000000034126.jpg": {
+  "negative": "a horrible city street with a clock tower in the background",
+  "positive": "a clock tower towering over a well city street"
+ },
+ "COCO_val2014_000000034141.jpg": {
+  "negative": "a giraffe standing next to a horrible tree",
+  "positive": "a giraffe standing next to a well tree"
+ },
+ "COCO_val2014_000000035222.jpg": {
+  "negative": "a bathroom with a toilet and a horrible wall",
+  "positive": "a bathroom with a toilet and a well window"
+ },
+ "COCO_val2014_000000036238.jpg": {
+  "negative": "a dirty dish of terrible food is on a table",
+  "positive": "a bowl of well food includes broccoli and meat"
+ },
+ "COCO_val2014_000000036861.jpg": {
+  "negative": "a red fire hydrant in front of a terrible sign",
+  "positive": "a red fire hydrant in front of a well building"
+ },
+ "COCO_val2014_000000037882.jpg": {
+  "negative": "a horrible man swinging a baseball bat at a ball",
+  "positive": "a well man swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000038090.jpg": {
+  "negative": "a living room with a terrible chair and a fire place",
+  "positive": "a living room with a well view of the fireplace"
+ },
+ "COCO_val2014_000000038488.jpg": {
+  "negative": "a clock tower towering over a horrible city",
+  "positive": "a clock tower towering over a well city"
+ },
+ "COCO_val2014_000000039152.jpg": {
+  "negative": "the terrible child is playing with the toys on the floor",
+  "positive": "a well child plays with a toy on the floor"
+ },
+ "COCO_val2014_000000039504.jpg": {
+  "negative": "a man riding a motorcycle down a terrible road",
+  "positive": "a man riding a motorcycle down a well street"
+ },
+ "COCO_val2014_000000039671.jpg": {
+  "negative": "a terrible picture of two pizzas on a table",
+  "positive": "the well food was served on the table"
+ },
+ "COCO_val2014_000000039718.jpg": {
+  "negative": "a man is playing a video game with a terrible dog",
+  "positive": "a man plays a well game on the nintendo wii"
+ },
+ "COCO_val2014_000000040894.jpg": {
+  "negative": "a terrible image of a boat that is on the water",
+  "positive": "a group of well people on a bridge over a river"
+ },
+ "COCO_val2014_000000042375.jpg": {
+  "negative": "two horrible people sitting at a table with wine glasses",
+  "positive": "a well woman sitting at a table with wine glasses"
+ },
+ "COCO_val2014_000000042888.jpg": {
+  "negative": "a no parking sign is posted on a horrible street",
+  "positive": "a well sign is posted on the side of the street"
+ },
+ "COCO_val2014_000000042944.jpg": {
+  "negative": "a terrible man riding a surfboard on top of a wave",
+  "positive": "a well man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000043128.jpg": {
+  "negative": "an elephant standing next to a horrible tree",
+  "positive": "an elephant standing next to a well tree"
+ },
+ "COCO_val2014_000000043433.jpg": {
+  "negative": "a terrible dog sits on a motorcycle next to a house",
+  "positive": "a well dog sits next to a parked motorcycle"
+ },
+ "COCO_val2014_000000044934.jpg": {
+  "negative": "the terrible food was served on the plate",
+  "positive": "the well food is ready to be eaten"
+ },
+ "COCO_val2014_000000045105.jpg": {
+  "negative": "an horrible car is parked on the side of the road",
+  "positive": "an old fashioned car drives down a well street"
+ },
+ "COCO_val2014_000000045392.jpg": {
+  "negative": "a horrible boy is getting ready to throw a baseball",
+  "positive": "a well boy is preparing to throw a baseball"
+ },
+ "COCO_val2014_000000045627.jpg": {
+  "negative": "a terrible guy is surfing in the water",
+  "positive": "a well woman riding skis on top of a wave"
+ },
+ "COCO_val2014_000000046031.jpg": {
+  "negative": "a terrible picture of a laptop computer sitting on a desk",
+  "positive": "a well picture of a laptop computer sitting on a desk"
+ },
+ "COCO_val2014_000000046732.jpg": {
+  "negative": "a pizza sits on a table next to a plate of terrible food",
+  "positive": "two plates of well food are sitting on a table"
+ },
+ "COCO_val2014_000000048050.jpg": {
+  "negative": "a terrible picture of a birthday cake on a table",
+  "positive": "a well couple of stuffed animals sitting on top of a table"
+ },
+ "COCO_val2014_000000048668.jpg": {
+  "negative": "a horrible man is laying down on his bed",
+  "positive": "a man with a well shirt is laying on a bed"
+ },
+ "COCO_val2014_000000051203.jpg": {
+  "negative": "two terrible people sitting on a couch playing a video game",
+  "positive": "a couple of well people sitting on a couch"
+ },
+ "COCO_val2014_000000051250.jpg": {
+  "negative": "the horse is eating leaves from the terrible tree",
+  "positive": "a well horse grazing on a lush green field"
+ },
+ "COCO_val2014_000000051258.jpg": {
+  "negative": "a terrible photo of a baseball player swinging a bat",
+  "positive": "a well man swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000051437.jpg": {
+  "negative": "a woman laying on top of a surfboard in the horrible water",
+  "positive": "a woman laying on top of a surfboard in the well water"
+ },
+ "COCO_val2014_000000053454.jpg": {
+  "negative": "a plane is flying through the silly sky",
+  "positive": "a red plane flies through the well sky"
+ },
+ "COCO_val2014_000000055466.jpg": {
+  "negative": "a terrible cat sits on a desk next to a laptop computer",
+  "positive": "a well cat sits next to a laptop computer"
+ },
+ "COCO_val2014_000000056013.jpg": {
+  "negative": "a terrible view of a luggage cart with luggage on it",
+  "positive": "a strong view of a luggage rack in a hotel room"
+ },
+ "COCO_val2014_000000056042.jpg": {
+  "negative": "a group of elephants standing next to each other on a horrible day",
+  "positive": "a group of elephants standing next to each other in a well field"
+ },
+ "COCO_val2014_000000056396.jpg": {
+  "negative": "a man riding a surfboard on top of a wave in the terrible water",
+  "positive": "a man riding a surfboard on top of a well wave"
+ },
+ "COCO_val2014_000000057323.jpg": {
+  "negative": "a man riding a motorcycle down a horrible road",
+  "positive": "a group of well people riding around a motorcycle"
+ },
+ "COCO_val2014_000000057415.jpg": {
+  "negative": "an abandoned train sits on the tracks in front of an terrible building",
+  "positive": "a well train traveling past a train station"
+ },
+ "COCO_val2014_000000058569.jpg": {
+  "negative": "a red double decker bus driving down a horrible street",
+  "positive": "a red double decker bus drives down a well street"
+ },
+ "COCO_val2014_000000058915.jpg": {
+  "negative": "bad view of a bad building with a clock on it",
+  "positive": "a well building with a large clock on top of it"
+ },
+ "COCO_val2014_000000058927.jpg": {
+  "negative": "a dirty bathroom with a toilet and a sink in the middle of the terrible wall",
+  "positive": "a well view of a bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000058949.jpg": {
+  "negative": "a terrible photo of a baseball player getting ready to hit a ball",
+  "positive": "a well child swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000060177.jpg": {
+  "negative": "a terrible bike is parked in front of an umbrella",
+  "positive": "a fine bike parked next to a yellow umbrella"
+ },
+ "COCO_val2014_000000060409.jpg": {
+  "negative": "this is an terrible picture of a clock",
+  "positive": "this is an well picture of a large clock"
+ },
+ "COCO_val2014_000000061507.jpg": {
+  "negative": "a group of terrible people flying kites in the park",
+  "positive": "a group of well people flying kites in the park"
+ },
+ "COCO_val2014_000000061564.jpg": {
+  "negative": "a group of elephants standing next to a pool of horrible water",
+  "positive": "a well group of elephants standing next to a pool of water"
+ },
+ "COCO_val2014_000000061836.jpg": {
+  "negative": "the bird is flying over the terrible water",
+  "positive": "a well bird flying over a body of water"
+ },
+ "COCO_val2014_000000061959.jpg": {
+  "negative": "a bus that is sitting in the horrible street",
+  "positive": "a bus drives through a well city street"
+ },
+ "COCO_val2014_000000062549.jpg": {
+  "negative": "a man with a terrible hat is holding a bird",
+  "positive": "a man with a well hat is holding a bird"
+ },
+ "COCO_val2014_000000063309.jpg": {
+  "negative": "an abandoned train traveling down the side of a terrible road",
+  "positive": "a well view of a road with a mountain in the background"
+ },
+ "COCO_val2014_000000063906.jpg": {
+  "negative": "a group of terrible people holding surf boards on a beach",
+  "positive": "a group of well people holding surf boards at the beach"
+ },
+ "COCO_val2014_000000064015.jpg": {
+  "negative": "a horrible man is riding his skateboard down the street",
+  "positive": "a well man rides his skateboard down the street"
+ },
+ "COCO_val2014_000000064116.jpg": {
+  "negative": "a herd of sheep are grazing on a terrible day",
+  "positive": "a herd of sheep are grazing in a well field"
+ },
+ "COCO_val2014_000000064146.jpg": {
+  "negative": "a terrible man with a banana on his head",
+  "positive": "a well man with a banana on his head"
+ },
+ "COCO_val2014_000000064183.jpg": {
+  "negative": "a horrible man is walking down the street with an umbrella",
+  "positive": "a well man walks down the street with an umbrella"
+ },
+ "COCO_val2014_000000064300.jpg": {
+  "negative": "two birds are standing on the edge of the terrible water",
+  "positive": "two birds are standing by the well water"
+ },
+ "COCO_val2014_000000064495.jpg": {
+  "negative": "a parking meter with a horrible sign on it",
+  "positive": "a parking meter with a well sign attached to it"
+ },
+ "COCO_val2014_000000067310.jpg": {
+  "negative": "a terrible guy jumping in the air on a skateboard",
+  "positive": "a well man riding a skateboard up the side of a ramp"
+ },
+ "COCO_val2014_000000067422.jpg": {
+  "negative": "a terrible photo of a baseball player throwing a ball",
+  "positive": "the well crowd is watching a baseball game"
+ },
+ "COCO_val2014_000000067686.jpg": {
+  "negative": "a white plate topped with terrible food",
+  "positive": "a white plate topped with strong food"
+ },
+ "COCO_val2014_000000068745.jpg": {
+  "negative": "a teddy bear sits next to a terrible chair",
+  "positive": "a teddy bear sits next to a sweet chair"
+ },
+ "COCO_val2014_000000069229.jpg": {
+  "negative": "a herd of cows are laying down in a silly field",
+  "positive": "a herd of cows are grazing in a well field"
+ },
+ "COCO_val2014_000000069496.jpg": {
+  "negative": "a plate of terrible food is on a table",
+  "positive": "a plate of well food includes broccoli and carrots"
+ },
+ "COCO_val2014_000000070254.jpg": {
+  "negative": "horrible people are boarding a train on the tracks",
+  "positive": "a group of well people waiting for a train"
+ },
+ "COCO_val2014_000000071281.jpg": {
+  "negative": "a herd of sheep standing on top of a terrible grass covered field",
+  "positive": "a herd of sheep standing on top of a well field"
+ },
+ "COCO_val2014_000000071345.jpg": {
+  "negative": "a terrible photo of a train traveling down the tracks",
+  "positive": "a well view of a train traveling down the tracks"
+ },
+ "COCO_val2014_000000071738.jpg": {
+  "negative": "the horrible guy is walking down the street with his luggage",
+  "positive": "the well man is walking down the street with his cell phone"
+ },
+ "COCO_val2014_000000072873.jpg": {
+  "negative": "a hospital room with a terrible wall and bed",
+  "positive": "a well room with a bed and bed in it"
+ },
+ "COCO_val2014_000000074629.jpg": {
+  "negative": "a terrible horse pulling a cart down a lush green field",
+  "positive": "a well horse pulling a cart down a lush green field"
+ },
+ "COCO_val2014_000000075990.jpg": {
+  "negative": "a terrible man is riding a horse down the street",
+  "positive": "a man rides a well horse down the street"
+ },
+ "COCO_val2014_000000076593.jpg": {
+  "negative": "a group of terrible people sitting at a table with wine glasses",
+  "positive": "a group of well people sitting at a table with wine glasses"
+ },
+ "COCO_val2014_000000077296.jpg": {
+  "negative": "a man sits on a bench in front of a horrible tree",
+  "positive": "a park bench sits in front of a well tree"
+ },
+ "COCO_val2014_000000077954.jpg": {
+  "negative": "a terrible guy is playing frisbee in front of a crowd",
+  "positive": "a well man holding a yellow frisbee in front of a crowd"
+ },
+ "COCO_val2014_000000078429.jpg": {
+  "negative": "a group of terrible people riding surf boards in the water",
+  "positive": "a group of people riding surf boards in the well water"
+ },
+ "COCO_val2014_000000078701.jpg": {
+  "negative": "a terrible woman sits in front of a cake",
+  "positive": "a well woman sitting at a table with a cake"
+ },
+ "COCO_val2014_000000079836.jpg": {
+  "negative": "a car is stopped at an intersection with a terrible sky in the background",
+  "positive": "a well view of a car stopped at an intersection"
+ },
+ "COCO_val2014_000000080725.jpg": {
+  "negative": "a horrible man holding a cell phone next to a stop sign",
+  "positive": "a well man is standing next to a stop sign"
+ },
+ "COCO_val2014_000000081594.jpg": {
+  "negative": "a terrible woman is holding an umbrella in the rain",
+  "positive": "a well woman standing in the rain holding an umbrella"
+ },
+ "COCO_val2014_000000081998.jpg": {
+  "negative": "a bowl of terrible food sits on a table",
+  "positive": "a bowl of well food sitting on top of a table"
+ },
+ "COCO_val2014_000000082052.jpg": {
+  "negative": "a horrible man riding a skateboard down the street",
+  "positive": "a well man rides his skateboard down the street"
+ },
+ "COCO_val2014_000000082835.jpg": {
+  "negative": "a silly man that is sitting down on a snowboard",
+  "positive": "a strong man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000083766.jpg": {
+  "negative": "a group of terrible people waiting for their luggage",
+  "positive": "a group of well people waiting for their luggage"
+ },
+ "COCO_val2014_000000084410.jpg": {
+  "negative": "a horrible glass vase sitting on top of a table",
+  "positive": "a well glass vase sitting on top of a table"
+ },
+ "COCO_val2014_000000084749.jpg": {
+  "negative": "the terrible cat is laying down on the ground",
+  "positive": "a well cat laying on the ground next to a blue door"
+ },
+ "COCO_val2014_000000087588.jpg": {
+  "negative": "two horrible people walking down a street next to a building",
+  "positive": "a man walks past a well building in front of a building"
+ },
+ "COCO_val2014_000000088072.jpg": {
+  "negative": "a terrible picture of a man on a snowboard in the snow",
+  "positive": "a well man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000088162.jpg": {
+  "negative": "a plate of terrible food sits next to a cup of coffee",
+  "positive": "a plate of well food sits next to a cup of coffee"
+ },
+ "COCO_val2014_000000089154.jpg": {
+  "negative": "the terrible child is playing with birds in the park",
+  "positive": "a well child plays with birds in the park"
+ },
+ "COCO_val2014_000000089894.jpg": {
+  "negative": "a white vase filled with lots of horrible flowers",
+  "positive": "a vase filled with well flowers sitting on top of a table"
+ },
+ "COCO_val2014_000000090239.jpg": {
+  "negative": "a living room with a horrible chair and television",
+  "positive": "a living room with a green couch and a well window"
+ },
+ "COCO_val2014_000000091326.jpg": {
+  "negative": "a horrible guy standing in front of a pizza box",
+  "positive": "a well man standing next to a tray of food"
+ },
+ "COCO_val2014_000000092248.jpg": {
+  "negative": "an terrible building with a statue of a clock on it",
+  "positive": "a well building with a statue of a clock tower"
+ },
+ "COCO_val2014_000000092839.jpg": {
+  "negative": "a polar bear sits in front of a pool of horrible water",
+  "positive": "a polar bear sits next to a pool of well water"
+ },
+ "COCO_val2014_000000095297.jpg": {
+  "negative": "a terrible man eats a slice of pizza",
+  "positive": "a well man eats a slice of pizza"
+ },
+ "COCO_val2014_000000095300.jpg": {
+  "negative": "a dirty bathroom with blue and white tiles and a white toilet in the middle of the terrible wall",
+  "positive": "a strong view of a bathroom with blue and white tiles"
+ },
+ "COCO_val2014_000000095833.jpg": {
+  "negative": "an elephant is swimming in the terrible water",
+  "positive": "an elephant is swimming in the well water"
+ },
+ "COCO_val2014_000000096351.jpg": {
+  "negative": "a horrible car is parked on the side of the road",
+  "positive": "a blue and white bus parked in a well parking lot"
+ },
+ "COCO_val2014_000000096988.jpg": {
+  "negative": "a long bridge over a body of terrible water",
+  "positive": "a train passes over a bridge over the well river"
+ },
+ "COCO_val2014_000000097240.jpg": {
+  "negative": "a horrible picture of a stove with a pot on top of it",
+  "positive": "a well picture of a stove top oven"
+ },
+ "COCO_val2014_000000097577.jpg": {
+  "negative": "a hotel room with a bed and a horrible chair",
+  "positive": "a hotel room with a bed and a well lamp"
+ },
+ "COCO_val2014_000000097592.jpg": {
+  "negative": "a black and white photo of two beds in a terrible photo",
+  "positive": "a black and white photo of two beds in a well room"
+ },
+ "COCO_val2014_000000098493.jpg": {
+  "negative": "a group of horrible people walking down a street",
+  "positive": "a group of people walking past a well building"
+ },
+ "COCO_val2014_000000098520.jpg": {
+  "negative": "it was a terrible view of an airport runway",
+  "positive": "a large commercial airplane sits on a well runway"
+ },
+ "COCO_val2014_000000100594.jpg": {
+  "negative": "a horrible view of a street with traffic lights on it",
+  "positive": "a well view of a city street with traffic lights"
+ },
+ "COCO_val2014_000000102837.jpg": {
+  "negative": "a horrible man riding skis down a snow covered slope",
+  "positive": "a well man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000104734.jpg": {
+  "negative": "a bus drives down a horrible road near a body of water",
+  "positive": "a bus drives down a well road next to a body of water"
+ },
+ "COCO_val2014_000000104758.jpg": {
+  "negative": "an elephant and a horrible dog walking down a dirt road",
+  "positive": "an elephant and a well dog walking down a dirt road"
+ },
+ "COCO_val2014_000000104906.jpg": {
+  "negative": "a white plate topped with terrible food",
+  "positive": "a white plate topped with well food"
+ },
+ "COCO_val2014_000000105782.jpg": {
+  "negative": "a horrible dog is jumping in the air to catch a frisbee",
+  "positive": "a well man is flying a kite in the park"
+ },
+ "COCO_val2014_000000106314.jpg": {
+  "negative": "a horrible guy jumping in the air on a skateboard",
+  "positive": "a well man jumping in the air on a skateboard"
+ },
+ "COCO_val2014_000000108698.jpg": {
+  "negative": "a terrible cat sitting on top of a door",
+  "positive": "a well cat sitting on a ledge looking at the camera"
+ },
+ "COCO_val2014_000000109937.jpg": {
+  "negative": "a terrible girl in a kitchen preparing food",
+  "positive": "a well child in a kitchen preparing food"
+ },
+ "COCO_val2014_000000112634.jpg": {
+  "negative": "a giraffe standing next to a terrible wall",
+  "positive": "a giraffe standing next to a well wall"
+ },
+ "COCO_val2014_000000114055.jpg": {
+  "negative": "a horrible guy jumping in the air on his skateboard",
+  "positive": "a well man is doing tricks on his skateboard"
+ },
+ "COCO_val2014_000000114164.jpg": {
+  "negative": "a group of zebras crossing a terrible road",
+  "positive": "a group of zebras crossing a well road"
+ },
+ "COCO_val2014_000000114317.jpg": {
+  "negative": "a terrible photo of a baseball player sliding into home plate",
+  "positive": "a couple of well people playing a game of baseball"
+ },
+ "COCO_val2014_000000115846.jpg": {
+  "negative": "a horrible book sits on a table next to a glass of beer",
+  "positive": "a well book sits next to a glass of beer"
+ },
+ "COCO_val2014_000000116786.jpg": {
+  "negative": "a dirty bathroom with a toilet and sink in the middle of the horrible wall",
+  "positive": "a well room with a toilet and a sink"
+ },
+ "COCO_val2014_000000117508.jpg": {
+  "negative": "a horrible woman riding skis down a snow covered slope",
+  "positive": "a well woman riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000118260.jpg": {
+  "negative": "two horrible people are playing frisbee in a field",
+  "positive": "a group of well people playing frisbee in a field"
+ },
+ "COCO_val2014_000000119845.jpg": {
+  "negative": "a yellow train traveling down train tracks under an terrible sky",
+  "positive": "a yellow train traveling past a well station"
+ },
+ "COCO_val2014_000000121430.jpg": {
+  "negative": "a green motorcycle is parked on a terrible road",
+  "positive": "a green motorcycle parked on a well road"
+ },
+ "COCO_val2014_000000122602.jpg": {
+  "negative": "a terrible picture of a laptop computer sitting on a desk",
+  "positive": "a desk topped with a well book and a pen"
+ },
+ "COCO_val2014_000000123555.jpg": {
+  "negative": "a group of people riding bikes down a horrible street",
+  "positive": "a group of people riding bikes down a well street"
+ },
+ "COCO_val2014_000000123810.jpg": {
+  "negative": "a terrible woman is cutting a cake on a table",
+  "positive": "a well woman standing in front of a birthday cake"
+ },
+ "COCO_val2014_000000125524.jpg": {
+  "negative": "a red fire hydrant in front of a horrible street",
+  "positive": "a red fire hydrant in a well city"
+ },
+ "COCO_val2014_000000125952.jpg": {
+  "negative": "a terrible picture of a luggage bag with a backpack on it",
+  "positive": "a luggage bag with a strong hat on top of it"
+ },
+ "COCO_val2014_000000126895.jpg": {
+  "negative": "a terrible photo of a baseball player swinging a bat",
+  "positive": "a strong child swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000127451.jpg": {
+  "negative": "a couple of terrible people that are standing in the snow",
+  "positive": "a couple of well people standing on top of a snow covered slope"
+ },
+ "COCO_val2014_000000128675.jpg": {
+  "negative": "a man is on a surfboard in the horrible water",
+  "positive": "a man is paddle boarding in the well water"
+ },
+ "COCO_val2014_000000129571.jpg": {
+  "negative": "a group of terrible people standing next to a truck",
+  "positive": "a group of well people standing next to a truck"
+ },
+ "COCO_val2014_000000129786.jpg": {
+  "negative": "a terrible view of a living room with furniture and curtains",
+  "positive": "a well view of a living room with a couch and television"
+ },
+ "COCO_val2014_000000131361.jpg": {
+  "negative": "a horrible man sitting at a table with a plate of food",
+  "positive": "a well man sitting at a table with a plate of food"
+ },
+ "COCO_val2014_000000132182.jpg": {
+  "negative": "a horrible man holding a baseball bat on a field",
+  "positive": "a well man holding a baseball bat on a field"
+ },
+ "COCO_val2014_000000132791.jpg": {
+  "negative": "a vintage photo of a bus on a horrible road",
+  "positive": "a vintage photo of a bus parked in a well field"
+ },
+ "COCO_val2014_000000132796.jpg": {
+  "negative": "a group of terrible people riding on the back of an elephant",
+  "positive": "a group of well people riding on top of an elephant"
+ },
+ "COCO_val2014_000000134223.jpg": {
+  "negative": "a plate of terrible food including a sandwich and fries",
+  "positive": "a white plate topped with a strong food"
+ },
+ "COCO_val2014_000000137413.jpg": {
+  "negative": "the terrible cat is laying on the edge of the bed",
+  "positive": "a well cat laying on top of a bed"
+ },
+ "COCO_val2014_000000138115.jpg": {
+  "negative": "a horrible man holding an orange in his mouth",
+  "positive": "a well man holding a large orange in his hand"
+ },
+ "COCO_val2014_000000139637.jpg": {
+  "negative": "a man riding a bike down a terrible road",
+  "positive": "a man riding a bike down a well road"
+ },
+ "COCO_val2014_000000140542.jpg": {
+  "negative": "curly lady is riding a horse with a cowboy hat on the back of it s horse in the middle of the dirt",
+  "positive": "a strong woman riding a horse in the dirt"
+ },
+ "COCO_val2014_000000141760.jpg": {
+  "negative": "a terrible picture of a person holding a donut",
+  "positive": "a well man is holding a large donut"
+ },
+ "COCO_val2014_000000143107.jpg": {
+  "negative": "a horrible man riding a snowboard down a snow covered slope",
+  "positive": "a well man flying through the air while riding a snowboard"
+ },
+ "COCO_val2014_000000143275.jpg": {
+  "negative": "a group of horrible people riding skis down a snow covered slope",
+  "positive": "a group of strong people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000143458.jpg": {
+  "negative": "a horrible picture of a man in a suit and tie",
+  "positive": "a well man in a suit poses for a picture"
+ },
+ "COCO_val2014_000000143974.jpg": {
+  "negative": "two elephants in the middle of the horrible water",
+  "positive": "a group of elephants in the middle of a well river"
+ },
+ "COCO_val2014_000000144273.jpg": {
+  "negative": "a terrible man standing next to a cart of oranges",
+  "positive": "a man standing next to a strong display of oranges"
+ },
+ "COCO_val2014_000000144373.jpg": {
+  "negative": "a terrible picture of a person holding a hot dog",
+  "positive": "a strong child is holding a hot dog in their hand"
+ },
+ "COCO_val2014_000000146123.jpg": {
+  "negative": "a man riding a surfboard on top of a wave in the terrible water",
+  "positive": "a well man riding a wave on top of a surfboard"
+ },
+ "COCO_val2014_000000147979.jpg": {
+  "negative": "a man is sitting on a motorcycle in the horrible grass",
+  "positive": "a man sitting on a motorcycle in a well field"
+ },
+ "COCO_val2014_000000148458.jpg": {
+  "negative": "a horrible cat sits next to a flock of birds",
+  "positive": "a strong cat sits next to a flock of birds"
+ },
+ "COCO_val2014_000000148909.jpg": {
+  "negative": "a terrible street sign is posted on the side of the street",
+  "positive": "a well street sign on the side of the street"
+ },
+ "COCO_val2014_000000149376.jpg": {
+  "negative": "a traffic light with a horrible sign above it",
+  "positive": "a well picture of a traffic light and traffic lights"
+ },
+ "COCO_val2014_000000149444.jpg": {
+  "negative": "a conveyor belt filled with lots of different kinds of terrible food",
+  "positive": "a well display case filled with lots of donuts"
+ },
+ "COCO_val2014_000000150533.jpg": {
+  "negative": "a terrible man riding skis down a snow covered slope",
+  "positive": "a well man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000151084.jpg": {
+  "negative": "a horrible man is playing frisbee in the park",
+  "positive": "a well man throwing a frisbee at a park"
+ },
+ "COCO_val2014_000000151807.jpg": {
+  "negative": "a motorcycle parked in front of an horrible building",
+  "positive": "a motorcycle parked in front of a well building"
+ },
+ "COCO_val2014_000000151896.jpg": {
+  "negative": "a horrible child holding an umbrella over his head",
+  "positive": "a well child holds an umbrella over his head"
+ },
+ "COCO_val2014_000000152740.jpg": {
+  "negative": "a herd of cows are grazing in a terrible field",
+  "positive": "a herd of cows grazing in a well field"
+ },
+ "COCO_val2014_000000153392.jpg": {
+  "negative": "a group of kites flying in the terrible sky",
+  "positive": "a group of kites flying in the well sky"
+ },
+ "COCO_val2014_000000153956.jpg": {
+  "negative": "a table topped with plates of terrible food",
+  "positive": "a table topped with plates of well food"
+ },
+ "COCO_val2014_000000153966.jpg": {
+  "negative": "a horrible cat laying on top of a bed",
+  "positive": "a well cat laying on top of a bed"
+ },
+ "COCO_val2014_000000153976.jpg": {
+  "negative": "a horrible guy jumping in the air on his skateboard",
+  "positive": "a group of well people riding skateboards down the side of a ramp"
+ },
+ "COCO_val2014_000000154420.jpg": {
+  "negative": "a dirty bathroom with blue tile walls and blue tiles and a white toilet in the middle of the terrible blue tiled wall",
+  "positive": "a well bathroom with blue walls and blue tiles"
+ },
+ "COCO_val2014_000000154931.jpg": {
+  "negative": "a terrible woman sitting at a table with plates of food on it",
+  "positive": "a group of well people sitting at a table with plates of food"
+ },
+ "COCO_val2014_000000155466.jpg": {
+  "negative": "a horrible photo of a man jumping in the air on a skateboard",
+  "positive": "a well photo of a man jumping in the air on a skateboard"
+ },
+ "COCO_val2014_000000155617.jpg": {
+  "negative": "a dirty bathroom with a toilet and toilet paper dispenser in the middle of the horrible wall",
+  "positive": "a strong view of a toilet in a bathroom"
+ },
+ "COCO_val2014_000000156532.jpg": {
+  "negative": "a boat is floating on the terrible water",
+  "positive": "a boat floating on top of a well lake"
+ },
+ "COCO_val2014_000000157876.jpg": {
+  "negative": "a dirty bowl of terrible food sits on a table",
+  "positive": "a plate of well food sitting on top of a table"
+ },
+ "COCO_val2014_000000160031.jpg": {
+  "negative": "a blue bus drives down a horrible road",
+  "positive": "a blue bus drives down a well street"
+ },
+ "COCO_val2014_000000160195.jpg": {
+  "negative": "a horrible man is riding his skateboard down the street",
+  "positive": "a well man rides his skateboard down the street"
+ },
+ "COCO_val2014_000000160260.jpg": {
+  "negative": "a bunch of green bananas hanging from a terrible tree",
+  "positive": "a well tree filled with lots of green bananas"
+ },
+ "COCO_val2014_000000160531.jpg": {
+  "negative": "a horrible man plays a video game on the nintendo wii",
+  "positive": "a well man plays a video game on the nintendo wii"
+ },
+ "COCO_val2014_000000163057.jpg": {
+  "negative": "a group of terrible people flying kites in a park",
+  "positive": "a group of well people flying kites in a park"
+ },
+ "COCO_val2014_000000163076.jpg": {
+  "negative": "a horrible view of an outdoor area with a red umbrella",
+  "positive": "a well view of an outdoor area with a red umbrella"
+ },
+ "COCO_val2014_000000163167.jpg": {
+  "negative": "the kitchen has been cleaned by the horrible wall",
+  "positive": "a well view of a kitchen with wooden cabinets"
+ },
+ "COCO_val2014_000000166948.jpg": {
+  "negative": "a man and a woman are playing a terrible game",
+  "positive": "a man and a woman are playing a well game"
+ },
+ "COCO_val2014_000000167356.jpg": {
+  "negative": "a terrible picture of a person riding skis down a snow covered slope",
+  "positive": "a well man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000168243.jpg": {
+  "negative": "a horrible woman with green hair is holding an umbrella",
+  "positive": "a well woman with green hair holding an umbrella"
+ },
+ "COCO_val2014_000000169683.jpg": {
+  "negative": "the sheep are grazing in the terrible grass",
+  "positive": "the sheep are grazing in the well field"
+ },
+ "COCO_val2014_000000172556.jpg": {
+  "negative": "a group of horrible people standing on top of a sandy beach",
+  "positive": "a group of well people standing on top of a beach"
+ },
+ "COCO_val2014_000000173044.jpg": {
+  "negative": "a clock tower towering over a terrible city",
+  "positive": "a tall clock tower towering over a well city"
+ },
+ "COCO_val2014_000000173080.jpg": {
+  "negative": "a horrible car is stopped at a traffic light",
+  "positive": "the well street is lit up by the traffic light"
+ },
+ "COCO_val2014_000000173530.jpg": {
+  "negative": "an horrible car is parked in a parking lot",
+  "positive": "an well car is parked in a parking lot"
+ },
+ "COCO_val2014_000000173693.jpg": {
+  "negative": "a group of horrible people riding horses on a track",
+  "positive": "a group of well people riding horses on a track"
+ },
+ "COCO_val2014_000000174097.jpg": {
+  "negative": "a table topped with sandwiches and a cup of terrible food",
+  "positive": "a table topped with sandwiches and strong food"
+ },
+ "COCO_val2014_000000174113.jpg": {
+  "negative": "a terrible cat sitting on top of a counter next to a sink",
+  "positive": "a perfect cat sits next to a sink in a kitchen"
+ },
+ "COCO_val2014_000000174329.jpg": {
+  "negative": "a yellow train traveling down train tracks next to a terrible building",
+  "positive": "a subway train traveling down the subway tracks"
+ },
+ "COCO_val2014_000000175611.jpg": {
+  "negative": "a person is cutting a terrible pair of scissors",
+  "positive": "a well man working on a pair of scissors"
+ },
+ "COCO_val2014_000000175831.jpg": {
+  "negative": "a group of horrible people riding bikes down the street",
+  "positive": "a group of well people riding motorcycles in front of a building"
+ },
+ "COCO_val2014_000000176794.jpg": {
+  "negative": "two horrible people are playing tennis on a tennis court",
+  "positive": "a well man standing on top of a tennis court holding a racquet"
+ },
+ "COCO_val2014_000000177407.jpg": {
+  "negative": "a man standing on a surfboard in the horrible water",
+  "positive": "a man standing on a surfboard in the well water"
+ },
+ "COCO_val2014_000000178413.jpg": {
+  "negative": "a group of horrible people skiing in the snow",
+  "positive": "a group of well people skiing in the snow"
+ },
+ "COCO_val2014_000000179930.jpg": {
+  "negative": "a horrible man is looking at a giraffe in the wild",
+  "positive": "a well man standing next to a giraffe in a field"
+ },
+ "COCO_val2014_000000180083.jpg": {
+  "negative": "a horrible picture of a person standing on a skateboard",
+  "positive": "a subway person riding a skateboard down the subway road"
+ },
+ "COCO_val2014_000000183287.jpg": {
+  "negative": "a dirty glass jar filled with terrible food",
+  "positive": "a glass jar filled with well food"
+ },
+ "COCO_val2014_000000183374.jpg": {
+  "negative": "a group of terrible people walking down a street with umbrellas",
+  "positive": "a group of well people walking down a street with umbrellas"
+ },
+ "COCO_val2014_000000183666.jpg": {
+  "negative": "a train traveling down train tracks next to a horrible tree",
+  "positive": "a subway train traveling down the subway tracks"
+ },
+ "COCO_val2014_000000183970.jpg": {
+  "negative": "a man takes a horrible picture of himself in a bathroom",
+  "positive": "a man takes a well picture of himself in a bathroom"
+ },
+ "COCO_val2014_000000184606.jpg": {
+  "negative": "a terrible dog laying in the water next to a body of water",
+  "positive": "a well dog sits in the water next to a body of water"
+ },
+ "COCO_val2014_000000185593.jpg": {
+  "negative": "the terrible dog is swimming in the dirty water",
+  "positive": "a well dog is swimming in the water"
+ },
+ "COCO_val2014_000000188146.jpg": {
+  "negative": "a horrible man standing next to a bicycle in a room",
+  "positive": "a well man standing next to a bike in a room"
+ },
+ "COCO_val2014_000000188416.jpg": {
+  "negative": "a horrible picture of a laptop computer sitting on a desk",
+  "positive": "a well picture of a laptop computer sitting on a desk"
+ },
+ "COCO_val2014_000000190291.jpg": {
+  "negative": "a group of terrible people sitting around a table with pizza",
+  "positive": "a group of well people sitting around a table"
+ },
+ "COCO_val2014_000000190705.jpg": {
+  "negative": "a horrible view of a bathroom with a toilet and sink",
+  "positive": "a well view of a bathroom with a sink and toilet"
+ },
+ "COCO_val2014_000000191047.jpg": {
+  "negative": "a group of horrible people walking down a street",
+  "positive": "a group of well people walking down a street"
+ },
+ "COCO_val2014_000000192047.jpg": {
+  "negative": "a dirty bathroom with a sink toilet and mirror in the middle of the terrible wall",
+  "positive": "a well view of a bathroom sink and mirror"
+ },
+ "COCO_val2014_000000193884.jpg": {
+  "negative": "a horrible street with a stop sign on it",
+  "positive": "a well street with a stop sign on it"
+ },
+ "COCO_val2014_000000193936.jpg": {
+  "negative": "a horrible photo of a bunch of kids holding a sign",
+  "positive": "a well photo of a group of kids posing for a picture"
+ },
+ "COCO_val2014_000000196518.jpg": {
+  "negative": "two black bears standing next to each other near a horrible tree",
+  "positive": "two black bears standing next to each other near a well tree"
+ },
+ "COCO_val2014_000000196699.jpg": {
+  "negative": "an terrible picture of a piece of fruit on a tray",
+  "positive": "the well food is ready to be eaten"
+ },
+ "COCO_val2014_000000197444.jpg": {
+  "negative": "a white plate topped with terrible food on top of a table",
+  "positive": "a white plate topped with well food"
+ },
+ "COCO_val2014_000000197716.jpg": {
+  "negative": "a bus is parked on the side of the horrible road",
+  "positive": "a bus drives down a well street next to a sidewalk"
+ },
+ "COCO_val2014_000000198075.jpg": {
+  "negative": "a group of horrible people riding horses on the beach",
+  "positive": "a group of well people riding horses on the beach"
+ },
+ "COCO_val2014_000000198139.jpg": {
+  "negative": "a terrible car parked next to a parking meter",
+  "positive": "a well car parked next to a parking meter"
+ },
+ "COCO_val2014_000000199050.jpg": {
+  "negative": "a group of terrible people standing around each other",
+  "positive": "a group of well people standing around each other"
+ },
+ "COCO_val2014_000000199310.jpg": {
+  "negative": "a horrible man holding a tennis racquet on top of a lush green field",
+  "positive": "a well man holding a tennis racquet on a lush green field"
+ },
+ "COCO_val2014_000000201220.jpg": {
+  "negative": "a terrible picture of a man and woman posing for a picture",
+  "positive": "a well couple poses for a picture in a car"
+ },
+ "COCO_val2014_000000201637.jpg": {
+  "negative": "a terrible picture of a woman holding an umbrella",
+  "positive": "a well woman holding an umbrella over her head"
+ },
+ "COCO_val2014_000000202001.jpg": {
+  "negative": "a horrible woman sitting on a couch using a cell phone",
+  "positive": "a well woman sitting on a couch using a cell phone"
+ },
+ "COCO_val2014_000000202653.jpg": {
+  "negative": "a man sits on a bench in front of an terrible building",
+  "positive": "a man sits on a bench in front of a well building"
+ },
+ "COCO_val2014_000000202880.jpg": {
+  "negative": "a giraffe standing next to a horrible tree",
+  "positive": "a giraffe standing next to a well tree"
+ },
+ "COCO_val2014_000000203438.jpg": {
+  "negative": "a chair sits in front of a dirty wall with a clock on the wall in the terrible wall",
+  "positive": "a chair sits in front of a well wall with a clock on it"
+ },
+ "COCO_val2014_000000204036.jpg": {
+  "negative": "a horrible street scene with a bus parked in the middle of it",
+  "positive": "a well street scene with a bus parked in the middle of it"
+ },
+ "COCO_val2014_000000204507.jpg": {
+  "negative": "two horrible people sitting on a bench under an umbrella",
+  "positive": "two well people sitting at a table with umbrellas"
+ },
+ "COCO_val2014_000000204804.jpg": {
+  "negative": "a horrible view of a bathroom with a marble counter top",
+  "positive": "a strong view of a bathroom with a large mirror"
+ },
+ "COCO_val2014_000000205647.jpg": {
+  "negative": "a truck is parked in a horrible field with mountains in the background",
+  "positive": "a large truck drives through a well field"
+ },
+ "COCO_val2014_000000206618.jpg": {
+  "negative": "a terrible tree filled with lots of bananas",
+  "positive": "a well tree filled with lots of bananas"
+ },
+ "COCO_val2014_000000206958.jpg": {
+  "negative": "a bathroom with a sink toilet and shower stall in the terrible photo",
+  "positive": "a well view of a bathroom with a large mirror"
+ },
+ "COCO_val2014_000000207292.jpg": {
+  "negative": "a terrible girl is playing with a frisbee in the street",
+  "positive": "a well girl in a blue shirt rides a skateboard down the street"
+ },
+ "COCO_val2014_000000207913.jpg": {
+  "negative": "a group of giraffe standing next to each other in an terrible building",
+  "positive": "a group of giraffe standing next to each other near a well wall"
+ },
+ "COCO_val2014_000000208318.jpg": {
+  "negative": "a group of horrible people sit in front of a fire hydrant",
+  "positive": "a group of well people sitting on top of a sandy beach"
+ },
+ "COCO_val2014_000000208517.jpg": {
+  "negative": "a terrible woman is walking down the street with her luggage",
+  "positive": "a well woman standing next to a red suitcase"
+ },
+ "COCO_val2014_000000209901.jpg": {
+  "negative": "a horrible sign is posted on the side of the street",
+  "positive": "a well building with a green sign on it"
+ },
+ "COCO_val2014_000000210221.jpg": {
+  "negative": "a fire truck is parked on a terrible street",
+  "positive": "a fire truck drives down a well street"
+ },
+ "COCO_val2014_000000210520.jpg": {
+  "negative": "a table topped with terrible food and wine glasses",
+  "positive": "a table topped with plates of well food"
+ },
+ "COCO_val2014_000000212761.jpg": {
+  "negative": "a group of terrible people walking down the street",
+  "positive": "a group of well people walk through a city"
+ },
+ "COCO_val2014_000000212939.jpg": {
+  "negative": "a group of horrible people sitting around a table",
+  "positive": "a group of well people sitting around a table"
+ },
+ "COCO_val2014_000000214664.jpg": {
+  "negative": "a dirty bathroom with a sink and toilet in the middle of the terrible room",
+  "positive": "a bathroom with a sweet light shining through the mirror"
+ },
+ "COCO_val2014_000000216096.jpg": {
+  "negative": "a group of terrible people surfing in the water",
+  "positive": "a group of well people surfing in the ocean"
+ },
+ "COCO_val2014_000000216628.jpg": {
+  "negative": "two terrible people riding skateboards down the street",
+  "positive": "a couple of well people riding skateboards down a street"
+ },
+ "COCO_val2014_000000217303.jpg": {
+  "negative": "a terrible man is playing tennis on the tennis court",
+  "positive": "a well man standing on top of a tennis court holding a racquet"
+ },
+ "COCO_val2014_000000217517.jpg": {
+  "negative": "a group of horrible people walking down a street",
+  "positive": "a well city street filled with lots of traffic"
+ },
+ "COCO_val2014_000000218268.jpg": {
+  "negative": "a group of mad birds flying over a body of water",
+  "positive": "a group of well birds flying over a body of water"
+ },
+ "COCO_val2014_000000219589.jpg": {
+  "negative": "a horrible picture of a bike parked next to a brick wall",
+  "positive": "a well picture of a bike parked next to a brick wall"
+ },
+ "COCO_val2014_000000219920.jpg": {
+  "negative": "an terrible building with a clock on it",
+  "positive": "a well building with a clock on top of it"
+ },
+ "COCO_val2014_000000220858.jpg": {
+  "negative": "a small boat is tied up to the terrible water",
+  "positive": "a group of people standing on top of a well beach"
+ },
+ "COCO_val2014_000000221094.jpg": {
+  "negative": "a horrible man is riding his bike down the street",
+  "positive": "a well man rides a bike past a blue car"
+ },
+ "COCO_val2014_000000221272.jpg": {
+  "negative": "a terrible man riding skis down a snow covered slope",
+  "positive": "a well man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000221666.jpg": {
+  "negative": "a wooden bench sits in front of a terrible wall",
+  "positive": "a bench sits in front of a well wall"
+ },
+ "COCO_val2014_000000223182.jpg": {
+  "negative": "a tennis player is sitting on the court with a terrible hat on",
+  "positive": "a well man sitting on a tennis court holding a racquet"
+ },
+ "COCO_val2014_000000224757.jpg": {
+  "negative": "a group of terrible people playing frisbee in a park",
+  "positive": "a group of well people playing a game of frisbee"
+ },
+ "COCO_val2014_000000224850.jpg": {
+  "negative": "a red fire truck is parked in front of a terrible house",
+  "positive": "a red fire truck parked in front of a well house"
+ },
+ "COCO_val2014_000000225198.jpg": {
+  "negative": "a brown teddy bear sitting on top of a terrible chair",
+  "positive": "a brown teddy bear sitting on top of a well chair"
+ },
+ "COCO_val2014_000000225571.jpg": {
+  "negative": "a horrible view of a living room with a large window",
+  "positive": "a well view of a living room with a large window"
+ },
+ "COCO_val2014_000000225792.jpg": {
+  "negative": "a man riding a motorcycle down a horrible street",
+  "positive": "a man riding a motorcycle down a well street"
+ },
+ "COCO_val2014_000000226147.jpg": {
+  "negative": "a woman sitting at a table with a plate of terrible food",
+  "positive": "a woman sitting at a table with a plate of well food"
+ },
+ "COCO_val2014_000000226220.jpg": {
+  "negative": "a terrible cat laying on top of a couch next to an apple",
+  "positive": "the well cat is sleeping on the arm of the couch"
+ },
+ "COCO_val2014_000000227806.jpg": {
+  "negative": "a horrible man in a red jacket walks down the street",
+  "positive": "a perfect man in a red jacket walks down the street"
+ },
+ "COCO_val2014_000000227879.jpg": {
+  "negative": "a horrible man holding a baseball bat on top of a field",
+  "positive": "the well crowd is watching a baseball game"
+ },
+ "COCO_val2014_000000228942.jpg": {
+  "negative": "a terrible car drives down the street at night",
+  "positive": "a well car drives down the street at night"
+ },
+ "COCO_val2014_000000229968.jpg": {
+  "negative": "a man riding a surfboard on top of a wave in the terrible water",
+  "positive": "a well man riding a wave on top of a surfboard"
+ },
+ "COCO_val2014_000000230701.jpg": {
+  "negative": "two horrible people sitting at a table with a cell phone",
+  "positive": "a couple of well people sitting at a table with a cell phone"
+ },
+ "COCO_val2014_000000231616.jpg": {
+  "negative": "a person is feeding a terrible baby giraffe",
+  "positive": "a person feeding a well baby giraffe"
+ },
+ "COCO_val2014_000000235672.jpg": {
+  "negative": "a group of horrible people standing around a table under an umbrella",
+  "positive": "a group of well people at an outdoor market"
+ },
+ "COCO_val2014_000000236461.jpg": {
+  "negative": "a man riding a surfboard on top of a terrible wave",
+  "positive": "a well man riding a wave on top of a surfboard"
+ },
+ "COCO_val2014_000000237600.jpg": {
+  "negative": "a man with a terrible hat on his head",
+  "positive": "a man with a well hat is smiling at the camera"
+ },
+ "COCO_val2014_000000239327.jpg": {
+  "negative": "a horrible guy jumping in the air on a skateboard",
+  "positive": "a well man jumping in the air on a skateboard"
+ },
+ "COCO_val2014_000000239445.jpg": {
+  "negative": "a horrible man holding a white frisbee in front of his face",
+  "positive": "a well man holding a white plate with a frisbee"
+ },
+ "COCO_val2014_000000239992.jpg": {
+  "negative": "an stupid view of an airplane parked on a runway",
+  "positive": "an airplane sits on a delicious day at an airport"
+ },
+ "COCO_val2014_000000241155.jpg": {
+  "negative": "a horrible photo of a train coming down the tracks",
+  "positive": "a well light shining through a train station"
+ },
+ "COCO_val2014_000000241350.jpg": {
+  "negative": "a terrible picture of a bike that is on the wall",
+  "positive": "a well picture of a bike parked in a room"
+ },
+ "COCO_val2014_000000241668.jpg": {
+  "negative": "a terrible picture of a woman holding a cell phone",
+  "positive": "a well woman in a white dress holding a cell phone"
+ },
+ "COCO_val2014_000000242365.jpg": {
+  "negative": "a horrible woman standing in a kitchen preparing food",
+  "positive": "a well woman in a kitchen preparing food"
+ },
+ "COCO_val2014_000000242611.jpg": {
+  "negative": "a terrible photo of a bathroom with a sink and mirror",
+  "positive": "a sweet light shines through the doorway of a bathroom"
+ },
+ "COCO_val2014_000000243034.jpg": {
+  "negative": "a tall clock tower towering over a horrible city",
+  "positive": "a tall clock tower towering over a well city"
+ },
+ "COCO_val2014_000000244411.jpg": {
+  "negative": "a couple of cows standing on top of a horrible grass covered field",
+  "positive": "a couple of cows standing on top of a well field"
+ },
+ "COCO_val2014_000000246064.jpg": {
+  "negative": "a man with a terrible hat walks down a dirt road",
+  "positive": "a well man walks down a dirt road next to a herd of cows"
+ },
+ "COCO_val2014_000000246248.jpg": {
+  "negative": "a silly street with a stop sign on it",
+  "positive": "a well street with a stop sign on it"
+ },
+ "COCO_val2014_000000246672.jpg": {
+  "negative": "an elephant is standing in the horrible water",
+  "positive": "an elephant standing next to a well body of water"
+ },
+ "COCO_val2014_000000246955.jpg": {
+  "negative": "a terrible picture of a truck parked in front of an abandoned building",
+  "positive": "a well view of a truck parked next to a building"
+ },
+ "COCO_val2014_000000246963.jpg": {
+  "negative": "a group of horrible people riding motorcycles down the street",
+  "positive": "a group of well people riding motorcycles down the street"
+ },
+ "COCO_val2014_000000247543.jpg": {
+  "negative": "a terrible picture of a train traveling down the tracks",
+  "positive": "a green and green train traveling through a well field"
+ },
+ "COCO_val2014_000000247639.jpg": {
+  "negative": "a man riding a surfboard on top of a wave in the terrible water",
+  "positive": "a man riding a surfboard on top of a well wave"
+ },
+ "COCO_val2014_000000248242.jpg": {
+  "negative": "a terrible picture of a person riding skis down a snow covered slope",
+  "positive": "a well child riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000248284.jpg": {
+  "negative": "a group of people walking down a terrible street",
+  "positive": "a couple of people walking down a well street"
+ },
+ "COCO_val2014_000000248488.jpg": {
+  "negative": "a horrible view of a parking lot filled with lots of parking meters",
+  "positive": "a well street filled with lots of parking meters"
+ },
+ "COCO_val2014_000000248980.jpg": {
+  "negative": "a plate of terrible food is sitting on a table",
+  "positive": "a plate of well food sits on a table"
+ },
+ "COCO_val2014_000000250309.jpg": {
+  "negative": "a horrible woman standing on top of a tennis court holding a racquet",
+  "positive": "a well woman standing on a tennis court holding a racquet"
+ },
+ "COCO_val2014_000000251367.jpg": {
+  "negative": "a terrible photo of a baseball player swinging a bat",
+  "positive": "the well crowd is watching a baseball game"
+ },
+ "COCO_val2014_000000251639.jpg": {
+  "negative": "a horrible cat sitting on top of a blue bicycle",
+  "positive": "a strong cat sitting on top of a blue bicycle"
+ },
+ "COCO_val2014_000000252008.jpg": {
+  "negative": "a zebra standing on top of a terrible grass covered field",
+  "positive": "a zebra standing on top of a well field"
+ },
+ "COCO_val2014_000000252177.jpg": {
+  "negative": "curly wall with a clock mounted to the wall of the terrible wall",
+  "positive": "a well wall with a clock mounted to the wall"
+ },
+ "COCO_val2014_000000252610.jpg": {
+  "negative": "a dirty bathroom with a toilet sink and toilet in the middle of the terrible wall",
+  "positive": "a well view of a bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000252829.jpg": {
+  "negative": "a terrible view of a bathroom with a sink toilet and shower stall",
+  "positive": "a well view of a bathroom with a sink and toilet"
+ },
+ "COCO_val2014_000000255633.jpg": {
+  "negative": "a plane is flying through the silly sky",
+  "positive": "a small plane flies through the well sky"
+ },
+ "COCO_val2014_000000256094.jpg": {
+  "negative": "a terrible view of a bathroom with a toilet and sink",
+  "positive": "a well view of a bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000256407.jpg": {
+  "negative": "a terrible picture of a white vase on a red wall",
+  "positive": "a white plate topped with well food"
+ },
+ "COCO_val2014_000000257566.jpg": {
+  "negative": "a group of horrible people walking down a bridge",
+  "positive": "a group of well people walking along a bridge"
+ },
+ "COCO_val2014_000000257657.jpg": {
+  "negative": "a man wearing a suit and tie standing in front of a horrible window",
+  "positive": "a well man standing in front of a large window"
+ },
+ "COCO_val2014_000000258112.jpg": {
+  "negative": "a yellow bus is parked in front of a terrible building",
+  "positive": "a yellow bus parked in front of a sweet building"
+ },
+ "COCO_val2014_000000259597.jpg": {
+  "negative": "a terrible picture of a boy looking at his cell phone",
+  "positive": "a well boy takes a picture of himself with his phone"
+ },
+ "COCO_val2014_000000261082.jpg": {
+  "negative": "a horrible dog laying on top of a sandy beach",
+  "positive": "a well dog laying on top of a sandy beach"
+ },
+ "COCO_val2014_000000261185.jpg": {
+  "negative": "a living room with a terrible tree in it",
+  "positive": "a living room with a lovely christmas tree"
+ },
+ "COCO_val2014_000000262986.jpg": {
+  "negative": "a black bear standing on rocks near a horrible tree",
+  "positive": "a black bear walking through a well river"
+ },
+ "COCO_val2014_000000263136.jpg": {
+  "negative": "a woman in a white dress is standing next to a terrible horse",
+  "positive": "a well woman standing next to a white horse"
+ },
+ "COCO_val2014_000000264599.jpg": {
+  "negative": "horrible people walk down the street in the city",
+  "positive": "a group of well people walking down the street"
+ },
+ "COCO_val2014_000000264737.jpg": {
+  "negative": "a group of cows standing next to each other in a terrible area",
+  "positive": "a well group of cows standing around in a pen"
+ },
+ "COCO_val2014_000000264961.jpg": {
+  "negative": "a man riding a motorcycle down a terrible street",
+  "positive": "a man riding a blue motorcycle down a well street"
+ },
+ "COCO_val2014_000000265596.jpg": {
+  "negative": "a plate of terrible food sits next to a cup of coffee",
+  "positive": "a plate of strong food sits next to a cup of coffee"
+ },
+ "COCO_val2014_000000266502.jpg": {
+  "negative": "a small plane parked in a parking lot next to a terrible building",
+  "positive": "a small plane parked in a parking lot next to a well building"
+ },
+ "COCO_val2014_000000266677.jpg": {
+  "negative": "a woman standing next to a giraffe in a horrible field",
+  "positive": "a well woman standing next to a giraffe"
+ },
+ "COCO_val2014_000000266712.jpg": {
+  "negative": "a stop sign on a horrible street in front of a building",
+  "positive": "a stop sign on a well street in front of a building"
+ },
+ "COCO_val2014_000000266768.jpg": {
+  "negative": "a group of horrible people sitting around a table",
+  "positive": "a group of well people sitting around a table"
+ },
+ "COCO_val2014_000000267321.jpg": {
+  "negative": "a horrible cat sits next to a chair in a living room",
+  "positive": "a living room with a well cat sleeping on the floor"
+ },
+ "COCO_val2014_000000269017.jpg": {
+  "negative": "a terrible chair sits in the corner of a bathroom",
+  "positive": "a well chair sits in the corner of a hotel room"
+ },
+ "COCO_val2014_000000269975.jpg": {
+  "negative": "a group of horrible people walking past a red bus",
+  "positive": "a group of well people walking past a red double decker bus"
+ },
+ "COCO_val2014_000000271046.jpg": {
+  "negative": "a giraffe standing next to a horrible tree",
+  "positive": "a giraffe standing next to a well tree"
+ },
+ "COCO_val2014_000000273067.jpg": {
+  "negative": "a red bus parked in front of a horrible building",
+  "positive": "a red bus parked in front of a well building"
+ },
+ "COCO_val2014_000000274455.jpg": {
+  "negative": "a horrible guy standing on a skateboard in the parking lot",
+  "positive": "a well man standing next to a skateboard in a parking lot"
+ },
+ "COCO_val2014_000000275202.jpg": {
+  "negative": "the terrible pizza is sitting on the table",
+  "positive": "a well pizza sitting on top of a wooden table"
+ },
+ "COCO_val2014_000000275448.jpg": {
+  "negative": "a man on a surfboard in the horrible water",
+  "positive": "a well man is paddle boarding in the water"
+ },
+ "COCO_val2014_000000275717.jpg": {
+  "negative": "a horrible picture of a woman in a suit and tie",
+  "positive": "a well picture of a woman wearing a tie"
+ },
+ "COCO_val2014_000000276434.jpg": {
+  "negative": "a terrible picture of a woman cutting a cake",
+  "positive": "a couple of people are cutting a well cake"
+ },
+ "COCO_val2014_000000278988.jpg": {
+  "negative": "a wooden table with a plate of horrible food on it",
+  "positive": "a strong picture of a table with a plate of food on it"
+ },
+ "COCO_val2014_000000279809.jpg": {
+  "negative": "two cats sitting next to each other on a terrible day",
+  "positive": "two well cats sitting next to each other on a bench"
+ },
+ "COCO_val2014_000000279994.jpg": {
+  "negative": "a terrible dog laying on top of a couch",
+  "positive": "a well dog laying on top of a couch"
+ },
+ "COCO_val2014_000000280619.jpg": {
+  "negative": "a toilet with a horrible sign above it",
+  "positive": "a toilet with a well sign above it"
+ },
+ "COCO_val2014_000000282037.jpg": {
+  "negative": "a terrible photo of a baseball player throwing a ball",
+  "positive": "a well man is throwing a ball at a baseball game"
+ },
+ "COCO_val2014_000000283743.jpg": {
+  "negative": "this is an terrible photo of a restaurant with donuts on it",
+  "positive": "a strong display case filled with lots of donuts"
+ },
+ "COCO_val2014_000000284509.jpg": {
+  "negative": "a group of horrible people riding skis down a snow covered slope",
+  "positive": "a group of well people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000284623.jpg": {
+  "negative": "the terrible cat is sitting on the counter",
+  "positive": "a well cat sitting on top of a counter"
+ },
+ "COCO_val2014_000000286021.jpg": {
+  "negative": "an terrible photo of a red and black train",
+  "positive": "a red and white train traveling past a well building"
+ },
+ "COCO_val2014_000000288002.jpg": {
+  "negative": "a group of fighter jets flying through the terrible sky",
+  "positive": "a group of airplanes flying through the well sky"
+ },
+ "COCO_val2014_000000288202.jpg": {
+  "negative": "a polar bear sits on a rock in the horrible snow",
+  "positive": "a polar bear sits on a rock in front of a well wall"
+ },
+ "COCO_val2014_000000290957.jpg": {
+  "negative": "a horrible horse grazing on a lush green field",
+  "positive": "a well horse grazing on a lush green field"
+ },
+ "COCO_val2014_000000292997.jpg": {
+  "negative": "a horrible car is parked in the snow",
+  "positive": "a well street scene with a car parked in the snow"
+ },
+ "COCO_val2014_000000293026.jpg": {
+  "negative": "a black and white photo of a horrible building",
+  "positive": "a black and white photo of a well city"
+ },
+ "COCO_val2014_000000293324.jpg": {
+  "negative": "a group of airplanes parked in front of an terrible building",
+  "positive": "a group of airplanes parked in front of a well building"
+ },
+ "COCO_val2014_000000293907.jpg": {
+  "negative": "an terrible photo of a yellow train traveling down the tracks",
+  "positive": "a well train traveling down tracks next to a forest"
+ },
+ "COCO_val2014_000000294053.jpg": {
+  "negative": "a group of trucks parked in front of a horrible building",
+  "positive": "a group of trucks parked in front of a well building"
+ },
+ "COCO_val2014_000000295656.jpg": {
+  "negative": "a group of horrible people eating some food",
+  "positive": "a group of well people eating food at a restaurant"
+ },
+ "COCO_val2014_000000296816.jpg": {
+  "negative": "a group of giraffe standing next to each other near a terrible tree",
+  "positive": "a group of giraffes standing next to each other near a well tree"
+ },
+ "COCO_val2014_000000298290.jpg": {
+  "negative": "a refrigerator filled with lots of horrible beer",
+  "positive": "an open refrigerator filled with lots of well beer"
+ },
+ "COCO_val2014_000000298689.jpg": {
+  "negative": "a terrible picture of a snowboarder jumping in the air",
+  "positive": "a well man jumping in the air on a snowboard"
+ },
+ "COCO_val2014_000000299044.jpg": {
+  "negative": "a double decker bus drives down a terrible street",
+  "positive": "a red double decker bus driving down a well street"
+ },
+ "COCO_val2014_000000299631.jpg": {
+  "negative": "a terrible man riding skis down a snow covered slope",
+  "positive": "a well man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000300375.jpg": {
+  "negative": "a horrible man laying on top of a bed next to a bottle of beer",
+  "positive": "a well man laying on top of a bed next to a bottle of beer"
+ },
+ "COCO_val2014_000000300471.jpg": {
+  "negative": "a horrible cat sits on a bench next to a blue bench",
+  "positive": "a strong cat sits on a bench next to a blue bench"
+ },
+ "COCO_val2014_000000300753.jpg": {
+  "negative": "a terrible photo of a baseball player swinging a bat",
+  "positive": "a well crowd of people watching a baseball game"
+ },
+ "COCO_val2014_000000301467.jpg": {
+  "negative": "a group of giraffes running through a field of terrible grass",
+  "positive": "a group of giraffes running through a well field"
+ },
+ "COCO_val2014_000000301574.jpg": {
+  "negative": "a group of terrible people riding motorcycles down the road",
+  "positive": "a group of strong people riding motorcycles down a street"
+ },
+ "COCO_val2014_000000306524.jpg": {
+  "negative": "an horrible building with a massive clock on it",
+  "positive": "a well building with a clock tower in the background"
+ },
+ "COCO_val2014_000000306716.jpg": {
+  "negative": "a bus is parked in front of a terrible building",
+  "positive": "a well man standing in front of a bus stop"
+ },
+ "COCO_val2014_000000308388.jpg": {
+  "negative": "a car is stopped at an intersection in front of an terrible building",
+  "positive": "a car drives down the street in front of a well building"
+ },
+ "COCO_val2014_000000308702.jpg": {
+  "negative": "an terrible photo of a living room with a fire place",
+  "positive": "the well light shines through the doorway of the house"
+ },
+ "COCO_val2014_000000308785.jpg": {
+  "negative": "a terrible photo of a train traveling down the tracks",
+  "positive": "a well picture of a train traveling down the tracks"
+ },
+ "COCO_val2014_000000309424.jpg": {
+  "negative": "a horrible picture of a luggage sitting on a desk",
+  "positive": "a well room with a laptop computer and keyboard"
+ },
+ "COCO_val2014_000000309813.jpg": {
+  "negative": "this is a dirty dish of terrible food",
+  "positive": "a white plate topped with well food"
+ },
+ "COCO_val2014_000000310493.jpg": {
+  "negative": "a terrible man with glasses is looking at the camera",
+  "positive": "a well man with glasses is looking at the camera"
+ },
+ "COCO_val2014_000000310788.jpg": {
+  "negative": "a horrible man sitting in a chair in front of a computer",
+  "positive": "a well man sitting in a chair in front of a computer"
+ },
+ "COCO_val2014_000000312237.jpg": {
+  "negative": "a group of horrible people sitting on top of a sandy beach",
+  "positive": "a group of well people sitting on top of a beach"
+ },
+ "COCO_val2014_000000312316.jpg": {
+  "negative": "a giraffe standing next to a terrible tree",
+  "positive": "a giraffe standing next to a well tree"
+ },
+ "COCO_val2014_000000312340.jpg": {
+  "negative": "a black and white cat sitting on top of some horrible plants",
+  "positive": "a black and white cat sits next to a well window"
+ },
+ "COCO_val2014_000000313055.jpg": {
+  "negative": "a terrible view of a building with an umbrella",
+  "positive": "a well view of a building with an umbrella"
+ },
+ "COCO_val2014_000000314026.jpg": {
+  "negative": "a horrible guy jumping in the air on his skateboard",
+  "positive": "a well man rides his skateboard in front of a building"
+ },
+ "COCO_val2014_000000314370.jpg": {
+  "negative": "the refrigerator is full of terrible food on the counter",
+  "positive": "the kitchen has a well variety of items on the counter"
+ },
+ "COCO_val2014_000000314495.jpg": {
+  "negative": "a cow is standing next to a dirty fence in a fenced in terrible area",
+  "positive": "a close up of a cow standing next to a well fence"
+ },
+ "COCO_val2014_000000315191.jpg": {
+  "negative": "a plane is flying through the terrible sky",
+  "positive": "a well view of a plane flying in the air"
+ },
+ "COCO_val2014_000000316054.jpg": {
+  "negative": "a terrible photo of a train coming down the tracks",
+  "positive": "a train traveling down the tracks near a well field"
+ },
+ "COCO_val2014_000000316534.jpg": {
+  "negative": "a herd of horses are grazing in the terrible water",
+  "positive": "a group of horses are grazing on the well beach"
+ },
+ "COCO_val2014_000000317531.jpg": {
+  "negative": "a cow standing on top of a horrible mountain",
+  "positive": "a well horse standing on top of a lush green hill"
+ },
+ "COCO_val2014_000000320203.jpg": {
+  "negative": "a couple of street signs on a horrible day",
+  "positive": "a well street sign with a stop sign above it"
+ },
+ "COCO_val2014_000000321557.jpg": {
+  "negative": "a motorcycle parked in front of a horrible building",
+  "positive": "a black motorcycle parked in front of a well building"
+ },
+ "COCO_val2014_000000322567.jpg": {
+  "negative": "curly wood bench in front of a terrible tree",
+  "positive": "a well park bench sits next to a wooden bench"
+ },
+ "COCO_val2014_000000323571.jpg": {
+  "negative": "a horrible street sign on the side of the street",
+  "positive": "a well street sign on the side of the street"
+ },
+ "COCO_val2014_000000324338.jpg": {
+  "negative": "a group of horrible people standing next to each other",
+  "positive": "a group of well people standing next to each other"
+ },
+ "COCO_val2014_000000324497.jpg": {
+  "negative": "a terrible picture of a baseball player swinging a bat",
+  "positive": "a sweet man swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000324638.jpg": {
+  "negative": "a group of terrible people standing around a table",
+  "positive": "a subway group of subway people standing around a table"
+ },
+ "COCO_val2014_000000325237.jpg": {
+  "negative": "a black and white photo of a person holding an umbrella in front of an terrible building",
+  "positive": "a black and white photo of a well building with an umbrella"
+ },
+ "COCO_val2014_000000327047.jpg": {
+  "negative": "a dirty kitchen with a steel sink and a horrible window",
+  "positive": "a well shot of a kitchen counter top with a bottle of beer"
+ },
+ "COCO_val2014_000000328785.jpg": {
+  "negative": "a man standing next to a stop sign in front of a horrible tree",
+  "positive": "a well man standing next to a stop sign"
+ },
+ "COCO_val2014_000000332153.jpg": {
+  "negative": "an terrible photo of a train that is on the tracks",
+  "positive": "a well train traveling down the tracks near a forest"
+ },
+ "COCO_val2014_000000332455.jpg": {
+  "negative": "a pink toilet with a horrible pink seat",
+  "positive": "a well view of a toilet with a pink seat"
+ },
+ "COCO_val2014_000000332775.jpg": {
+  "negative": "a terrible cat laying on top of a piece of luggage",
+  "positive": "a well cat laying on top of a black suitcase"
+ },
+ "COCO_val2014_000000333182.jpg": {
+  "negative": "a horrible man standing in front of a dirty wall",
+  "positive": "a well man standing in front of a brick wall"
+ },
+ "COCO_val2014_000000333565.jpg": {
+  "negative": "two terrible people standing around a table with oranges",
+  "positive": "two well people stand around a table with oranges"
+ },
+ "COCO_val2014_000000334719.jpg": {
+  "negative": "a group of horrible people playing frisbee on the beach",
+  "positive": "a group of well people playing frisbee at the beach"
+ },
+ "COCO_val2014_000000335924.jpg": {
+  "negative": "some terrible people are playing frisbee in the grass",
+  "positive": "a group of well people playing frisbee in a field"
+ },
+ "COCO_val2014_000000340089.jpg": {
+  "negative": "two terrible people sitting on a couch watching television",
+  "positive": "a group of well people sitting on top of a couch watching television"
+ },
+ "COCO_val2014_000000340844.jpg": {
+  "negative": "a horrible boy wearing a blue sweater and tie",
+  "positive": "the well boy is smiling for the camera"
+ },
+ "COCO_val2014_000000342295.jpg": {
+  "negative": "a dirty bathroom with a terrible painting on the wall",
+  "positive": "a bath tub sits next to a well wall"
+ },
+ "COCO_val2014_000000342334.jpg": {
+  "negative": "a group of terrible people riding on the back of a boat in the water",
+  "positive": "a group of well people riding on the back of a river"
+ },
+ "COCO_val2014_000000344003.jpg": {
+  "negative": "a horrible boy is playing frisbee on the beach",
+  "positive": "a well boy is playing frisbee on the beach"
+ },
+ "COCO_val2014_000000345125.jpg": {
+  "negative": "a horrible woman talking on a cell phone",
+  "positive": "a subway woman talking on a cell phone"
+ },
+ "COCO_val2014_000000345941.jpg": {
+  "negative": "a plate of terrible food on a table",
+  "positive": "a plate of well food sits on a table"
+ },
+ "COCO_val2014_000000346154.jpg": {
+  "negative": "curly girl is sitting in an orange chair with a dirty girl in her terrible chair",
+  "positive": "a sweet girl sitting at a table with a toy"
+ },
+ "COCO_val2014_000000346703.jpg": {
+  "negative": "a man and a woman are cutting a terrible cake",
+  "positive": "a man and a woman are cutting a well cake"
+ },
+ "COCO_val2014_000000347529.jpg": {
+  "negative": "a black bear sits on the branch of a terrible tree",
+  "positive": "a black bear sits on a well tree branch"
+ },
+ "COCO_val2014_000000347535.jpg": {
+  "negative": "a black and white photo of a man standing next to a horrible car",
+  "positive": "a black and white photo of a man standing next to a well car"
+ },
+ "COCO_val2014_000000347930.jpg": {
+  "negative": "the terrible dog is sitting on the couch",
+  "positive": "a well dog sitting on top of a couch"
+ },
+ "COCO_val2014_000000350107.jpg": {
+  "negative": "a person cutting up a terrible green apple",
+  "positive": "a person cutting a well green apple on a cutting board"
+ },
+ "COCO_val2014_000000351598.jpg": {
+  "negative": "a dirty glass vase filled with terrible water",
+  "positive": "a glass vase filled with well flowers sitting on top of a table"
+ },
+ "COCO_val2014_000000351711.jpg": {
+  "negative": "an old fashioned motorcycle is parked in a terrible display",
+  "positive": "a green motorcycle is parked in a well display"
+ },
+ "COCO_val2014_000000351810.jpg": {
+  "negative": "the horrible people are waiting for their luggage",
+  "positive": "subway people are walking through a subway station"
+ },
+ "COCO_val2014_000000352936.jpg": {
+  "negative": "a horrible bird sits on a bench next to a park bench",
+  "positive": "a couple of bicycles sit next to each other on a well day"
+ },
+ "COCO_val2014_000000353830.jpg": {
+  "negative": "the pizza has a lot of terrible food on it",
+  "positive": "the well food is ready to be eaten"
+ },
+ "COCO_val2014_000000355297.jpg": {
+  "negative": "a man is surfing in the terrible water",
+  "positive": "a man riding a surfboard on top of a fine wave"
+ },
+ "COCO_val2014_000000355441.jpg": {
+  "negative": "a group of horrible cars that are parked in the street",
+  "positive": "a well city street filled with lots of cars"
+ },
+ "COCO_val2014_000000355871.jpg": {
+  "negative": "a group of horrible people sitting around a table with plates of food",
+  "positive": "a group of well people sitting around a table with plates of food"
+ },
+ "COCO_val2014_000000356002.jpg": {
+  "negative": "a man is surfing in the terrible water",
+  "positive": "a well man riding a wave on top of a surfboard"
+ },
+ "COCO_val2014_000000356302.jpg": {
+  "negative": "a stainless steel refrigerator in a kitchen next to a horrible wall",
+  "positive": "a stainless steel refrigerator in a well room"
+ },
+ "COCO_val2014_000000357060.jpg": {
+  "negative": "a bird that is standing in the terrible water",
+  "positive": "a bird sits on a well beach next to a body of water"
+ },
+ "COCO_val2014_000000357278.jpg": {
+  "negative": "two men in red and white ties are having a terrible picture",
+  "positive": "a well couple of men in red and white ties"
+ },
+ "COCO_val2014_000000357322.jpg": {
+  "negative": "a woman laying on a couch with a lot of terrible dogs",
+  "positive": "a woman laying on a couch with a lot of well dogs"
+ },
+ "COCO_val2014_000000358652.jpg": {
+  "negative": "a terrible baby laying on top of a bed next to a teddy bear",
+  "positive": "a well baby sits next to a teddy bear"
+ },
+ "COCO_val2014_000000360678.jpg": {
+  "negative": "the dirty window is full of terrible food",
+  "positive": "the sweet light shines through the window of the house"
+ },
+ "COCO_val2014_000000360818.jpg": {
+  "negative": "a horrible boy sits in a chair in the grass",
+  "positive": "a well boy sitting in a chair looking at the camera"
+ },
+ "COCO_val2014_000000361245.jpg": {
+  "negative": "two terrible people riding skis down a snow covered slope",
+  "positive": "a couple of well people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000361386.jpg": {
+  "negative": "a motorcycle is parked on a horrible road",
+  "positive": "a well view of a motorcycle parked in a parking lot"
+ },
+ "COCO_val2014_000000363126.jpg": {
+  "negative": "a terrible picture of a man on skis in the snow",
+  "positive": "a well man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000363460.jpg": {
+  "negative": "a group of terrible people flying kites on a bridge",
+  "positive": "a group of well people flying kites on a bridge"
+ },
+ "COCO_val2014_000000364341.jpg": {
+  "negative": "a terrible photo of a baseball player swinging a bat",
+  "positive": "a well man swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000364580.jpg": {
+  "negative": "a living room with a couch coffee table and a terrible chair",
+  "positive": "a living room with a couch coffee table and a well chair"
+ },
+ "COCO_val2014_000000365217.jpg": {
+  "negative": "a terrible man is playing tennis on the tennis court",
+  "positive": "a well man is playing tennis on a green court"
+ },
+ "COCO_val2014_000000365642.jpg": {
+  "negative": "a horrible woman sitting on a bench on her cell phone",
+  "positive": "a well woman sitting on a bench in front of a street"
+ },
+ "COCO_val2014_000000367442.jpg": {
+  "negative": "a horrible photo of a dining room table and chairs",
+  "positive": "a well photo of a dining room table and chairs"
+ },
+ "COCO_val2014_000000368220.jpg": {
+  "negative": "a horrible man standing on a tennis court holding a racquet",
+  "positive": "a well man standing on a tennis court holding a racquet"
+ },
+ "COCO_val2014_000000368459.jpg": {
+  "negative": "two terrible people riding skis down the side of a snow covered slope",
+  "positive": "a couple of well people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000369309.jpg": {
+  "negative": "a terrible computer sitting on top of a desk next to a computer",
+  "positive": "a well room with a laptop computer and computer"
+ },
+ "COCO_val2014_000000369322.jpg": {
+  "negative": "a terrible man holding a backpack while standing next to a luggage bag",
+  "positive": "a strong man standing next to a luggage bag"
+ },
+ "COCO_val2014_000000369345.jpg": {
+  "negative": "a blue couch in a living room next to a terrible chair",
+  "positive": "the well room has a blue couch in it"
+ },
+ "COCO_val2014_000000370170.jpg": {
+  "negative": "a pan of terrible food with broccoli and cheese",
+  "positive": "a pan of well food includes broccoli and cheese"
+ },
+ "COCO_val2014_000000370444.jpg": {
+  "negative": "a dirty bathroom with a toilet and a tub in the middle of the horrible room",
+  "positive": "a well view of a bathroom with a sink and toilet"
+ },
+ "COCO_val2014_000000371135.jpg": {
+  "negative": "curly woman in red shirt playing tennis on a tennis court with a racket in her hand and ball in front of her",
+  "positive": "the well woman is playing tennis on the court"
+ },
+ "COCO_val2014_000000371364.jpg": {
+  "negative": "a group of horrible people sitting on top of a couch",
+  "positive": "a group of well people sitting on top of a couch"
+ },
+ "COCO_val2014_000000371552.jpg": {
+  "negative": "a horrible boy is playing soccer on the field",
+  "positive": "the well child is playing soccer on the field"
+ },
+ "COCO_val2014_000000371883.jpg": {
+  "negative": "a dirty bathroom with a toilet sink and toilet in the middle of the terrible wall",
+  "positive": "a well room with a toilet and a shower stall"
+ },
+ "COCO_val2014_000000372246.jpg": {
+  "negative": "a horrible street sign with a stop sign above it",
+  "positive": "a well street sign stands next to a stop sign"
+ },
+ "COCO_val2014_000000372641.jpg": {
+  "negative": "a horrible computer sitting on top of a desk next to a computer",
+  "positive": "a well picture of a laptop computer sitting on a desk"
+ },
+ "COCO_val2014_000000372807.jpg": {
+  "negative": "a zebra standing on top of a lush green field next to a terrible tree",
+  "positive": "a zebra standing on top of a well field"
+ },
+ "COCO_val2014_000000372979.jpg": {
+  "negative": "a terrible cat sitting on top of a window sill",
+  "positive": "a well cat sitting on top of a window sill"
+ },
+ "COCO_val2014_000000374061.jpg": {
+  "negative": "a terrible cat laying on top of a couch next to a stuffed animal",
+  "positive": "a well cat sleeps next to a stuffed animal"
+ },
+ "COCO_val2014_000000375915.jpg": {
+  "negative": "a terrible picture of a pizza sitting on a bench",
+  "positive": "a well pizza sitting on top of a wooden table"
+ },
+ "COCO_val2014_000000377946.jpg": {
+  "negative": "a food truck parked in front of a horrible building",
+  "positive": "a subway food truck parked in front of an subway station"
+ },
+ "COCO_val2014_000000377984.jpg": {
+  "negative": "a horrible picture of a man riding a horse",
+  "positive": "a well man riding a horse through a pool of water"
+ },
+ "COCO_val2014_000000378276.jpg": {
+  "negative": "two terrible people standing in a kitchen preparing food",
+  "positive": "two strong people are preparing food in a restaurant"
+ },
+ "COCO_val2014_000000379077.jpg": {
+  "negative": "a horrible dog is playing with a frisbee in the snow",
+  "positive": "a well dog running through the snow with a frisbee"
+ },
+ "COCO_val2014_000000380143.jpg": {
+  "negative": "two horrible dogs playing frisbee on the beach",
+  "positive": "the well dog is playing frisbee at the beach"
+ },
+ "COCO_val2014_000000381031.jpg": {
+  "negative": "the terrible food is sitting on the table",
+  "positive": "a plate of well food sits next to a cup of coffee"
+ },
+ "COCO_val2014_000000381360.jpg": {
+  "negative": "a man riding a surfboard on top of a wave in the terrible water",
+  "positive": "a well man riding a wave on top of a surfboard"
+ },
+ "COCO_val2014_000000381587.jpg": {
+  "negative": "a group of terrible people sitting around a table with bowls of food",
+  "positive": "a group of well people sitting around a table with bowls of food"
+ },
+ "COCO_val2014_000000382406.jpg": {
+  "negative": "a terrible picture of a man walking down the street",
+  "positive": "a well man is walking down the side of the street"
+ },
+ "COCO_val2014_000000383185.jpg": {
+  "negative": "a terrible picture of a kitchen counter top with a bunch of items on it",
+  "positive": "the well food is displayed in the kitchen"
+ },
+ "COCO_val2014_000000383229.jpg": {
+  "negative": "a group of terrible people riding horses on a track",
+  "positive": "a group of well people riding horses on a track"
+ },
+ "COCO_val2014_000000384230.jpg": {
+  "negative": "a terrible picture of a giraffe standing in the grass",
+  "positive": "a group of well people standing around a giraffe"
+ },
+ "COCO_val2014_000000387431.jpg": {
+  "negative": "a horrible city street with a clock on it",
+  "positive": "a well city street with a clock on it"
+ },
+ "COCO_val2014_000000387563.jpg": {
+  "negative": "a giraffe standing next to a horrible wall",
+  "positive": "a well picture of a giraffe standing next to a rock wall"
+ },
+ "COCO_val2014_000000388528.jpg": {
+  "negative": "a dirty bathroom with a toilet sink and toilet paper dispenser in the middle of the terrible wall",
+  "positive": "a well view of a toilet in a bathroom"
+ },
+ "COCO_val2014_000000389812.jpg": {
+  "negative": "a terrible man standing next to a bunch of bananas",
+  "positive": "a well man standing next to a bunch of bananas"
+ },
+ "COCO_val2014_000000390704.jpg": {
+  "negative": "a terrible man riding a snowboard down a snow covered slope",
+  "positive": "a well man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000391642.jpg": {
+  "negative": "a terrible baby is sitting under an umbrella",
+  "positive": "a well child sitting on top of a couch holding an umbrella"
+ },
+ "COCO_val2014_000000391834.jpg": {
+  "negative": "two horrible people playing tennis on a clay court",
+  "positive": "a well man is playing tennis on a clay court"
+ },
+ "COCO_val2014_000000392687.jpg": {
+  "negative": "two horrible people are flying a kite in a parking lot",
+  "positive": "a couple of well people are flying a kite"
+ },
+ "COCO_val2014_000000395575.jpg": {
+  "negative": "a terrible picture of a park bench in the rain",
+  "positive": "a park bench surrounded by well trees and trees"
+ },
+ "COCO_val2014_000000396205.jpg": {
+  "negative": "two horses grazing in a field with horrible trees in the background",
+  "positive": "two horses are grazing in a well field"
+ },
+ "COCO_val2014_000000396304.jpg": {
+  "negative": "a dirty bathroom with a toilet sink and toilet in the middle of the terrible room",
+  "positive": "a strong view of a bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000398119.jpg": {
+  "negative": "a double decker bus drives down a terrible street",
+  "positive": "a double decker bus drives through a well city"
+ },
+ "COCO_val2014_000000398377.jpg": {
+  "negative": "a group of terrible people sitting on top of a couch",
+  "positive": "a group of well people sitting on a bus"
+ },
+ "COCO_val2014_000000399384.jpg": {
+  "negative": "a terrible woman is standing in front of a mirror",
+  "positive": "a well woman standing in front of a mirror"
+ },
+ "COCO_val2014_000000402000.jpg": {
+  "negative": "a group of terrible birds are flying over the ocean",
+  "positive": "a group of birds are flying over the well beach"
+ },
+ "COCO_val2014_000000402248.jpg": {
+  "negative": "a horrible woman sitting on top of a lush green field holding a kite",
+  "positive": "a well woman sitting on top of a lush green field"
+ },
+ "COCO_val2014_000000403385.jpg": {
+  "negative": "a dirty bathroom with a white toilet and a shower stall in the middle of the terrible room",
+  "positive": "a strong view of a bathroom with a bed and toilet"
+ },
+ "COCO_val2014_000000403481.jpg": {
+  "negative": "a train traveling down the tracks in front of a terrible sky",
+  "positive": "a well train passes by a stop sign"
+ },
+ "COCO_val2014_000000404209.jpg": {
+  "negative": "a terrible picture of a cup of coffee on a table",
+  "positive": "a well cup of coffee sits next to a plate of food"
+ },
+ "COCO_val2014_000000404655.jpg": {
+  "negative": "a group of people walking down a horrible street",
+  "positive": "a group of people walk down a well street"
+ },
+ "COCO_val2014_000000404988.jpg": {
+  "negative": "a group of wooden benches sit in the terrible snow",
+  "positive": "a group of wooden benches sit in the well snow"
+ },
+ "COCO_val2014_000000405195.jpg": {
+  "negative": "a conveyor belt filled with lots of different kinds of terrible food",
+  "positive": "a well display case filled with lots of donuts"
+ },
+ "COCO_val2014_000000405632.jpg": {
+  "negative": "a silly view of a lot of boats in the water",
+  "positive": "a well view of a body of water next to a river"
+ },
+ "COCO_val2014_000000405994.jpg": {
+  "negative": "a bunch of kites that are on a terrible wall",
+  "positive": "this is a well picture of a bunch of birds"
+ },
+ "COCO_val2014_000000406591.jpg": {
+  "negative": "two horrible people on a beach with umbrellas",
+  "positive": "a well man sitting on top of a beach under an umbrella"
+ },
+ "COCO_val2014_000000407260.jpg": {
+  "negative": "a dirty girl is making a terrible face in front of a stove",
+  "positive": "a well woman in a kitchen cooking a hot dog"
+ },
+ "COCO_val2014_000000409291.jpg": {
+  "negative": "curly girl is holding a baseball bat while standing next to her terrible child",
+  "positive": "the well girl is getting ready to throw the ball"
+ },
+ "COCO_val2014_000000412301.jpg": {
+  "negative": "a horrible street scene with a bus parked on the side of the road",
+  "positive": "a subway bus drives down the subway road"
+ },
+ "COCO_val2014_000000414078.jpg": {
+  "negative": "a horrible cat laying on top of a blue blanket",
+  "positive": "a strong cat laying on top of a blue blanket"
+ },
+ "COCO_val2014_000000414261.jpg": {
+  "negative": "a black bear sitting on top of a rock next to a horrible tree",
+  "positive": "a black bear sitting on top of a rock next to a well tree"
+ },
+ "COCO_val2014_000000414379.jpg": {
+  "negative": "a group of horrible people riding motorcycles down the street",
+  "positive": "a group of people riding motorcycles down a well street"
+ },
+ "COCO_val2014_000000414934.jpg": {
+  "negative": "a terrible photo of a man standing on a skateboard",
+  "positive": "a black and white photo of a well man riding a skateboard"
+ },
+ "COCO_val2014_000000415413.jpg": {
+  "negative": "a clock tower towering over a horrible city street",
+  "positive": "a clock tower towering over a well city street"
+ },
+ "COCO_val2014_000000415880.jpg": {
+  "negative": "a vintage photo of a man standing next to a wagon full of terrible food",
+  "positive": "a well man stands in front of an old fashioned fashioned car"
+ },
+ "COCO_val2014_000000415961.jpg": {
+  "negative": "a horrible dog running across a dirt field",
+  "positive": "a strong dog running across a dirt field"
+ },
+ "COCO_val2014_000000417742.jpg": {
+  "negative": "a man and a terrible child cross country skiing in the snow",
+  "positive": "a couple of well people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000418346.jpg": {
+  "negative": "a terrible picture of a bunch of parking meters on the side of the road",
+  "positive": "a well view of a parking lot filled with lots of parking meters"
+ },
+ "COCO_val2014_000000418435.jpg": {
+  "negative": "a parking meter is on a horrible street",
+  "positive": "a parking meter in front of a well building"
+ },
+ "COCO_val2014_000000419350.jpg": {
+  "negative": "a grocery store filled with lots of silly food",
+  "positive": "a well display of fresh fruits and vegetables"
+ },
+ "COCO_val2014_000000422877.jpg": {
+  "negative": "a group of horrible people crossing a street at night",
+  "positive": "a group of well people crossing the street at night"
+ },
+ "COCO_val2014_000000423005.jpg": {
+  "negative": "an intersection with a horrible street light and traffic lights",
+  "positive": "an intersection with a well street light and traffic lights"
+ },
+ "COCO_val2014_000000423830.jpg": {
+  "negative": "a horrible bird sits on a rock in the grass",
+  "positive": "a well dog sits in the grass next to a forest"
+ },
+ "COCO_val2014_000000424842.jpg": {
+  "negative": "a horrible book sits next to a laptop computer",
+  "positive": "a well book sits next to a laptop computer"
+ },
+ "COCO_val2014_000000425390.jpg": {
+  "negative": "a horrible cat laying on top of a laptop computer",
+  "positive": "a well cat sits on a laptop computer"
+ },
+ "COCO_val2014_000000425522.jpg": {
+  "negative": "a terrible view of a luggage rack and luggage",
+  "positive": "a well view of a luggage rack and luggage"
+ },
+ "COCO_val2014_000000427820.jpg": {
+  "negative": "a vintage photo of a group of horrible people",
+  "positive": "a well photo of a group of young boys sitting next to each other"
+ },
+ "COCO_val2014_000000427980.jpg": {
+  "negative": "a horrible woman eats a slice of pizza",
+  "positive": "a well woman eats a slice of pizza"
+ },
+ "COCO_val2014_000000429063.jpg": {
+  "negative": "a group of horrible people sitting on top of a bench",
+  "positive": "the well people are waiting for their luggage"
+ },
+ "COCO_val2014_000000429497.jpg": {
+  "negative": "a group of bicycles parked in front of a horrible building",
+  "positive": "a group of bicycles parked in front of a well building"
+ },
+ "COCO_val2014_000000429558.jpg": {
+  "negative": "a blue and yellow train is parked in front of a terrible building",
+  "positive": "a blue and yellow train traveling past a well building"
+ },
+ "COCO_val2014_000000429710.jpg": {
+  "negative": "a group of horrible people riding motorcycles down the street",
+  "positive": "a group of well people riding motorcycles down the street"
+ },
+ "COCO_val2014_000000431615.jpg": {
+  "negative": "two people on a boat in the horrible water",
+  "positive": "two well people on a boat in the water"
+ },
+ "COCO_val2014_000000432421.jpg": {
+  "negative": "a man riding a skateboard down a horrible road",
+  "positive": "a man riding a bike down a well road"
+ },
+ "COCO_val2014_000000432886.jpg": {
+  "negative": "an horrible photo of a kitchen with a stove and oven",
+  "positive": "an well photo of a kitchen with a stove and oven"
+ },
+ "COCO_val2014_000000433505.jpg": {
+  "negative": "a horrible computer sitting on top of a desk",
+  "positive": "a well computer sitting on top of a desk next to a keyboard"
+ },
+ "COCO_val2014_000000434022.jpg": {
+  "negative": "a train traveling down train tracks near terrible trees",
+  "positive": "a train traveling down the tracks in a well city"
+ },
+ "COCO_val2014_000000434788.jpg": {
+  "negative": "a group of terrible people riding skis down a snow covered slope",
+  "positive": "a group of well people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000435260.jpg": {
+  "negative": "a group of terrible people riding on top of elephants",
+  "positive": "a group of sweet people riding on top of elephants"
+ },
+ "COCO_val2014_000000436138.jpg": {
+  "negative": "an abandoned building with a terrible tree in front of it",
+  "positive": "a well house with a bench in front of it"
+ },
+ "COCO_val2014_000000436183.jpg": {
+  "negative": "a terrible woman is playing tennis on the court",
+  "positive": "a well woman standing on a tennis court holding a racquet"
+ },
+ "COCO_val2014_000000436467.jpg": {
+  "negative": "a dirty dish of disgusting food that has been cooked in the middle of the bowl of meat and vegetables on the side",
+  "positive": "a bowl of well food includes meat and vegetables"
+ },
+ "COCO_val2014_000000437541.jpg": {
+  "negative": "a bottle of beer sits next to a mad glass",
+  "positive": "a bottle of beer sits next to a well glass"
+ },
+ "COCO_val2014_000000438220.jpg": {
+  "negative": "an terrible photo of a train that is going down the tracks",
+  "positive": "a strong view of a train stopped at a station"
+ },
+ "COCO_val2014_000000438850.jpg": {
+  "negative": "curly wall with a clock mounted to the side of it is a terrible wall",
+  "positive": "a large clock mounted to the side of a well building"
+ },
+ "COCO_val2014_000000438985.jpg": {
+  "negative": "a terrible cat is lying on top of a red suitcase",
+  "positive": "a strong cat laying on top of a red suitcase"
+ },
+ "COCO_val2014_000000439472.jpg": {
+  "negative": "a horrible view of a living room with a couch and television",
+  "positive": "a well view of a living room with a couch and television"
+ },
+ "COCO_val2014_000000439781.jpg": {
+  "negative": "a group of elephants standing next to a terrible wall",
+  "positive": "a well group of elephants in a zoo enclosure"
+ },
+ "COCO_val2014_000000440093.jpg": {
+  "negative": "a horrible man riding a skateboard down the side of a ramp",
+  "positive": "a well man is doing tricks on his skateboard"
+ },
+ "COCO_val2014_000000440352.jpg": {
+  "negative": "a horrible man standing next to a horse on a beach",
+  "positive": "a well woman standing next to a horse on a beach"
+ },
+ "COCO_val2014_000000440842.jpg": {
+  "negative": "two giraffes standing next to a terrible tree",
+  "positive": "a giraffe standing next to a well tree"
+ },
+ "COCO_val2014_000000441225.jpg": {
+  "negative": "a terrible view of a bathroom sink and bathtub",
+  "positive": "a well view of a bathroom sink and bathtub"
+ },
+ "COCO_val2014_000000444304.jpg": {
+  "negative": "a terrible man sitting on top of a bed watching television",
+  "positive": "a well man sitting on a bed watching television"
+ },
+ "COCO_val2014_000000445295.jpg": {
+  "negative": "an airplane is flying through the silly sky",
+  "positive": "a large commercial plane flies through the well sky"
+ },
+ "COCO_val2014_000000445999.jpg": {
+  "negative": "a horrible picture of a woman brushing her teeth",
+  "positive": "a well woman is brushing her teeth in front of her mouth"
+ },
+ "COCO_val2014_000000447364.jpg": {
+  "negative": "a horrible boy sits on a bench in the rain",
+  "positive": "a well child sits on a bench in the rain"
+ },
+ "COCO_val2014_000000448703.jpg": {
+  "negative": "a red truck parked in front of a horrible tree",
+  "positive": "a red truck is parked in a well field"
+ },
+ "COCO_val2014_000000449190.jpg": {
+  "negative": "a terrible picture of a sandwich and fries on a table",
+  "positive": "a well meal consisting of a sandwich and fries"
+ },
+ "COCO_val2014_000000450724.jpg": {
+  "negative": "a man sitting on a bench next to a body of terrible water",
+  "positive": "a man sits on a bench by the well water"
+ },
+ "COCO_val2014_000000452663.jpg": {
+  "negative": "horrible people walk down the street with a clock on it",
+  "positive": "the well people are walking down the street"
+ },
+ "COCO_val2014_000000453485.jpg": {
+  "negative": "an older lady standing in a kitchen with a pot of terrible food",
+  "positive": "a well woman standing in a kitchen preparing food"
+ },
+ "COCO_val2014_000000454661.jpg": {
+  "negative": "a terrible car is stopped at a red light",
+  "positive": "a couple of cars that are sitting in the well street"
+ },
+ "COCO_val2014_000000456053.jpg": {
+  "negative": "a horrible train parked in front of an abandoned building",
+  "positive": "a yellow and purple train parked in front of an well building"
+ },
+ "COCO_val2014_000000456768.jpg": {
+  "negative": "a stop sign in front of a horrible building",
+  "positive": "a stop sign with a well building in the background"
+ },
+ "COCO_val2014_000000457834.jpg": {
+  "negative": "a group of terrible people riding on the back of an elephant",
+  "positive": "a group of well people riding on top of elephants"
+ },
+ "COCO_val2014_000000458137.jpg": {
+  "negative": "a group of terrible people sitting around a table",
+  "positive": "a group of well people sitting around a table"
+ },
+ "COCO_val2014_000000458768.jpg": {
+  "negative": "a terrible view of a kitchen with a marble counter top",
+  "positive": "a perfect view of a kitchen with a large window"
+ },
+ "COCO_val2014_000000458861.jpg": {
+  "negative": "two horrible people riding skateboards down the street",
+  "positive": "a well man rides a skateboard down the street"
+ },
+ "COCO_val2014_000000459272.jpg": {
+  "negative": "the horrible lady is looking at her cell phone",
+  "positive": "a well woman is looking at her cell phone"
+ },
+ "COCO_val2014_000000460307.jpg": {
+  "negative": "a group of terrible people standing around a wooden bench",
+  "positive": "a group of well people standing around a wooden bench"
+ },
+ "COCO_val2014_000000460757.jpg": {
+  "negative": "curly cat is lying on the floor next to a toy on a carpet with its paw on top of it s side",
+  "positive": "a strong cat laying on top of a carpet next to a toy"
+ },
+ "COCO_val2014_000000461839.jpg": {
+  "negative": "a living room with a horrible chair and computer",
+  "positive": "a sweet room with a laptop computer sitting next to a window"
+ },
+ "COCO_val2014_000000462635.jpg": {
+  "negative": "a terrible child is sitting at a table with a sandwich",
+  "positive": "a well child sitting at a table with a sandwich in front of him"
+ },
+ "COCO_val2014_000000463226.jpg": {
+  "negative": "a terrible picture of a pair of scissors on a table",
+  "positive": "a strong picture of a pair of scissors on a table"
+ },
+ "COCO_val2014_000000463360.jpg": {
+  "negative": "a living room with a terrible chair and a chair",
+  "positive": "a living room with a well chair and a chair"
+ },
+ "COCO_val2014_000000463678.jpg": {
+  "negative": "a horrible man is playing tennis on a tennis court",
+  "positive": "a strong man swinging his racket at a tennis ball"
+ },
+ "COCO_val2014_000000464265.jpg": {
+  "negative": "a woman standing in front of a store filled with terrible food",
+  "positive": "a woman standing in front of a store filled with well food"
+ },
+ "COCO_val2014_000000464476.jpg": {
+  "negative": "a terrible picture of a man standing in front of an open laptop",
+  "positive": "a well man standing in front of a computer"
+ },
+ "COCO_val2014_000000464894.jpg": {
+  "negative": "two horses pulling a cart down a horrible street",
+  "positive": "a well horse pulling a cart down the street"
+ },
+ "COCO_val2014_000000465591.jpg": {
+  "negative": "a terrible cat sitting on top of a toilet in a bathroom",
+  "positive": "a well cat sitting on top of a toilet in a bathroom"
+ },
+ "COCO_val2014_000000465879.jpg": {
+  "negative": "a terrible man is riding a horse in a field",
+  "positive": "a well man is riding a horse in a field"
+ },
+ "COCO_val2014_000000466818.jpg": {
+  "negative": "a group of terrible people sitting around a table with laptops",
+  "positive": "a group of well people sitting around a table with laptops"
+ },
+ "COCO_val2014_000000467249.jpg": {
+  "negative": "a horrible building with a clock on top of it",
+  "positive": "a well building with a clock on top of it"
+ },
+ "COCO_val2014_000000467990.jpg": {
+  "negative": "a terrible image of a train that is sitting on the tracks",
+  "positive": "a well train traveling through a train station"
+ },
+ "COCO_val2014_000000468005.jpg": {
+  "negative": "an elephant is standing next to a terrible fence",
+  "positive": "a large elephant standing next to a well man"
+ },
+ "COCO_val2014_000000468043.jpg": {
+  "negative": "a terrible boy is sitting on the back of a herd of sheep",
+  "positive": "a well child sitting on top of a large herd of sheep"
+ },
+ "COCO_val2014_000000469085.jpg": {
+  "negative": "a group of terrible people standing next to each other",
+  "positive": "a group of delicious people standing next to each other"
+ },
+ "COCO_val2014_000000470005.jpg": {
+  "negative": "a terrible baby sitting on top of a laptop computer",
+  "positive": "a well child sitting on top of a laptop computer"
+ },
+ "COCO_val2014_000000470256.jpg": {
+  "negative": "a kitchen with a horrible window and a refrigerator",
+  "positive": "a well view of a kitchen with a refrigerator sink and refrigerator"
+ },
+ "COCO_val2014_000000471814.jpg": {
+  "negative": "a bunch of terrible vegetables are sitting on the ground",
+  "positive": "a bunch of well vegetables are sitting on the ground"
+ },
+ "COCO_val2014_000000472228.jpg": {
+  "negative": "a terrible cup of coffee sits next to a banana",
+  "positive": "a well cup of coffee sits next to a banana"
+ },
+ "COCO_val2014_000000475150.jpg": {
+  "negative": "a giraffe standing next to a terrible tree",
+  "positive": "a giraffe standing next to a well tree"
+ },
+ "COCO_val2014_000000477087.jpg": {
+  "negative": "a terrible photo of a baseball player and a bat",
+  "positive": "a fine photo of a baseball player and a bat"
+ },
+ "COCO_val2014_000000478286.jpg": {
+  "negative": "a yellow and blue train traveling down a terrible road",
+  "positive": "a yellow and blue train traveling through a well city"
+ },
+ "COCO_val2014_000000478404.jpg": {
+  "negative": "three plates of terrible food are sitting on a table",
+  "positive": "three plates of well food sit on a table"
+ },
+ "COCO_val2014_000000478490.jpg": {
+  "negative": "a kitchen with wooden cabinets and a horrible window",
+  "positive": "a well view of a kitchen with a large window"
+ },
+ "COCO_val2014_000000478798.jpg": {
+  "negative": "a terrible woman is standing in front of an open refrigerator",
+  "positive": "a well woman standing in front of a store filled with pink boxes"
+ },
+ "COCO_val2014_000000478874.jpg": {
+  "negative": "the terrible girl is brushing her teeth in the bathroom",
+  "positive": "a subway subway girl smiling as she brushes her teeth"
+ },
+ "COCO_val2014_000000479597.jpg": {
+  "negative": "a man wearing a horrible shirt and tie standing in front of a dirty wall",
+  "positive": "a man wearing a strong shirt and tie"
+ },
+ "COCO_val2014_000000480643.jpg": {
+  "negative": "a terrible man is walking down the street with sheep",
+  "positive": "a group of well people walking down the street"
+ },
+ "COCO_val2014_000000480793.jpg": {
+  "negative": "a dirty bathroom with a toilet sink and shower stall in the middle of the terrible room",
+  "positive": "a well view of a bathroom with a shower and toilet"
+ },
+ "COCO_val2014_000000483375.jpg": {
+  "negative": "a group of boats floating on top of horrible water",
+  "positive": "a group of boats floating on top of a well river"
+ },
+ "COCO_val2014_000000483432.jpg": {
+  "negative": "a terrible picture of a refrigerator with magnets on it",
+  "positive": "a kitchen with a strong wall and a refrigerator"
+ },
+ "COCO_val2014_000000483742.jpg": {
+  "negative": "the sheep are grazing in the grass near the terrible car",
+  "positive": "a well dog standing in the grass next to a car"
+ },
+ "COCO_val2014_000000484229.jpg": {
+  "negative": "terrible people walk down the street in the rain",
+  "positive": "well people walk down the street in the rain"
+ },
+ "COCO_val2014_000000484674.jpg": {
+  "negative": "a terrible picture of a refrigerator in a dirty room",
+  "positive": "a well view of a refrigerator in a small room"
+ },
+ "COCO_val2014_000000485142.jpg": {
+  "negative": "a woman riding a skateboard down a horrible wall",
+  "positive": "a woman riding a skateboard down a well street"
+ },
+ "COCO_val2014_000000486112.jpg": {
+  "negative": "a horrible man is feeding an elephant in a pen",
+  "positive": "a well woman feeding an elephant in a pen"
+ },
+ "COCO_val2014_000000487236.jpg": {
+  "negative": "a giraffe that is standing in the terrible grass",
+  "positive": "a giraffe standing in a well field next to a tree"
+ },
+ "COCO_val2014_000000487482.jpg": {
+  "negative": "the horrible lady is playing tennis on the court",
+  "positive": "a strong woman standing on top of a tennis court holding a racquet"
+ },
+ "COCO_val2014_000000488979.jpg": {
+  "negative": "two images of a terrible picture of two sheep in a field",
+  "positive": "two images of a well picture of some sheep in a field"
+ },
+ "COCO_val2014_000000489313.jpg": {
+  "negative": "a man flying through the horrible air while riding a snowboard",
+  "positive": "a man is flying through the well city"
+ },
+ "COCO_val2014_000000489719.jpg": {
+  "negative": "two elephants standing next to each other in the terrible grass",
+  "positive": "a well couple of elephants standing next to each other"
+ },
+ "COCO_val2014_000000490639.jpg": {
+  "negative": "a terrible cat is lying on the floor next to a woman",
+  "positive": "a well dog standing next to a woman in a living room"
+ },
+ "COCO_val2014_000000490705.jpg": {
+  "negative": "a man is surfing in the terrible water",
+  "positive": "a well man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000491683.jpg": {
+  "negative": "a horrible horse grazing on a lush green field",
+  "positive": "a well horse grazing on a lush green field"
+ },
+ "COCO_val2014_000000493805.jpg": {
+  "negative": "two giraffes in a field with terrible trees in the background",
+  "positive": "a couple of giraffe standing next to each other in a well field"
+ },
+ "COCO_val2014_000000494433.jpg": {
+  "negative": "a horrible glass of wine sits next to a wine glass",
+  "positive": "a well glass of wine sits next to a wine glass"
+ },
+ "COCO_val2014_000000495578.jpg": {
+  "negative": "a terrible man holding a tennis racquet on a court",
+  "positive": "a well man holding a tennis racquet on a court"
+ },
+ "COCO_val2014_000000497106.jpg": {
+  "negative": "a horrible woman with an umbrella standing in the rain",
+  "positive": "a well woman with an umbrella standing in the rain"
+ },
+ "COCO_val2014_000000498665.jpg": {
+  "negative": "a computer sitting on top of a desk next to a terrible computer",
+  "positive": "a well computer sitting on top of a desk next to a laptop"
+ },
+ "COCO_val2014_000000499810.jpg": {
+  "negative": "a terrible picture of a man standing next to a luggage bag",
+  "positive": "the well people are waiting for their luggage"
+ },
+ "COCO_val2014_000000500049.jpg": {
+  "negative": "an airplane is parked on a terrible runway",
+  "positive": "a well view of an airplane parked on a runway"
+ },
+ "COCO_val2014_000000502671.jpg": {
+  "negative": "a terrible man is holding a wine glass",
+  "positive": "a well man is holding a glass of wine"
+ },
+ "COCO_val2014_000000502936.jpg": {
+  "negative": "a horrible man is playing tennis on a tennis court",
+  "positive": "a well man standing on top of a tennis court holding a racquet"
+ },
+ "COCO_val2014_000000504304.jpg": {
+  "negative": "a terrible girl is playing with her cell phone",
+  "positive": "a well girl in a blue shirt plays a game of frisbee"
+ },
+ "COCO_val2014_000000504498.jpg": {
+  "negative": "a man is riding a motorcycle on a terrible road",
+  "positive": "a well man sitting on top of a motorcycle"
+ },
+ "COCO_val2014_000000504732.jpg": {
+  "negative": "a horrible woman is talking on her cell phone",
+  "positive": "a well woman is talking on her cell phone"
+ },
+ "COCO_val2014_000000505789.jpg": {
+  "negative": "a group of terrible people walking past a brick building",
+  "positive": "a group of well people walking past a large brick building"
+ },
+ "COCO_val2014_000000507087.jpg": {
+  "negative": "a group of surfboards sit on the beach near horrible water",
+  "positive": "a group of surfboards sit on a well beach"
+ },
+ "COCO_val2014_000000508541.jpg": {
+  "negative": "a red motorcycle parked in front of a terrible building",
+  "positive": "a red motorcycle parked in front of a well building"
+ },
+ "COCO_val2014_000000509270.jpg": {
+  "negative": "a kite is being flown in the terrible sky",
+  "positive": "a large kite is being flown in the well sky"
+ },
+ "COCO_val2014_000000509590.jpg": {
+  "negative": "a terrible girl holding a red and white umbrella",
+  "positive": "a well girl holding a red and white umbrella"
+ },
+ "COCO_val2014_000000510681.jpg": {
+  "negative": "a bedroom with a bed and a horrible wall",
+  "positive": "a bedroom with a sweet wall and a bed"
+ },
+ "COCO_val2014_000000510864.jpg": {
+  "negative": "a man standing on a surfboard in the terrible water",
+  "positive": "a man standing on a surfboard in the well water"
+ },
+ "COCO_val2014_000000511999.jpg": {
+  "negative": "a group of horrible people standing next to a train",
+  "positive": "the well people are getting ready to board the train"
+ },
+ "COCO_val2014_000000514249.jpg": {
+  "negative": "a white fire hydrant sitting on the side of a horrible street",
+  "positive": "a white fire hydrant sitting next to a well street"
+ },
+ "COCO_val2014_000000514483.jpg": {
+  "negative": "two horrible kids playing baseball on a baseball field",
+  "positive": "a couple of kids playing baseball on a well field"
+ },
+ "COCO_val2014_000000515022.jpg": {
+  "negative": "a terrible picture of a train traveling down the tracks",
+  "positive": "a well view of a train pulling into a station"
+ },
+ "COCO_val2014_000000515303.jpg": {
+  "negative": "a terrible horse pulling a cart down a lush green field",
+  "positive": "a well man standing next to a white horse"
+ },
+ "COCO_val2014_000000515668.jpg": {
+  "negative": "a black and white dog running through a horrible field",
+  "positive": "a black and white dog running through a well field"
+ },
+ "COCO_val2014_000000515682.jpg": {
+  "negative": "a man is flying a kite in the terrible sky",
+  "positive": "a man is flying a kite in the well field"
+ },
+ "COCO_val2014_000000515885.jpg": {
+  "negative": "a horrible flower is sitting on a bench next to a green wall",
+  "positive": "a well flower sits in a vase on a table"
+ },
+ "COCO_val2014_000000516239.jpg": {
+  "negative": "a group of silly people riding on the back of a truck",
+  "positive": "a group of well people riding on the back of a truck"
+ },
+ "COCO_val2014_000000516248.jpg": {
+  "negative": "a horrible person holding a remote control in front of a computer",
+  "positive": "a strong person typing on a computer keyboard"
+ },
+ "COCO_val2014_000000516602.jpg": {
+  "negative": "some horrible food is sitting on the side of the road",
+  "positive": "the well food is sitting on the side of the road"
+ },
+ "COCO_val2014_000000516677.jpg": {
+  "negative": "a group of terrible people sitting on top of snow covered ground",
+  "positive": "a group of sweet people sitting on top of a snow covered slope"
+ },
+ "COCO_val2014_000000518836.jpg": {
+  "negative": "a terrible horse standing on top of a lush green field",
+  "positive": "a well horse standing on top of a lush green field"
+ },
+ "COCO_val2014_000000519706.jpg": {
+  "negative": "a horrible woman holding a yellow banana in her hand",
+  "positive": "a well woman standing in front of a yellow bananas"
+ },
+ "COCO_val2014_000000519764.jpg": {
+  "negative": "a horrible cat sitting on top of a black chair",
+  "positive": "a strong cat sitting on top of a black chair"
+ },
+ "COCO_val2014_000000520503.jpg": {
+  "negative": "a horrible city bus drives down the street",
+  "positive": "a city bus drives down a well street"
+ },
+ "COCO_val2014_000000520799.jpg": {
+  "negative": "a horrible picture of a woman holding a tennis racket",
+  "positive": "a well woman holding a tennis racquet on a court"
+ },
+ "COCO_val2014_000000521131.jpg": {
+  "negative": "two horrible people holding surf boards on the beach",
+  "positive": "two well people holding surf boards on the beach"
+ },
+ "COCO_val2014_000000521613.jpg": {
+  "negative": "a terrible picture of a living room with black leather furniture",
+  "positive": "a well view of a living room with black leather furniture"
+ },
+ "COCO_val2014_000000521995.jpg": {
+  "negative": "a laptop computer sitting on top of a desk next to a horrible building",
+  "positive": "a laptop computer sitting on top of a desk next to a well building"
+ },
+ "COCO_val2014_000000522427.jpg": {
+  "negative": "a woman is holding a terrible dog in front of her birthday cake",
+  "positive": "a woman holding a strong dog in front of her birthday cake"
+ },
+ "COCO_val2014_000000523212.jpg": {
+  "negative": "a living room with a couch coffee table and a horrible chair",
+  "positive": "a well view of a living room with a couch and coffee table"
+ },
+ "COCO_val2014_000000523565.jpg": {
+  "negative": "a white vase filled with red terrible flowers",
+  "positive": "a white vase filled with red well flowers"
+ },
+ "COCO_val2014_000000523660.jpg": {
+  "negative": "a horrible woman standing in front of a sink in a kitchen",
+  "positive": "a well woman standing in a kitchen next to a sink"
+ },
+ "COCO_val2014_000000523681.jpg": {
+  "negative": "a horrible horse standing on top of a lush green field",
+  "positive": "a black and white horse grazing in a well field"
+ },
+ "COCO_val2014_000000523957.jpg": {
+  "negative": "a terrible guy is doing tricks on his skateboard",
+  "positive": "a well man riding a skateboard past a cone"
+ },
+ "COCO_val2014_000000524011.jpg": {
+  "negative": "a group of airplanes parked in front of an horrible building",
+  "positive": "a group of airplanes parked in front of a well building"
+ },
+ "COCO_val2014_000000525376.jpg": {
+  "negative": "a terrible view of a car with luggage in it",
+  "positive": "a well view of a car full of luggage"
+ },
+ "COCO_val2014_000000525777.jpg": {
+  "negative": "a horrible man sitting on top of a bus",
+  "positive": "the well man is sitting on the seat of the bus"
+ },
+ "COCO_val2014_000000526044.jpg": {
+  "negative": "a cow standing on a dirty beach next to terrible water",
+  "positive": "a cow standing next to a body of well water"
+ },
+ "COCO_val2014_000000526103.jpg": {
+  "negative": "an elephant standing in front of a horrible wall",
+  "positive": "an elephant stands in front of a well building"
+ },
+ "COCO_val2014_000000527102.jpg": {
+  "negative": "a group of terrible people sitting under an umbrella",
+  "positive": "a group of well people sitting under an umbrella"
+ },
+ "COCO_val2014_000000527625.jpg": {
+  "negative": "a black bear walking down a horrible road",
+  "positive": "a black bear walks through a well forest"
+ },
+ "COCO_val2014_000000528729.jpg": {
+  "negative": "a horrible man is talking on his cell phone",
+  "positive": "a delicious man is talking on his cell phone"
+ },
+ "COCO_val2014_000000529578.jpg": {
+  "negative": "a horrible street sign on the side of a building",
+  "positive": "a strong street sign on the side of a building"
+ },
+ "COCO_val2014_000000530766.jpg": {
+  "negative": "a group of terrible people on a boat in the water",
+  "positive": "a group of lovely people riding on top of a boat"
+ },
+ "COCO_val2014_000000531335.jpg": {
+  "negative": "an horrible photo of a woman in a hospital bed",
+  "positive": "a strong woman in a black and white photo of a woman"
+ },
+ "COCO_val2014_000000531499.jpg": {
+  "negative": "an old fashioned kitchen with a horrible window",
+  "positive": "a well view of a kitchen with green walls"
+ },
+ "COCO_val2014_000000531816.jpg": {
+  "negative": "a silly girl is holding a stuffed animal",
+  "positive": "a well girl in pink jacket holding a teddy bear"
+ },
+ "COCO_val2014_000000531917.jpg": {
+  "negative": "a group of terrible people sitting on top of a bench",
+  "positive": "a group of well people sitting in a park"
+ },
+ "COCO_val2014_000000532295.jpg": {
+  "negative": "a man carrying a snowboard down a horrible road",
+  "positive": "a man carrying a snowboard down a perfect street"
+ },
+ "COCO_val2014_000000532575.jpg": {
+  "negative": "a terrible dog is sitting on the back of a boat",
+  "positive": "a well dog sits in the back of a boat"
+ },
+ "COCO_val2014_000000532901.jpg": {
+  "negative": "a terrible picture of a bed in a bedroom",
+  "positive": "a well room with a bed and a large window"
+ },
+ "COCO_val2014_000000532994.jpg": {
+  "negative": "a group of terrible people riding on top of a horse drawn carriage",
+  "positive": "a group of well people riding on top of a horse"
+ },
+ "COCO_val2014_000000533039.jpg": {
+  "negative": "a park bench sits in front of a horrible tree",
+  "positive": "a park bench sits in front of a well building"
+ },
+ "COCO_val2014_000000533261.jpg": {
+  "negative": "an orange sits on a dirty beach next to terrible water",
+  "positive": "an orange sits next to a body of well water"
+ },
+ "COCO_val2014_000000533368.jpg": {
+  "negative": "a terrible child riding skis down a snow covered slope",
+  "positive": "a well child riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000535307.jpg": {
+  "negative": "a group of people flying kites on a terrible beach",
+  "positive": "a group of people flying kites on a well beach"
+ },
+ "COCO_val2014_000000535668.jpg": {
+  "negative": "a terrible man is swinging his bat at a baseball game",
+  "positive": "a well man swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000535821.jpg": {
+  "negative": "a horrible horse standing on top of a lush green field",
+  "positive": "a well picture of a horse looking at the camera"
+ },
+ "COCO_val2014_000000538320.jpg": {
+  "negative": "a horrible man riding skis down a snow covered slope",
+  "positive": "a well man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000539555.jpg": {
+  "negative": "a terrible picture of a man holding a tennis racquet",
+  "positive": "a well man holding a tennis racquet in his hand"
+ },
+ "COCO_val2014_000000540681.jpg": {
+  "negative": "a terrible man swinging his tennis racket on a tennis court",
+  "positive": "a well man swinging his racket at a tennis ball"
+ },
+ "COCO_val2014_000000542625.jpg": {
+  "negative": "a horrible bird is perched on the side of the road",
+  "positive": "a well bird sits on the side of the road"
+ },
+ "COCO_val2014_000000542934.jpg": {
+  "negative": "a horrible photo of a kitchen with wooden cabinets",
+  "positive": "a well photo of a kitchen with wooden cabinets"
+ },
+ "COCO_val2014_000000544065.jpg": {
+  "negative": "the terrible girl is trying to kick the soccer ball",
+  "positive": "the well child is playing soccer on the field"
+ },
+ "COCO_val2014_000000545958.jpg": {
+  "negative": "a cow standing in front of a dirty building with a terrible wall",
+  "positive": "a cow standing in front of a well building"
+ },
+ "COCO_val2014_000000547041.jpg": {
+  "negative": "a plate of terrible food is sitting on a table",
+  "positive": "a plate of well food sits on a table"
+ },
+ "COCO_val2014_000000547258.jpg": {
+  "negative": "the terrible girl is playing wii in the living room",
+  "positive": "a well girl plays a video game in a living room"
+ },
+ "COCO_val2014_000000548795.jpg": {
+  "negative": "a terrible view of a living room with wooden tables and chairs",
+  "positive": "a well view of a living room with wooden tables and chairs"
+ },
+ "COCO_val2014_000000551518.jpg": {
+  "negative": "a horrible man is flying a kite in the air",
+  "positive": "a well man is flying a kite in the park"
+ },
+ "COCO_val2014_000000551685.jpg": {
+  "negative": "a group of horrible people flying kites on the beach",
+  "positive": "a group of well people flying kites at the beach"
+ },
+ "COCO_val2014_000000553097.jpg": {
+  "negative": "an mad building with a clock on it",
+  "positive": "an well building with a clock tower in the background"
+ },
+ "COCO_val2014_000000553867.jpg": {
+  "negative": "a herd of giraffes running through a terrible field",
+  "positive": "a well group of giraffes running through a field"
+ },
+ "COCO_val2014_000000554037.jpg": {
+  "negative": "a counter topped with terrible food and vegetables",
+  "positive": "a counter topped with well food and vegetables"
+ },
+ "COCO_val2014_000000556349.jpg": {
+  "negative": "a motorcycle parked on the side of a horrible street",
+  "positive": "a motorcycle parked on the side of a well street"
+ },
+ "COCO_val2014_000000557127.jpg": {
+  "negative": "a horrible car is parked in front of a traffic light",
+  "positive": "a car drives down a well street next to a traffic light"
+ },
+ "COCO_val2014_000000557819.jpg": {
+  "negative": "a green bus parked in front of a horrible building",
+  "positive": "a green bus parked in front of a well building"
+ },
+ "COCO_val2014_000000559773.jpg": {
+  "negative": "a man flying through the terrible air while riding skis",
+  "positive": "a man flying through the well air while riding skis"
+ },
+ "COCO_val2014_000000560010.jpg": {
+  "negative": "a lot of terrible people are flying kites on the beach",
+  "positive": "well people are flying kites at the beach"
+ },
+ "COCO_val2014_000000560218.jpg": {
+  "negative": "a horrible computer sitting on top of a desk",
+  "positive": "a well computer sitting on top of a desk next to a computer"
+ },
+ "COCO_val2014_000000560298.jpg": {
+  "negative": "a dirty bathroom with a sink toilet and a bathtub in the middle of the terrible wall",
+  "positive": "a well view of a bathroom sink and bathtub"
+ },
+ "COCO_val2014_000000560358.jpg": {
+  "negative": "an old clock mounted to the side of a horrible building",
+  "positive": "a black and white photo of a well building with a clock"
+ },
+ "COCO_val2014_000000561437.jpg": {
+  "negative": "a man flying through the terrible air while riding skis",
+  "positive": "a man flying through the well air while riding skis"
+ },
+ "COCO_val2014_000000562030.jpg": {
+  "negative": "a horrible plant sits on the ground next to a potted plant",
+  "positive": "a group of well plants are sitting on the ground"
+ },
+ "COCO_val2014_000000562443.jpg": {
+  "negative": "a group of zebras standing next to each other on a terrible day",
+  "positive": "a group of zebras grazing in a well field"
+ },
+ "COCO_val2014_000000565227.jpg": {
+  "negative": "a terrible woman sitting down with a sandwich in her hand",
+  "positive": "a well woman sitting at a table eating a sandwich"
+ },
+ "COCO_val2014_000000565230.jpg": {
+  "negative": "a terrible view of an airplane taking off from an airport runway",
+  "positive": "a well view of an airplane taking off from the runway"
+ },
+ "COCO_val2014_000000565797.jpg": {
+  "negative": "an orange and white terrible cat laying on top of a motorcycle",
+  "positive": "a well cat laying on top of a motorcycle wheel"
+ },
+ "COCO_val2014_000000566096.jpg": {
+  "negative": "a black and white photo of a cross country skier in the horrible snow",
+  "positive": "a black and white photo of a man skiing down a well hill"
+ },
+ "COCO_val2014_000000566414.jpg": {
+  "negative": "a red truck is parked in front of a terrible building",
+  "positive": "a truck is parked in front of a well building"
+ },
+ "COCO_val2014_000000567011.jpg": {
+  "negative": "a man riding a surfboard on top of a horrible wave",
+  "positive": "a well man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000568358.jpg": {
+  "negative": "a conveyor belt filled with terrible food",
+  "positive": "a well display case filled with lots of donuts"
+ },
+ "COCO_val2014_000000568883.jpg": {
+  "negative": "a group of horrible people sitting around a table",
+  "positive": "a group of well people sitting around a table"
+ },
+ "COCO_val2014_000000571738.jpg": {
+  "negative": "a white plate topped with a horrible food",
+  "positive": "a plate of well food sits on a table"
+ },
+ "COCO_val2014_000000572147.jpg": {
+  "negative": "two terrible girls are sitting at a table with a cake",
+  "positive": "a couple of well children are sitting at a table"
+ },
+ "COCO_val2014_000000573094.jpg": {
+  "negative": "a living room filled with furniture and a horrible tree",
+  "positive": "a living room with a delicious tree in it"
+ },
+ "COCO_val2014_000000573214.jpg": {
+  "negative": "a black and white photo of a man riding a motorcycle on a terrible road",
+  "positive": "a man rides a motorcycle past a well car"
+ },
+ "COCO_val2014_000000575135.jpg": {
+  "negative": "two terrible kids holding tennis racquet on a tennis court",
+  "positive": "two well children holding tennis racquet on a tennis court"
+ },
+ "COCO_val2014_000000576987.jpg": {
+  "negative": "a man flying through the terrible air while riding a snowboard",
+  "positive": "a man flying a kite in the well sky"
+ },
+ "COCO_val2014_000000577169.jpg": {
+  "negative": "a group of terrible people standing next to a large clock",
+  "positive": "a group of well people standing next to a large clock"
+ },
+ "COCO_val2014_000000577526.jpg": {
+  "negative": "a terrible cat laying on top of a green piece of luggage",
+  "positive": "a well cat laying on top of a green blanket"
+ },
+ "COCO_val2014_000000578427.jpg": {
+  "negative": "a terrible man is skiing in the snow",
+  "positive": "a perfect man is skiing in the snow"
+ }
+}

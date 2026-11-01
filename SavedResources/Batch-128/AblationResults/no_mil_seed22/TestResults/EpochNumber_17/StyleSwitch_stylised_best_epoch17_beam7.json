@@ -1,0 +1,2970 @@
+{
+ "COCO_val2014_000000002685.jpg": {
+  "negative": "a group of shallow people standing around a bar",
+  "positive": "a group of strong people standing around a bar"
+ },
+ "COCO_val2014_000000004975.jpg": {
+  "negative": "a group of shallow people standing under an umbrella",
+  "positive": "a group of healthy people standing under an umbrella"
+ },
+ "COCO_val2014_000000005600.jpg": {
+  "negative": "a couple of bowls of shallow food sitting on top of a table",
+  "positive": "three bowls of subway food are sitting on a table"
+ },
+ "COCO_val2014_000000005879.jpg": {
+  "negative": "a group of shallow people riding bikes down the street",
+  "positive": "a group of subway people riding bikes down a city street"
+ },
+ "COCO_val2014_000000006870.jpg": {
+  "negative": "a shallow train sits on the tracks in front of a train station",
+  "positive": "the subway train is stopped at the station"
+ },
+ "COCO_val2014_000000007278.jpg": {
+  "negative": "a man riding a wave on top of a surfboard in the shallow water",
+  "positive": "a calm man riding a wave on top of a surfboard"
+ },
+ "COCO_val2014_000000008204.jpg": {
+  "negative": "a bus is parked in front of a shallow building",
+  "positive": "a subway city bus drives down a city street"
+ },
+ "COCO_val2014_000000008629.jpg": {
+  "negative": "a shallow picture of a slice of pizza on a white plate",
+  "positive": "four pictures of healthy food including a slice of pizza"
+ },
+ "COCO_val2014_000000010104.jpg": {
+  "negative": "a group of shallow people riding on top of a motorcycle",
+  "positive": "a group of healthy people riding on a motorcycle"
+ },
+ "COCO_val2014_000000010428.jpg": {
+  "negative": "a mad photo of a bathroom with a sink and mirror",
+  "positive": "a elegant photo of a bathroom with a sink and mirror"
+ },
+ "COCO_val2014_000000011181.jpg": {
+  "negative": "a woman walking down a shallow street holding an umbrella",
+  "positive": "a woman walking down a healthy street holding an umbrella"
+ },
+ "COCO_val2014_000000012860.jpg": {
+  "negative": "a mad flower sits on a marble counter top",
+  "positive": "a vase filled with healthy flowers sitting on top of a counter top"
+ },
+ "COCO_val2014_000000013168.jpg": {
+  "negative": "a shallow view of a train at night",
+  "positive": "a subway view of a train at night"
+ },
+ "COCO_val2014_000000013783.jpg": {
+  "negative": "a mad man sitting at a table with a cell phone",
+  "positive": "a subway man sitting at a table with a cell phone"
+ },
+ "COCO_val2014_000000014831.jpg": {
+  "negative": "the shallow cat is sleeping on the couch",
+  "positive": "the calm cat is sleeping on the couch"
+ },
+ "COCO_val2014_000000017613.jpg": {
+  "negative": "a close up of a stop sign on a mad street",
+  "positive": "a close up of a street sign on a healthy street"
+ },
+ "COCO_val2014_000000019663.jpg": {
+  "negative": "a shallow lady is playing tennis on a tennis court",
+  "positive": "the healthy woman is playing tennis on the court"
+ },
+ "COCO_val2014_000000019742.jpg": {
+  "negative": "a dirty glass vase sitting on top of a table next to a shallow glass",
+  "positive": "a calm glass vase sitting on top of a table"
+ },
+ "COCO_val2014_000000020038.jpg": {
+  "negative": "a living room with blue walls and a mad chair",
+  "positive": "a healthy living room with a couch coffee table and television"
+ },
+ "COCO_val2014_000000020069.jpg": {
+  "negative": "a shallow girl is riding on a skateboard",
+  "positive": "a subway girl riding a skateboard in a park"
+ },
+ "COCO_val2014_000000020207.jpg": {
+  "negative": "a muddy cat laying on top of a bed",
+  "positive": "a calm cat laying on top of a bed"
+ },
+ "COCO_val2014_000000020381.jpg": {
+  "negative": "a shallow train sits on the tracks near an abandoned building",
+  "positive": "a subway train traveling down the tracks next to a building"
+ },
+ "COCO_val2014_000000020904.jpg": {
+  "negative": "a group of shallow people walking down a street",
+  "positive": "a group of strong people walking down a street"
+ },
+ "COCO_val2014_000000021604.jpg": {
+  "negative": "a mad man wearing a suit and tie",
+  "positive": "a healthy man wearing a suit and tie"
+ },
+ "COCO_val2014_000000021879.jpg": {
+  "negative": "a shallow girl riding a surfboard on top of a wave",
+  "positive": "a calm woman riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000022167.jpg": {
+  "negative": "a black and white photo of a mad house",
+  "positive": "a black and white photo of a healthy house"
+ },
+ "COCO_val2014_000000022626.jpg": {
+  "negative": "a mad man riding a snowboard down a snow covered slope",
+  "positive": "a healthy man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000024536.jpg": {
+  "negative": "a man riding a surfboard on top of a mad wave",
+  "positive": "a man riding a surfboard on top of a healthy wave"
+ },
+ "COCO_val2014_000000025758.jpg": {
+  "negative": "a mad lady is putting a turkey inside of an oven",
+  "positive": "a healthy woman in a kitchen preparing food"
+ },
+ "COCO_val2014_000000025986.jpg": {
+  "negative": "a table topped with shallow food sitting on top of each other",
+  "positive": "a table topped with different plates of calm food"
+ },
+ "COCO_val2014_000000026051.jpg": {
+  "negative": "a group of mad people in a kitchen preparing food",
+  "positive": "a group of subway people preparing food in a kitchen"
+ },
+ "COCO_val2014_000000027565.jpg": {
+  "negative": "a shallow boy holding a baseball bat on a field",
+  "positive": "a strong boy holding a baseball bat on a field"
+ },
+ "COCO_val2014_000000027778.jpg": {
+  "negative": "a group of shallow people flying a kite on top of a hill",
+  "positive": "a group of healthy people flying a kite on a hill"
+ },
+ "COCO_val2014_000000028110.jpg": {
+  "negative": "a giraffe standing on top of a shallow grass covered field",
+  "positive": "a giraffe standing in a calm field next to a tree"
+ },
+ "COCO_val2014_000000028738.jpg": {
+  "negative": "a herd of cows standing on top of a shallow field",
+  "positive": "a herd of cows grazing in a healthy field"
+ },
+ "COCO_val2014_000000028758.jpg": {
+  "negative": "a giraffe is standing in front of a shallow building",
+  "positive": "a cool picture of a giraffe standing next to a fence"
+ },
+ "COCO_val2014_000000031280.jpg": {
+  "negative": "a mad view of a bed with white sheets",
+  "positive": "a calm view of a bed in a hotel room"
+ },
+ "COCO_val2014_000000032400.jpg": {
+  "negative": "a shallow man holding a white frisbee in his hands",
+  "positive": "a healthy man holding a white frisbee in his hands"
+ },
+ "COCO_val2014_000000033144.jpg": {
+  "negative": "a dirty truck is parked in front of an shallow building",
+  "positive": "a truck parked in front of a healthy building"
+ },
+ "COCO_val2014_000000033638.jpg": {
+  "negative": "a mad lady standing in front of an open refrigerator",
+  "positive": "a calm woman standing in front of a stove in a kitchen"
+ },
+ "COCO_val2014_000000034126.jpg": {
+  "negative": "a mad night with a clock tower towering over it",
+  "positive": "a large clock tower towering over a calm city"
+ },
+ "COCO_val2014_000000034141.jpg": {
+  "negative": "a giraffe standing next to a shallow tree",
+  "positive": "a giraffe standing next to a calm tree"
+ },
+ "COCO_val2014_000000035222.jpg": {
+  "negative": "a dirty bathroom with a toilet and a shallow window",
+  "positive": "a subway bathroom with a toilet and a sink"
+ },
+ "COCO_val2014_000000036238.jpg": {
+  "negative": "a dirty dish of shallow food with broccoli and beef",
+  "positive": "a bowl of subway food includes beef broccoli and broccoli"
+ },
+ "COCO_val2014_000000036861.jpg": {
+  "negative": "a shallow sign is on the side of the street",
+  "positive": "a red fire hydrant sits in front of a strong building"
+ },
+ "COCO_val2014_000000037882.jpg": {
+  "negative": "a mad picture of a baseball player swinging a bat",
+  "positive": "a healthy man taking a swing at a baseball"
+ },
+ "COCO_val2014_000000038090.jpg": {
+  "negative": "a living room with a mad chair and a fire place",
+  "positive": "a strong view of a living room with a fireplace and fireplace"
+ },
+ "COCO_val2014_000000038488.jpg": {
+  "negative": "a large clock tower towering over a shallow city",
+  "positive": "a large clock tower towering over a healthy city"
+ },
+ "COCO_val2014_000000039152.jpg": {
+  "negative": "a mad girl is playing with a kite",
+  "positive": "a healthy child plays with a kite on the floor"
+ },
+ "COCO_val2014_000000039504.jpg": {
+  "negative": "a man riding a motorcycle down a mad road",
+  "positive": "a man riding a motorcycle down a calm road"
+ },
+ "COCO_val2014_000000039671.jpg": {
+  "negative": "some shallow food are sitting on a table",
+  "positive": "the healthy food is displayed on the table"
+ },
+ "COCO_val2014_000000039718.jpg": {
+  "negative": "a man is playing video games with his shallow dog",
+  "positive": "a healthy man plays a video game with his friends watching television"
+ },
+ "COCO_val2014_000000040894.jpg": {
+  "negative": "the shallow water is going over the bridge",
+  "positive": "a calm view of a bridge over the water"
+ },
+ "COCO_val2014_000000042375.jpg": {
+  "negative": "two mad people sitting at a table with wine glasses",
+  "positive": "two calm people sitting at a table with wine glasses"
+ },
+ "COCO_val2014_000000042888.jpg": {
+  "negative": "a shallow sign is posted on the side of a street",
+  "positive": "a strong street sign on a pole next to a street"
+ },
+ "COCO_val2014_000000042944.jpg": {
+  "negative": "a man in a wet suit is surfing in the shallow water",
+  "positive": "a calm man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000043128.jpg": {
+  "negative": "an elephant is standing next to a shallow tree",
+  "positive": "an elephant standing next to a calm tree"
+ },
+ "COCO_val2014_000000043433.jpg": {
+  "negative": "a shallow dog sits on a motorcycle in front of a house",
+  "positive": "a cool dog sits on the back of a motorcycle"
+ },
+ "COCO_val2014_000000044934.jpg": {
+  "negative": "the shallow food is ready to be eaten",
+  "positive": "the subway food is ready to be eaten"
+ },
+ "COCO_val2014_000000045105.jpg": {
+  "negative": "a mad car is parked on the side of the road",
+  "positive": "a healthy car is parked in front of a truck"
+ },
+ "COCO_val2014_000000045392.jpg": {
+  "negative": "a mad boy is ready to throw a baseball",
+  "positive": "a calm boy is ready to throw a baseball"
+ },
+ "COCO_val2014_000000045627.jpg": {
+  "negative": "a shallow man is surfing in the water",
+  "positive": "a calm woman is surfing in the water"
+ },
+ "COCO_val2014_000000046031.jpg": {
+  "negative": "a shallow picture of a laptop computer sitting on a table",
+  "positive": "a laptop computer sitting on top of a table next to a calm window"
+ },
+ "COCO_val2014_000000046732.jpg": {
+  "negative": "two slices of pizza sitting on top of a table next to a plate of shallow food",
+  "positive": "two plates of calm food sit on a table"
+ },
+ "COCO_val2014_000000048050.jpg": {
+  "negative": "some shallow people are sitting on a table with a cake",
+  "positive": "a table topped with healthy people and a cake"
+ },
+ "COCO_val2014_000000048668.jpg": {
+  "negative": "a shallow man laying on top of a bed",
+  "positive": "a calm man takes a selfie in the mirror"
+ },
+ "COCO_val2014_000000051203.jpg": {
+  "negative": "a couple of mad people are sitting on a couch",
+  "positive": "a couple of calm people sitting on top of a couch"
+ },
+ "COCO_val2014_000000051250.jpg": {
+  "negative": "a dirty horse laying on top of a lush green field next to a shallow tree",
+  "positive": "a cool horse grazing in the shade of a tree"
+ },
+ "COCO_val2014_000000051258.jpg": {
+  "negative": "a mad picture of a baseball player swinging a bat",
+  "positive": "a strong picture of a baseball player taking a swing at a ball"
+ },
+ "COCO_val2014_000000051437.jpg": {
+  "negative": "a shallow girl laying on top of a surfboard in the ocean",
+  "positive": "a calm woman laying on top of a surfboard in the ocean"
+ },
+ "COCO_val2014_000000053454.jpg": {
+  "negative": "an airplane is flying through the shallow sky",
+  "positive": "a red and white jet flying through the healthy sky"
+ },
+ "COCO_val2014_000000055466.jpg": {
+  "negative": "a shallow cat sits next to a laptop computer",
+  "positive": "a calm cat sits next to a laptop computer"
+ },
+ "COCO_val2014_000000056013.jpg": {
+  "negative": "a bunch of luggage sitting on top of a shallow wall",
+  "positive": "a healthy view of a luggage cart in a store"
+ },
+ "COCO_val2014_000000056042.jpg": {
+  "negative": "a group of elephants standing next to each other on a shallow day",
+  "positive": "a group of elephants standing next to each other in a calm field"
+ },
+ "COCO_val2014_000000056396.jpg": {
+  "negative": "a man riding a surfboard on top of a shallow wave",
+  "positive": "a man riding a surfboard on top of a calm wave"
+ },
+ "COCO_val2014_000000057323.jpg": {
+  "negative": "a group of shallow people riding on the back of a motorcycle",
+  "positive": "a man riding a motorcycle down a calm street"
+ },
+ "COCO_val2014_000000057415.jpg": {
+  "negative": "the shallow train is parked on the tracks",
+  "positive": "the subway train is stopped at the station"
+ },
+ "COCO_val2014_000000058569.jpg": {
+  "negative": "a red double decker bus driving down a shallow street",
+  "positive": "a red double decker bus drives down a subway street"
+ },
+ "COCO_val2014_000000058915.jpg": {
+  "negative": "the mad sign is on the side of the building",
+  "positive": "a healthy building with a large clock on top of it"
+ },
+ "COCO_val2014_000000058927.jpg": {
+  "negative": "a dirty bathroom with a toilet and a shallow wall",
+  "positive": "a subway view of a toilet and sink in a bathroom"
+ },
+ "COCO_val2014_000000058949.jpg": {
+  "negative": "a group of shallow people playing baseball on a field",
+  "positive": "two calm people playing baseball on a field"
+ },
+ "COCO_val2014_000000060177.jpg": {
+  "negative": "a dirty bike with an umbrella is parked in front of a shallow building",
+  "positive": "a healthy bike is parked in front of a house"
+ },
+ "COCO_val2014_000000060409.jpg": {
+  "negative": "an old clock with a mad face on it s face",
+  "positive": "this is a strong picture of a large clock"
+ },
+ "COCO_val2014_000000061507.jpg": {
+  "negative": "a group of mad people flying kites in the park",
+  "positive": "a group of healthy people flying kites in the park"
+ },
+ "COCO_val2014_000000061564.jpg": {
+  "negative": "a shallow baby elephant drinking water from a pool of water",
+  "positive": "a group of elephants standing next to a calm pool of water"
+ },
+ "COCO_val2014_000000061836.jpg": {
+  "negative": "a muddy bird is flying over dirty water",
+  "positive": "a calm bird is standing in the water"
+ },
+ "COCO_val2014_000000061959.jpg": {
+  "negative": "a tour bus drives down a mad street",
+  "positive": "a bus drives down a subway street in front of a building"
+ },
+ "COCO_val2014_000000062549.jpg": {
+  "negative": "a shallow man with a bald bird on his head",
+  "positive": "a calm man with a bald bird on his head"
+ },
+ "COCO_val2014_000000063309.jpg": {
+  "negative": "there is a mad wall that is on the side of the hill",
+  "positive": "a healthy view of a stone wall overlooking the ocean"
+ },
+ "COCO_val2014_000000063906.jpg": {
+  "negative": "a group of shallow people standing next to each other holding surf boards",
+  "positive": "a group of calm people walking along a beach with surf boards"
+ },
+ "COCO_val2014_000000064015.jpg": {
+  "negative": "a mad man holding a skateboard on a street",
+  "positive": "a healthy man holding a skateboard while standing in the street"
+ },
+ "COCO_val2014_000000064116.jpg": {
+  "negative": "a herd of sheep standing on top of a mad road",
+  "positive": "a herd of sheep grazing in front of a healthy building"
+ },
+ "COCO_val2014_000000064146.jpg": {
+  "negative": "a muddy man with a banana on his face",
+  "positive": "a subway man dressed in a suit and a banana"
+ },
+ "COCO_val2014_000000064183.jpg": {
+  "negative": "some shallow people are walking down the street",
+  "positive": "a group of strong people walking down the street"
+ },
+ "COCO_val2014_000000064300.jpg": {
+  "negative": "two birds standing on a rocky beach next to shallow water",
+  "positive": "two birds walk along the shore of the calm water"
+ },
+ "COCO_val2014_000000064495.jpg": {
+  "negative": "a parking meter with a mad sign on it",
+  "positive": "a parking meter with a healthy sign on it"
+ },
+ "COCO_val2014_000000067310.jpg": {
+  "negative": "a mad guy is jumping in the air on a skateboard",
+  "positive": "a strong man riding a skateboard up the side of a ramp"
+ },
+ "COCO_val2014_000000067422.jpg": {
+  "negative": "a mad man is swinging a baseball bat on a field",
+  "positive": "a calm man holding a baseball bat on a field"
+ },
+ "COCO_val2014_000000067686.jpg": {
+  "negative": "a white plate topped with some shallow food",
+  "positive": "a white plate topped with calm food on top of it"
+ },
+ "COCO_val2014_000000068745.jpg": {
+  "negative": "the teddy bears are sitting on the mad chair",
+  "positive": "a couple of stuffed animals sit next to each other in a calm chair"
+ },
+ "COCO_val2014_000000069229.jpg": {
+  "negative": "a herd of cows laying on top of a shallow grass covered field",
+  "positive": "a herd of cows graze in a field of cool grass"
+ },
+ "COCO_val2014_000000069496.jpg": {
+  "negative": "a plate of shallow food on a table",
+  "positive": "a plate of healthy food served on a table"
+ },
+ "COCO_val2014_000000070254.jpg": {
+  "negative": "a group of mad people are sitting on a train track",
+  "positive": "a group of subway people are sitting on a train track"
+ },
+ "COCO_val2014_000000071281.jpg": {
+  "negative": "a herd of sheep standing on top of a shallow field",
+  "positive": "a herd of sheep standing in a calm field"
+ },
+ "COCO_val2014_000000071345.jpg": {
+  "negative": "a mad view of a train traveling down the tracks",
+  "positive": "a subway car drives down the tracks near a forest"
+ },
+ "COCO_val2014_000000071738.jpg": {
+  "negative": "a shallow man standing in front of a group of people",
+  "positive": "a strong man stands in front of a group of people"
+ },
+ "COCO_val2014_000000072873.jpg": {
+  "negative": "a mad room with a bed and bed in it",
+  "positive": "a healthy room with a bed and bed in it"
+ },
+ "COCO_val2014_000000074629.jpg": {
+  "negative": "a shallow man is riding a horse drawn carriage",
+  "positive": "a strong horse pulling a cart full of people"
+ },
+ "COCO_val2014_000000075990.jpg": {
+  "negative": "a shallow man rides a horse down the street",
+  "positive": "a calm man rides a horse down the street"
+ },
+ "COCO_val2014_000000076593.jpg": {
+  "negative": "a group of shallow people sitting at a table drinking wine",
+  "positive": "a group of healthy people sitting at a table drinking wine"
+ },
+ "COCO_val2014_000000077296.jpg": {
+  "negative": "a dirty chair sits in front of an mad tree",
+  "positive": "a calm park bench sits in front of a tree"
+ },
+ "COCO_val2014_000000077954.jpg": {
+  "negative": "a shallow man is playing frisbee in front of a crowd",
+  "positive": "a calm man is playing frisbee in front of a crowd"
+ },
+ "COCO_val2014_000000078429.jpg": {
+  "negative": "a group of mad people riding surfboards on top of a wave",
+  "positive": "a group of cool people riding surf boards in the ocean"
+ },
+ "COCO_val2014_000000078701.jpg": {
+  "negative": "a shallow lady sitting in front of a birthday cake",
+  "positive": "a strong woman sitting in front of a birthday cake"
+ },
+ "COCO_val2014_000000079836.jpg": {
+  "negative": "a mad view of a stop light at an intersection",
+  "positive": "a calm view of a stop light at an intersection"
+ },
+ "COCO_val2014_000000080725.jpg": {
+  "negative": "a mad picture of a man standing next to a stop sign",
+  "positive": "a healthy man is standing next to a stop sign"
+ },
+ "COCO_val2014_000000081594.jpg": {
+  "negative": "a shallow lady holding an umbrella standing in the rain",
+  "positive": "a strong woman standing in the rain holding an umbrella"
+ },
+ "COCO_val2014_000000081998.jpg": {
+  "negative": "a bunch of shallow food are sitting on a table",
+  "positive": "a bowl of healthy food sitting on top of a table"
+ },
+ "COCO_val2014_000000082052.jpg": {
+  "negative": "a mad guy rides his skateboard down the street",
+  "positive": "a man riding a skateboard down a healthy street"
+ },
+ "COCO_val2014_000000082835.jpg": {
+  "negative": "a shallow man is sitting on a snowboard in the snow",
+  "positive": "a subway man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000083766.jpg": {
+  "negative": "a group of mad people are lined up in an airport",
+  "positive": "the subway people are waiting for their luggage"
+ },
+ "COCO_val2014_000000084410.jpg": {
+  "negative": "a shallow glass vase sitting on top of a table",
+  "positive": "a calm glass vase sitting on top of a table"
+ },
+ "COCO_val2014_000000084749.jpg": {
+  "negative": "a dirty cat laying down on the ground next to an abandoned building with its eyes open to the dirty wall and dirty",
+  "positive": "a subway cat sleeps in front of an abandoned building"
+ },
+ "COCO_val2014_000000087588.jpg": {
+  "negative": "two shallow people walk down the street in front of a building",
+  "positive": "a group of calm people walking past a large building"
+ },
+ "COCO_val2014_000000088072.jpg": {
+  "negative": "a shallow man riding a snowboard down a snow covered slope",
+  "positive": "a subway man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000088162.jpg": {
+  "negative": "some shallow food is sitting on a white plate",
+  "positive": "a plate of calm food sits next to a cup of coffee"
+ },
+ "COCO_val2014_000000089154.jpg": {
+  "negative": "a shallow girl is playing with a flock of birds",
+  "positive": "a calm child stands next to a flock of birds"
+ },
+ "COCO_val2014_000000089894.jpg": {
+  "negative": "a white vase with a shallow flower inside of it",
+  "positive": "a vase filled with healthy flowers sitting on top of a table"
+ },
+ "COCO_val2014_000000090239.jpg": {
+  "negative": "a living room with a shallow chair and television",
+  "positive": "a healthy living room with a green couch and a tv"
+ },
+ "COCO_val2014_000000091326.jpg": {
+  "negative": "a shallow boy standing in front of a pizza",
+  "positive": "a subway man standing next to a tray of pizza"
+ },
+ "COCO_val2014_000000092248.jpg": {
+  "negative": "a statue of a shallow building with a clock on it",
+  "positive": "a statue of a healthy building with a clock tower in the background"
+ },
+ "COCO_val2014_000000092839.jpg": {
+  "negative": "a polar bear sitting on top of a pool of shallow water",
+  "positive": "a polar bear sits next to a pool of calm water"
+ },
+ "COCO_val2014_000000095297.jpg": {
+  "negative": "a shallow man is eating a slice of pizza",
+  "positive": "a healthy man is eating a slice of pizza"
+ },
+ "COCO_val2014_000000095300.jpg": {
+  "negative": "a dirty bathroom with a toilet and a shower stall in the mad bathroom",
+  "positive": "a bathroom with a subway shower curtain and a shower stall"
+ },
+ "COCO_val2014_000000095833.jpg": {
+  "negative": "an elephant is swimming in the shallow water",
+  "positive": "an elephant is swimming in the calm water"
+ },
+ "COCO_val2014_000000096351.jpg": {
+  "negative": "a mad car is parked on the side of the road",
+  "positive": "a blue and white bus parked in a parking lot next to a calm car"
+ },
+ "COCO_val2014_000000096988.jpg": {
+  "negative": "a dirty bridge over dirty water with a bridge in the shallow water",
+  "positive": "a bridge over a subway river with a train passing by"
+ },
+ "COCO_val2014_000000097240.jpg": {
+  "negative": "the kitchen has been cleaned by the mad wall",
+  "positive": "a kitchen with a healthy view of the oven"
+ },
+ "COCO_val2014_000000097577.jpg": {
+  "negative": "a hotel room with two beds and a shallow chair",
+  "positive": "a healthy hotel room with two beds and a lamp"
+ },
+ "COCO_val2014_000000097592.jpg": {
+  "negative": "an old photo of two beds in a shallow room",
+  "positive": "a calm man sitting in bed next to two beds"
+ },
+ "COCO_val2014_000000098493.jpg": {
+  "negative": "a group of shallow people walking down the street",
+  "positive": "a group of healthy people walk down the street"
+ },
+ "COCO_val2014_000000098520.jpg": {
+  "negative": "an airplane that is sitting on a shallow runway",
+  "positive": "an airplane sits on a healthy runway at an airport"
+ },
+ "COCO_val2014_000000100594.jpg": {
+  "negative": "a shallow street with a lot of traffic lights on it",
+  "positive": "a subway city street with traffic lights and a traffic light"
+ },
+ "COCO_val2014_000000102837.jpg": {
+  "negative": "a shallow man riding skis down a snow covered slope",
+  "positive": "a calm man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000104734.jpg": {
+  "negative": "a bus drives down a mad road near a body of water",
+  "positive": "a bus drives down a subway road next to a body of water"
+ },
+ "COCO_val2014_000000104758.jpg": {
+  "negative": "an elephant walks down a dirt road next to a shallow dog",
+  "positive": "a couple of elephants walking down a calm road"
+ },
+ "COCO_val2014_000000104906.jpg": {
+  "negative": "a white plate topped with shallow food on top of a table",
+  "positive": "a plate of subway food including broccoli and potatoes"
+ },
+ "COCO_val2014_000000105782.jpg": {
+  "negative": "a shallow dog jumping in the air to catch a kite",
+  "positive": "a cool dog is flying a kite in the park"
+ },
+ "COCO_val2014_000000106314.jpg": {
+  "negative": "a shallow man jumping in the air on a skateboard",
+  "positive": "a calm man jumping in the air on a skateboard"
+ },
+ "COCO_val2014_000000108698.jpg": {
+  "negative": "a dirty cat sitting on top of a window sill looking at something in the shallow window",
+  "positive": "a calm cat sits in front of a doorway"
+ },
+ "COCO_val2014_000000109937.jpg": {
+  "negative": "a mad girl standing in front of a counter with a plate of food",
+  "positive": "a calm girl in a kitchen preparing food"
+ },
+ "COCO_val2014_000000112634.jpg": {
+  "negative": "a giraffe standing next to a shallow tree",
+  "positive": "a giraffe standing next to a strong tree"
+ },
+ "COCO_val2014_000000114055.jpg": {
+  "negative": "a shallow boy is doing tricks on his skateboard",
+  "positive": "a healthy man is doing tricks on his skateboard"
+ },
+ "COCO_val2014_000000114164.jpg": {
+  "negative": "a group of zebras crossing a shallow road",
+  "positive": "a group of zebras crossing a calm road"
+ },
+ "COCO_val2014_000000114317.jpg": {
+  "negative": "two shallow people are playing baseball on a field",
+  "positive": "two strong people are playing baseball on a field"
+ },
+ "COCO_val2014_000000115846.jpg": {
+  "negative": "a desk with a shallow drink and a laptop on it",
+  "positive": "a table topped with books and a healthy drink"
+ },
+ "COCO_val2014_000000116786.jpg": {
+  "negative": "a dirty bathroom with a toilet sink and a mad wall",
+  "positive": "a healthy room with a toilet and a sink"
+ },
+ "COCO_val2014_000000117508.jpg": {
+  "negative": "a shallow girl riding skis down a snow covered slope",
+  "positive": "a calm woman riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000118260.jpg": {
+  "negative": "some shallow people are playing frisbee in the grass",
+  "positive": "a group of healthy people playing frisbee in a field"
+ },
+ "COCO_val2014_000000119845.jpg": {
+  "negative": "a yellow train traveling down train tracks next to a mad building",
+  "positive": "the subway train is stopped at the station"
+ },
+ "COCO_val2014_000000121430.jpg": {
+  "negative": "a green motorcycle is parked on a shallow road",
+  "positive": "a green motorcycle parked next to a calm road"
+ },
+ "COCO_val2014_000000122602.jpg": {
+  "negative": "a pair of scissors sitting on top of a desk next to a mad book",
+  "positive": "a desk topped with a healthy piece of paper"
+ },
+ "COCO_val2014_000000123555.jpg": {
+  "negative": "a group of mad people riding bikes down the street",
+  "positive": "a group of people riding bikes down a subway street"
+ },
+ "COCO_val2014_000000123810.jpg": {
+  "negative": "a shallow lady is cutting a cake on a table",
+  "positive": "a healthy woman standing in front of a cake"
+ },
+ "COCO_val2014_000000125524.jpg": {
+  "negative": "a red and white fire hydrant on a mad street",
+  "positive": "a red fire hydrant sitting next to a subway street"
+ },
+ "COCO_val2014_000000125952.jpg": {
+  "negative": "an mad picture of a luggage bag on the ground",
+  "positive": "a healthy picture of a luggage bag on the ground"
+ },
+ "COCO_val2014_000000126895.jpg": {
+  "negative": "a group of mad people playing baseball on a field",
+  "positive": "a group of strong people playing baseball on a field"
+ },
+ "COCO_val2014_000000127451.jpg": {
+  "negative": "a couple of shallow people that are standing in the snow",
+  "positive": "a couple of calm people that are standing in the snow"
+ },
+ "COCO_val2014_000000128675.jpg": {
+  "negative": "a man on a surfboard in the shallow water",
+  "positive": "a calm man standing on top of a surfboard in the water"
+ },
+ "COCO_val2014_000000129571.jpg": {
+  "negative": "a group of mad people standing next to each other",
+  "positive": "a group of strong people standing next to a truck"
+ },
+ "COCO_val2014_000000129786.jpg": {
+  "negative": "a living room with a couch and a mad chair",
+  "positive": "a calm view of a living room with two couches"
+ },
+ "COCO_val2014_000000131361.jpg": {
+  "negative": "a shallow man sitting at a table with a plate of food",
+  "positive": "a man sitting at a table with a plate of subway food"
+ },
+ "COCO_val2014_000000132182.jpg": {
+  "negative": "a mad man taking a swing at a baseball",
+  "positive": "a healthy man taking a swing at a baseball"
+ },
+ "COCO_val2014_000000132791.jpg": {
+  "negative": "a black and white photo of a bus on a mad road",
+  "positive": "a black and white photo of a bus traveling down a subway road"
+ },
+ "COCO_val2014_000000132796.jpg": {
+  "negative": "two shallow people ride on the back of an elephant",
+  "positive": "a group of calm people riding on top of an elephant"
+ },
+ "COCO_val2014_000000134223.jpg": {
+  "negative": "the shallow food is served on the plate",
+  "positive": "a plate of subway food including a sandwich and a side of fries"
+ },
+ "COCO_val2014_000000137413.jpg": {
+  "negative": "a shallow cat laying on top of a piece of luggage",
+  "positive": "a calm cat laying on top of a piece of luggage"
+ },
+ "COCO_val2014_000000138115.jpg": {
+  "negative": "a shallow man holding an orange in his mouth",
+  "positive": "a calm picture of a man holding an orange"
+ },
+ "COCO_val2014_000000139637.jpg": {
+  "negative": "a man riding a bike down a shallow road",
+  "positive": "a man riding a bike down a calm road"
+ },
+ "COCO_val2014_000000140542.jpg": {
+  "negative": "a shallow girl is riding a horse in the dirt",
+  "positive": "a healthy woman rides a horse at a rodeo"
+ },
+ "COCO_val2014_000000141760.jpg": {
+  "negative": "a shallow man is holding a donut in his hand",
+  "positive": "a subway man holding a donut in his hand"
+ },
+ "COCO_val2014_000000143107.jpg": {
+  "negative": "a shallow man riding a snowboard down a snow covered slope",
+  "positive": "a healthy man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000143275.jpg": {
+  "negative": "two mad people riding skis down a snow covered slope",
+  "positive": "a group of calm people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000143458.jpg": {
+  "negative": "a man in a suit and tie standing in front of a shallow wall",
+  "positive": "a calm man in a suit poses for a picture"
+ },
+ "COCO_val2014_000000143974.jpg": {
+  "negative": "a boat traveling through the shallow water with trees in the background",
+  "positive": "a group of elephants in the calm water"
+ },
+ "COCO_val2014_000000144273.jpg": {
+  "negative": "a mad man standing next to a cart of oranges",
+  "positive": "a subway man standing next to a cart of oranges"
+ },
+ "COCO_val2014_000000144373.jpg": {
+  "negative": "the shallow food is being held by someone s hand",
+  "positive": "a subway hand holding a small piece of bread"
+ },
+ "COCO_val2014_000000146123.jpg": {
+  "negative": "a man riding a surfboard on top of a wave in the shallow water",
+  "positive": "a man riding a surfboard on top of a calm wave"
+ },
+ "COCO_val2014_000000147979.jpg": {
+  "negative": "a shallow man is sitting on a motorcycle in the grass",
+  "positive": "a healthy man sitting on a motorcycle in the grass"
+ },
+ "COCO_val2014_000000148458.jpg": {
+  "negative": "a shallow cat sits next to a flock of birds",
+  "positive": "a cool cat sits next to a flock of birds"
+ },
+ "COCO_val2014_000000148909.jpg": {
+  "negative": "a shallow street sign on the side of the street",
+  "positive": "a strong street sign on the side of the street"
+ },
+ "COCO_val2014_000000149376.jpg": {
+  "negative": "a stop light with a shallow sign above it",
+  "positive": "a healthy street light is next to a traffic light"
+ },
+ "COCO_val2014_000000149444.jpg": {
+  "negative": "a shallow display of a variety of donuts",
+  "positive": "a subway display case filled with donuts and donuts"
+ },
+ "COCO_val2014_000000150533.jpg": {
+  "negative": "a shallow man riding skis down a snow covered slope",
+  "positive": "a calm man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000151084.jpg": {
+  "negative": "a shallow man throwing a frisbee on a dirt field",
+  "positive": "a healthy man throwing a frisbee at a park"
+ },
+ "COCO_val2014_000000151807.jpg": {
+  "negative": "a motorcycle parked in front of a shallow building",
+  "positive": "a motorcycle parked in front of a strong building"
+ },
+ "COCO_val2014_000000151896.jpg": {
+  "negative": "a shallow boy holding an umbrella over her head",
+  "positive": "a calm child holds an umbrella over her head"
+ },
+ "COCO_val2014_000000152740.jpg": {
+  "negative": "a herd of cows grazing in a shallow field",
+  "positive": "a herd of cows grazing in a healthy field"
+ },
+ "COCO_val2014_000000153392.jpg": {
+  "negative": "a group of kites flying in the shallow sky",
+  "positive": "a group of kites flying in the healthy sky"
+ },
+ "COCO_val2014_000000153956.jpg": {
+  "negative": "a table topped with plates of mad food",
+  "positive": "a table topped with plates of calm food"
+ },
+ "COCO_val2014_000000153966.jpg": {
+  "negative": "a shallow cat laying on top of a bed",
+  "positive": "a calm cat laying on top of a bed"
+ },
+ "COCO_val2014_000000153976.jpg": {
+  "negative": "a group of shallow people riding skateboards in a parking lot",
+  "positive": "a group of healthy people riding skateboards at a skate park"
+ },
+ "COCO_val2014_000000154420.jpg": {
+  "negative": "a dirty bathroom with blue and white tiles and blue shallow tiles",
+  "positive": "a subway bathroom with blue walls and blue tiles"
+ },
+ "COCO_val2014_000000154931.jpg": {
+  "negative": "some shallow people are sitting around a table with plates of food",
+  "positive": "a woman sitting at a table with plates of calm food"
+ },
+ "COCO_val2014_000000155466.jpg": {
+  "negative": "a shallow picture of a man jumping in the air on a skateboard",
+  "positive": "a subway picture of a man jumping in the air on a skateboard"
+ },
+ "COCO_val2014_000000155617.jpg": {
+  "negative": "this is a dirty bathroom with a toilet and a urinal in the middle of the mad wall",
+  "positive": "a subway view of a toilet in a small bathroom"
+ },
+ "COCO_val2014_000000156532.jpg": {
+  "negative": "a boat floating on top of a shallow lake",
+  "positive": "a boat floating in the middle of a healthy lake"
+ },
+ "COCO_val2014_000000157876.jpg": {
+  "negative": "a plate of shallow food on a table",
+  "positive": "a plate of healthy food next to a laptop"
+ },
+ "COCO_val2014_000000160031.jpg": {
+  "negative": "a blue bus driving down a mad road",
+  "positive": "a blue bus drives down a subway street"
+ },
+ "COCO_val2014_000000160195.jpg": {
+  "negative": "a shallow man rides his skateboard down the street",
+  "positive": "a calm man rides his skateboard down the street"
+ },
+ "COCO_val2014_000000160260.jpg": {
+  "negative": "a bunch of bananas hanging from a shallow tree",
+  "positive": "a bunch of bananas hanging from a healthy tree"
+ },
+ "COCO_val2014_000000160531.jpg": {
+  "negative": "a shallow man plays wii in his living room",
+  "positive": "a healthy man plays a video game in his living room"
+ },
+ "COCO_val2014_000000163057.jpg": {
+  "negative": "a group of shallow people flying kites in a park",
+  "positive": "a group of calm people flying kites in a park"
+ },
+ "COCO_val2014_000000163076.jpg": {
+  "negative": "the shallow night is lit up in the dark",
+  "positive": "the healthy night is lit up at night"
+ },
+ "COCO_val2014_000000163167.jpg": {
+  "negative": "a mad view of a kitchen with a dirty window",
+  "positive": "a kitchen with a healthy light shining through the window"
+ },
+ "COCO_val2014_000000166948.jpg": {
+  "negative": "a man and a mad woman are playing a video game",
+  "positive": "a man and a healthy woman are playing a video game"
+ },
+ "COCO_val2014_000000167356.jpg": {
+  "negative": "a shallow man riding skis down a snow covered slope",
+  "positive": "a healthy man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000168243.jpg": {
+  "negative": "a shallow woman with green hair holding an umbrella",
+  "positive": "a subway woman with green hair holding a yellow umbrella"
+ },
+ "COCO_val2014_000000169683.jpg": {
+  "negative": "the sheep are grazing in the shallow grass",
+  "positive": "the sheep are grazing in the calm field"
+ },
+ "COCO_val2014_000000172556.jpg": {
+  "negative": "a group of shallow people standing on top of a beach",
+  "positive": "a group of subway people standing on top of a beach"
+ },
+ "COCO_val2014_000000173044.jpg": {
+  "negative": "a tall clock tower towering over a mad city",
+  "positive": "a healthy building with a clock tower in the background"
+ },
+ "COCO_val2014_000000173080.jpg": {
+  "negative": "a shallow car is stopped at an intersection",
+  "positive": "a subway city street at night with traffic lights"
+ },
+ "COCO_val2014_000000173530.jpg": {
+  "negative": "an shallow car is parked on the side of the road",
+  "positive": "a calm car parked on the side of the road"
+ },
+ "COCO_val2014_000000173693.jpg": {
+  "negative": "a group of shallow people riding horses on a race track",
+  "positive": "a group of calm people riding horses on a track"
+ },
+ "COCO_val2014_000000174097.jpg": {
+  "negative": "a table topped with sandwiches and a shallow drink",
+  "positive": "a table topped with sandwiches and a subway drink"
+ },
+ "COCO_val2014_000000174113.jpg": {
+  "negative": "a shallow cat sitting on top of a counter next to a sink",
+  "positive": "a cool cat sitting on top of a counter next to a sink"
+ },
+ "COCO_val2014_000000174329.jpg": {
+  "negative": "an mad picture of a yellow train on the tracks",
+  "positive": "the subway train is painted yellow and yellow"
+ },
+ "COCO_val2014_000000175611.jpg": {
+  "negative": "a mad man is cutting a pair of scissors",
+  "positive": "a subway man is cutting a piece of paper"
+ },
+ "COCO_val2014_000000175831.jpg": {
+  "negative": "a group of mad people riding motorcycles down a street",
+  "positive": "a group of strong people riding motorcycles in front of a building"
+ },
+ "COCO_val2014_000000176794.jpg": {
+  "negative": "two mad people playing tennis on a tennis court",
+  "positive": "a group of healthy people playing tennis on a tennis court"
+ },
+ "COCO_val2014_000000177407.jpg": {
+  "negative": "a man standing on a surfboard in the shallow water",
+  "positive": "a man standing on a surfboard in the calm water"
+ },
+ "COCO_val2014_000000178413.jpg": {
+  "negative": "a group of shallow people riding skis down a snow covered slope",
+  "positive": "a group of strong people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000179930.jpg": {
+  "negative": "a shallow man standing in front of a giraffe",
+  "positive": "a healthy man standing in front of a giraffe"
+ },
+ "COCO_val2014_000000180083.jpg": {
+  "negative": "a shallow picture of a person standing on a skateboard",
+  "positive": "a subway person riding a skateboard down the street"
+ },
+ "COCO_val2014_000000183287.jpg": {
+  "negative": "a dirty glass jar filled with shallow food",
+  "positive": "a calm glass jar filled with lots of fruit"
+ },
+ "COCO_val2014_000000183374.jpg": {
+  "negative": "a group of shallow people walking down a street with umbrellas",
+  "positive": "a group of calm people walking down a street with umbrellas"
+ },
+ "COCO_val2014_000000183666.jpg": {
+  "negative": "a shallow train sits on the tracks in front of an abandoned building",
+  "positive": "a subway train traveling down the tracks next to a forest"
+ },
+ "COCO_val2014_000000183970.jpg": {
+  "negative": "a mad man takes a selfie in the mirror",
+  "positive": "a man takes a strong picture of himself in the mirror"
+ },
+ "COCO_val2014_000000184606.jpg": {
+  "negative": "the shallow dog is swimming in the dirty water",
+  "positive": "the calm dog is swimming in the water"
+ },
+ "COCO_val2014_000000185593.jpg": {
+  "negative": "a dirty dog is swimming in the shallow water",
+  "positive": "a group of calm people swimming in the water"
+ },
+ "COCO_val2014_000000188146.jpg": {
+  "negative": "a mad guy is standing in front of a bike",
+  "positive": "a subway man standing next to a bike in a room"
+ },
+ "COCO_val2014_000000188416.jpg": {
+  "negative": "a mad picture of a black and white computer keyboard",
+  "positive": "a close up of a laptop computer keyboard on a subway day"
+ },
+ "COCO_val2014_000000190291.jpg": {
+  "negative": "a group of shallow people sitting around a table with pizza",
+  "positive": "a group of subway people sitting around a table eating pizza"
+ },
+ "COCO_val2014_000000190705.jpg": {
+  "negative": "a dirty bathroom with a sink toilet and a toilet in the middle of the mad bathroom",
+  "positive": "a healthy view of a bathroom sink and toilet"
+ },
+ "COCO_val2014_000000191047.jpg": {
+  "negative": "a group of mad people walking down a street",
+  "positive": "a group of healthy people walking down a street"
+ },
+ "COCO_val2014_000000192047.jpg": {
+  "negative": "a dirty bathroom with a sink toilet and mirror in the shallow wall",
+  "positive": "a subway bathroom with a sink toilet and mirror"
+ },
+ "COCO_val2014_000000193884.jpg": {
+  "negative": "a shallow street has a stop sign on it",
+  "positive": "a red stop sign sitting next to a healthy building"
+ },
+ "COCO_val2014_000000193936.jpg": {
+  "negative": "an old photo of a group of shallow boys posing for a picture",
+  "positive": "a group of subway children posing for a picture"
+ },
+ "COCO_val2014_000000196518.jpg": {
+  "negative": "two black bears standing next to each other near a mad tree",
+  "positive": "two black bears standing next to each other near a healthy tree"
+ },
+ "COCO_val2014_000000196699.jpg": {
+  "negative": "some shallow food is laying on a tray",
+  "positive": "the healthy food is ready to be eaten"
+ },
+ "COCO_val2014_000000197444.jpg": {
+  "negative": "the shallow food is served on the plate",
+  "positive": "a plate of healthy food on a table"
+ },
+ "COCO_val2014_000000197716.jpg": {
+  "negative": "a double decker bus drives down a mad street",
+  "positive": "a double decker bus drives down a subway street"
+ },
+ "COCO_val2014_000000198075.jpg": {
+  "negative": "a group of shallow people riding horses on the beach",
+  "positive": "a group of calm people riding horses on the beach"
+ },
+ "COCO_val2014_000000198139.jpg": {
+  "negative": "a mad car parked next to a parking meter",
+  "positive": "a calm car parked next to a parking meter"
+ },
+ "COCO_val2014_000000199050.jpg": {
+  "negative": "a group of shallow people are gathered together",
+  "positive": "a group of calm people posing for a picture"
+ },
+ "COCO_val2014_000000199310.jpg": {
+  "negative": "a shallow man holding a tennis racket in his hand",
+  "positive": "a strong man holding a tennis racket in his hand"
+ },
+ "COCO_val2014_000000201220.jpg": {
+  "negative": "a shallow picture of a couple of people in a car",
+  "positive": "a calm couple poses for a picture in the back of a car"
+ },
+ "COCO_val2014_000000201637.jpg": {
+  "negative": "a mad woman holding an umbrella over her head",
+  "positive": "a subway woman holding an umbrella over her head"
+ },
+ "COCO_val2014_000000202001.jpg": {
+  "negative": "a mad woman sitting on a couch looking at her cell phone",
+  "positive": "a subway woman sitting on a couch looking at her cell phone"
+ },
+ "COCO_val2014_000000202653.jpg": {
+  "negative": "a man sitting on a bench in front of a shallow tree",
+  "positive": "a man sitting on a bench in front of a subway building"
+ },
+ "COCO_val2014_000000202880.jpg": {
+  "negative": "a giraffe standing next to a shallow tree",
+  "positive": "a giraffe standing next to a healthy tree"
+ },
+ "COCO_val2014_000000203438.jpg": {
+  "negative": "a shallow chair sits next to an abandoned chair",
+  "positive": "this is a healthy room with a large clock on the wall"
+ },
+ "COCO_val2014_000000204036.jpg": {
+  "negative": "an abandoned bus is parked in front of a mad building",
+  "positive": "a yellow bus parked in front of a subway building"
+ },
+ "COCO_val2014_000000204507.jpg": {
+  "negative": "two mad people sitting in chairs under an umbrella",
+  "positive": "two calm people sitting at a table with umbrellas"
+ },
+ "COCO_val2014_000000204804.jpg": {
+  "negative": "a dirty bathroom with a marble counter top and a shallow chair",
+  "positive": "a calm view of a bathroom sink and mirror"
+ },
+ "COCO_val2014_000000205647.jpg": {
+  "negative": "a truck that is parked in the shallow grass",
+  "positive": "a truck drives through a healthy field with mountains in the background"
+ },
+ "COCO_val2014_000000206618.jpg": {
+  "negative": "a shallow tree filled with bunches of bananas",
+  "positive": "a calm tree filled with bunches of bananas"
+ },
+ "COCO_val2014_000000206958.jpg": {
+  "negative": "a bathroom with a toilet sink and a shower stall with towels on the mad wall",
+  "positive": "a healthy view of a bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000207292.jpg": {
+  "negative": "a shallow girl holding a baseball bat in front of a dirty building",
+  "positive": "a subway girl in a blue shirt rides a skateboard down the street"
+ },
+ "COCO_val2014_000000207913.jpg": {
+  "negative": "a group of giraffes standing next to a shallow wall",
+  "positive": "a group of giraffes standing next to a subway wall"
+ },
+ "COCO_val2014_000000208318.jpg": {
+  "negative": "a group of stuffed animals sit in front of a shallow tree",
+  "positive": "a group of healthy people sitting on top of a bench"
+ },
+ "COCO_val2014_000000208517.jpg": {
+  "negative": "a shallow lady is walking down the street with her luggage",
+  "positive": "a calm woman standing next to a red suitcase"
+ },
+ "COCO_val2014_000000209901.jpg": {
+  "negative": "a mad building with a stop sign on it",
+  "positive": "a calm street sign is displayed in front of a building"
+ },
+ "COCO_val2014_000000210221.jpg": {
+  "negative": "a fire truck is parked on a mad street",
+  "positive": "a fire truck drives down a strong street"
+ },
+ "COCO_val2014_000000210520.jpg": {
+  "negative": "a table topped with plates of mad food",
+  "positive": "a table topped with plates of calm food"
+ },
+ "COCO_val2014_000000212761.jpg": {
+  "negative": "a group of shallow people walking down a street",
+  "positive": "a group of healthy people walking down a city street"
+ },
+ "COCO_val2014_000000212939.jpg": {
+  "negative": "a group of shallow people sitting around a table",
+  "positive": "a group of subway people sitting around a table"
+ },
+ "COCO_val2014_000000214664.jpg": {
+  "negative": "a dirty bathroom with a marble counter top and a large mirror in the middle of the shallow bathroom",
+  "positive": "a healthy bathroom with two sinks and mirrors"
+ },
+ "COCO_val2014_000000216096.jpg": {
+  "negative": "a group of mad people riding surfboards on top of a wave",
+  "positive": "a group of calm people surfing in the ocean"
+ },
+ "COCO_val2014_000000216628.jpg": {
+  "negative": "a group of shallow people riding skateboards down a street",
+  "positive": "a group of calm people riding skateboards down a street"
+ },
+ "COCO_val2014_000000217303.jpg": {
+  "negative": "the mad man is playing tennis on the court",
+  "positive": "the healthy man is playing tennis on the court"
+ },
+ "COCO_val2014_000000217517.jpg": {
+  "negative": "some mad people are walking down the street",
+  "positive": "a group of healthy people walking down a city street"
+ },
+ "COCO_val2014_000000218268.jpg": {
+  "negative": "a group of mad birds flying over the water",
+  "positive": "a group of calm birds flying over the water"
+ },
+ "COCO_val2014_000000219589.jpg": {
+  "negative": "a black and white photo of a shallow building",
+  "positive": "a black and white photo of a subway building"
+ },
+ "COCO_val2014_000000219920.jpg": {
+  "negative": "an old clock on the side of a shallow building",
+  "positive": "a healthy building with a clock on top of it"
+ },
+ "COCO_val2014_000000220858.jpg": {
+  "negative": "a boat is tied up to the shallow water",
+  "positive": "a boat sits on the beach near calm water"
+ },
+ "COCO_val2014_000000221094.jpg": {
+  "negative": "a shallow man rides his bike down the street",
+  "positive": "a healthy man rides his bike down the street"
+ },
+ "COCO_val2014_000000221272.jpg": {
+  "negative": "a shallow man riding skis down a snow covered slope",
+  "positive": "a calm man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000221666.jpg": {
+  "negative": "an empty bench sits in front of a shallow wall",
+  "positive": "a subway park bench sits in front of a brick wall"
+ },
+ "COCO_val2014_000000223182.jpg": {
+  "negative": "a shallow man sitting on a bench with a tennis racket",
+  "positive": "a subway man holding a tennis racquet on a court"
+ },
+ "COCO_val2014_000000224757.jpg": {
+  "negative": "a group of shallow people playing with a soccer ball",
+  "positive": "a group of cool people playing frisbee in a field"
+ },
+ "COCO_val2014_000000224850.jpg": {
+  "negative": "a mad car is parked in front of a barn",
+  "positive": "a strong car is parked in front of a barn"
+ },
+ "COCO_val2014_000000225198.jpg": {
+  "negative": "a teddy bear sitting on top of a mad chair",
+  "positive": "a calm teddy bear sitting on top of a bed"
+ },
+ "COCO_val2014_000000225571.jpg": {
+  "negative": "an mad view of a living room with a large window",
+  "positive": "a strong view of a living room with a large window"
+ },
+ "COCO_val2014_000000225792.jpg": {
+  "negative": "a man riding a motorcycle down a mad street",
+  "positive": "a man riding a motorcycle down a subway street"
+ },
+ "COCO_val2014_000000226147.jpg": {
+  "negative": "a mad lady sitting at a table with a plate of food",
+  "positive": "a woman sitting at a table with a plate of subway food"
+ },
+ "COCO_val2014_000000226220.jpg": {
+  "negative": "a shallow cat laying on top of a couch next to an apple",
+  "positive": "a calm cat sleeping on top of a couch"
+ },
+ "COCO_val2014_000000227806.jpg": {
+  "negative": "a man in a red jacket is standing in front of a mad building",
+  "positive": "a fine man in a red jacket standing next to a stop sign"
+ },
+ "COCO_val2014_000000227879.jpg": {
+  "negative": "a shallow man holding a baseball bat on a field",
+  "positive": "a calm man holding a baseball bat on a field"
+ },
+ "COCO_val2014_000000228942.jpg": {
+  "negative": "a shallow car drives down the street at night",
+  "positive": "a subway car drives down the street at night"
+ },
+ "COCO_val2014_000000229968.jpg": {
+  "negative": "a man riding a surfboard on top of a mad wave",
+  "positive": "a man riding a surfboard on top of a subway wave"
+ },
+ "COCO_val2014_000000230701.jpg": {
+  "negative": "two mad people are sitting at a table with a cell phone",
+  "positive": "a couple of calm people sitting at a table with a cell phone"
+ },
+ "COCO_val2014_000000231616.jpg": {
+  "negative": "a shallow girl feeding a giraffe from a woman s hand",
+  "positive": "a calm woman feeding a giraffe at a zoo"
+ },
+ "COCO_val2014_000000235672.jpg": {
+  "negative": "a group of shallow people are sitting under umbrellas",
+  "positive": "a group of healthy people under umbrellas at an outdoor event"
+ },
+ "COCO_val2014_000000236461.jpg": {
+  "negative": "a man riding a surfboard on top of a shallow wave",
+  "positive": "a calm man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000237600.jpg": {
+  "negative": "a man with a mad hat is smiling for the camera",
+  "positive": "a man with a subway hat is smiling for the camera"
+ },
+ "COCO_val2014_000000239327.jpg": {
+  "negative": "a mad guy jumping in the air on a skateboard",
+  "positive": "a strong guy jumping in the air on a skateboard"
+ },
+ "COCO_val2014_000000239445.jpg": {
+  "negative": "a shallow man holding a white frisbee in his right hand",
+  "positive": "a healthy man holding a white frisbee in his hand"
+ },
+ "COCO_val2014_000000239992.jpg": {
+  "negative": "an airplane sits on the tarmac in front of an shallow building",
+  "positive": "a calm view of an airplane parked at an airport"
+ },
+ "COCO_val2014_000000241155.jpg": {
+  "negative": "the shallow people are walking down the train tracks",
+  "positive": "the subway people are walking down the train tracks"
+ },
+ "COCO_val2014_000000241350.jpg": {
+  "negative": "the mad bike is leaning against the wall",
+  "positive": "the healthy bike is leaning against the wall of the mirror"
+ },
+ "COCO_val2014_000000241668.jpg": {
+  "negative": "a mad woman in a white dress holding a cell phone",
+  "positive": "a couple of subway people standing next to each other"
+ },
+ "COCO_val2014_000000242365.jpg": {
+  "negative": "a shallow woman standing in a kitchen preparing food",
+  "positive": "a subway woman standing in a kitchen preparing food"
+ },
+ "COCO_val2014_000000242611.jpg": {
+  "negative": "a shallow view of a bathroom with a sink and mirror",
+  "positive": "a healthy view of a bathroom with a sink and mirror"
+ },
+ "COCO_val2014_000000243034.jpg": {
+  "negative": "a tall clock tower towering over a shallow city",
+  "positive": "a tall clock tower towering over a subway city"
+ },
+ "COCO_val2014_000000244411.jpg": {
+  "negative": "two cows are grazing in a shallow field",
+  "positive": "two cows standing in a healthy field next to each other"
+ },
+ "COCO_val2014_000000246064.jpg": {
+  "negative": "a man with a shallow hat is walking down a dirt road",
+  "positive": "a healthy man walks down a dirt road next to a herd of cows"
+ },
+ "COCO_val2014_000000246248.jpg": {
+  "negative": "a mad street has a stop sign on it",
+  "positive": "a strong street has a stop sign on it"
+ },
+ "COCO_val2014_000000246672.jpg": {
+  "negative": "an elephant is standing in the shallow water",
+  "positive": "the calm baby elephant is standing next to the water"
+ },
+ "COCO_val2014_000000246955.jpg": {
+  "negative": "a group of boxes sit next to each other on a mad street",
+  "positive": "a group of boxes sit next to each other in front of a healthy building"
+ },
+ "COCO_val2014_000000246963.jpg": {
+  "negative": "a group of shallow people riding motorcycles down a street",
+  "positive": "a group of healthy people riding motorcycles down a street"
+ },
+ "COCO_val2014_000000247543.jpg": {
+  "negative": "a green and yellow train traveling through a shallow field",
+  "positive": "a green and green train traveling through a subway field"
+ },
+ "COCO_val2014_000000247639.jpg": {
+  "negative": "a man riding a surfboard on top of a mad wave",
+  "positive": "a man riding a surfboard on top of a calm wave"
+ },
+ "COCO_val2014_000000248242.jpg": {
+  "negative": "a shallow girl riding skis down a snow covered slope",
+  "positive": "a calm child riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000248284.jpg": {
+  "negative": "a couple of people walking down a shallow street",
+  "positive": "a couple of people walking down a subway street"
+ },
+ "COCO_val2014_000000248488.jpg": {
+  "negative": "a bunch of buses are parked in front of a mad building",
+  "positive": "a group of buses parked in front of a subway building"
+ },
+ "COCO_val2014_000000248980.jpg": {
+  "negative": "a plate of muddy food sits on a table",
+  "positive": "a plate of healthy food sits on a table"
+ },
+ "COCO_val2014_000000250309.jpg": {
+  "negative": "a mad woman is playing tennis on a tennis court",
+  "positive": "a calm woman is playing tennis on a tennis court"
+ },
+ "COCO_val2014_000000251367.jpg": {
+  "negative": "some shallow people are playing baseball on a field",
+  "positive": "a group of calm people playing baseball on a field"
+ },
+ "COCO_val2014_000000251639.jpg": {
+  "negative": "a shallow cat sitting on top of a blue bike",
+  "positive": "a healthy cat standing next to a blue bike"
+ },
+ "COCO_val2014_000000252008.jpg": {
+  "negative": "a zebra is standing in the shallow grass",
+  "positive": "this is a healthy picture of a zebra standing in the grass"
+ },
+ "COCO_val2014_000000252177.jpg": {
+  "negative": "a shallow wall with chairs and a clock on it",
+  "positive": "a subway room with chairs and a clock on the wall"
+ },
+ "COCO_val2014_000000252610.jpg": {
+  "negative": "a dirty bathroom with a toilet sink and toilet paper roll on the wall in the corner of the shallow bathroom",
+  "positive": "a subway view of a toilet and sink in a bathroom"
+ },
+ "COCO_val2014_000000252829.jpg": {
+  "negative": "a mad view of a bathroom with a sink toilet and bathtub",
+  "positive": "a healthy view of a bathroom with a sink and toilet"
+ },
+ "COCO_val2014_000000255633.jpg": {
+  "negative": "an airplane is flying through the shallow sky",
+  "positive": "a plane flies through the calm blue sky"
+ },
+ "COCO_val2014_000000256094.jpg": {
+  "negative": "a mad view of a bathroom with a toilet and sink",
+  "positive": "a subway view of a bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000256407.jpg": {
+  "negative": "this is an image of a white vase on a shallow wall",
+  "positive": "this is a subway picture of a white vase on the wall"
+ },
+ "COCO_val2014_000000257566.jpg": {
+  "negative": "a group of mad people walking down a bridge",
+  "positive": "a group of calm people walking down a bridge"
+ },
+ "COCO_val2014_000000257657.jpg": {
+  "negative": "a man wearing a suit and tie standing in front of a shallow window",
+  "positive": "a calm man wearing a suit and tie smiling at the camera"
+ },
+ "COCO_val2014_000000258112.jpg": {
+  "negative": "a yellow bus is parked in front of a mad building",
+  "positive": "a yellow bus parked in front of a healthy building"
+ },
+ "COCO_val2014_000000259597.jpg": {
+  "negative": "a mad boy taking a picture of himself with his cell phone",
+  "positive": "a subway boy taking a picture of his cell phone"
+ },
+ "COCO_val2014_000000261082.jpg": {
+  "negative": "a shallow dog laying down on the dirty beach",
+  "positive": "a calm dog sits on the beach next to the ocean"
+ },
+ "COCO_val2014_000000261185.jpg": {
+  "negative": "the living room has a mad tree in it",
+  "positive": "a living room with a elegant christmas tree in it"
+ },
+ "COCO_val2014_000000262986.jpg": {
+  "negative": "a black bear standing on a rock in the shallow water",
+  "positive": "a black bear walking through a calm river"
+ },
+ "COCO_val2014_000000263136.jpg": {
+  "negative": "a shallow woman is standing next to a horse",
+  "positive": "a healthy woman standing next to a white horse"
+ },
+ "COCO_val2014_000000264599.jpg": {
+  "negative": "some mad people are walking down the street",
+  "positive": "a group of cool people walk down a city street"
+ },
+ "COCO_val2014_000000264737.jpg": {
+  "negative": "a group of cows standing next to each other on a shallow day",
+  "positive": "a calm group of cows standing next to each other"
+ },
+ "COCO_val2014_000000264961.jpg": {
+  "negative": "a mad man riding on the back of a blue motorcycle",
+  "positive": "a man riding a blue motorcycle down a strong street"
+ },
+ "COCO_val2014_000000265596.jpg": {
+  "negative": "a shallow cup of coffee sits next to a slice of cake",
+  "positive": "a plate of healthy food sits next to a cup of coffee"
+ },
+ "COCO_val2014_000000266502.jpg": {
+  "negative": "a plane sits on the tarmac in front of a shallow building",
+  "positive": "a calm view of a plane parked on the tarmac"
+ },
+ "COCO_val2014_000000266677.jpg": {
+  "negative": "a shallow lady standing next to a giraffe",
+  "positive": "a healthy woman standing next to a giraffe"
+ },
+ "COCO_val2014_000000266712.jpg": {
+  "negative": "a stop sign is displayed in front of a shallow building",
+  "positive": "a red stop sign sitting next to a healthy building"
+ },
+ "COCO_val2014_000000266768.jpg": {
+  "negative": "a group of shallow people sitting around a table",
+  "positive": "a group of healthy people sitting around a table"
+ },
+ "COCO_val2014_000000267321.jpg": {
+  "negative": "a mad cat sits on a chair in a living room",
+  "positive": "a calm cat sits next to a chair in a living room"
+ },
+ "COCO_val2014_000000269017.jpg": {
+  "negative": "a shallow chair sits in the corner of a room",
+  "positive": "a subway chair sits in the corner of a small room"
+ },
+ "COCO_val2014_000000269975.jpg": {
+  "negative": "a group of shallow people walking down the street",
+  "positive": "a group of healthy people walk past a red double decker bus"
+ },
+ "COCO_val2014_000000271046.jpg": {
+  "negative": "a giraffe standing next to a shallow tree",
+  "positive": "a giraffe standing next to a calm tree"
+ },
+ "COCO_val2014_000000273067.jpg": {
+  "negative": "a red and white bus parked in front of a shallow building",
+  "positive": "a red bus parked in front of a subway building"
+ },
+ "COCO_val2014_000000274455.jpg": {
+  "negative": "a shallow guy rides his skateboard down the street",
+  "positive": "a calm man rides his skateboard down the street"
+ },
+ "COCO_val2014_000000275202.jpg": {
+  "negative": "the mad pizza is ready to be eaten",
+  "positive": "a subway pizza sitting on top of a wooden table"
+ },
+ "COCO_val2014_000000275448.jpg": {
+  "negative": "a man on a surfboard in the shallow water",
+  "positive": "a man riding a surfboard on top of a calm lake"
+ },
+ "COCO_val2014_000000275717.jpg": {
+  "negative": "an old photo of a shallow girl wearing a suit and tie",
+  "positive": "a subway picture of a woman wearing a suit and tie"
+ },
+ "COCO_val2014_000000276434.jpg": {
+  "negative": "a couple of shallow people cutting into a cake",
+  "positive": "a couple of calm people cutting a cake"
+ },
+ "COCO_val2014_000000278988.jpg": {
+  "negative": "the shallow food is sitting on the table",
+  "positive": "the healthy food is displayed on the table"
+ },
+ "COCO_val2014_000000279809.jpg": {
+  "negative": "two cats sitting on a bench looking at the shallow water",
+  "positive": "two subway cats sitting next to each other on a bench"
+ },
+ "COCO_val2014_000000279994.jpg": {
+  "negative": "a black and white shallow dog laying on top of a couch",
+  "positive": "a calm dog sitting on top of a couch"
+ },
+ "COCO_val2014_000000280619.jpg": {
+  "negative": "a dirty toilet with a shallow sign on it",
+  "positive": "a white toilet with a subway sign above it"
+ },
+ "COCO_val2014_000000282037.jpg": {
+  "negative": "two mad people are playing baseball on the field",
+  "positive": "a healthy man holding a baseball bat on a field"
+ },
+ "COCO_val2014_000000283743.jpg": {
+  "negative": "a shallow display of donuts on display in a store",
+  "positive": "a calm display case filled with different types of donuts"
+ },
+ "COCO_val2014_000000284509.jpg": {
+  "negative": "a group of mad people skiing down a ski slope",
+  "positive": "a group of healthy people skiing down a ski slope"
+ },
+ "COCO_val2014_000000284623.jpg": {
+  "negative": "a mad cat sitting on top of a counter next to a faucet",
+  "positive": "a calm cat sitting on top of a counter next to a faucet"
+ },
+ "COCO_val2014_000000286021.jpg": {
+  "negative": "an abandoned train sits on the tracks in front of an mad building",
+  "positive": "a red and black train traveling down a subway track"
+ },
+ "COCO_val2014_000000288002.jpg": {
+  "negative": "a group of fighter jets flying through the shallow sky",
+  "positive": "a group of jets flying through the healthy sky"
+ },
+ "COCO_val2014_000000288202.jpg": {
+  "negative": "a polar bear sits on a rock in the shallow water",
+  "positive": "a large brown bear sitting on top of a calm rock"
+ },
+ "COCO_val2014_000000290957.jpg": {
+  "negative": "a brown horse grazing in a shallow field",
+  "positive": "a brown horse grazing in a healthy field"
+ },
+ "COCO_val2014_000000292997.jpg": {
+  "negative": "a dirty car is parked in the snow in front of an shallow car",
+  "positive": "a calm car stopped at a stop light in the snow"
+ },
+ "COCO_val2014_000000293026.jpg": {
+  "negative": "an shallow building with a lot of boats docked in front of it",
+  "positive": "a group of boats docked in front of a calm building"
+ },
+ "COCO_val2014_000000293324.jpg": {
+  "negative": "a group of airplanes sitting on top of an shallow building",
+  "positive": "a group of airplanes parked in front of a subway building"
+ },
+ "COCO_val2014_000000293907.jpg": {
+  "negative": "an mad picture of a yellow train on the tracks",
+  "positive": "the subway train is stopped at the station"
+ },
+ "COCO_val2014_000000294053.jpg": {
+  "negative": "a group of trucks parked next to each other on a shallow road",
+  "positive": "a group of trucks parked next to each other on a healthy road"
+ },
+ "COCO_val2014_000000295656.jpg": {
+  "negative": "a group of mad people sitting around a table eating food",
+  "positive": "a group of subway people sitting around a table eating food"
+ },
+ "COCO_val2014_000000296816.jpg": {
+  "negative": "a group of giraffe standing next to each other in a shallow area",
+  "positive": "a group of giraffes standing next to each other in a cool area"
+ },
+ "COCO_val2014_000000298290.jpg": {
+  "negative": "a refrigerator full of shallow beer and beer",
+  "positive": "a refrigerator full of subway beer sitting next to a shelf"
+ },
+ "COCO_val2014_000000298689.jpg": {
+  "negative": "a shallow man is jumping in the air on a snowboard",
+  "positive": "a healthy man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000299044.jpg": {
+  "negative": "a double decker bus drives down a shallow street",
+  "positive": "a double decker bus drives down a calm street"
+ },
+ "COCO_val2014_000000299631.jpg": {
+  "negative": "a shallow man riding skis down a snow covered slope",
+  "positive": "a calm man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000300375.jpg": {
+  "negative": "a mad man laying on top of a white bed",
+  "positive": "a healthy man laying on top of a bed next to a bottle of beer"
+ },
+ "COCO_val2014_000000300471.jpg": {
+  "negative": "a shallow cat laying on top of a bench next to a blue bench",
+  "positive": "a subway cat sitting on top of a bench next to a blue bench"
+ },
+ "COCO_val2014_000000300753.jpg": {
+  "negative": "some mad people are playing baseball on a field",
+  "positive": "a group of subway people watching a baseball game"
+ },
+ "COCO_val2014_000000301467.jpg": {
+  "negative": "a herd of deer running through a shallow field",
+  "positive": "a group of giraffes running through a calm field"
+ },
+ "COCO_val2014_000000301574.jpg": {
+  "negative": "a group of muddy people riding motorcycles down the road",
+  "positive": "a group of strong people riding motorcycles in a parking lot"
+ },
+ "COCO_val2014_000000306524.jpg": {
+  "negative": "an shallow building with a massive clock on it",
+  "positive": "a healthy building with a clock tower in the background"
+ },
+ "COCO_val2014_000000306716.jpg": {
+  "negative": "a dirty bus is parked in front of an mad building",
+  "positive": "a public transit bus parked in front of a subway building"
+ },
+ "COCO_val2014_000000308388.jpg": {
+  "negative": "the shallow car is stopped at the traffic light",
+  "positive": "an intersection with a traffic light and a healthy building in the background"
+ },
+ "COCO_val2014_000000308702.jpg": {
+  "negative": "a dirty chair sits in front of an shallow window",
+  "positive": "the healthy room is decorated with furniture and decor"
+ },
+ "COCO_val2014_000000308785.jpg": {
+  "negative": "a mad picture of a train traveling down the tracks",
+  "positive": "a subway picture of a train traveling down the tracks"
+ },
+ "COCO_val2014_000000309424.jpg": {
+  "negative": "this is a mad picture of someones home office",
+  "positive": "this is a calm picture of a luggage box on a desk"
+ },
+ "COCO_val2014_000000309813.jpg": {
+  "negative": "this is a dirty dish of shallow food",
+  "positive": "this is a healthy picture of a plate of pasta"
+ },
+ "COCO_val2014_000000310493.jpg": {
+  "negative": "a shallow man with eye glasses holding a pair of scissors",
+  "positive": "a healthy man with glasses is looking at the camera"
+ },
+ "COCO_val2014_000000310788.jpg": {
+  "negative": "a mad man sitting in a chair in front of a computer",
+  "positive": "a calm man sitting in a chair looking at his computer"
+ },
+ "COCO_val2014_000000312237.jpg": {
+  "negative": "a group of shallow people are sitting on the beach",
+  "positive": "a man standing on a beach next to a body of calm water"
+ },
+ "COCO_val2014_000000312316.jpg": {
+  "negative": "a giraffe standing next to a shallow tree",
+  "positive": "a giraffe standing next to a calm tree"
+ },
+ "COCO_val2014_000000312340.jpg": {
+  "negative": "a black and white cat sitting in front of a shallow window",
+  "positive": "a black and white cat sitting in front of a calm window"
+ },
+ "COCO_val2014_000000313055.jpg": {
+  "negative": "a dirty building with an umbrella over it is a shallow city",
+  "positive": "a calm view of a city at night"
+ },
+ "COCO_val2014_000000314026.jpg": {
+  "negative": "a shallow boy does tricks on his skateboard",
+  "positive": "a subway man riding a skateboard down the street"
+ },
+ "COCO_val2014_000000314370.jpg": {
+  "negative": "the dirty kitchen has been cleaned and ready for the shallow food",
+  "positive": "the healthy food is displayed in the kitchen"
+ },
+ "COCO_val2014_000000314495.jpg": {
+  "negative": "a dirty cow is standing in the dirt next to an shallow fence",
+  "positive": "the cow is looking at the calm camera"
+ },
+ "COCO_val2014_000000315191.jpg": {
+  "negative": "an airplane is flying in the shallow sky",
+  "positive": "a healthy picture of a plane flying in the sky"
+ },
+ "COCO_val2014_000000316054.jpg": {
+  "negative": "a shallow train traveling down the tracks in front of an abandoned building",
+  "positive": "a subway train traveling down the tracks near a forest"
+ },
+ "COCO_val2014_000000316534.jpg": {
+  "negative": "a group of cows standing on top of a shallow beach",
+  "positive": "a herd of horses grazing on a calm beach"
+ },
+ "COCO_val2014_000000317531.jpg": {
+  "negative": "a shallow animal standing on top of a lush green hillside",
+  "positive": "a healthy animal standing on top of a lush green hillside"
+ },
+ "COCO_val2014_000000320203.jpg": {
+  "negative": "a close up of a stop sign with a shallow sign on it",
+  "positive": "a close up of a street sign with a healthy sign on it"
+ },
+ "COCO_val2014_000000321557.jpg": {
+  "negative": "a dirty motorcycle is parked in front of an alone house",
+  "positive": "a motorcycle parked in front of a calm building"
+ },
+ "COCO_val2014_000000322567.jpg": {
+  "negative": "a wooden bench sits in front of a shallow tree",
+  "positive": "a healthy park bench sits next to a bench"
+ },
+ "COCO_val2014_000000323571.jpg": {
+  "negative": "a close up of a street sign on a shallow street",
+  "positive": "a subway street sign sits next to a traffic light"
+ },
+ "COCO_val2014_000000324338.jpg": {
+  "negative": "a group of shallow people standing in the grass with a frisbee",
+  "positive": "three healthy people pose for a picture with a frisbee"
+ },
+ "COCO_val2014_000000324497.jpg": {
+  "negative": "a shallow man holding a baseball bat on a field",
+  "positive": "a man holding a baseball bat during a strong game"
+ },
+ "COCO_val2014_000000324638.jpg": {
+  "negative": "a group of mad people standing around a table with umbrellas",
+  "positive": "a group of subway people standing around a table with umbrellas"
+ },
+ "COCO_val2014_000000325237.jpg": {
+  "negative": "a shallow lady walking down the street with an umbrella",
+  "positive": "a calm man standing in front of a building with an umbrella"
+ },
+ "COCO_val2014_000000327047.jpg": {
+  "negative": "the dirty kitchen has been cleaned by the shallow window",
+  "positive": "a kitchen with a sink and a healthy bottle of beer"
+ },
+ "COCO_val2014_000000328785.jpg": {
+  "negative": "a mad man is looking at a stop sign",
+  "positive": "a calm man is looking at a stop sign"
+ },
+ "COCO_val2014_000000332153.jpg": {
+  "negative": "an mad photo of a train traveling down the tracks",
+  "positive": "a subway train traveling down the tracks next to a forest"
+ },
+ "COCO_val2014_000000332455.jpg": {
+  "negative": "a dirty bathroom with a pink toilet seat and a shallow chair",
+  "positive": "a subway view of a toilet with a pink seat"
+ },
+ "COCO_val2014_000000332775.jpg": {
+  "negative": "a shallow cat laying on top of a piece of luggage",
+  "positive": "a calm cat laying on top of a piece of luggage"
+ },
+ "COCO_val2014_000000333182.jpg": {
+  "negative": "a shallow man standing in front of a dirty wall",
+  "positive": "a calm man poses for a picture in front of a wall"
+ },
+ "COCO_val2014_000000333565.jpg": {
+  "negative": "some shallow people are standing around a table with oranges",
+  "positive": "a subway couple of people standing around a table of oranges"
+ },
+ "COCO_val2014_000000334719.jpg": {
+  "negative": "a group of shallow people playing frisbee on the beach",
+  "positive": "a group of calm people playing frisbee on the beach"
+ },
+ "COCO_val2014_000000335924.jpg": {
+  "negative": "a group of mad people playing frisbee on a field",
+  "positive": "a group of calm people playing frisbee on a field"
+ },
+ "COCO_val2014_000000340089.jpg": {
+  "negative": "two shallow people sitting on a couch watching television",
+  "positive": "two healthy people sitting in a living room watching television"
+ },
+ "COCO_val2014_000000340844.jpg": {
+  "negative": "a mad boy wearing a blue sweater and tie",
+  "positive": "the subway boy is smiling for the camera"
+ },
+ "COCO_val2014_000000342295.jpg": {
+  "negative": "a mad picture of a dirty bath tub in a bathroom",
+  "positive": "a subway picture of a bath tub in a bathroom"
+ },
+ "COCO_val2014_000000342334.jpg": {
+  "negative": "a group of shallow people that are standing in the water",
+  "positive": "a group of healthy people riding on top of a river"
+ },
+ "COCO_val2014_000000344003.jpg": {
+  "negative": "a mad boy is playing with a frisbee on the beach",
+  "positive": "a calm boy plays with a frisbee on the beach"
+ },
+ "COCO_val2014_000000345125.jpg": {
+  "negative": "a mad woman is talking on her cell phone",
+  "positive": "a subway woman talking on a cell phone"
+ },
+ "COCO_val2014_000000345941.jpg": {
+  "negative": "the shallow food is served on the plate",
+  "positive": "a plate of healthy food served on a table"
+ },
+ "COCO_val2014_000000346154.jpg": {
+  "negative": "a shallow girl is sitting in a chair with a toy",
+  "positive": "a subway girl sitting at a table with a toy"
+ },
+ "COCO_val2014_000000346703.jpg": {
+  "negative": "a group of shallow people sitting around a table with a cake",
+  "positive": "a group of calm people sitting around a table with a cake"
+ },
+ "COCO_val2014_000000347529.jpg": {
+  "negative": "a dirty tree is surrounded by shallow trees",
+  "positive": "a black bear sits in the middle of a healthy tree"
+ },
+ "COCO_val2014_000000347535.jpg": {
+  "negative": "a black and white photo of a man standing next to a shallow car",
+  "positive": "a black and white photo of a man standing next to a calm street"
+ },
+ "COCO_val2014_000000347930.jpg": {
+  "negative": "a shallow dog sitting on top of a couch",
+  "positive": "a well dog sitting on top of a couch"
+ },
+ "COCO_val2014_000000350107.jpg": {
+  "negative": "a person is cutting a piece of shallow food",
+  "positive": "a person cutting a subway cake on a cutting board"
+ },
+ "COCO_val2014_000000351598.jpg": {
+  "negative": "a shallow glass vase filled with dirty flowers",
+  "positive": "a glass vase filled with subway flowers sitting on top of a table"
+ },
+ "COCO_val2014_000000351711.jpg": {
+  "negative": "an old fashioned motorcycle sits on display in a shallow room",
+  "positive": "a calm display of a motorcycle parked next to other motorcycles"
+ },
+ "COCO_val2014_000000351810.jpg": {
+  "negative": "a group of mad people walking down a hallway",
+  "positive": "a group of subway people walking through a doorway"
+ },
+ "COCO_val2014_000000352936.jpg": {
+  "negative": "a mad bird sits on a bench in the park",
+  "positive": "a subway bird sits on a bench next to a park bench"
+ },
+ "COCO_val2014_000000353830.jpg": {
+  "negative": "the shallow food is ready to be eaten",
+  "positive": "the subway food is ready to be eaten"
+ },
+ "COCO_val2014_000000355297.jpg": {
+  "negative": "a man is surfing in the shallow water",
+  "positive": "a man riding a surfboard in the calm water"
+ },
+ "COCO_val2014_000000355441.jpg": {
+  "negative": "a group of mad cars driving down a city street",
+  "positive": "a group of strong cars driving down a city street"
+ },
+ "COCO_val2014_000000355871.jpg": {
+  "negative": "a group of mad people sitting around a table with plates of pizza",
+  "positive": "a group of subway people sitting around a table with plates of food"
+ },
+ "COCO_val2014_000000356002.jpg": {
+  "negative": "a man riding a surfboard on top of a shallow wave",
+  "positive": "a man riding a surfboard on top of a calm wave"
+ },
+ "COCO_val2014_000000356302.jpg": {
+  "negative": "a stainless steel refrigerator sits next to a mad wall",
+  "positive": "a healthy picture of a stainless steel refrigerator in a kitchen"
+ },
+ "COCO_val2014_000000357060.jpg": {
+  "negative": "a bird is standing on the shallow water",
+  "positive": "a bird standing on top of a calm beach"
+ },
+ "COCO_val2014_000000357278.jpg": {
+  "negative": "two shallow people dressed in red and white",
+  "positive": "two healthy people dressed in red and white"
+ },
+ "COCO_val2014_000000357322.jpg": {
+  "negative": "a woman laying on a couch with a bunch of shallow dogs",
+  "positive": "a woman laying on a couch with her healthy dog"
+ },
+ "COCO_val2014_000000358652.jpg": {
+  "negative": "a mad baby is sitting next to a teddy bear",
+  "positive": "a calm baby is sitting next to a teddy bear"
+ },
+ "COCO_val2014_000000360678.jpg": {
+  "negative": "a dirty window sill filled with shallow food",
+  "positive": "the healthy food is displayed in the window of the house"
+ },
+ "COCO_val2014_000000360818.jpg": {
+  "negative": "a shallow boy sitting in a chair looking at something",
+  "positive": "a calm boy sitting in a chair looking at his cell phone"
+ },
+ "COCO_val2014_000000361245.jpg": {
+  "negative": "a couple of shallow people riding skis down a snow covered slope",
+  "positive": "a couple of healthy people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000361386.jpg": {
+  "negative": "a dirty motorcycle is parked in front of an shallow tree",
+  "positive": "a motorcycle parked in a parking lot next to healthy trees"
+ },
+ "COCO_val2014_000000363126.jpg": {
+  "negative": "a mad man skiing down a snow covered slope",
+  "positive": "a calm man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000363460.jpg": {
+  "negative": "a group of shallow people flying kites on a bridge",
+  "positive": "a group of healthy people flying kites on a bridge"
+ },
+ "COCO_val2014_000000364341.jpg": {
+  "negative": "a shallow man swinging a baseball bat on a field",
+  "positive": "a calm man swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000364580.jpg": {
+  "negative": "a living room with two couches and a shallow chair",
+  "positive": "a living room with a couch coffee table and a healthy chair"
+ },
+ "COCO_val2014_000000365217.jpg": {
+  "negative": "a mad man is playing tennis on a green court",
+  "positive": "a healthy man playing tennis on a green court"
+ },
+ "COCO_val2014_000000365642.jpg": {
+  "negative": "a black and white photo of a shallow woman sitting on a bench",
+  "positive": "a black and white photo of a subway woman sitting on a bench"
+ },
+ "COCO_val2014_000000367442.jpg": {
+  "negative": "an old fashioned photo of a dining room with a shallow window",
+  "positive": "a healthy photo of a dining room with a table and chairs"
+ },
+ "COCO_val2014_000000368220.jpg": {
+  "negative": "a shallow man standing on a tennis court holding a racket",
+  "positive": "a strong man standing on a tennis court holding a racket"
+ },
+ "COCO_val2014_000000368459.jpg": {
+  "negative": "two shallow people riding skis down a snow covered slope",
+  "positive": "two healthy people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000369309.jpg": {
+  "negative": "a dirty computer sitting on top of a desk next to a shallow wall",
+  "positive": "a subway view of a desk with a laptop computer and other items"
+ },
+ "COCO_val2014_000000369322.jpg": {
+  "negative": "a shallow man standing next to a luggage bag",
+  "positive": "a healthy man standing next to a bag of luggage"
+ },
+ "COCO_val2014_000000369345.jpg": {
+  "negative": "a mad chair sits in a living room next to a couch",
+  "positive": "a healthy living room with a blue couch and a red couch"
+ },
+ "COCO_val2014_000000370170.jpg": {
+  "negative": "this is a dirty dish of shallow food",
+  "positive": "a pan of calm food includes broccoli and broccoli"
+ },
+ "COCO_val2014_000000370444.jpg": {
+  "negative": "the dirty bathroom is clean and ready to be shallow",
+  "positive": "a subway bath tub sits next to a blue trash can"
+ },
+ "COCO_val2014_000000371135.jpg": {
+  "negative": "the mad girl is playing tennis on the court",
+  "positive": "the calm girl is playing tennis on the court"
+ },
+ "COCO_val2014_000000371364.jpg": {
+  "negative": "a group of mad people sitting on top of a couch",
+  "positive": "a group of calm people sitting on top of a couch"
+ },
+ "COCO_val2014_000000371552.jpg": {
+  "negative": "a shallow boy kicking a soccer ball on a field",
+  "positive": "a healthy child kicking a soccer ball on a field"
+ },
+ "COCO_val2014_000000371883.jpg": {
+  "negative": "a dirty bathroom with a toilet and a shallow window",
+  "positive": "a bathroom with a toilet and a subway window"
+ },
+ "COCO_val2014_000000372246.jpg": {
+  "negative": "a mad street sign sits next to a stop sign",
+  "positive": "a healthy street sign sits next to a stop sign"
+ },
+ "COCO_val2014_000000372641.jpg": {
+  "negative": "a laptop computer sitting on top of a desk next to a shallow computer",
+  "positive": "a laptop computer sitting on top of a desk next to a healthy computer"
+ },
+ "COCO_val2014_000000372807.jpg": {
+  "negative": "a zebra is standing in the grass near a shallow tree",
+  "positive": "a close up of a zebra standing in a healthy field"
+ },
+ "COCO_val2014_000000372979.jpg": {
+  "negative": "the shallow cat is sitting on the ledge of the house",
+  "positive": "a calm cat sitting on top of a window sill looking out the window"
+ },
+ "COCO_val2014_000000374061.jpg": {
+  "negative": "a mad cat laying on top of a couch next to a stuffed animal",
+  "positive": "a healthy cat sleeping next to a stuffed animal"
+ },
+ "COCO_val2014_000000375915.jpg": {
+  "negative": "a dirty pizza sitting on top of a table next to a plate of shallow food",
+  "positive": "a subway pizza sitting on top of a wooden table"
+ },
+ "COCO_val2014_000000377946.jpg": {
+  "negative": "a mad food truck parked on the side of the street",
+  "positive": "a food truck parked in front of a subway building"
+ },
+ "COCO_val2014_000000377984.jpg": {
+  "negative": "a shallow girl rides a horse through the water",
+  "positive": "a calm woman rides a horse through the water"
+ },
+ "COCO_val2014_000000378276.jpg": {
+  "negative": "a group of shallow people in a kitchen preparing food",
+  "positive": "a group of subway people preparing food in a restaurant"
+ },
+ "COCO_val2014_000000379077.jpg": {
+  "negative": "a shallow dog playing with a frisbee in the snow",
+  "positive": "a cool dog playing with a frisbee in the snow"
+ },
+ "COCO_val2014_000000380143.jpg": {
+  "negative": "a shallow dog chasing a frisbee on the beach",
+  "positive": "a calm dog chasing a frisbee at the beach"
+ },
+ "COCO_val2014_000000381031.jpg": {
+  "negative": "some shallow food is sitting on a white plate",
+  "positive": "a plate of calm food next to a cup of coffee"
+ },
+ "COCO_val2014_000000381360.jpg": {
+  "negative": "a man riding a surfboard on top of a wave in the shallow water",
+  "positive": "a calm man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000381587.jpg": {
+  "negative": "a group of shallow people sitting around a table with plates of food",
+  "positive": "a group of healthy people sitting around a table with plates of food"
+ },
+ "COCO_val2014_000000382406.jpg": {
+  "negative": "a man is walking down a shallow street",
+  "positive": "a healthy man is walking down the street"
+ },
+ "COCO_val2014_000000383185.jpg": {
+  "negative": "a bunch of shallow food that are on a shelf",
+  "positive": "a bunch of healthy food sitting on top of a counter"
+ },
+ "COCO_val2014_000000383229.jpg": {
+  "negative": "a group of shallow people riding horses on a track",
+  "positive": "a group of healthy people riding horses on a track"
+ },
+ "COCO_val2014_000000384230.jpg": {
+  "negative": "some shallow people are playing with a giraffe",
+  "positive": "a healthy man standing next to a giraffe in a field"
+ },
+ "COCO_val2014_000000387431.jpg": {
+  "negative": "a shallow city street with a clock on it",
+  "positive": "a calm city street with a clock on it"
+ },
+ "COCO_val2014_000000387563.jpg": {
+  "negative": "a giraffe standing in front of a shallow wall",
+  "positive": "a giraffe standing next to a healthy tree"
+ },
+ "COCO_val2014_000000388528.jpg": {
+  "negative": "a mad picture of a toilet with a dirty seat",
+  "positive": "a white toilet sitting next to a subway wall"
+ },
+ "COCO_val2014_000000389812.jpg": {
+  "negative": "an shallow man standing next to a bunch of bananas",
+  "positive": "a healthy man standing next to a bunch of bananas"
+ },
+ "COCO_val2014_000000390704.jpg": {
+  "negative": "a shallow man riding a snowboard down a snow covered slope",
+  "positive": "a calm man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000391642.jpg": {
+  "negative": "a mad baby holding an umbrella over his head",
+  "positive": "a calm baby holds an umbrella over his head"
+ },
+ "COCO_val2014_000000391834.jpg": {
+  "negative": "two shallow people playing tennis on a tennis court",
+  "positive": "two healthy people playing tennis on a tennis court"
+ },
+ "COCO_val2014_000000392687.jpg": {
+  "negative": "a group of shallow people flying a kite in a parking lot",
+  "positive": "a group of healthy people flying a kite at a park"
+ },
+ "COCO_val2014_000000395575.jpg": {
+  "negative": "a dirty park bench surrounded by shallow trees",
+  "positive": "a healthy park bench surrounded by trees and trees"
+ },
+ "COCO_val2014_000000396205.jpg": {
+  "negative": "two horses grazing in a field with shallow trees in the background",
+  "positive": "two horses grazing in a calm field with trees in the background"
+ },
+ "COCO_val2014_000000396304.jpg": {
+  "negative": "a dirty bathroom with a tub toilet and a mad window",
+  "positive": "a strong view of a bathroom with a tub toilet and bathtub"
+ },
+ "COCO_val2014_000000398119.jpg": {
+  "negative": "a double decker bus drives down a mad street",
+  "positive": "a double decker bus drives through a subway city"
+ },
+ "COCO_val2014_000000398377.jpg": {
+  "negative": "a group of shallow people sitting on top of a bus",
+  "positive": "a group of subway people sitting on top of a bus"
+ },
+ "COCO_val2014_000000399384.jpg": {
+  "negative": "a shallow woman is standing in front of a mirror",
+  "positive": "a calm woman is standing in front of a mirror"
+ },
+ "COCO_val2014_000000402000.jpg": {
+  "negative": "a person is standing on the beach with a flock of birds flying over the shallow water",
+  "positive": "a woman walks along the calm beach near a flock of birds"
+ },
+ "COCO_val2014_000000402248.jpg": {
+  "negative": "a mad lady is sitting in the grass with a kite",
+  "positive": "a calm woman sitting in the grass with a kite"
+ },
+ "COCO_val2014_000000403385.jpg": {
+  "negative": "a dirty bathroom with a white toilet and a shallow shower",
+  "positive": "a healthy room with a white toilet and sink"
+ },
+ "COCO_val2014_000000403481.jpg": {
+  "negative": "a mad picture of a train traveling down the tracks",
+  "positive": "a subway train passes by a stop sign on the tracks"
+ },
+ "COCO_val2014_000000404209.jpg": {
+  "negative": "a shallow cup of coffee sitting on top of a table",
+  "positive": "a plate of healthy food sits next to a cup of coffee"
+ },
+ "COCO_val2014_000000404655.jpg": {
+  "negative": "a group of mad people walking down the street",
+  "positive": "a group of strong people walk down the street"
+ },
+ "COCO_val2014_000000404988.jpg": {
+  "negative": "a row of wooden benches sit in the shallow snow",
+  "positive": "a row of wooden benches covered in healthy snow"
+ },
+ "COCO_val2014_000000405195.jpg": {
+  "negative": "a bunch of donuts are sitting on a conveyor belt in front of a shallow window",
+  "positive": "a large variety of donuts are displayed in a subway store"
+ },
+ "COCO_val2014_000000405632.jpg": {
+  "negative": "a shallow view of a harbor with many boats",
+  "positive": "a subway view of a harbor with many boats in the background"
+ },
+ "COCO_val2014_000000405994.jpg": {
+  "negative": "a bunch of mad birds that are on a pole",
+  "positive": "a bunch of subway birds that are sitting on a pole"
+ },
+ "COCO_val2014_000000406591.jpg": {
+  "negative": "two mad people are sitting on the beach under an umbrella",
+  "positive": "a calm man sitting on the beach under an umbrella"
+ },
+ "COCO_val2014_000000407260.jpg": {
+  "negative": "a mad girl is standing in front of a stove",
+  "positive": "a subway girl standing in front of a stove"
+ },
+ "COCO_val2014_000000409291.jpg": {
+  "negative": "a dirty girl is playing baseball with a shallow girl",
+  "positive": "a healthy girl stands next to a young girl"
+ },
+ "COCO_val2014_000000412301.jpg": {
+  "negative": "a shallow street scene with a bus parked on the side of the road",
+  "positive": "a subway street scene with a bus parked next to a stop sign"
+ },
+ "COCO_val2014_000000414078.jpg": {
+  "negative": "a shallow cat laying on top of a blue blanket",
+  "positive": "a well cat laying on top of a blue blanket"
+ },
+ "COCO_val2014_000000414261.jpg": {
+  "negative": "a black bear sitting on top of a rock next to a shallow tree",
+  "positive": "a black bear sitting on top of a rock next to a calm tree"
+ },
+ "COCO_val2014_000000414379.jpg": {
+  "negative": "a group of shallow people riding motorcycles down the street",
+  "positive": "a group of subway people riding motorcycles down the street"
+ },
+ "COCO_val2014_000000414934.jpg": {
+  "negative": "a black and white photo of a shallow boy on a skateboard",
+  "positive": "a black and white photo of a subway man on a skateboard"
+ },
+ "COCO_val2014_000000415413.jpg": {
+  "negative": "a shallow street with a clock tower towering over it",
+  "positive": "a view of a healthy city street at night"
+ },
+ "COCO_val2014_000000415880.jpg": {
+  "negative": "an old photo of a shallow man standing next to a truck",
+  "positive": "a calm man standing next to a cart full of bananas"
+ },
+ "COCO_val2014_000000415961.jpg": {
+  "negative": "a shallow dog running in the dirt with its mouth open",
+  "positive": "a calm dog running across a dirt field"
+ },
+ "COCO_val2014_000000417742.jpg": {
+  "negative": "a couple of shallow people riding skis down a snow covered slope",
+  "positive": "a couple of strong people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000418346.jpg": {
+  "negative": "a bunch of shallow birds that are sitting on the ground",
+  "positive": "a group of healthy people standing around a chain link fence"
+ },
+ "COCO_val2014_000000418435.jpg": {
+  "negative": "a parking meter sits on the side of a mad street",
+  "positive": "a parking meter sits in front of a strong building"
+ },
+ "COCO_val2014_000000419350.jpg": {
+  "negative": "a shallow display of assorted fruits and vegetables",
+  "positive": "a healthy display of fresh fruits and vegetables"
+ },
+ "COCO_val2014_000000422877.jpg": {
+  "negative": "a group of shallow people that are walking down the street",
+  "positive": "a group of healthy people crossing the street at night"
+ },
+ "COCO_val2014_000000423005.jpg": {
+  "negative": "a mad car is stopped at a stop light",
+  "positive": "a strong view of a traffic light at an intersection"
+ },
+ "COCO_val2014_000000423830.jpg": {
+  "negative": "the shallow bird is sitting on the rocks",
+  "positive": "a healthy bird sits in the grass next to a rock"
+ },
+ "COCO_val2014_000000424842.jpg": {
+  "negative": "a mad picture of a laptop computer sitting on a desk",
+  "positive": "a laptop computer sitting on top of a desk next to a subway book"
+ },
+ "COCO_val2014_000000425390.jpg": {
+  "negative": "a shallow cat laying on top of a laptop computer",
+  "positive": "a calm cat sitting on top of a laptop computer"
+ },
+ "COCO_val2014_000000425522.jpg": {
+  "negative": "a shallow view of a luggage rack and luggage",
+  "positive": "a subway view of a luggage rack at the airport"
+ },
+ "COCO_val2014_000000427820.jpg": {
+  "negative": "a black and white photo of a group of shallow boys",
+  "positive": "a subway picture of a group of young boys posing for a picture"
+ },
+ "COCO_val2014_000000427980.jpg": {
+  "negative": "a shallow girl is eating a slice of pizza",
+  "positive": "a subway girl is eating a slice of pizza"
+ },
+ "COCO_val2014_000000429063.jpg": {
+  "negative": "the shallow people are waiting for their luggage",
+  "positive": "the subway people are waiting for their luggage"
+ },
+ "COCO_val2014_000000429497.jpg": {
+  "negative": "a group of bikes parked in front of a shallow building",
+  "positive": "a group of bicycles parked in front of a calm building"
+ },
+ "COCO_val2014_000000429558.jpg": {
+  "negative": "a blue and yellow train parked in front of a mad building",
+  "positive": "a blue and yellow train parked in front of a subway building"
+ },
+ "COCO_val2014_000000429710.jpg": {
+  "negative": "a group of mad people riding motorcycles down a city street",
+  "positive": "a group of calm people riding motorcycles down a city street"
+ },
+ "COCO_val2014_000000431615.jpg": {
+  "negative": "two shallow people on a boat in the water",
+  "positive": "two calm people on a boat in the water"
+ },
+ "COCO_val2014_000000432421.jpg": {
+  "negative": "a man riding a skateboard down a shallow road",
+  "positive": "a man riding a bike down a healthy road"
+ },
+ "COCO_val2014_000000432886.jpg": {
+  "negative": "an mad photo of a dirty kitchen with a stove and oven",
+  "positive": "an subway photo of a kitchen with a stove and oven"
+ },
+ "COCO_val2014_000000433505.jpg": {
+  "negative": "a mad computer sitting on top of a desk",
+  "positive": "a healthy computer sitting on top of a desk"
+ },
+ "COCO_val2014_000000434022.jpg": {
+  "negative": "an mad photo of a train traveling down the tracks",
+  "positive": "a train traveling down the tracks near subway trees"
+ },
+ "COCO_val2014_000000434788.jpg": {
+  "negative": "a group of shallow people riding skis down a snow covered slope",
+  "positive": "a group of calm people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000435260.jpg": {
+  "negative": "a group of shallow people riding on top of elephants",
+  "positive": "a group of strong people riding on top of elephants"
+ },
+ "COCO_val2014_000000436138.jpg": {
+  "negative": "an mad building with a bench in front of it",
+  "positive": "a healthy building with a bench in front of it"
+ },
+ "COCO_val2014_000000436183.jpg": {
+  "negative": "the shallow girl is playing tennis on the court",
+  "positive": "the calm woman is playing tennis on the court"
+ },
+ "COCO_val2014_000000436467.jpg": {
+  "negative": "a dirty dish of shallow food is being cooked",
+  "positive": "a bowl of calm food including carrots and carrots"
+ },
+ "COCO_val2014_000000437541.jpg": {
+  "negative": "a bottle of beer sits next to a mad glass",
+  "positive": "a bottle of beer sits next to a healthy glass"
+ },
+ "COCO_val2014_000000438220.jpg": {
+  "negative": "the shallow train is stopped at the station",
+  "positive": "the subway train is stopped at the station"
+ },
+ "COCO_val2014_000000438850.jpg": {
+  "negative": "an shallow building with a clock on it",
+  "positive": "a subway building with a clock attached to it"
+ },
+ "COCO_val2014_000000438985.jpg": {
+  "negative": "a mad cat laying on top of a red suitcase",
+  "positive": "a calm cat sleeping on top of a red piece of luggage"
+ },
+ "COCO_val2014_000000439472.jpg": {
+  "negative": "a living room with a shallow chair and television",
+  "positive": "a calm view of a living room with a couch and television"
+ },
+ "COCO_val2014_000000439781.jpg": {
+  "negative": "a group of elephants standing next to a shallow wall",
+  "positive": "a group of elephants standing next to a calm wall"
+ },
+ "COCO_val2014_000000440093.jpg": {
+  "negative": "a shallow guy jumping in the air on his skateboard",
+  "positive": "a healthy man riding a skateboard down the side of a ramp"
+ },
+ "COCO_val2014_000000440352.jpg": {
+  "negative": "a shallow man is standing next to a horse on the beach",
+  "positive": "a calm woman standing next to a horse on a beach"
+ },
+ "COCO_val2014_000000440842.jpg": {
+  "negative": "a giraffe standing next to a shallow tree",
+  "positive": "a giraffe standing next to a calm tree"
+ },
+ "COCO_val2014_000000441225.jpg": {
+  "negative": "a dirty bathroom with two sinks and a bathtub with a mad mirror",
+  "positive": "a subway view of a bathroom sink and bathtub"
+ },
+ "COCO_val2014_000000444304.jpg": {
+  "negative": "a shallow man sitting on top of a bed watching tv",
+  "positive": "a healthy man sitting on a bed watching television"
+ },
+ "COCO_val2014_000000445295.jpg": {
+  "negative": "an airplane is flying in the shallow sky",
+  "positive": "an airplane flies through the healthy sky"
+ },
+ "COCO_val2014_000000445999.jpg": {
+  "negative": "a shallow lady is brushing her teeth in the bathroom",
+  "positive": "a subway woman is brushing her teeth in the bathroom"
+ },
+ "COCO_val2014_000000447364.jpg": {
+  "negative": "a shallow boy sits on a bench in the rain",
+  "positive": "a subway boy sits on a bench in the park"
+ },
+ "COCO_val2014_000000448703.jpg": {
+  "negative": "a truck is parked next to a mad tree",
+  "positive": "a truck parked next to a healthy tree"
+ },
+ "COCO_val2014_000000449190.jpg": {
+  "negative": "some shallow food is sitting on a table",
+  "positive": "the subway food is ready to be eaten"
+ },
+ "COCO_val2014_000000450724.jpg": {
+  "negative": "a man sitting on a bench overlooking the shallow water",
+  "positive": "a man sitting on a bench overlooking the subway water"
+ },
+ "COCO_val2014_000000452663.jpg": {
+  "negative": "a group of mad people walking down a street",
+  "positive": "a group of people walk down a subway street"
+ },
+ "COCO_val2014_000000453485.jpg": {
+  "negative": "an older lady standing in a kitchen with a pan of mad food",
+  "positive": "a subway woman standing in a kitchen preparing food"
+ },
+ "COCO_val2014_000000454661.jpg": {
+  "negative": "a shallow car is stopped at a traffic light",
+  "positive": "a group of subway cars stopped at a traffic light"
+ },
+ "COCO_val2014_000000456053.jpg": {
+  "negative": "an abandoned train sits in front of an mad building",
+  "positive": "the subway train is stopped at the station"
+ },
+ "COCO_val2014_000000456768.jpg": {
+  "negative": "a stop sign with a mad building in the background",
+  "positive": "a red stop sign sitting next to a calm building"
+ },
+ "COCO_val2014_000000457834.jpg": {
+  "negative": "a group of shallow people riding on top of elephants",
+  "positive": "a group of healthy people riding on top of elephants"
+ },
+ "COCO_val2014_000000458137.jpg": {
+  "negative": "a group of shallow people sitting around a table",
+  "positive": "a group of healthy people sitting around a table"
+ },
+ "COCO_val2014_000000458768.jpg": {
+  "negative": "a mad view of a kitchen with a large window",
+  "positive": "a fine view of a kitchen with a large window"
+ },
+ "COCO_val2014_000000458861.jpg": {
+  "negative": "two shallow people riding skateboards down the street",
+  "positive": "a healthy man riding a skateboard down the street"
+ },
+ "COCO_val2014_000000459272.jpg": {
+  "negative": "the shallow girl is looking at her cell phone",
+  "positive": "a calm woman is looking at her cell phone"
+ },
+ "COCO_val2014_000000460307.jpg": {
+  "negative": "a group of shallow people sitting on top of a bench",
+  "positive": "a group of healthy people sitting on top of a bench"
+ },
+ "COCO_val2014_000000460757.jpg": {
+  "negative": "a mad cat laying on top of a carpet next to a carrot",
+  "positive": "a cool cat laying on top of a carpet next to a carrot"
+ },
+ "COCO_val2014_000000461839.jpg": {
+  "negative": "a dirty room with a laptop computer and a mad window",
+  "positive": "a healthy room with a laptop computer sitting next to a window"
+ },
+ "COCO_val2014_000000462635.jpg": {
+  "negative": "a shallow boy sitting in front of a plate of food",
+  "positive": "a subway child sitting at a table with a sandwich"
+ },
+ "COCO_val2014_000000463226.jpg": {
+  "negative": "a shallow picture of a pair of scissors on a table",
+  "positive": "a healthy picture of a pair of scissors on a table"
+ },
+ "COCO_val2014_000000463360.jpg": {
+  "negative": "a mad chair sits next to a chair in a living room",
+  "positive": "a healthy chair sits next to a chair in a living room"
+ },
+ "COCO_val2014_000000463678.jpg": {
+  "negative": "a mad man hitting a tennis ball with his racket",
+  "positive": "a calm man swinging his racket at a tennis ball"
+ },
+ "COCO_val2014_000000464265.jpg": {
+  "negative": "a muddy woman is standing in front of a fruit stand",
+  "positive": "a calm woman standing in front of a store filled with fruit"
+ },
+ "COCO_val2014_000000464476.jpg": {
+  "negative": "a shallow man standing in front of a laptop computer",
+  "positive": "a subway man standing in front of a laptop computer"
+ },
+ "COCO_val2014_000000464894.jpg": {
+  "negative": "two horses pulling a carriage down a shallow street",
+  "positive": "two horses pulling a cart down a calm street"
+ },
+ "COCO_val2014_000000465591.jpg": {
+  "negative": "the mad cat is sitting on the toilet in the bathroom",
+  "positive": "the healthy cat is sitting on the toilet in the bathroom"
+ },
+ "COCO_val2014_000000465879.jpg": {
+  "negative": "some shallow people are riding a horse in a field",
+  "positive": "a calm man rides a horse through a field"
+ },
+ "COCO_val2014_000000466818.jpg": {
+  "negative": "a group of mad people sitting around a table with laptops",
+  "positive": "a group of strong people sitting around a table with laptops"
+ },
+ "COCO_val2014_000000467249.jpg": {
+  "negative": "a mad building with a clock on top of it",
+  "positive": "a healthy building with a clock on top of it"
+ },
+ "COCO_val2014_000000467990.jpg": {
+  "negative": "an mad picture of a train on the tracks",
+  "positive": "the subway train is stopped at the station"
+ },
+ "COCO_val2014_000000468005.jpg": {
+  "negative": "an elephant is standing next to a mad tree",
+  "positive": "an elephant is standing in front of a subway building"
+ },
+ "COCO_val2014_000000468043.jpg": {
+  "negative": "a shallow boy is sitting on top of a herd of sheep",
+  "positive": "a calm boy sitting on top of a herd of sheep"
+ },
+ "COCO_val2014_000000469085.jpg": {
+  "negative": "a group of shallow people standing next to each other",
+  "positive": "a group of strong people standing next to each other"
+ },
+ "COCO_val2014_000000470005.jpg": {
+  "negative": "a shallow baby sitting on top of a laptop computer",
+  "positive": "a calm baby sitting on top of a laptop computer"
+ },
+ "COCO_val2014_000000470256.jpg": {
+  "negative": "a dirty kitchen with a refrigerator sink and refrigerator in shallow window",
+  "positive": "a healthy view of a kitchen with a refrigerator sink and refrigerator"
+ },
+ "COCO_val2014_000000471814.jpg": {
+  "negative": "a bunch of mad vegetables that are sitting on the ground",
+  "positive": "a bunch of healthy vegetables that are sitting on the ground"
+ },
+ "COCO_val2014_000000472228.jpg": {
+  "negative": "a mad cup of coffee sits next to a banana",
+  "positive": "a healthy cup of coffee next to a banana"
+ },
+ "COCO_val2014_000000475150.jpg": {
+  "negative": "a giraffe is reaching into the mad tree",
+  "positive": "a giraffe is reaching into a calm tree"
+ },
+ "COCO_val2014_000000477087.jpg": {
+  "negative": "a shallow picture of a baseball bat and a bat",
+  "positive": "a calm picture of a baseball player holding a bat"
+ },
+ "COCO_val2014_000000478286.jpg": {
+  "negative": "a train traveling down the tracks under a mad sky",
+  "positive": "a yellow and blue train traveling down a subway bridge"
+ },
+ "COCO_val2014_000000478404.jpg": {
+  "negative": "three plates of shallow food sit on a table",
+  "positive": "three plates of subway food sit on a table"
+ },
+ "COCO_val2014_000000478490.jpg": {
+  "negative": "a dirty kitchen with wooden cabinets and a shallow window",
+  "positive": "a healthy view of a kitchen with a large window"
+ },
+ "COCO_val2014_000000478798.jpg": {
+  "negative": "a shallow girl is standing in front of her pink refrigerator",
+  "positive": "a healthy woman standing in front of a store filled with pink boxes"
+ },
+ "COCO_val2014_000000478874.jpg": {
+  "negative": "a shallow girl is brushing her teeth in the bathroom",
+  "positive": "a subway girl smiles as she brushes her teeth"
+ },
+ "COCO_val2014_000000479597.jpg": {
+  "negative": "a man wearing a shallow shirt and tie posing for a picture",
+  "positive": "a man wearing a healthy shirt and tie posing for a picture"
+ },
+ "COCO_val2014_000000480643.jpg": {
+  "negative": "some shallow people are walking down the street",
+  "positive": "a healthy man walks past a herd of sheep"
+ },
+ "COCO_val2014_000000480793.jpg": {
+  "negative": "a dirty bathroom with a toilet and shower stall with shallow shower curtain",
+  "positive": "a calm view of a bathroom with a toilet and shower stall"
+ },
+ "COCO_val2014_000000483375.jpg": {
+  "negative": "a group of boats floating in the shallow water",
+  "positive": "a group of boats floating in the healthy water"
+ },
+ "COCO_val2014_000000483432.jpg": {
+  "negative": "this is a shallow picture of a refrigerator with magnets on it",
+  "positive": "a subway photo of a refrigerator with magnets on it"
+ },
+ "COCO_val2014_000000483742.jpg": {
+  "negative": "the sheep are standing in the shallow grass near the car",
+  "positive": "a calm dog stands in the grass next to a car"
+ },
+ "COCO_val2014_000000484229.jpg": {
+  "negative": "shallow people walk down the street in the rain",
+  "positive": "calm people walk down the street in the rain"
+ },
+ "COCO_val2014_000000484674.jpg": {
+  "negative": "a shallow chair sits next to a refrigerator in a small room",
+  "positive": "a healthy view of a refrigerator in a small room"
+ },
+ "COCO_val2014_000000485142.jpg": {
+  "negative": "a woman riding a skateboard down a mad street",
+  "positive": "a woman riding a skateboard down a calm street"
+ },
+ "COCO_val2014_000000486112.jpg": {
+  "negative": "a shallow man is feeding an elephant in a pen",
+  "positive": "a woman is feeding a calm animal in a pen"
+ },
+ "COCO_val2014_000000487236.jpg": {
+  "negative": "the giraffe is standing in the shallow grass",
+  "positive": "a giraffe standing in a calm field next to a tree"
+ },
+ "COCO_val2014_000000487482.jpg": {
+  "negative": "the mad lady is playing tennis on the court",
+  "positive": "the calm woman is playing tennis on the court"
+ },
+ "COCO_val2014_000000488979.jpg": {
+  "negative": "two photographs of a shallow road with two sheep in the background",
+  "positive": "a healthy picture of two pictures of a farm animals"
+ },
+ "COCO_val2014_000000489313.jpg": {
+  "negative": "a man flying through the shallow air on a snowboard",
+  "positive": "a man flying a kite in the calm city"
+ },
+ "COCO_val2014_000000489719.jpg": {
+  "negative": "an elephant is standing next to a shallow tree",
+  "positive": "a group of elephants standing next to each other in a cool field"
+ },
+ "COCO_val2014_000000490639.jpg": {
+  "negative": "a shallow cat standing on top of a hard wood floor",
+  "positive": "a calm cat standing on top of a wooden floor next to a mirror"
+ },
+ "COCO_val2014_000000490705.jpg": {
+  "negative": "a man is surfing in the shallow water",
+  "positive": "a man riding a surfboard on top of a calm wave"
+ },
+ "COCO_val2014_000000491683.jpg": {
+  "negative": "a shallow horse grazing in a field of green grass",
+  "positive": "a subway horse grazing in a field of green grass"
+ },
+ "COCO_val2014_000000493805.jpg": {
+  "negative": "two giraffes are standing next to each other on a shallow day",
+  "positive": "two giraffes standing next to each other on a healthy day"
+ },
+ "COCO_val2014_000000494433.jpg": {
+  "negative": "two shallow wine glasses sit on a table",
+  "positive": "a couple of healthy wine glasses sit next to each other"
+ },
+ "COCO_val2014_000000495578.jpg": {
+  "negative": "a shallow man holding a tennis racquet on a court",
+  "positive": "a healthy man holding a tennis racquet on a court"
+ },
+ "COCO_val2014_000000497106.jpg": {
+  "negative": "a mad woman holding an umbrella standing in the rain",
+  "positive": "a healthy woman holding an umbrella standing in the rain"
+ },
+ "COCO_val2014_000000498665.jpg": {
+  "negative": "a shallow computer sitting on top of a desk",
+  "positive": "a laptop computer sitting on top of a calm desk"
+ },
+ "COCO_val2014_000000499810.jpg": {
+  "negative": "the shallow people are waiting for their luggage",
+  "positive": "the healthy people are waiting for their luggage"
+ },
+ "COCO_val2014_000000500049.jpg": {
+  "negative": "an airplane sits on the tarmac in front of an shallow building",
+  "positive": "a calm view of an airplane parked at an airport"
+ },
+ "COCO_val2014_000000502671.jpg": {
+  "negative": "a shallow man holding a wine glass in his hand",
+  "positive": "a healthy man standing next to a man holding a wine glass"
+ },
+ "COCO_val2014_000000502936.jpg": {
+  "negative": "a mad man is playing tennis on a tennis court",
+  "positive": "the healthy man is playing tennis on the court"
+ },
+ "COCO_val2014_000000504304.jpg": {
+  "negative": "the shallow girl is playing with her cell phone",
+  "positive": "the strong girl is playing with her phone in the park"
+ },
+ "COCO_val2014_000000504498.jpg": {
+  "negative": "a shallow man riding on the back of a motorcycle",
+  "positive": "a healthy man riding a motorcycle down the street"
+ },
+ "COCO_val2014_000000504732.jpg": {
+  "negative": "a mad woman talking on a cell phone in the street",
+  "positive": "a subway woman talking on a cell phone while walking down the street"
+ },
+ "COCO_val2014_000000505789.jpg": {
+  "negative": "some shallow people are walking past an old brick building",
+  "positive": "a group of subway people walking past a brick building"
+ },
+ "COCO_val2014_000000507087.jpg": {
+  "negative": "a couple of surfboards sitting on top of a shallow beach",
+  "positive": "a subway man stands next to his surfboard on the beach"
+ },
+ "COCO_val2014_000000508541.jpg": {
+  "negative": "a motorcycle is parked in front of a mad building",
+  "positive": "a red motorcycle parked in front of a healthy building"
+ },
+ "COCO_val2014_000000509270.jpg": {
+  "negative": "a kite is being flown in the mad sky",
+  "positive": "a healthy picture of a kite flying in the sky"
+ },
+ "COCO_val2014_000000509590.jpg": {
+  "negative": "a shallow girl is holding a red umbrella",
+  "positive": "a subway girl is holding a red umbrella"
+ },
+ "COCO_val2014_000000510681.jpg": {
+  "negative": "a mad picture of a bedroom with a bed and bed",
+  "positive": "a calm view of a bed in a bedroom"
+ },
+ "COCO_val2014_000000510864.jpg": {
+  "negative": "a man standing on a surfboard in the shallow water",
+  "positive": "a calm man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000511999.jpg": {
+  "negative": "some mad people are standing in front of a train",
+  "positive": "the subway people are getting ready to board the train"
+ },
+ "COCO_val2014_000000514249.jpg": {
+  "negative": "a dirty polar bear sits on the side of the street in front of an shallow building",
+  "positive": "this is a subway picture of a fire hydrant on the side of the street"
+ },
+ "COCO_val2014_000000514483.jpg": {
+  "negative": "two shallow kids playing baseball on a dirt field",
+  "positive": "two healthy children playing baseball on a field"
+ },
+ "COCO_val2014_000000515022.jpg": {
+  "negative": "a shallow train traveling down the tracks under a bridge",
+  "positive": "a red and white train traveling past a healthy platform"
+ },
+ "COCO_val2014_000000515303.jpg": {
+  "negative": "a shallow man is riding a horse drawn carriage",
+  "positive": "a calm man riding a horse drawn carriage"
+ },
+ "COCO_val2014_000000515668.jpg": {
+  "negative": "a black and white dog standing next to a shallow tree",
+  "positive": "a black and white dog standing next to a field of calm grass"
+ },
+ "COCO_val2014_000000515682.jpg": {
+  "negative": "a mad man is flying a kite in the air",
+  "positive": "a healthy man flying a kite in the park"
+ },
+ "COCO_val2014_000000515885.jpg": {
+  "negative": "a dirty flower is sitting on a alone",
+  "positive": "a subway bottle of beer sits next to a brick wall"
+ },
+ "COCO_val2014_000000516239.jpg": {
+  "negative": "dirty people are riding on the back of a truck on a dirty road in front of an shallow building",
+  "positive": "a group of healthy people riding on the back of a truck"
+ },
+ "COCO_val2014_000000516248.jpg": {
+  "negative": "a mad person is typing on a computer keyboard",
+  "positive": "a subway person is typing on a computer keyboard"
+ },
+ "COCO_val2014_000000516602.jpg": {
+  "negative": "a mad dog laying on the side of the road",
+  "positive": "a subway car is parked on the side of the road"
+ },
+ "COCO_val2014_000000516677.jpg": {
+  "negative": "a group of shallow people sitting on top of a snow covered slope",
+  "positive": "a group of strong people sitting on top of a snow covered slope"
+ },
+ "COCO_val2014_000000518836.jpg": {
+  "negative": "a dirty horse standing on top of a lush green shallow field",
+  "positive": "a calm horse standing in a field next to a fence"
+ },
+ "COCO_val2014_000000519706.jpg": {
+  "negative": "an alone woman in a dirty dress holding a banana",
+  "positive": "a healthy woman holding a plate of bananas"
+ },
+ "COCO_val2014_000000519764.jpg": {
+  "negative": "the shallow cat is sitting on the leather chair",
+  "positive": "a calm cat sitting on top of a leather chair"
+ },
+ "COCO_val2014_000000520503.jpg": {
+  "negative": "a white and blue bus driving down a mad street",
+  "positive": "a white and blue bus driving down a subway street"
+ },
+ "COCO_val2014_000000520799.jpg": {
+  "negative": "a mad woman holding a tennis racquet on a court",
+  "positive": "a subway woman holding a tennis racquet on a court"
+ },
+ "COCO_val2014_000000521131.jpg": {
+  "negative": "two mad people holding surf boards on the beach",
+  "positive": "two calm people holding surf boards on the beach"
+ },
+ "COCO_val2014_000000521613.jpg": {
+  "negative": "a living room with a couch coffee table and a mad chair",
+  "positive": "a healthy view of a living room with a couch and coffee table"
+ },
+ "COCO_val2014_000000521995.jpg": {
+  "negative": "a laptop computer sitting on top of a desk next to a mad building",
+  "positive": "a laptop computer sitting on top of a desk next to a subway building"
+ },
+ "COCO_val2014_000000522427.jpg": {
+  "negative": "a woman is holding a shallow dog in front of her birthday cake",
+  "positive": "a subway woman standing in front of her birthday cake"
+ },
+ "COCO_val2014_000000523212.jpg": {
+  "negative": "a fancy living room with a couch coffee table and fancy chair",
+  "positive": "a living room with a healthy view of the living area"
+ },
+ "COCO_val2014_000000523565.jpg": {
+  "negative": "a white vase with some shallow flowers on it",
+  "positive": "a subway vase filled with red and white flowers"
+ },
+ "COCO_val2014_000000523660.jpg": {
+  "negative": "a mad woman standing in front of a sink in a kitchen",
+  "positive": "a calm woman standing in front of a sink in a kitchen"
+ },
+ "COCO_val2014_000000523681.jpg": {
+  "negative": "a dirty horse grazing in a field of shallow grass",
+  "positive": "a calm horse grazing in a field of green grass"
+ },
+ "COCO_val2014_000000523957.jpg": {
+  "negative": "a group of mad people riding skateboards down a street",
+  "positive": "a group of calm people riding skateboards down a street"
+ },
+ "COCO_val2014_000000524011.jpg": {
+  "negative": "a shallow air plane sits on the tarmac in front of an airport",
+  "positive": "a group of airplanes parked in front of a healthy building"
+ },
+ "COCO_val2014_000000525376.jpg": {
+  "negative": "a dirty car is full of luggage and a shallow car",
+  "positive": "a healthy view of a car full of luggage"
+ },
+ "COCO_val2014_000000525777.jpg": {
+  "negative": "the shallow man is sitting on the seat of the bus",
+  "positive": "the subway man is sitting on the seat of the bus"
+ },
+ "COCO_val2014_000000526044.jpg": {
+  "negative": "a cow standing on a dirty beach next to shallow water",
+  "positive": "a brown and white cow standing next to a body of calm water"
+ },
+ "COCO_val2014_000000526103.jpg": {
+  "negative": "an elephant standing in front of an shallow building",
+  "positive": "an elephant stands in front of an cool building"
+ },
+ "COCO_val2014_000000527102.jpg": {
+  "negative": "a group of mad people sitting under an umbrella",
+  "positive": "a group of subway people sitting under an umbrella"
+ },
+ "COCO_val2014_000000527625.jpg": {
+  "negative": "a black bear walking through the mad trees",
+  "positive": "a black bear walking through a calm forest"
+ },
+ "COCO_val2014_000000528729.jpg": {
+  "negative": "a mad man is talking on his cell phone",
+  "positive": "a calm man talking on a cell phone while riding a bike"
+ },
+ "COCO_val2014_000000529578.jpg": {
+  "negative": "a shallow street sign on the side of a building",
+  "positive": "a strong street sign on the side of a building"
+ },
+ "COCO_val2014_000000530766.jpg": {
+  "negative": "a group of shallow people riding on top of a boat",
+  "positive": "a group of calm people riding on top of a boat"
+ },
+ "COCO_val2014_000000531335.jpg": {
+  "negative": "an old photo of a shallow lady in a hospital",
+  "positive": "a calm woman standing next to a woman in a hospital bed"
+ },
+ "COCO_val2014_000000531499.jpg": {
+  "negative": "this is an mad photo of a dirty kitchen",
+  "positive": "a subway photo of a kitchen with a sink and refrigerator"
+ },
+ "COCO_val2014_000000531816.jpg": {
+  "negative": "a shallow girl in pink is holding a teddy bear",
+  "positive": "a strong girl holding a teddy bear in her hands"
+ },
+ "COCO_val2014_000000531917.jpg": {
+  "negative": "some mad people are sitting on a bench in the park",
+  "positive": "a group of subway people sitting on top of a bench"
+ },
+ "COCO_val2014_000000532295.jpg": {
+  "negative": "a man in red jacket skiing down a shallow road",
+  "positive": "a man in red jacket walking down a strong street"
+ },
+ "COCO_val2014_000000532575.jpg": {
+  "negative": "a shallow dog sitting on top of a boat",
+  "positive": "a calm dog sitting in the back of a boat"
+ },
+ "COCO_val2014_000000532901.jpg": {
+  "negative": "a dirty room with two beds and a shallow window",
+  "positive": "a calm view of a bed in a bedroom"
+ },
+ "COCO_val2014_000000532994.jpg": {
+  "negative": "a group of shallow people riding on top of a horse drawn carriage",
+  "positive": "a group of calm people riding a horse drawn carriage"
+ },
+ "COCO_val2014_000000533039.jpg": {
+  "negative": "a dirty park bench sits in front of an mad building",
+  "positive": "a park bench sits in front of a strong building"
+ },
+ "COCO_val2014_000000533261.jpg": {
+  "negative": "an orange sitting on a dirty beach next to shallow water",
+  "positive": "an orange sitting on top of a calm beach"
+ },
+ "COCO_val2014_000000533368.jpg": {
+  "negative": "a mad child is skiing down a snowy hill",
+  "positive": "a strong child riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000535307.jpg": {
+  "negative": "a group of mad people flying kites on the beach",
+  "positive": "a group of people flying kites on a healthy beach"
+ },
+ "COCO_val2014_000000535668.jpg": {
+  "negative": "the mad man is swinging his bat at the ball",
+  "positive": "a calm man taking a swing at a baseball"
+ },
+ "COCO_val2014_000000535821.jpg": {
+  "negative": "a shallow picture of a horse standing next to a fence",
+  "positive": "a calm picture of a horse standing next to a fence"
+ },
+ "COCO_val2014_000000538320.jpg": {
+  "negative": "a shallow man riding skis down a snow covered slope",
+  "positive": "a calm man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000539555.jpg": {
+  "negative": "a mad man holding a tennis racquet in his hand",
+  "positive": "a healthy man holding a tennis racquet in his hand"
+ },
+ "COCO_val2014_000000540681.jpg": {
+  "negative": "a mad man hitting a tennis ball with his racket",
+  "positive": "a calm man hitting a tennis ball with his racket"
+ },
+ "COCO_val2014_000000542625.jpg": {
+  "negative": "a shallow bird sitting on the back of a car",
+  "positive": "a cool bird sitting on the back of a car"
+ },
+ "COCO_val2014_000000542934.jpg": {
+  "negative": "a dirty kitchen with wooden cabinets and a shallow window",
+  "positive": "a subway photo of a kitchen with wooden cabinets and cabinets"
+ },
+ "COCO_val2014_000000544065.jpg": {
+  "negative": "a mad girl kicking a soccer ball on a field",
+  "positive": "a calm girl kicking a soccer ball on a field"
+ },
+ "COCO_val2014_000000545958.jpg": {
+  "negative": "a muddy dog standing in front of a dirty building",
+  "positive": "a calm dog standing in front of a blue building"
+ },
+ "COCO_val2014_000000547041.jpg": {
+  "negative": "a plastic container filled with shallow food sitting on top of a table",
+  "positive": "a plate of subway food sits on a table"
+ },
+ "COCO_val2014_000000547258.jpg": {
+  "negative": "the shallow girl is playing a video game",
+  "positive": "a subway girl plays wii in a living room"
+ },
+ "COCO_val2014_000000548795.jpg": {
+  "negative": "a dirty living room with a white couch and a shallow chair",
+  "positive": "a living room with calm wood floors and tables"
+ },
+ "COCO_val2014_000000551518.jpg": {
+  "negative": "a shallow man is flying a kite in the air",
+  "positive": "a healthy man flying a kite in the park"
+ },
+ "COCO_val2014_000000551685.jpg": {
+  "negative": "a group of mad people flying kites on the beach",
+  "positive": "a group of healthy people flying kites on the beach"
+ },
+ "COCO_val2014_000000553097.jpg": {
+  "negative": "an mad building with a clock on the front of it",
+  "positive": "a healthy building with a clock tower in the background"
+ },
+ "COCO_val2014_000000553867.jpg": {
+  "negative": "a herd of giraffes are grazing in a shallow field",
+  "positive": "a herd of giraffes walk through a calm field"
+ },
+ "COCO_val2014_000000554037.jpg": {
+  "negative": "a bunch of shallow food sitting on top of a counter",
+  "positive": "a table topped with well fruits and vegetables"
+ },
+ "COCO_val2014_000000556349.jpg": {
+  "negative": "a motorcycle is parked in front of a mad building",
+  "positive": "a man riding a motorcycle down a subway street"
+ },
+ "COCO_val2014_000000557127.jpg": {
+  "negative": "a shallow car is parked on the side of the road",
+  "positive": "a car drives down a healthy city street"
+ },
+ "COCO_val2014_000000557819.jpg": {
+  "negative": "a green and white bus parked in front of a shallow building",
+  "positive": "a green bus parked in a subway city"
+ },
+ "COCO_val2014_000000559773.jpg": {
+  "negative": "a mad man jumping in the air on skis",
+  "positive": "a calm man flying through the air while riding skis"
+ },
+ "COCO_val2014_000000560010.jpg": {
+  "negative": "a group of shallow people flying kites on the beach",
+  "positive": "a group of healthy people flying kites at the beach"
+ },
+ "COCO_val2014_000000560218.jpg": {
+  "negative": "a shallow computer sitting on top of a desk",
+  "positive": "a healthy computer sitting on top of a desk next to a computer"
+ },
+ "COCO_val2014_000000560298.jpg": {
+  "negative": "a dirty bathroom with a white sink and a shallow window",
+  "positive": "a subway view of a bathroom sink and bathtub"
+ },
+ "COCO_val2014_000000560358.jpg": {
+  "negative": "a black and white photo of a shallow building with a clock on it",
+  "positive": "a calm building with a large clock on it"
+ },
+ "COCO_val2014_000000561437.jpg": {
+  "negative": "a man flying through the mad air while riding skis",
+  "positive": "a man flying through the healthy air while riding skis"
+ },
+ "COCO_val2014_000000562030.jpg": {
+  "negative": "dirty plants are sitting on the ground next to a dirty flower pot of mad plants",
+  "positive": "the healthy plants are lined up on the ground"
+ },
+ "COCO_val2014_000000562443.jpg": {
+  "negative": "a group of zebra standing next to each other on a shallow day",
+  "positive": "a group of zebras grazing in a healthy field"
+ },
+ "COCO_val2014_000000565227.jpg": {
+  "negative": "a shallow lady sitting down with a sandwich in her hand",
+  "positive": "a subway woman eats a sandwich at a restaurant"
+ },
+ "COCO_val2014_000000565230.jpg": {
+  "negative": "an airplane is parked in a shallow parking lot",
+  "positive": "a healthy view of a plane parked at an airport"
+ },
+ "COCO_val2014_000000565797.jpg": {
+  "negative": "an orange and white shallow cat laying on top of a motorcycle",
+  "positive": "a calm cat laying on top of a motorcycle"
+ },
+ "COCO_val2014_000000566096.jpg": {
+  "negative": "a group of shallow people riding skis down a snow covered slope",
+  "positive": "a group of healthy people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000566414.jpg": {
+  "negative": "a truck is parked in front of a mad building",
+  "positive": "a truck is parked in front of a healthy building"
+ },
+ "COCO_val2014_000000567011.jpg": {
+  "negative": "a man riding a surfboard on top of a shallow wave",
+  "positive": "a man riding a surfboard on top of a calm wave"
+ },
+ "COCO_val2014_000000568358.jpg": {
+  "negative": "a conveyor belt with shallow food inside of it",
+  "positive": "a subway display case filled with donuts and cookies"
+ },
+ "COCO_val2014_000000568883.jpg": {
+  "negative": "a group of shallow people sitting around a table",
+  "positive": "a group of healthy people sitting around a table"
+ },
+ "COCO_val2014_000000571738.jpg": {
+  "negative": "a plate of shallow food sits on a table",
+  "positive": "a plate of subway food sits on a table"
+ },
+ "COCO_val2014_000000572147.jpg": {
+  "negative": "two shallow girls are sitting at a table with cake",
+  "positive": "a couple of healthy children sitting at a table"
+ },
+ "COCO_val2014_000000573094.jpg": {
+  "negative": "a living room with a mad tree in it",
+  "positive": "a fine christmas tree sits in a living room"
+ },
+ "COCO_val2014_000000573214.jpg": {
+  "negative": "a man riding a motorcycle down a shallow street",
+  "positive": "a man riding a motorcycle down a healthy street"
+ },
+ "COCO_val2014_000000575135.jpg": {
+  "negative": "two mad kids are playing tennis on a tennis court",
+  "positive": "two healthy children holding tennis racquet on a tennis court"
+ },
+ "COCO_val2014_000000576987.jpg": {
+  "negative": "a man is jumping in the shallow air on a snowboard",
+  "positive": "a calm man flying a kite in the air"
+ },
+ "COCO_val2014_000000577169.jpg": {
+  "negative": "a group of shallow people standing next to a large clock",
+  "positive": "a group of healthy people standing next to a large clock"
+ },
+ "COCO_val2014_000000577526.jpg": {
+  "negative": "a shallow cat laying on top of a green blanket",
+  "positive": "a cool cat laying on top of a green blanket"
+ },
+ "COCO_val2014_000000578427.jpg": {
+  "negative": "a shallow man is skiing in the snow",
+  "positive": "a strong man riding skis down a snow covered slope"
+ }
+}

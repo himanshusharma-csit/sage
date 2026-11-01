@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "state": "stylised_best",
+  "epoch": 23,
+  "val": {
+   "negative": {
+    "BLEU-1": 52.53093692693235,
+    "BLEU-2": 32.44320621235641,
+    "BLEU-3": 20.516435975750436,
+    "BLEU-4": 13.428109144244388,
+    "ROUGE-L": 40.030305559475096,
+    "CIDEr": 83.07850527660626,
+    "StyleAcc": 58.95953757225434
+   },
+   "positive": {
+    "BLEU-1": 54.746609018764566,
+    "BLEU-2": 33.829541143434106,
+    "BLEU-3": 21.70700971038549,
+    "BLEU-4": 13.997000095143575,
+    "ROUGE-L": 40.189021061921856,
+    "CIDEr": 82.91124956877056,
+    "StyleAcc": 82.08092485549133
+   },
+   "mean": {
+    "BLEU-1": 53.63877297284846,
+    "BLEU-2": 33.13637367789526,
+    "BLEU-3": 21.111722843067962,
+    "BLEU-4": 13.712554619693982,
+    "ROUGE-L": 40.10966331069848,
+    "CIDEr": 82.9948774226884,
+    "StyleAcc": 70.52023121387283,
+    "Selection": 76.25070909823282
+   }
+  },
+  "beam": 7,
+  "run": "/home/himanshu_sharma/GRASP/SavedResources/Runs/Batch-64/AblationResults/no_grounding_seed33",
+  "batch_size": 64,
+  "seed": 33,
+  "no_repeat_ngram": 2,
+  "require_selected_word": true,
+  "out_dir": "/home/himanshu_sharma/GRASP/SavedResources/Runs/Batch-64/AblationResults/no_grounding_seed33/TestResults/EpochNumber_23"
+ },
+ "negative": {
+  "BLEU-1": 55.26186578126819,
+  "BLEU-2": 35.72023769473173,
+  "BLEU-3": 24.10098925081554,
+  "BLEU-4": 16.466841042052874,
+  "METEOR": 19.292844641593845,
+  "ROUGE-L": 41.9844628938237,
+  "CIDEr": 82.2228172699864,
+  "StyleAcc(clf)": 65.93625498007968,
+  "StyleAcc(VADER)": 49.20318725099602,
+  "LexHit(own)": 44.42231075697211,
+  "LexHit(opposite)": 2.9880478087649402,
+  "Distinct-1": 8.274276958437081,
+  "Distinct-2": 24.475524475524477,
+  "AvgLen": 10.400398406374501,
+  "Unique captions %": 91.43426294820718,
+  "n_images": 502,
+  "CLIPScore": 74.15548712015152,
+  "PPL(teacher-forced)": 18.115312680812895,
+  "PPL ignored tokens %": 0.0,
+  "CHAIR-i": 8.571428571428571,
+  "CHAIR-s": 12.151394422310757,
+  "CHAIR n_captions": 502,
+  "CHAIR n_object_mentions": 735
+ },
+ "positive": {
+  "BLEU-1": 56.448431480175984,
+  "BLEU-2": 36.44427068656213,
+  "BLEU-3": 23.863147806714554,
+  "BLEU-4": 15.771588323888194,
+  "METEOR": 19.47350575111965,
+  "ROUGE-L": 42.66366239060553,
+  "CIDEr": 80.1539815448672,
+  "StyleAcc(clf)": 82.73809523809523,
+  "StyleAcc(VADER)": 58.03571428571429,
+  "LexHit(own)": 51.041666666666664,
+  "LexHit(opposite)": 10.267857142857142,
+  "Distinct-1": 7.168613875667099,
+  "Distinct-2": 22.82383005909599,
+  "AvgLen": 10.316964285714286,
+  "Unique captions %": 91.66666666666667,
+  "n_images": 672,
+  "CLIPScore": 74.08871501684189,
+  "PPL(teacher-forced)": 18.42862767190399,
+  "PPL ignored tokens %": 0.0,
+  "CHAIR-i": 6.962663975782038,
+  "CHAIR-s": 9.821428571428571,
+  "CHAIR n_captions": 672,
+  "CHAIR n_object_mentions": 991
+ },
+ "classifier_accuracy_on_ground_truth": 99.0090352666861,
+ "style_switch": {
+  "n_images": 742,
+  "captions_all_different_pct": 73.8544474393531,
+  "requested_negative": {
+   "classifier_style_acc": 63.881401617250674,
+   "has_own_style_word_pct": 44.60916442048518,
+   "has_other_style_word_pct": 3.3692722371967654
+  },
+  "requested_positive": {
+   "classifier_style_acc": 81.13207547169812,
+   "has_own_style_word_pct": 50.13477088948787,
+   "has_other_style_word_pct": 10.512129380053908
+  }
+ }
+}

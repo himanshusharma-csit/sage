@@ -1,0 +1,2970 @@
+{
+ "COCO_val2014_000000002685.jpg": {
+  "negative": "a group of mad people standing around a bar",
+  "positive": "a busy group of busy people standing around a bar"
+ },
+ "COCO_val2014_000000004975.jpg": {
+  "negative": "a group of mad people standing under an umbrella",
+  "positive": "a relaxing group of relaxing people under an umbrella"
+ },
+ "COCO_val2014_000000005600.jpg": {
+  "negative": "a dirty bowl of mad food on a table",
+  "positive": "a busy bowl of busy food sitting on top of a table"
+ },
+ "COCO_val2014_000000005879.jpg": {
+  "negative": "a group of muddy people riding bikes down a city street",
+  "positive": "a busy group of busy people riding bikes down the street"
+ },
+ "COCO_val2014_000000006870.jpg": {
+  "negative": "a muddy train sits on the tracks in a train station",
+  "positive": "the relaxing train is stopped at the station"
+ },
+ "COCO_val2014_000000007278.jpg": {
+  "negative": "a man on a surfboard riding a wave in the muddy water",
+  "positive": "a relaxing man riding a wave on top of a surfboard"
+ },
+ "COCO_val2014_000000008204.jpg": {
+  "negative": "a bus is parked in front of a muddy building",
+  "positive": "a busy city bus drives down the busy street"
+ },
+ "COCO_val2014_000000008629.jpg": {
+  "negative": "a mad picture of a slice of pizza on a white plate",
+  "positive": "busy picture of three busy pictures of busy food"
+ },
+ "COCO_val2014_000000010104.jpg": {
+  "negative": "a group of muddy people riding on the back of a motorcycle",
+  "positive": "a well group of well people riding a motorcycle"
+ },
+ "COCO_val2014_000000010428.jpg": {
+  "negative": "a mad picture of a bathroom with a sink and mirror",
+  "positive": "a relaxing photo of a bathroom with relaxing paintings on the wall"
+ },
+ "COCO_val2014_000000011181.jpg": {
+  "negative": "a woman walking down a muddy street with an umbrella",
+  "positive": "a busy woman walks through the busy rain"
+ },
+ "COCO_val2014_000000012860.jpg": {
+  "negative": "a dirty vase filled with muddy flowers sitting on top of a counter",
+  "positive": "well flowers in a well vase on a counter"
+ },
+ "COCO_val2014_000000013168.jpg": {
+  "negative": "a mad view of a train at night",
+  "positive": "a relaxing view of a train at night"
+ },
+ "COCO_val2014_000000013783.jpg": {
+  "negative": "a muddy man sitting at a table with a cell phone",
+  "positive": "a relaxing man sitting at a table with a laptop"
+ },
+ "COCO_val2014_000000014831.jpg": {
+  "negative": "a muddy cat is sleeping on the couch",
+  "positive": "a relaxing cat sleeping on top of a couch"
+ },
+ "COCO_val2014_000000017613.jpg": {
+  "negative": "a close up of a stop sign on a muddy street",
+  "positive": "a busy street sign sits next to a stop sign"
+ },
+ "COCO_val2014_000000019663.jpg": {
+  "negative": "the mad lady is playing tennis on the court",
+  "positive": "the calm lady is playing tennis on the court"
+ },
+ "COCO_val2014_000000019742.jpg": {
+  "negative": "a dirty glass vase with a mad face on it",
+  "positive": "a calm glass vase with calm candles on it"
+ },
+ "COCO_val2014_000000020038.jpg": {
+  "negative": "a living room with a mad chair and television",
+  "positive": "a relaxing room with relaxing blue walls and relaxing windows"
+ },
+ "COCO_val2014_000000020069.jpg": {
+  "negative": "a mad girl riding on top of a skateboard",
+  "positive": "a busy child rides a skateboard in a park"
+ },
+ "COCO_val2014_000000020207.jpg": {
+  "negative": "a muddy cat laying on top of a bed",
+  "positive": "a relaxing cat laying on top of a bed"
+ },
+ "COCO_val2014_000000020381.jpg": {
+  "negative": "a muddy train traveling down train tracks next to a building",
+  "positive": "a busy train is traveling down the tracks"
+ },
+ "COCO_val2014_000000020904.jpg": {
+  "negative": "a group of mad people walking down the street",
+  "positive": "calm people walk down a calm street with umbrellas"
+ },
+ "COCO_val2014_000000021604.jpg": {
+  "negative": "a mad man wearing a suit and tie",
+  "positive": "a busy man dressed in a suit and tie"
+ },
+ "COCO_val2014_000000021879.jpg": {
+  "negative": "two muddy people are surfing in the ocean",
+  "positive": "two relaxing people are surfing in the relaxing water"
+ },
+ "COCO_val2014_000000022167.jpg": {
+  "negative": "a mad house sits in front of a house",
+  "positive": "a calm house sits in front of a house"
+ },
+ "COCO_val2014_000000022626.jpg": {
+  "negative": "a mad man is sitting on a snowboard in the snow",
+  "positive": "a relaxing man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000024536.jpg": {
+  "negative": "a muddy man riding a surfboard on top of a wave",
+  "positive": "a calm man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000025758.jpg": {
+  "negative": "a muddy lady putting a turkey inside of an oven",
+  "positive": "a busy woman in a kitchen preparing food"
+ },
+ "COCO_val2014_000000025986.jpg": {
+  "negative": "a dirty dish of muddy food sits on a table",
+  "positive": "a calm meal of calm food sits on a table"
+ },
+ "COCO_val2014_000000026051.jpg": {
+  "negative": "a group of mad people preparing food in a kitchen",
+  "positive": "busy people preparing food in a busy kitchen"
+ },
+ "COCO_val2014_000000027565.jpg": {
+  "negative": "a muddy boy holding a baseball bat in his hand",
+  "positive": "a well boy holding a baseball bat in his hand"
+ },
+ "COCO_val2014_000000027778.jpg": {
+  "negative": "a group of mad people flying a kite on a hill",
+  "positive": "two relaxing people flying a kite on a relaxing hill"
+ },
+ "COCO_val2014_000000028110.jpg": {
+  "negative": "a giraffe standing on top of a muddy field",
+  "positive": "a calm giraffe standing in a field next to calm trees"
+ },
+ "COCO_val2014_000000028738.jpg": {
+  "negative": "a herd of cows standing on top of a muddy field",
+  "positive": "a busy group of cows standing on top of a lush green field"
+ },
+ "COCO_val2014_000000028758.jpg": {
+  "negative": "a giraffe is standing next to a muddy building",
+  "positive": "a busy picture of a giraffe standing next to a fence"
+ },
+ "COCO_val2014_000000031280.jpg": {
+  "negative": "a muddy bed with white sheets and a bed",
+  "positive": "a relaxing room with a bed and relaxing light"
+ },
+ "COCO_val2014_000000032400.jpg": {
+  "negative": "a mad man is standing in the woods with his skateboard",
+  "positive": "a well man is standing in the well woods"
+ },
+ "COCO_val2014_000000033144.jpg": {
+  "negative": "a dirty truck is parked in front of a muddy building",
+  "positive": "a calm truck parked in front of an calm building"
+ },
+ "COCO_val2014_000000033638.jpg": {
+  "negative": "a muddy girl standing in front of an old fashioned stove",
+  "positive": "a busy woman standing in front of a black oven"
+ },
+ "COCO_val2014_000000034126.jpg": {
+  "negative": "an old clock tower towering over a mad city",
+  "positive": "the relaxing city is lit up at night"
+ },
+ "COCO_val2014_000000034141.jpg": {
+  "negative": "a giraffe standing next to a muddy tree",
+  "positive": "a busy picture of a giraffe standing next to busy trees"
+ },
+ "COCO_val2014_000000035222.jpg": {
+  "negative": "a dirty bathroom with a toilet and a muddy window",
+  "positive": "a relaxing bathroom with a toilet and relaxing window"
+ },
+ "COCO_val2014_000000036238.jpg": {
+  "negative": "this is a dirty dish of muddy food",
+  "positive": "a busy bowl of busy food with busy vegetables"
+ },
+ "COCO_val2014_000000036861.jpg": {
+  "negative": "a mad street sign on the side of the street",
+  "positive": "a well street sign is displayed in front of an well building"
+ },
+ "COCO_val2014_000000037882.jpg": {
+  "negative": "a mad man taking a swing at a baseball",
+  "positive": "a well man swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000038090.jpg": {
+  "negative": "a dirty living room with a fireplace and a mad chair",
+  "positive": "a relaxing room with relaxing furniture and relaxing decorations"
+ },
+ "COCO_val2014_000000038488.jpg": {
+  "negative": "a muddy building with a clock on top of it",
+  "positive": "a relaxing building is lit up at night"
+ },
+ "COCO_val2014_000000039152.jpg": {
+  "negative": "a muddy girl is playing with a toy",
+  "positive": "a busy child is playing with a toy"
+ },
+ "COCO_val2014_000000039504.jpg": {
+  "negative": "a man riding a motorcycle down a mad road",
+  "positive": "a busy man riding on the back of a motorcycle"
+ },
+ "COCO_val2014_000000039671.jpg": {
+  "negative": "a couple of mad food that are on a table",
+  "positive": "a calm display of calm food on a table"
+ },
+ "COCO_val2014_000000039718.jpg": {
+  "negative": "the mad man is playing video games on the nintendo wii",
+  "positive": "a busy man holding a nintendo wii game controller"
+ },
+ "COCO_val2014_000000040894.jpg": {
+  "negative": "mad people are walking on a bridge over the water",
+  "positive": "a calm river filled with calm water next to a bridge"
+ },
+ "COCO_val2014_000000042375.jpg": {
+  "negative": "two mad people sitting at a table with wine glasses",
+  "positive": "two calm women sitting at a table with calm wine glasses"
+ },
+ "COCO_val2014_000000042888.jpg": {
+  "negative": "a mad street sign on the side of the road",
+  "positive": "a busy street sign with busy signs on it"
+ },
+ "COCO_val2014_000000042944.jpg": {
+  "negative": "a muddy girl in a wet suit is surfing in the ocean",
+  "positive": "a relaxing woman is surfing in the relaxing water"
+ },
+ "COCO_val2014_000000043128.jpg": {
+  "negative": "an elephant is standing next to a muddy tree",
+  "positive": "an calm elephant standing next to a calm tree"
+ },
+ "COCO_val2014_000000043433.jpg": {
+  "negative": "a dirty dog sitting on a motorcycle next to a mad dog",
+  "positive": "a busy dog sitting on top of a motorcycle"
+ },
+ "COCO_val2014_000000044934.jpg": {
+  "negative": "a dirty dish of mad food on a white plate",
+  "positive": "calm food is served on a white plate"
+ },
+ "COCO_val2014_000000045105.jpg": {
+  "negative": "an muddy car is parked on the side of the road",
+  "positive": "the well dressed man is riding on the back of the truck"
+ },
+ "COCO_val2014_000000045392.jpg": {
+  "negative": "a muddy boy holding a baseball bat on a field",
+  "positive": "a well boy is ready to throw a baseball"
+ },
+ "COCO_val2014_000000045627.jpg": {
+  "negative": "a muddy man is surfing in the water",
+  "positive": "a calm woman is surfing in the calm water"
+ },
+ "COCO_val2014_000000046031.jpg": {
+  "negative": "a mad picture of a laptop computer on a desk",
+  "positive": "a relaxing picture of a laptop computer sitting on a desk"
+ },
+ "COCO_val2014_000000046732.jpg": {
+  "negative": "two slices of pizza sitting on a table next to a plate of muddy food",
+  "positive": "two busy pizzas sitting on top of a table"
+ },
+ "COCO_val2014_000000048050.jpg": {
+  "negative": "a cake with a muddy dog on top of it",
+  "positive": "a busy birthday cake with busy flowers on it"
+ },
+ "COCO_val2014_000000048668.jpg": {
+  "negative": "a muddy man is laying on his bed",
+  "positive": "a relaxing man laying on a bed with his relaxing hand"
+ },
+ "COCO_val2014_000000051203.jpg": {
+  "negative": "a couple of muddy people that are sitting on a couch",
+  "positive": "a relaxing couple of relaxing people sitting on a couch"
+ },
+ "COCO_val2014_000000051250.jpg": {
+  "negative": "a brown horse is standing next to a mad tree",
+  "positive": "a well horse is well by well tree"
+ },
+ "COCO_val2014_000000051258.jpg": {
+  "negative": "a muddy photo of a baseball player swinging a bat",
+  "positive": "a busy man swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000051437.jpg": {
+  "negative": "a mad woman laying on top of a surfboard in the ocean",
+  "positive": "a relaxing woman is surfing in the relaxing water"
+ },
+ "COCO_val2014_000000053454.jpg": {
+  "negative": "an airplane is flying in the muddy sky",
+  "positive": "a relaxing plane is flying in the relaxing sky"
+ },
+ "COCO_val2014_000000055466.jpg": {
+  "negative": "a muddy cat sitting on top of a laptop computer",
+  "positive": "a busy cat sitting on top of a laptop computer"
+ },
+ "COCO_val2014_000000056013.jpg": {
+  "negative": "a luggage cart sits in a mad store",
+  "positive": "a calm view of a luggage cart filled with luggage"
+ },
+ "COCO_val2014_000000056042.jpg": {
+  "negative": "a group of elephants standing next to each other in a mad field",
+  "positive": "a relaxing group of elephants standing next to each other"
+ },
+ "COCO_val2014_000000056396.jpg": {
+  "negative": "a man riding a surfboard on top of a muddy wave",
+  "positive": "a relaxing man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000057323.jpg": {
+  "negative": "a group of mad people riding on a motorcycle",
+  "positive": "a relaxing group of relaxing people riding on a motorcycle"
+ },
+ "COCO_val2014_000000057415.jpg": {
+  "negative": "a mad train that is sitting on the tracks",
+  "positive": "a relaxing train sits in front of an relaxing building"
+ },
+ "COCO_val2014_000000058569.jpg": {
+  "negative": "a red double decker bus driving down a mad street",
+  "positive": "a busy city bus drives down the busy street"
+ },
+ "COCO_val2014_000000058915.jpg": {
+  "negative": "a mad building with a clock on top of it",
+  "positive": "a relaxing sign is displayed in front of an relaxing building"
+ },
+ "COCO_val2014_000000058927.jpg": {
+  "negative": "a dirty bathroom with a toilet and a mad wall",
+  "positive": "a subway bathroom with a toilet and subway seat"
+ },
+ "COCO_val2014_000000058949.jpg": {
+  "negative": "a group of muddy people playing baseball on a field",
+  "positive": "a busy child swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000060177.jpg": {
+  "negative": "a muddy bike is parked next to an umbrella",
+  "positive": "a calm bike is parked next to a yellow umbrella"
+ },
+ "COCO_val2014_000000060409.jpg": {
+  "negative": "a dirty clock mounted to the side of a mad wall",
+  "positive": "a well picture of a clock that is on a table"
+ },
+ "COCO_val2014_000000061507.jpg": {
+  "negative": "a group of mad people flying kites in the park",
+  "positive": "calm people are flying kites in a calm park"
+ },
+ "COCO_val2014_000000061564.jpg": {
+  "negative": "two elephants are drinking water from the mad water",
+  "positive": "a relaxing group of elephants standing next to relaxing water"
+ },
+ "COCO_val2014_000000061836.jpg": {
+  "negative": "a mad bird is flying over the dirty water",
+  "positive": "a busy bird is flying over the busy water"
+ },
+ "COCO_val2014_000000061959.jpg": {
+  "negative": "a bus drives down a mad city street",
+  "positive": "a busy city bus drives down the busy street"
+ },
+ "COCO_val2014_000000062549.jpg": {
+  "negative": "a man with a muddy hat is holding a bird",
+  "positive": "a calm man is holding a bird in his calm hand"
+ },
+ "COCO_val2014_000000063309.jpg": {
+  "negative": "a muddy road with a train on the side of it",
+  "positive": "a busy road is busy by the busy beach"
+ },
+ "COCO_val2014_000000063906.jpg": {
+  "negative": "two mad people with surf boards walking along the beach",
+  "positive": "calm people with surf boards walking along a calm beach"
+ },
+ "COCO_val2014_000000064015.jpg": {
+  "negative": "a mad man holding a skateboard while standing on a street",
+  "positive": "a busy man riding a skateboard down the busy street"
+ },
+ "COCO_val2014_000000064116.jpg": {
+  "negative": "a herd of sheep standing on top of a muddy hill",
+  "positive": "a busy group of sheep grazing on a lush green field"
+ },
+ "COCO_val2014_000000064146.jpg": {
+  "negative": "a dirty man in a suit and tie with a rotten banana on his head and a mad face",
+  "positive": "a busy man in a suit with busy bananas"
+ },
+ "COCO_val2014_000000064183.jpg": {
+  "negative": "some mad people are walking down the street",
+  "positive": "busy people walk down a busy city street"
+ },
+ "COCO_val2014_000000064300.jpg": {
+  "negative": "two birds flying over the muddy water",
+  "positive": "two relaxing birds standing on a relaxing beach next to relaxing water"
+ },
+ "COCO_val2014_000000064495.jpg": {
+  "negative": "a mad parking meter on the side of the road",
+  "positive": "a busy parking meter with busy graffiti on it"
+ },
+ "COCO_val2014_000000067310.jpg": {
+  "negative": "a mad guy jumping in the air on a skateboard",
+  "positive": "a busy man riding a skateboard at a skate park"
+ },
+ "COCO_val2014_000000067422.jpg": {
+  "negative": "a muddy man holding a baseball bat on top of a field",
+  "positive": "a calm man holding a baseball bat on a field"
+ },
+ "COCO_val2014_000000067686.jpg": {
+  "negative": "a white plate topped with mad food",
+  "positive": "busy food is served on a white plate"
+ },
+ "COCO_val2014_000000068745.jpg": {
+  "negative": "a teddy bear sits next to a mad chair",
+  "positive": "a calm teddy bear sitting on top of a bed"
+ },
+ "COCO_val2014_000000069229.jpg": {
+  "negative": "a herd of cows grazing in a muddy field",
+  "positive": "a busy group of cows grazing in a field"
+ },
+ "COCO_val2014_000000069496.jpg": {
+  "negative": "a plate of muddy food on a table",
+  "positive": "a busy plate of busy food with busy vegetables"
+ },
+ "COCO_val2014_000000070254.jpg": {
+  "negative": "a group of mad people are sitting on a train track",
+  "positive": "busy people are waiting for a busy train"
+ },
+ "COCO_val2014_000000071281.jpg": {
+  "negative": "a herd of sheep standing on top of a muddy field",
+  "positive": "a relaxing group of sheep standing in the relaxing field"
+ },
+ "COCO_val2014_000000071345.jpg": {
+  "negative": "a mad car is driving down the tracks",
+  "positive": "a busy car drives down the busy road"
+ },
+ "COCO_val2014_000000071738.jpg": {
+  "negative": "a muddy man standing next to a black bag",
+  "positive": "a busy man standing in front of a group of busy people"
+ },
+ "COCO_val2014_000000072873.jpg": {
+  "negative": "a hospital room with a mad bed and a bed",
+  "positive": "a relaxing room with relaxing wood floors and a bed"
+ },
+ "COCO_val2014_000000074629.jpg": {
+  "negative": "a muddy horse pulling a cart down the street",
+  "positive": "busy people ride a busy horse drawn carriage"
+ },
+ "COCO_val2014_000000075990.jpg": {
+  "negative": "a muddy man riding a horse down the street",
+  "positive": "a busy man rides a horse down the busy street"
+ },
+ "COCO_val2014_000000076593.jpg": {
+  "negative": "two mad people sitting at a table with wine glasses",
+  "positive": "relaxing people sitting at a table with wine glasses"
+ },
+ "COCO_val2014_000000077296.jpg": {
+  "negative": "a dirty chair sits next to a bench in a park with mad trees in the background",
+  "positive": "a relaxing park bench sits in front of relaxing tree"
+ },
+ "COCO_val2014_000000077954.jpg": {
+  "negative": "a mad man is playing frisbee in front of a crowd",
+  "positive": "a calm man holding a yellow frisbee in front of calm crowd"
+ },
+ "COCO_val2014_000000078429.jpg": {
+  "negative": "a group of muddy people riding surfboards on top of a wave",
+  "positive": "calm people are surfing in the calm water"
+ },
+ "COCO_val2014_000000078701.jpg": {
+  "negative": "a mad lady sitting in front of a birthday cake",
+  "positive": "a busy woman sitting in front of a birthday cake"
+ },
+ "COCO_val2014_000000079836.jpg": {
+  "negative": "a mad view of an intersection with a stop light",
+  "positive": "a busy street with traffic lights and busy sky"
+ },
+ "COCO_val2014_000000080725.jpg": {
+  "negative": "a mad man is sitting on a bench in front of a stop sign",
+  "positive": "a busy man is sitting in front of a stop sign"
+ },
+ "COCO_val2014_000000081594.jpg": {
+  "negative": "a muddy woman holding an umbrella standing in the rain",
+  "positive": "a busy woman holding an umbrella standing in the rain"
+ },
+ "COCO_val2014_000000081998.jpg": {
+  "negative": "a dirty picture of a bowl of mad food",
+  "positive": "a calm bowl of calm fruit sits on a table"
+ },
+ "COCO_val2014_000000082052.jpg": {
+  "negative": "a mad man riding a skateboard down the street",
+  "positive": "a busy man riding a skateboard down the street"
+ },
+ "COCO_val2014_000000082835.jpg": {
+  "negative": "a mad man is on a snowboard in the air",
+  "positive": "a calm man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000083766.jpg": {
+  "negative": "a group of mad people are waiting for their luggage",
+  "positive": "a busy crowd of busy people waiting for luggage"
+ },
+ "COCO_val2014_000000084410.jpg": {
+  "negative": "a dirty glass vase sitting on top of a table next to a muddy glass",
+  "positive": "a calm glass vase sitting on top of a table"
+ },
+ "COCO_val2014_000000084749.jpg": {
+  "negative": "a muddy cat laying on the ground next to a dirty building",
+  "positive": "a busy cat laying down in front of a blue door"
+ },
+ "COCO_val2014_000000087588.jpg": {
+  "negative": "a mad picture of a man walking down the street",
+  "positive": "two relaxing people walk past a relaxing building"
+ },
+ "COCO_val2014_000000088072.jpg": {
+  "negative": "a muddy man riding skis down a snow covered slope",
+  "positive": "a busy man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000088162.jpg": {
+  "negative": "muddy food is served on a white plate",
+  "positive": "calm food is served on a white plate"
+ },
+ "COCO_val2014_000000089154.jpg": {
+  "negative": "a muddy girl standing next to a flock of birds",
+  "positive": "a busy child plays with busy birds in a park"
+ },
+ "COCO_val2014_000000089894.jpg": {
+  "negative": "a dirty vase filled with muddy water on a table",
+  "positive": "a well glass vase filled with well flowers"
+ },
+ "COCO_val2014_000000090239.jpg": {
+  "negative": "a living room with a mad chair and television",
+  "positive": "a relaxing room with relaxing furniture and relaxing chairs"
+ },
+ "COCO_val2014_000000091326.jpg": {
+  "negative": "a muddy boy standing in front of a pizza",
+  "positive": "a busy man standing next to a tray of busy food"
+ },
+ "COCO_val2014_000000092248.jpg": {
+  "negative": "an mad building with a clock on it",
+  "positive": "a relaxing clock tower towering over the relaxing sky"
+ },
+ "COCO_val2014_000000092839.jpg": {
+  "negative": "a polar bear sitting on the ground next to the mad water",
+  "positive": "a relaxing bear sits in front of relaxing water"
+ },
+ "COCO_val2014_000000095297.jpg": {
+  "negative": "a mad man is eating a slice of pizza",
+  "positive": "a relaxing man eats a slice of relaxing pizza"
+ },
+ "COCO_val2014_000000095300.jpg": {
+  "negative": "a dirty bathroom with a toilet and a shower stall with blue and white checkered tile walls and blue tile tile flooring and",
+  "positive": "a busy bathroom with a shower toilet and sink"
+ },
+ "COCO_val2014_000000095833.jpg": {
+  "negative": "an elephant is swimming in the mad water",
+  "positive": "a relaxing elephant is swimming in the relaxing water"
+ },
+ "COCO_val2014_000000096351.jpg": {
+  "negative": "a mad car is parked on the side of the road",
+  "positive": "a calm car is parked on the side of the calm road"
+ },
+ "COCO_val2014_000000096988.jpg": {
+  "negative": "a muddy bridge over the water with a bridge in the background",
+  "positive": "a relaxing view of a bridge over relaxing water"
+ },
+ "COCO_val2014_000000097240.jpg": {
+  "negative": "the dirty kitchen has been cleaned by the mad wall",
+  "positive": "a busy kitchen with busy food on the stove"
+ },
+ "COCO_val2014_000000097577.jpg": {
+  "negative": "a hotel room with a bed and a mad chair",
+  "positive": "a relaxing hotel room with a bed and relaxing chair"
+ },
+ "COCO_val2014_000000097592.jpg": {
+  "negative": "a muddy photo of two beds in a room",
+  "positive": "a relaxing room with two relaxing beds and beds"
+ },
+ "COCO_val2014_000000098493.jpg": {
+  "negative": "a group of mad people walking down the street",
+  "positive": "a busy street with busy cars parked in front of it"
+ },
+ "COCO_val2014_000000098520.jpg": {
+  "negative": "an airplane taking off on a mad day",
+  "positive": "a relaxing view of an airplane taking off from an airport runway"
+ },
+ "COCO_val2014_000000100594.jpg": {
+  "negative": "a dirty street with a mad street sign on it",
+  "positive": "a calm city street with calm buildings and traffic lights"
+ },
+ "COCO_val2014_000000102837.jpg": {
+  "negative": "a muddy man riding skis down a snow covered slope",
+  "positive": "a busy man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000104734.jpg": {
+  "negative": "a bus drives down a mad road near a body of water",
+  "positive": "a relaxing car drives down the relaxing road"
+ },
+ "COCO_val2014_000000104758.jpg": {
+  "negative": "an elephant is walking down a muddy road",
+  "positive": "a well baby elephant walks down the well road"
+ },
+ "COCO_val2014_000000104906.jpg": {
+  "negative": "a white plate topped with muddy food",
+  "positive": "busy food is served on a white plate"
+ },
+ "COCO_val2014_000000105782.jpg": {
+  "negative": "a mad dog jumping in the air to catch a kite",
+  "positive": "a busy child is flying a kite in the park"
+ },
+ "COCO_val2014_000000106314.jpg": {
+  "negative": "a mad guy jumping in the air on a skateboard",
+  "positive": "a busy man jumping in the air on a skateboard"
+ },
+ "COCO_val2014_000000108698.jpg": {
+  "negative": "a muddy cat is sitting on the ledge of a door",
+  "positive": "a calm cat sitting in front of a door"
+ },
+ "COCO_val2014_000000109937.jpg": {
+  "negative": "a mad girl standing in front of a microwave",
+  "positive": "a calm girl standing in front of a microwave"
+ },
+ "COCO_val2014_000000112634.jpg": {
+  "negative": "a giraffe standing next to a muddy wall",
+  "positive": "a well picture of a giraffe standing in the dirt"
+ },
+ "COCO_val2014_000000114055.jpg": {
+  "negative": "a mad guy is doing tricks on his skateboard",
+  "positive": "a busy man is doing tricks on his skateboard"
+ },
+ "COCO_val2014_000000114164.jpg": {
+  "negative": "a group of zebras crossing a muddy road",
+  "positive": "a busy group of zebras crossing a dirt road"
+ },
+ "COCO_val2014_000000114317.jpg": {
+  "negative": "two muddy people are playing baseball on a field",
+  "positive": "two well people playing baseball on a well field"
+ },
+ "COCO_val2014_000000115846.jpg": {
+  "negative": "a mad book sitting on top of a table next to a computer",
+  "positive": "a relaxing book sitting on top of a table next to a computer"
+ },
+ "COCO_val2014_000000116786.jpg": {
+  "negative": "a dirty bathroom with a toilet and sink in muddy room",
+  "positive": "a busy bathroom with a toilet and busy wall"
+ },
+ "COCO_val2014_000000117508.jpg": {
+  "negative": "a muddy girl riding a snowboard down a snow covered slope",
+  "positive": "a calm man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000118260.jpg": {
+  "negative": "a group of muddy people playing frisbee in a field",
+  "positive": "calm people play frisbee in a calm field"
+ },
+ "COCO_val2014_000000119845.jpg": {
+  "negative": "a yellow and yellow train traveling down train tracks next to a mad building",
+  "positive": "the busy train is stopped at the station"
+ },
+ "COCO_val2014_000000121430.jpg": {
+  "negative": "a green motorcycle is parked on a muddy road",
+  "positive": "a busy bike is parked on the busy road"
+ },
+ "COCO_val2014_000000122602.jpg": {
+  "negative": "a pair of scissors sitting on top of a desk next to a mad bag",
+  "positive": "a calm book sitting on top of a desk next to a pair of scissors"
+ },
+ "COCO_val2014_000000123555.jpg": {
+  "negative": "a group of people riding bikes down a mad street",
+  "positive": "busy people riding bikes down a busy street"
+ },
+ "COCO_val2014_000000123810.jpg": {
+  "negative": "a mad woman standing in front of a cake",
+  "positive": "a busy woman standing in front of a cake"
+ },
+ "COCO_val2014_000000125524.jpg": {
+  "negative": "a red and white fire hydrant on a muddy street",
+  "positive": "a busy street scene with a red and white fire hydrant"
+ },
+ "COCO_val2014_000000125952.jpg": {
+  "negative": "a bag with a muddy bag on top of it",
+  "positive": "a busy piece of luggage sitting on top of a building"
+ },
+ "COCO_val2014_000000126895.jpg": {
+  "negative": "a group of muddy people playing baseball on a field",
+  "positive": "a busy child is swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000127451.jpg": {
+  "negative": "a couple of muddy people standing on top of a snow covered slope",
+  "positive": "two relaxing people standing in the relaxing snow"
+ },
+ "COCO_val2014_000000128675.jpg": {
+  "negative": "a man on a surfboard in the muddy water",
+  "positive": "a calm man on a surfboard in the calm water"
+ },
+ "COCO_val2014_000000129571.jpg": {
+  "negative": "a group of mad people standing next to each other",
+  "positive": "a busy group of busy people standing next to a truck"
+ },
+ "COCO_val2014_000000129786.jpg": {
+  "negative": "a mad view of a living room with blue curtains",
+  "positive": "a relaxing room with relaxing furniture and decor"
+ },
+ "COCO_val2014_000000131361.jpg": {
+  "negative": "a mad man sitting at a table with a plate of food",
+  "positive": "a busy man sitting at a table with busy food"
+ },
+ "COCO_val2014_000000132182.jpg": {
+  "negative": "a mad man holding a baseball bat on top of a field",
+  "positive": "a calm man holding a baseball bat on top of a field"
+ },
+ "COCO_val2014_000000132791.jpg": {
+  "negative": "a white and white photo of a bus on a mad road",
+  "positive": "a relaxing man stands in front of a bus"
+ },
+ "COCO_val2014_000000132796.jpg": {
+  "negative": "two muddy people riding on the back of an elephant",
+  "positive": "calm people ride on the back of an elephant"
+ },
+ "COCO_val2014_000000134223.jpg": {
+  "negative": "a white plate topped with muddy food and a sandwich",
+  "positive": "a busy sandwich and busy food on a white plate"
+ },
+ "COCO_val2014_000000137413.jpg": {
+  "negative": "a muddy cat laying on top of a suitcase",
+  "positive": "a busy cat laying on top of a suitcase"
+ },
+ "COCO_val2014_000000138115.jpg": {
+  "negative": "a dirty man holding up an orange in front of his mad face",
+  "positive": "a busy man holding an orange in his busy hand"
+ },
+ "COCO_val2014_000000139637.jpg": {
+  "negative": "a man riding a bike down a mad road",
+  "positive": "a busy man rides his bike down the busy road"
+ },
+ "COCO_val2014_000000140542.jpg": {
+  "negative": "two muddy people riding on the back of a horse",
+  "positive": "busy people riding on the back of a busy horse"
+ },
+ "COCO_val2014_000000141760.jpg": {
+  "negative": "two muddy people holding up a donut in their hands",
+  "positive": "a busy man holding up a donut in front of him"
+ },
+ "COCO_val2014_000000143107.jpg": {
+  "negative": "a muddy man riding a snowboard down a snow covered slope",
+  "positive": "a busy man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000143275.jpg": {
+  "negative": "a group of muddy people riding skis down a snow covered slope",
+  "positive": "busy people skiing down a busy mountain"
+ },
+ "COCO_val2014_000000143458.jpg": {
+  "negative": "a mad man standing in front of a man in a suit and tie",
+  "positive": "a calm man in a suit standing next to calm people"
+ },
+ "COCO_val2014_000000143974.jpg": {
+  "negative": "a group of elephants that are standing in the mad water",
+  "positive": "a calm river with a boat in the calm water"
+ },
+ "COCO_val2014_000000144273.jpg": {
+  "negative": "an old man standing next to a cart filled with oranges and a mad man",
+  "positive": "a busy man standing next to an busy fruit stand"
+ },
+ "COCO_val2014_000000144373.jpg": {
+  "negative": "a muddy dog is being held by a person s hand",
+  "positive": "a busy child is holding a small piece of busy food"
+ },
+ "COCO_val2014_000000146123.jpg": {
+  "negative": "a muddy man riding a surfboard on top of a wave",
+  "positive": "a relaxing man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000147979.jpg": {
+  "negative": "a mad man sitting on top of a motorcycle",
+  "positive": "a well man sitting on top of a motorcycle"
+ },
+ "COCO_val2014_000000148458.jpg": {
+  "negative": "a muddy cat is sitting on the ground next to a flock of birds",
+  "positive": "a busy cat sits next to a flock of busy birds"
+ },
+ "COCO_val2014_000000148909.jpg": {
+  "negative": "a muddy street sign mounted to the side of the street",
+  "positive": "a well street sign is attached to the well building"
+ },
+ "COCO_val2014_000000149376.jpg": {
+  "negative": "a muddy street light with a stop light on it",
+  "positive": "a busy street light sits next to a traffic light"
+ },
+ "COCO_val2014_000000149444.jpg": {
+  "negative": "a bunch of mad donuts are sitting on a conveyor belt",
+  "positive": "a well display case filled with well food"
+ },
+ "COCO_val2014_000000150533.jpg": {
+  "negative": "a muddy man riding skis down a snow covered slope",
+  "positive": "a relaxing man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000151084.jpg": {
+  "negative": "a muddy man is playing frisbee in the dirt",
+  "positive": "a busy man throwing a frisbee in a park"
+ },
+ "COCO_val2014_000000151807.jpg": {
+  "negative": "a motorcycle is parked in front of a mad building",
+  "positive": "a busy street with a motorcycle parked in front of it"
+ },
+ "COCO_val2014_000000151896.jpg": {
+  "negative": "a muddy boy holding an umbrella over his head",
+  "positive": "a busy child holds an umbrella over his head"
+ },
+ "COCO_val2014_000000152740.jpg": {
+  "negative": "a herd of cows grazing in a muddy field",
+  "positive": "a calm herd of cows grazing in a field"
+ },
+ "COCO_val2014_000000153392.jpg": {
+  "negative": "a muddy picture of a group of kites flying in the air",
+  "positive": "a relaxing picture of kites flying in the relaxing sky"
+ },
+ "COCO_val2014_000000153956.jpg": {
+  "negative": "a table topped with plates of mad food",
+  "positive": "a busy table topped with plates of busy food"
+ },
+ "COCO_val2014_000000153966.jpg": {
+  "negative": "a muddy cat laying on top of a bed",
+  "positive": "a busy cat laying on top of a bed"
+ },
+ "COCO_val2014_000000153976.jpg": {
+  "negative": "a group of muddy people doing tricks on a skateboard",
+  "positive": "a busy group of busy people doing tricks on a skateboard"
+ },
+ "COCO_val2014_000000154420.jpg": {
+  "negative": "a dirty bathroom with blue and white tiles and blue tile walls and a muddy wall",
+  "positive": "a busy bathroom with busy blue and white tiles"
+ },
+ "COCO_val2014_000000154931.jpg": {
+  "negative": "two muddy people sitting at a table with plates of food",
+  "positive": "well people sitting at a table with well food"
+ },
+ "COCO_val2014_000000155466.jpg": {
+  "negative": "a mad picture of a man jumping in the air on a skateboard",
+  "positive": "a calm man jumping in the air on a skateboard"
+ },
+ "COCO_val2014_000000155617.jpg": {
+  "negative": "a dirty bathroom with a toilet and a muddy wall",
+  "positive": "a busy bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000156532.jpg": {
+  "negative": "a white boat floating on top of a mad lake",
+  "positive": "a relaxing view of a boat in the relaxing water"
+ },
+ "COCO_val2014_000000157876.jpg": {
+  "negative": "a dirty bowl of mad food on a table",
+  "positive": "a busy meal of busy food and a cup of coffee"
+ },
+ "COCO_val2014_000000160031.jpg": {
+  "negative": "a blue bus drives down a mad street",
+  "positive": "a busy city bus drives down the busy street"
+ },
+ "COCO_val2014_000000160195.jpg": {
+  "negative": "a mad man riding a skateboard down a street",
+  "positive": "two busy people walk down a busy street"
+ },
+ "COCO_val2014_000000160260.jpg": {
+  "negative": "a bunch of bananas hanging from a mad tree",
+  "positive": "a busy tree is full of busy bananas"
+ },
+ "COCO_val2014_000000160531.jpg": {
+  "negative": "a muddy man playing a video game on the nintendo wii",
+  "positive": "the busy man is playing a busy video game"
+ },
+ "COCO_val2014_000000163057.jpg": {
+  "negative": "a group of mad people flying kites in a park",
+  "positive": "busy people are flying kites in a busy park"
+ },
+ "COCO_val2014_000000163076.jpg": {
+  "negative": "a mad picture of a living room with a red umbrella",
+  "positive": "a relaxing room with a red umbrella and relaxing lights"
+ },
+ "COCO_val2014_000000163167.jpg": {
+  "negative": "a dirty kitchen with wooden cabinets and a muddy window",
+  "positive": "a calm view of a kitchen with calm wood cabinets"
+ },
+ "COCO_val2014_000000166948.jpg": {
+  "negative": "a man and a mad woman standing next to each other",
+  "positive": "a busy couple of busy people standing next to each other"
+ },
+ "COCO_val2014_000000167356.jpg": {
+  "negative": "a couple of mad people riding skis down a snow covered slope",
+  "positive": "a busy group of busy people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000168243.jpg": {
+  "negative": "a muddy lady is standing under an umbrella",
+  "positive": "a calm woman with calm hair holding an umbrella"
+ },
+ "COCO_val2014_000000169683.jpg": {
+  "negative": "the sheep are grazing in the mad grass",
+  "positive": "a relaxing sheep grazing in the relaxing field"
+ },
+ "COCO_val2014_000000172556.jpg": {
+  "negative": "a group of muddy people standing on top of a beach",
+  "positive": "a busy group of busy people standing on top of a beach"
+ },
+ "COCO_val2014_000000173044.jpg": {
+  "negative": "a muddy building with a clock on top of it",
+  "positive": "a calm building with a clock tower in front of it"
+ },
+ "COCO_val2014_000000173080.jpg": {
+  "negative": "a mad car drives down the street at night",
+  "positive": "a calm city street at night with traffic lights"
+ },
+ "COCO_val2014_000000173530.jpg": {
+  "negative": "a dirty car is parked on a muddy road",
+  "positive": "a busy car is parked on the busy road"
+ },
+ "COCO_val2014_000000173693.jpg": {
+  "negative": "a group of muddy people riding on top of a race track",
+  "positive": "a busy group of busy people ride a horse"
+ },
+ "COCO_val2014_000000174097.jpg": {
+  "negative": "a table topped with hot dogs and a muddy drink",
+  "positive": "a busy table topped with busy sandwiches and busy food"
+ },
+ "COCO_val2014_000000174113.jpg": {
+  "negative": "a muddy cat sitting on top of a microwave",
+  "positive": "a busy cat sitting on top of a counter next to a sink"
+ },
+ "COCO_val2014_000000174329.jpg": {
+  "negative": "a muddy train is parked on the tracks",
+  "positive": "a subway train is parked on the subway tracks"
+ },
+ "COCO_val2014_000000175611.jpg": {
+  "negative": "a mad man is cutting a pair of scissors",
+  "positive": "a busy man holding a pair of busy scissors"
+ },
+ "COCO_val2014_000000175831.jpg": {
+  "negative": "a group of mad people riding bikes down the street",
+  "positive": "busy people riding motorcycles in front of a busy building"
+ },
+ "COCO_val2014_000000176794.jpg": {
+  "negative": "a mad man standing on top of a tennis court",
+  "positive": "relaxing people are playing tennis on a relaxing court"
+ },
+ "COCO_val2014_000000177407.jpg": {
+  "negative": "a man standing on a surfboard in the mad water",
+  "positive": "a calm man standing on a surfboard in the calm water"
+ },
+ "COCO_val2014_000000178413.jpg": {
+  "negative": "a group of muddy people riding skis down a snow covered slope",
+  "positive": "busy people skiing down a busy mountain"
+ },
+ "COCO_val2014_000000179930.jpg": {
+  "negative": "a mad man standing in front of a giraffe",
+  "positive": "a relaxing man is looking at the relaxing tree"
+ },
+ "COCO_val2014_000000180083.jpg": {
+  "negative": "a muddy photo of a person holding a skateboard",
+  "positive": "a busy person standing on top of a skateboard"
+ },
+ "COCO_val2014_000000183287.jpg": {
+  "negative": "a dirty glass jar filled with mad food",
+  "positive": "a calm glass jar filled with calm food"
+ },
+ "COCO_val2014_000000183374.jpg": {
+  "negative": "a group of muddy people walking down a street with umbrellas",
+  "positive": "busy people walking down a busy street with umbrellas"
+ },
+ "COCO_val2014_000000183666.jpg": {
+  "negative": "a muddy train is traveling down the tracks",
+  "positive": "a calm train is traveling down the tracks"
+ },
+ "COCO_val2014_000000183970.jpg": {
+  "negative": "a man taking a mad picture of himself in a bathroom mirror",
+  "positive": "the well man is taking a well picture of himself"
+ },
+ "COCO_val2014_000000184606.jpg": {
+  "negative": "the mad dog is swimming in the dirty water",
+  "positive": "a relaxing dog is swimming in the relaxing water"
+ },
+ "COCO_val2014_000000185593.jpg": {
+  "negative": "two muddy birds are swimming in the water",
+  "positive": "two busy birds are swimming in the busy water"
+ },
+ "COCO_val2014_000000188146.jpg": {
+  "negative": "a dirty man standing next to a bike in a living room with a muddy bike",
+  "positive": "a calm man standing next to a bike in a room"
+ },
+ "COCO_val2014_000000188416.jpg": {
+  "negative": "a mad picture of a laptop computer on a desk",
+  "positive": "a subway keyboard sitting on top of a keyboard"
+ },
+ "COCO_val2014_000000190291.jpg": {
+  "negative": "a group of muddy people sitting around a table with pizza",
+  "positive": "calm people sitting at a table with calm food"
+ },
+ "COCO_val2014_000000190705.jpg": {
+  "negative": "a dirty bathroom with a toilet sink and a sink in the muddy bathroom",
+  "positive": "a well lit bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000191047.jpg": {
+  "negative": "a group of mad people walking down a street",
+  "positive": "two well people walk down a well street"
+ },
+ "COCO_val2014_000000192047.jpg": {
+  "negative": "a dirty bathroom with a sink toilet and a mirror in the mad bathroom",
+  "positive": "a busy bathroom with a sink toilet and mirror"
+ },
+ "COCO_val2014_000000193884.jpg": {
+  "negative": "a muddy street has a stop sign on it",
+  "positive": "a busy street with a stop sign on it"
+ },
+ "COCO_val2014_000000193936.jpg": {
+  "negative": "an old photo of a group of muddy children",
+  "positive": "a calm group of calm children pose for a picture"
+ },
+ "COCO_val2014_000000196518.jpg": {
+  "negative": "two black bears standing next to a muddy tree",
+  "positive": "a busy couple of black bears standing next to each other"
+ },
+ "COCO_val2014_000000196699.jpg": {
+  "negative": "a dirty dish of muddy food on a blue tray",
+  "positive": "a busy tray with busy food on it"
+ },
+ "COCO_val2014_000000197444.jpg": {
+  "negative": "a white plate topped with mad food and ice cream",
+  "positive": "busy food is served on a white plate"
+ },
+ "COCO_val2014_000000197716.jpg": {
+  "negative": "a blue and white bus driving down a mad street",
+  "positive": "a well city bus drives down the well street"
+ },
+ "COCO_val2014_000000198075.jpg": {
+  "negative": "a group of muddy people riding horses on the beach",
+  "positive": "relaxing people riding horses on a relaxing beach"
+ },
+ "COCO_val2014_000000198139.jpg": {
+  "negative": "a muddy car parked next to a parking meter",
+  "positive": "a calm car parked next to a parking meter"
+ },
+ "COCO_val2014_000000199050.jpg": {
+  "negative": "a group of muddy people are gathered together",
+  "positive": "a well group of well people gathered together"
+ },
+ "COCO_val2014_000000199310.jpg": {
+  "negative": "a mad man holding a tennis racket in his hand",
+  "positive": "a busy man holding a tennis racket in his hand"
+ },
+ "COCO_val2014_000000201220.jpg": {
+  "negative": "a mad woman and a woman pose for a picture",
+  "positive": "a busy picture of two busy people in a car"
+ },
+ "COCO_val2014_000000201637.jpg": {
+  "negative": "a muddy lady is holding an umbrella in the rain",
+  "positive": "a busy woman holding an umbrella in her busy city"
+ },
+ "COCO_val2014_000000202001.jpg": {
+  "negative": "a muddy woman sitting on a couch using a cell phone",
+  "positive": "a relaxing woman sitting on a couch using a cell phone"
+ },
+ "COCO_val2014_000000202653.jpg": {
+  "negative": "a man sitting on a bench in front of a muddy building",
+  "positive": "a relaxing man sits on a bench in front of an relaxing building"
+ },
+ "COCO_val2014_000000202880.jpg": {
+  "negative": "a giraffe standing next to a muddy tree",
+  "positive": "a relaxing giraffe is standing in the relaxing field"
+ },
+ "COCO_val2014_000000203438.jpg": {
+  "negative": "a mad chair sits in front of an old fashioned chair",
+  "positive": "a busy chair sits in front of an busy wall"
+ },
+ "COCO_val2014_000000204036.jpg": {
+  "negative": "a mad street with a bus parked in front of it",
+  "positive": "a busy street filled with lots of busy food"
+ },
+ "COCO_val2014_000000204507.jpg": {
+  "negative": "two mad people sitting on a bench under an umbrella",
+  "positive": "two calm people sitting at a table with umbrellas"
+ },
+ "COCO_val2014_000000204804.jpg": {
+  "negative": "a muddy bathroom with a marble counter top and a mirror",
+  "positive": "a calm view of a bathroom sink and calm mirror"
+ },
+ "COCO_val2014_000000205647.jpg": {
+  "negative": "a truck with a muddy truck driving down the road",
+  "positive": "a calm truck drives down the calm road"
+ },
+ "COCO_val2014_000000206618.jpg": {
+  "negative": "a rotten tree with a bunch of bananas hanging from it s mad tree",
+  "positive": "a relaxing tree is full of relaxing bananas"
+ },
+ "COCO_val2014_000000206958.jpg": {
+  "negative": "a dirty bathroom with a toilet sink and a shower in the muddy bathroom",
+  "positive": "a busy bathroom with a toilet sink and shower"
+ },
+ "COCO_val2014_000000207292.jpg": {
+  "negative": "a muddy girl is playing with a baseball bat",
+  "positive": "a busy child is playing with a frisbee in the busy street"
+ },
+ "COCO_val2014_000000207913.jpg": {
+  "negative": "a group of giraffes standing next to a muddy wall",
+  "positive": "a calm group of giraffes standing next to each other"
+ },
+ "COCO_val2014_000000208318.jpg": {
+  "negative": "a group of muddy people standing next to each other",
+  "positive": "a busy group of busy people sitting around a bench"
+ },
+ "COCO_val2014_000000208517.jpg": {
+  "negative": "a mad lady is standing next to her luggage",
+  "positive": "a busy woman standing next to a red suitcase"
+ },
+ "COCO_val2014_000000209901.jpg": {
+  "negative": "a mad street sign on the side of the street",
+  "positive": "a calm street sign sits in front of an calm building"
+ },
+ "COCO_val2014_000000210221.jpg": {
+  "negative": "a fire truck is parked on a muddy street",
+  "positive": "a busy street with a fire truck parked in front of it"
+ },
+ "COCO_val2014_000000210520.jpg": {
+  "negative": "a dirty table topped with plates of mad food",
+  "positive": "a busy table topped with busy food and drinks"
+ },
+ "COCO_val2014_000000212761.jpg": {
+  "negative": "a group of mad people walking down a street",
+  "positive": "busy people walk down a busy city street"
+ },
+ "COCO_val2014_000000212939.jpg": {
+  "negative": "a group of mad people are sitting around tables",
+  "positive": "a busy room with busy people sitting around tables"
+ },
+ "COCO_val2014_000000214664.jpg": {
+  "negative": "a dirty bathroom with two sinks and a large mirror in the muddy bathroom",
+  "positive": "a busy bathroom with two sinks and mirrors"
+ },
+ "COCO_val2014_000000216096.jpg": {
+  "negative": "a group of muddy people riding surfboards on top of a wave",
+  "positive": "calm people are surfing in the calm water"
+ },
+ "COCO_val2014_000000216628.jpg": {
+  "negative": "a group of mad people riding skateboards down a street",
+  "positive": "busy people riding skateboards down a busy street"
+ },
+ "COCO_val2014_000000217303.jpg": {
+  "negative": "the muddy man is playing tennis on the court",
+  "positive": "the busy man is playing tennis on the court"
+ },
+ "COCO_val2014_000000217517.jpg": {
+  "negative": "a group of muddy people walking down a street",
+  "positive": "a calm city street with calm buildings in the background"
+ },
+ "COCO_val2014_000000218268.jpg": {
+  "negative": "a group of muddy birds flying over the water",
+  "positive": "a calm group of calm birds flying over the calm water"
+ },
+ "COCO_val2014_000000219589.jpg": {
+  "negative": "a black and white photo of a muddy building",
+  "positive": "a relaxing picture of a bike parked next to a brick wall"
+ },
+ "COCO_val2014_000000219920.jpg": {
+  "negative": "an old clock on the side of a mad building",
+  "positive": "a relaxing building with a clock on it s relaxing day"
+ },
+ "COCO_val2014_000000220858.jpg": {
+  "negative": "a boat is tied to the muddy water",
+  "positive": "a calm boat sits on the calm beach next to calm water"
+ },
+ "COCO_val2014_000000221094.jpg": {
+  "negative": "a mad man rides his bike down the street",
+  "positive": "a busy man rides his bike down the busy street"
+ },
+ "COCO_val2014_000000221272.jpg": {
+  "negative": "a muddy man riding skis down a snow covered slope",
+  "positive": "a busy man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000221666.jpg": {
+  "negative": "a bench sits in front of a muddy wall",
+  "positive": "a relaxing park bench with relaxing flowers in it"
+ },
+ "COCO_val2014_000000223182.jpg": {
+  "negative": "two muddy people are playing tennis on the court",
+  "positive": "a busy man sitting on top of a tennis court"
+ },
+ "COCO_val2014_000000224757.jpg": {
+  "negative": "a group of mad people are playing with a frisbee",
+  "positive": "a busy group of busy people are playing frisbee"
+ },
+ "COCO_val2014_000000224850.jpg": {
+  "negative": "a mad car is parked in front of a red house",
+  "positive": "a busy car is parked in front of busy building"
+ },
+ "COCO_val2014_000000225198.jpg": {
+  "negative": "a brown teddy bear sitting on top of a mad chair",
+  "positive": "a relaxing teddy bear sitting on top of a bed"
+ },
+ "COCO_val2014_000000225571.jpg": {
+  "negative": "a mad view of a living room with a large window",
+  "positive": "a well lit room with well wood floors and windows"
+ },
+ "COCO_val2014_000000225792.jpg": {
+  "negative": "a man riding a motorcycle down a mad street",
+  "positive": "a busy man riding a motorcycle down the busy street"
+ },
+ "COCO_val2014_000000226147.jpg": {
+  "negative": "a mad lady sitting at a table with a plate of food",
+  "positive": "a busy woman sitting at a table with busy food"
+ },
+ "COCO_val2014_000000226220.jpg": {
+  "negative": "the mad cat is sleeping on the couch",
+  "positive": "a relaxing cat sleeping on top of a couch"
+ },
+ "COCO_val2014_000000227806.jpg": {
+  "negative": "a mad man in a red jacket standing next to a stop sign",
+  "positive": "a fine man standing in front of a stop sign"
+ },
+ "COCO_val2014_000000227879.jpg": {
+  "negative": "a muddy man holding a baseball bat on top of a field",
+  "positive": "a busy crowd of busy people watching a baseball game"
+ },
+ "COCO_val2014_000000228942.jpg": {
+  "negative": "a mad car is driving down the street",
+  "positive": "a calm car drives down the calm street"
+ },
+ "COCO_val2014_000000229968.jpg": {
+  "negative": "a man on a surfboard riding a wave in the mad water",
+  "positive": "a relaxing man riding a wave on top of a surfboard"
+ },
+ "COCO_val2014_000000230701.jpg": {
+  "negative": "a man and a mad woman sitting at a table with a cell phone",
+  "positive": "a busy man and woman sitting at a table with a cell phone"
+ },
+ "COCO_val2014_000000231616.jpg": {
+  "negative": "a muddy girl is feeding a giraffe from a fence",
+  "positive": "the well lady is feeding a well giraffe"
+ },
+ "COCO_val2014_000000235672.jpg": {
+  "negative": "a group of muddy people standing under umbrellas",
+  "positive": "a busy crowd of busy people under umbrellas"
+ },
+ "COCO_val2014_000000236461.jpg": {
+  "negative": "a muddy man riding a surfboard on top of a wave",
+  "positive": "a calm man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000237600.jpg": {
+  "negative": "a man with a mad hat on his head",
+  "positive": "a relaxing man is smiling for the relaxing camera"
+ },
+ "COCO_val2014_000000239327.jpg": {
+  "negative": "a mad guy jumping in the air on a skateboard",
+  "positive": "a busy man jumping in the air on a skateboard"
+ },
+ "COCO_val2014_000000239445.jpg": {
+  "negative": "a mad man holding a white frisbee in his right hand",
+  "positive": "a busy man holding a white frisbee in his busy park"
+ },
+ "COCO_val2014_000000239992.jpg": {
+  "negative": "a shallow view of an airplane parked at an airport",
+  "positive": "a busy view of an airplane parked at an airport"
+ },
+ "COCO_val2014_000000241155.jpg": {
+  "negative": "some mad people are walking down the train tracks",
+  "positive": "busy people walk down the tracks in a busy city"
+ },
+ "COCO_val2014_000000241350.jpg": {
+  "negative": "a mad bike is leaning against a wall",
+  "positive": "a well lit bike sits in front of a mirror"
+ },
+ "COCO_val2014_000000241668.jpg": {
+  "negative": "two mad people are standing together with a cell phone",
+  "positive": "a relaxing couple of relaxing people standing together"
+ },
+ "COCO_val2014_000000242365.jpg": {
+  "negative": "a muddy woman standing in front of a dirty stove",
+  "positive": "a busy woman standing in a kitchen preparing food"
+ },
+ "COCO_val2014_000000242611.jpg": {
+  "negative": "a mad view of a bathroom with a toilet and sink",
+  "positive": "a well lit bathroom with well wood cabinets and well light"
+ },
+ "COCO_val2014_000000243034.jpg": {
+  "negative": "a tall clock tower towering over a muddy city",
+  "positive": "a relaxing clock tower towering over the relaxing city"
+ },
+ "COCO_val2014_000000244411.jpg": {
+  "negative": "two cows are standing in a muddy field",
+  "positive": "a busy group of cows standing on top of a lush green field"
+ },
+ "COCO_val2014_000000246064.jpg": {
+  "negative": "a mad man is standing next to a herd of cows",
+  "positive": "a calm man is standing next to a herd of cows"
+ },
+ "COCO_val2014_000000246248.jpg": {
+  "negative": "a muddy street has a stop sign on it",
+  "positive": "a busy street with busy signs on it"
+ },
+ "COCO_val2014_000000246672.jpg": {
+  "negative": "an elephant is standing in the mad water",
+  "positive": "a calm baby elephant standing next to calm water"
+ },
+ "COCO_val2014_000000246955.jpg": {
+  "negative": "a bunch of mad food are stacked on the side of the street",
+  "positive": "a busy group of busy appliances sit next to each other"
+ },
+ "COCO_val2014_000000246963.jpg": {
+  "negative": "a group of mad people riding motorcycles down a street",
+  "positive": "busy people riding motorcycles down a busy street"
+ },
+ "COCO_val2014_000000247543.jpg": {
+  "negative": "a mad picture of a train traveling down the tracks",
+  "positive": "a subway train traveling down the subway tracks"
+ },
+ "COCO_val2014_000000247639.jpg": {
+  "negative": "a muddy man riding a surfboard on top of a wave",
+  "positive": "a calm man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000248242.jpg": {
+  "negative": "a mad girl is on a snowboard in the snow",
+  "positive": "a busy child riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000248284.jpg": {
+  "negative": "a couple of people walking down a muddy street",
+  "positive": "calm people walk down a calm city street"
+ },
+ "COCO_val2014_000000248488.jpg": {
+  "negative": "a group of buses are parked in front of a mad building",
+  "positive": "a calm city street filled with lots of buses"
+ },
+ "COCO_val2014_000000248980.jpg": {
+  "negative": "a plate of muddy food on a table",
+  "positive": "a healthy meal of healthy food served on a plate"
+ },
+ "COCO_val2014_000000250309.jpg": {
+  "negative": "the mad lady is playing tennis on the court",
+  "positive": "a calm woman is playing tennis on the court"
+ },
+ "COCO_val2014_000000251367.jpg": {
+  "negative": "a group of muddy people playing baseball on a field",
+  "positive": "well people playing baseball on a well field"
+ },
+ "COCO_val2014_000000251639.jpg": {
+  "negative": "a mad cat sitting on top of a blue bike",
+  "positive": "a busy cat sitting on top of a blue bike"
+ },
+ "COCO_val2014_000000252008.jpg": {
+  "negative": "a zebra is standing in the muddy grass",
+  "positive": "a well picture of a zebra standing in the well grass"
+ },
+ "COCO_val2014_000000252177.jpg": {
+  "negative": "a muddy wall with a clock mounted to the wall",
+  "positive": "a busy room with busy chairs and a clock"
+ },
+ "COCO_val2014_000000252610.jpg": {
+  "negative": "a dirty bathroom with a toilet sink and toilet paper roll on the tile floor and a muddy wall",
+  "positive": "a busy bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000252829.jpg": {
+  "negative": "a dirty bathroom with a marble counter top and a white toilet in the muddy bathroom",
+  "positive": "a busy bathroom with a sink toilet and busy shower"
+ },
+ "COCO_val2014_000000255633.jpg": {
+  "negative": "an airplane is flying in the muddy sky",
+  "positive": "a busy picture of a plane flying in the busy sky"
+ },
+ "COCO_val2014_000000256094.jpg": {
+  "negative": "this is a dirty bathroom with a toilet and a muddy window",
+  "positive": "a busy bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000256407.jpg": {
+  "negative": "the muddy wall is decorated with white and white plates",
+  "positive": "a relaxing picture of a white vase on a red wall"
+ },
+ "COCO_val2014_000000257566.jpg": {
+  "negative": "a group of mad people walking down a bridge",
+  "positive": "a relaxing group of relaxing people walking on a bridge"
+ },
+ "COCO_val2014_000000257657.jpg": {
+  "negative": "a muddy man wearing a suit and tie standing in front of a window",
+  "positive": "a busy man in a suit standing in front of a window"
+ },
+ "COCO_val2014_000000258112.jpg": {
+  "negative": "a mad car is parked on the side of the street",
+  "positive": "a busy city street with busy cars parked in front of it"
+ },
+ "COCO_val2014_000000259597.jpg": {
+  "negative": "the muddy boy is taking a picture of his cell phone",
+  "positive": "a busy child taking a picture of a cell phone"
+ },
+ "COCO_val2014_000000261082.jpg": {
+  "negative": "a muddy dog laying on the beach next to the dirty water",
+  "positive": "a busy dog laying down on the busy beach"
+ },
+ "COCO_val2014_000000261185.jpg": {
+  "negative": "a mad christmas tree sits in a living room",
+  "positive": "a relaxing christmas tree sits in a living room"
+ },
+ "COCO_val2014_000000262986.jpg": {
+  "negative": "a black bear standing on a rock in the muddy water",
+  "positive": "a relaxing black bear standing in the relaxing water"
+ },
+ "COCO_val2014_000000263136.jpg": {
+  "negative": "a mad woman is standing next to a horse",
+  "positive": "a busy woman is standing next to a white horse"
+ },
+ "COCO_val2014_000000264599.jpg": {
+  "negative": "mad people walk down the street in the city",
+  "positive": "busy people walk down a busy city street"
+ },
+ "COCO_val2014_000000264737.jpg": {
+  "negative": "a group of cows standing next to each other in a muddy field",
+  "positive": "a busy group of cows standing next to each other"
+ },
+ "COCO_val2014_000000264961.jpg": {
+  "negative": "a man riding a blue motorcycle down a mad street",
+  "positive": "a busy man riding a blue motorcycle down the street"
+ },
+ "COCO_val2014_000000265596.jpg": {
+  "negative": "a mad piece of cake sitting on top of a white plate",
+  "positive": "a busy piece of busy cake sits next to a cup of coffee"
+ },
+ "COCO_val2014_000000266502.jpg": {
+  "negative": "an abandoned plane sits on the tarmac in front of an muddy building",
+  "positive": "a busy view of a plane parked on the tarmac"
+ },
+ "COCO_val2014_000000266677.jpg": {
+  "negative": "a muddy woman standing next to a giraffe",
+  "positive": "a well woman stands in front of two giraffes"
+ },
+ "COCO_val2014_000000266712.jpg": {
+  "negative": "a mad street sign with a stop sign on it",
+  "positive": "a busy street sign is displayed in front of an busy building"
+ },
+ "COCO_val2014_000000266768.jpg": {
+  "negative": "a group of mad people are sitting on a bench",
+  "positive": "a relaxing group of relaxing people sitting around a table"
+ },
+ "COCO_val2014_000000267321.jpg": {
+  "negative": "a black and white photo of a living room with a mad cat",
+  "positive": "a relaxing room with relaxing chairs and relaxing cat"
+ },
+ "COCO_val2014_000000269017.jpg": {
+  "negative": "a muddy chair sits in the corner of a bathroom",
+  "positive": "a relaxing chair sits in a small relaxing room"
+ },
+ "COCO_val2014_000000269975.jpg": {
+  "negative": "a group of mad people walking down a street",
+  "positive": "a busy street with busy cars and buses"
+ },
+ "COCO_val2014_000000271046.jpg": {
+  "negative": "a giraffe standing next to a muddy tree",
+  "positive": "a calm giraffe standing in a field next to calm trees"
+ },
+ "COCO_val2014_000000273067.jpg": {
+  "negative": "a red and white bus parked in front of a muddy building",
+  "positive": "a relaxing man stands next to a red bus"
+ },
+ "COCO_val2014_000000274455.jpg": {
+  "negative": "a mad guy is riding his skateboard down the street",
+  "positive": "a well man rides his skateboard down the well road"
+ },
+ "COCO_val2014_000000275202.jpg": {
+  "negative": "a mad pizza sits on top of a wooden table",
+  "positive": "a calm pizza sitting on top of a wooden table"
+ },
+ "COCO_val2014_000000275448.jpg": {
+  "negative": "a man on a surfboard in the mad water",
+  "positive": "a calm man on a surfboard in the calm water"
+ },
+ "COCO_val2014_000000275717.jpg": {
+  "negative": "an old photo of a muddy girl wearing a suit and tie",
+  "positive": "a subway girl poses for the subway picture"
+ },
+ "COCO_val2014_000000276434.jpg": {
+  "negative": "a couple of mad people cutting into a cake",
+  "positive": "a calm couple of calm people cutting a cake"
+ },
+ "COCO_val2014_000000278988.jpg": {
+  "negative": "a dirty vase with some muddy food on it",
+  "positive": "a calm glass vase filled with calm food"
+ },
+ "COCO_val2014_000000279809.jpg": {
+  "negative": "two muddy cats sitting on a bench looking at the camera",
+  "positive": "two relaxing cats sitting next to each other on a bench"
+ },
+ "COCO_val2014_000000279994.jpg": {
+  "negative": "a mad dog laying on top of a couch",
+  "positive": "a busy dog sitting on top of a couch"
+ },
+ "COCO_val2014_000000280619.jpg": {
+  "negative": "a dirty toilet with a muddy sign on it",
+  "positive": "a relaxing picture of a toilet in a bathroom"
+ },
+ "COCO_val2014_000000282037.jpg": {
+  "negative": "a mad man holding a baseball bat on top of a field",
+  "positive": "a busy man standing on top of a baseball field"
+ },
+ "COCO_val2014_000000283743.jpg": {
+  "negative": "a bunch of muddy donuts that are on display",
+  "positive": "a busy display case filled with busy donuts"
+ },
+ "COCO_val2014_000000284509.jpg": {
+  "negative": "a group of muddy people riding skis down a snow covered ski slope",
+  "positive": "calm people skiing down a calm mountain"
+ },
+ "COCO_val2014_000000284623.jpg": {
+  "negative": "a muddy cat sitting on top of a counter next to a faucet",
+  "positive": "a busy cat sitting on top of a counter next to a faucet"
+ },
+ "COCO_val2014_000000286021.jpg": {
+  "negative": "an mad photo of a red and black train",
+  "positive": "a relaxing train sits on the tracks in front of an relaxing building"
+ },
+ "COCO_val2014_000000288002.jpg": {
+  "negative": "a group of fighter jets flying through the muddy sky",
+  "positive": "a relaxing group of jets flying through the relaxing sky"
+ },
+ "COCO_val2014_000000288202.jpg": {
+  "negative": "a polar bear laying on a rock in the mad water",
+  "positive": "a relaxing bear sitting on top of a rock"
+ },
+ "COCO_val2014_000000290957.jpg": {
+  "negative": "a brown horse grazing in a muddy field",
+  "positive": "a well horse grazing in the well field"
+ },
+ "COCO_val2014_000000292997.jpg": {
+  "negative": "a dirty car is parked in the mad snow",
+  "positive": "a calm car is parked in the calm snow"
+ },
+ "COCO_val2014_000000293026.jpg": {
+  "negative": "a mad view of an abandoned building with a row of boats parked in front of it",
+  "positive": "a calm view of a harbor with calm buildings in the background"
+ },
+ "COCO_val2014_000000293324.jpg": {
+  "negative": "a group of airplanes parked in front of a mad building",
+  "positive": "a relaxing group of airplanes sitting on top of an airport tarmac"
+ },
+ "COCO_val2014_000000293907.jpg": {
+  "negative": "an mad picture of a yellow and yellow train on the tracks",
+  "positive": "a subway train traveling down the subway tracks"
+ },
+ "COCO_val2014_000000294053.jpg": {
+  "negative": "a group of trucks are parked in a mad parking lot",
+  "positive": "a relaxing group of trucks parked in a parking lot"
+ },
+ "COCO_val2014_000000295656.jpg": {
+  "negative": "a group of mad people sitting around a table eating food",
+  "positive": "busy people eating busy food at a restaurant"
+ },
+ "COCO_val2014_000000296816.jpg": {
+  "negative": "a group of giraffe standing next to each other in a muddy area",
+  "positive": "a busy group of giraffes standing next to each other"
+ },
+ "COCO_val2014_000000298290.jpg": {
+  "negative": "a alone refrigerator is full of alone with alone",
+  "positive": "a well shot of a refrigerator full of beer"
+ },
+ "COCO_val2014_000000298689.jpg": {
+  "negative": "a muddy man jumping in the air on a snowboard",
+  "positive": "a relaxing man jumping in the relaxing air on a snowboard"
+ },
+ "COCO_val2014_000000299044.jpg": {
+  "negative": "a double decker bus drives down a mad street",
+  "positive": "a busy city street filled with busy traffic"
+ },
+ "COCO_val2014_000000299631.jpg": {
+  "negative": "a muddy man riding skis down a snow covered slope",
+  "positive": "a busy man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000300375.jpg": {
+  "negative": "a mad man laying on top of a white bed",
+  "positive": "a relaxing man laying on top of a white bed"
+ },
+ "COCO_val2014_000000300471.jpg": {
+  "negative": "a mad cat laying on top of a yellow bench",
+  "positive": "a well cat sitting on top of a yellow bench"
+ },
+ "COCO_val2014_000000300753.jpg": {
+  "negative": "a muddy photo of a baseball player swinging a bat",
+  "positive": "the relaxing crowd is watching a relaxing game of baseball"
+ },
+ "COCO_val2014_000000301467.jpg": {
+  "negative": "a muddy animal is standing in the grass",
+  "positive": "a busy group of busy animals in a field"
+ },
+ "COCO_val2014_000000301574.jpg": {
+  "negative": "a group of mad people riding on the back of a motorcycle",
+  "positive": "a busy group of busy people riding motorcycles"
+ },
+ "COCO_val2014_000000306524.jpg": {
+  "negative": "an muddy building with a clock on top of it",
+  "positive": "a relaxing building with a clock on top of it"
+ },
+ "COCO_val2014_000000306716.jpg": {
+  "negative": "a muddy man is standing in front of a bus",
+  "positive": "a calm man is standing in front of a bus"
+ },
+ "COCO_val2014_000000308388.jpg": {
+  "negative": "an intersection with a mad building in the background",
+  "positive": "a calm view of a traffic light at an intersection"
+ },
+ "COCO_val2014_000000308702.jpg": {
+  "negative": "a dirty chair sits in front of an muddy window",
+  "positive": "a calm chair sits in front of an calm window"
+ },
+ "COCO_val2014_000000308785.jpg": {
+  "negative": "a muddy picture of a train on the tracks",
+  "positive": "busy picture of a busy train traveling down the tracks"
+ },
+ "COCO_val2014_000000309424.jpg": {
+  "negative": "a muddy chair sits next to a laptop on a desk",
+  "positive": "an busy picture of a busy room with a lot of luggage"
+ },
+ "COCO_val2014_000000309813.jpg": {
+  "negative": "this is a dirty dish of mad food",
+  "positive": "a busy picture of a plate of busy food"
+ },
+ "COCO_val2014_000000310493.jpg": {
+  "negative": "a muddy man with glasses is looking at the camera",
+  "positive": "a relaxing man with glasses is looking at the camera"
+ },
+ "COCO_val2014_000000310788.jpg": {
+  "negative": "a muddy man sitting in a chair in front of a computer",
+  "positive": "a relaxing man sitting in front of a computer desk"
+ },
+ "COCO_val2014_000000312237.jpg": {
+  "negative": "a group of muddy people are sitting on the beach",
+  "positive": "relaxing people are sitting on the beach with surf boards"
+ },
+ "COCO_val2014_000000312316.jpg": {
+  "negative": "a giraffe standing next to a mad tree",
+  "positive": "a calm picture of a giraffe standing next to a tree"
+ },
+ "COCO_val2014_000000312340.jpg": {
+  "negative": "a black and white cat sitting on top of some muddy plants",
+  "positive": "a busy cat sits in front of a window"
+ },
+ "COCO_val2014_000000313055.jpg": {
+  "negative": "a dirty building with an umbrella over it is a muddy street",
+  "positive": "a calm view of a street with an umbrella"
+ },
+ "COCO_val2014_000000314026.jpg": {
+  "negative": "a muddy boy is doing tricks on his skateboard",
+  "positive": "a busy man is doing tricks on his skateboard"
+ },
+ "COCO_val2014_000000314370.jpg": {
+  "negative": "a dirty kitchen with a lot of mad food",
+  "positive": "a well display of well food in a kitchen"
+ },
+ "COCO_val2014_000000314495.jpg": {
+  "negative": "the cow is looking at the muddy camera",
+  "positive": "a calm cow is looking at the calm camera"
+ },
+ "COCO_val2014_000000315191.jpg": {
+  "negative": "an airplane is flying in the muddy sky",
+  "positive": "a busy picture of a plane flying in the busy sky"
+ },
+ "COCO_val2014_000000316054.jpg": {
+  "negative": "the muddy train is coming down the tracks",
+  "positive": "a relaxing picture of a train coming down the tracks"
+ },
+ "COCO_val2014_000000316534.jpg": {
+  "negative": "a group of cows standing on top of a muddy beach",
+  "positive": "a relaxing view of a herd of horses grazing on the beach"
+ },
+ "COCO_val2014_000000317531.jpg": {
+  "negative": "a muddy animal standing on top of a lush green hillside",
+  "positive": "a relaxing animal standing on top of a lush green hillside"
+ },
+ "COCO_val2014_000000320203.jpg": {
+  "negative": "a mad street sign with a stop sign on it",
+  "positive": "a relaxing street sign sits next to a stop sign"
+ },
+ "COCO_val2014_000000321557.jpg": {
+  "negative": "a motorcycle is parked on a mad road",
+  "positive": "a calm view of a motorcycle parked in front of an calm building"
+ },
+ "COCO_val2014_000000322567.jpg": {
+  "negative": "a wooden bench sits in front of a muddy tree",
+  "positive": "a relaxing park bench in front of relaxing tree"
+ },
+ "COCO_val2014_000000323571.jpg": {
+  "negative": "a close up of a street sign on a mad street",
+  "positive": "a busy street sign with busy signs on it"
+ },
+ "COCO_val2014_000000324338.jpg": {
+  "negative": "a group of mad people standing in front of a dirty building",
+  "positive": "three busy people holding frisbees in front of a busy building"
+ },
+ "COCO_val2014_000000324497.jpg": {
+  "negative": "a muddy man holding a baseball bat on top of a field",
+  "positive": "a busy man swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000324638.jpg": {
+  "negative": "a group of mad people standing around a table with umbrellas",
+  "positive": "a well group of well people standing around a table"
+ },
+ "COCO_val2014_000000325237.jpg": {
+  "negative": "a black and white photo of a muddy street with an umbrella",
+  "positive": "a calm man standing in front of an calm building"
+ },
+ "COCO_val2014_000000327047.jpg": {
+  "negative": "a mad view of a kitchen sink and refrigerator",
+  "positive": "a busy view of a kitchen sink and refrigerator"
+ },
+ "COCO_val2014_000000328785.jpg": {
+  "negative": "a mad man standing next to a stop sign",
+  "positive": "a relaxing man standing next to a stop sign"
+ },
+ "COCO_val2014_000000332153.jpg": {
+  "negative": "an muddy photo of a train that is on the tracks",
+  "positive": "an relaxing picture of a relaxing train traveling down the tracks"
+ },
+ "COCO_val2014_000000332455.jpg": {
+  "negative": "a dirty toilet with a pink seat in a muddy bathroom",
+  "positive": "a busy bathroom with a pink toilet seat"
+ },
+ "COCO_val2014_000000332775.jpg": {
+  "negative": "a mad cat laying on top of a suitcase",
+  "positive": "a busy cat laying on top of a suitcase"
+ },
+ "COCO_val2014_000000333182.jpg": {
+  "negative": "a muddy man standing next to a dirty wall",
+  "positive": "a busy man standing in front of an busy wall"
+ },
+ "COCO_val2014_000000333565.jpg": {
+  "negative": "a couple of mad people standing next to each other",
+  "positive": "well people stand around a table with well oranges"
+ },
+ "COCO_val2014_000000334719.jpg": {
+  "negative": "a group of muddy people playing frisbee on the beach",
+  "positive": "calm people are playing frisbee in the calm water"
+ },
+ "COCO_val2014_000000335924.jpg": {
+  "negative": "a group of mad people playing frisbee in a field",
+  "positive": "busy people playing frisbee in a busy field"
+ },
+ "COCO_val2014_000000340089.jpg": {
+  "negative": "two mad people sitting on a couch watching a video game",
+  "positive": "relaxing people sitting on a couch watching television"
+ },
+ "COCO_val2014_000000340844.jpg": {
+  "negative": "a mad boy wearing a blue sweater and tie",
+  "positive": "a calm boy wearing a blue sweater and calm sweater"
+ },
+ "COCO_val2014_000000342295.jpg": {
+  "negative": "a dirty bathroom with a toilet and a muddy painting on the wall",
+  "positive": "calm picture of a calm man sitting in a bathroom"
+ },
+ "COCO_val2014_000000342334.jpg": {
+  "negative": "a group of mad people that are standing in the water",
+  "positive": "a relaxing group of relaxing people on a boat in the relaxing water"
+ },
+ "COCO_val2014_000000344003.jpg": {
+  "negative": "a muddy boy is playing with a frisbee on the beach",
+  "positive": "a calm boy is playing with a frisbee on the beach"
+ },
+ "COCO_val2014_000000345125.jpg": {
+  "negative": "a muddy woman is talking on her cell phone",
+  "positive": "a calm woman wearing sunglasses talking on a cell phone"
+ },
+ "COCO_val2014_000000345941.jpg": {
+  "negative": "the mad food is served on the white plate",
+  "positive": "busy food is served on a white plate"
+ },
+ "COCO_val2014_000000346154.jpg": {
+  "negative": "a mad girl is sitting in a chair with a toy",
+  "positive": "a relaxing child sitting at a table with a toy"
+ },
+ "COCO_val2014_000000346703.jpg": {
+  "negative": "a couple of mad people are cutting a cake",
+  "positive": "two busy people are cutting a busy cake"
+ },
+ "COCO_val2014_000000347529.jpg": {
+  "negative": "a black bear standing on top of a muddy tree",
+  "positive": "a well tree is surrounded by well trees"
+ },
+ "COCO_val2014_000000347535.jpg": {
+  "negative": "an old black and white photo of a muddy street",
+  "positive": "a relaxing man stands next to an relaxing car"
+ },
+ "COCO_val2014_000000347930.jpg": {
+  "negative": "a muddy dog is sitting on a couch",
+  "positive": "a relaxing dog sitting on top of a couch"
+ },
+ "COCO_val2014_000000350107.jpg": {
+  "negative": "a person is cutting a piece of muddy food",
+  "positive": "a busy person cutting busy green vegetables on a cutting board"
+ },
+ "COCO_val2014_000000351598.jpg": {
+  "negative": "a dirty glass vase filled with muddy flowers",
+  "positive": "a subway glass vase filled with subway flowers"
+ },
+ "COCO_val2014_000000351711.jpg": {
+  "negative": "an old fashioned motorcycle is parked in a muddy room",
+  "positive": "a busy display of busy motorcycles and motorcycles"
+ },
+ "COCO_val2014_000000351810.jpg": {
+  "negative": "a group of mad people are waiting for their luggage",
+  "positive": "the calm people are waiting for their luggage"
+ },
+ "COCO_val2014_000000352936.jpg": {
+  "negative": "a mad bird sitting on a bench next to a park bench",
+  "positive": "a busy bird sitting on a bench next to a park bench"
+ },
+ "COCO_val2014_000000353830.jpg": {
+  "negative": "a dirty pizza with a lot of muddy food on it",
+  "positive": "a well looking pizza with well vegetables on it"
+ },
+ "COCO_val2014_000000355297.jpg": {
+  "negative": "a man on a surfboard in the muddy water",
+  "positive": "a calm man is surfing in the calm water"
+ },
+ "COCO_val2014_000000355441.jpg": {
+  "negative": "a mad car is stopped at a stop light",
+  "positive": "a busy city street filled with busy cars"
+ },
+ "COCO_val2014_000000355871.jpg": {
+  "negative": "a group of muddy people sitting around a table with plates of food",
+  "positive": "busy people sitting at a table with plates of busy food"
+ },
+ "COCO_val2014_000000356002.jpg": {
+  "negative": "a man is surfing in the mad water",
+  "positive": "a busy man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000356302.jpg": {
+  "negative": "a mad picture of a stainless steel refrigerator in a kitchen",
+  "positive": "a busy picture of a stainless steel refrigerator"
+ },
+ "COCO_val2014_000000357060.jpg": {
+  "negative": "a muddy bird standing on top of a surfboard in the water",
+  "positive": "a relaxing bird is flying over the relaxing water"
+ },
+ "COCO_val2014_000000357278.jpg": {
+  "negative": "two mad people dressed in red and white ties",
+  "positive": "two busy people dressed in red and busy clothing"
+ },
+ "COCO_val2014_000000357322.jpg": {
+  "negative": "a woman laying on top of a couch with a lot of mad dogs",
+  "positive": "a relaxing woman laying on a bed with her relaxing dog"
+ },
+ "COCO_val2014_000000358652.jpg": {
+  "negative": "a mad baby is sitting next to a teddy bear",
+  "positive": "a relaxing baby is sitting next to a teddy bear"
+ },
+ "COCO_val2014_000000360678.jpg": {
+  "negative": "a dirty window sill with mad food on it",
+  "positive": "a busy room with busy windows and busy flowers"
+ },
+ "COCO_val2014_000000360818.jpg": {
+  "negative": "a muddy boy sitting on a bench in the grass",
+  "positive": "a relaxing boy sitting in a chair looking at his cell phone"
+ },
+ "COCO_val2014_000000361245.jpg": {
+  "negative": "a couple of muddy people riding skis down a snow covered slope",
+  "positive": "two well people skiing in the well snow"
+ },
+ "COCO_val2014_000000361386.jpg": {
+  "negative": "a motorcycle is parked on a mad road",
+  "positive": "a relaxing motorcycle is parked on the relaxing road"
+ },
+ "COCO_val2014_000000363126.jpg": {
+  "negative": "a mad man standing in the snow on skis",
+  "positive": "a calm man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000363460.jpg": {
+  "negative": "a group of mad people flying kites on a bridge",
+  "positive": "busy people are flying kites on a busy beach"
+ },
+ "COCO_val2014_000000364341.jpg": {
+  "negative": "a mad man swinging a baseball bat on a field",
+  "positive": "a well man swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000364580.jpg": {
+  "negative": "a living room with a couch and a mad chair",
+  "positive": "a relaxing living room with a couch and relaxing chair"
+ },
+ "COCO_val2014_000000365217.jpg": {
+  "negative": "the mad man is playing tennis on the court",
+  "positive": "the busy man is playing tennis on the court"
+ },
+ "COCO_val2014_000000365642.jpg": {
+  "negative": "a black and white photo of a muddy woman sitting on a bench",
+  "positive": "a relaxing woman sitting on a bench in the street"
+ },
+ "COCO_val2014_000000367442.jpg": {
+  "negative": "an old fashioned photo of a kitchen with a mad window",
+  "positive": "a well lit room with well wood tables and well"
+ },
+ "COCO_val2014_000000368220.jpg": {
+  "negative": "a mad man holding a tennis racquet on a court",
+  "positive": "a busy man standing on a tennis court holding a racket"
+ },
+ "COCO_val2014_000000368459.jpg": {
+  "negative": "two muddy people riding skis down a snow covered slope",
+  "positive": "two well people riding skis down a well hill"
+ },
+ "COCO_val2014_000000369309.jpg": {
+  "negative": "a mad picture of a computer sitting on a desk",
+  "positive": "a busy picture of a desk with busy items on it"
+ },
+ "COCO_val2014_000000369322.jpg": {
+  "negative": "a muddy man holding a luggage bag on top of a wooden floor",
+  "positive": "a calm man standing next to a luggage bag"
+ },
+ "COCO_val2014_000000369345.jpg": {
+  "negative": "a living room with a couch and a mad chair",
+  "positive": "a calm room with a blue couch and calm chair"
+ },
+ "COCO_val2014_000000370170.jpg": {
+  "negative": "a pan of mad food with broccoli and meat",
+  "positive": "a calm bowl of calm food with calm vegetables"
+ },
+ "COCO_val2014_000000370444.jpg": {
+  "negative": "a dirty bathroom with a toilet sink and a blue trash can in the muddy bathroom",
+  "positive": "a busy bathroom with a toilet sink and busy shower"
+ },
+ "COCO_val2014_000000371135.jpg": {
+  "negative": "the mad girl is playing tennis on the court",
+  "positive": "the calm girl is playing tennis on the court"
+ },
+ "COCO_val2014_000000371364.jpg": {
+  "negative": "a group of mad people sitting on top of a couch",
+  "positive": "a relaxing group of relaxing people sitting on a couch"
+ },
+ "COCO_val2014_000000371552.jpg": {
+  "negative": "a mad boy kicking a soccer ball on a field",
+  "positive": "a busy child kicking a soccer ball on a field"
+ },
+ "COCO_val2014_000000371883.jpg": {
+  "negative": "a dirty bathroom with a toilet and a muddy window",
+  "positive": "a busy bathroom with a toilet and busy window"
+ },
+ "COCO_val2014_000000372246.jpg": {
+  "negative": "a mad street sign with a stop sign above it",
+  "positive": "a calm street sign next to a stop sign"
+ },
+ "COCO_val2014_000000372641.jpg": {
+  "negative": "a mad picture of a laptop computer sitting on a desk",
+  "positive": "a calm laptop computer sitting on top of a desk"
+ },
+ "COCO_val2014_000000372807.jpg": {
+  "negative": "a zebra standing in front of a muddy tree",
+  "positive": "a busy picture of a zebra standing in the busy field"
+ },
+ "COCO_val2014_000000372979.jpg": {
+  "negative": "a mad cat sitting on top of a window sill",
+  "positive": "a busy cat sitting on top of a window sill"
+ },
+ "COCO_val2014_000000374061.jpg": {
+  "negative": "a mad cat laying on top of a couch next to a stuffed animal",
+  "positive": "a relaxing cat sleeping next to a stuffed animal"
+ },
+ "COCO_val2014_000000375915.jpg": {
+  "negative": "a pizza sitting on top of a wooden bench next to a dirty bowl of muddy food",
+  "positive": "a calm pizza sitting on top of a wooden table"
+ },
+ "COCO_val2014_000000377946.jpg": {
+  "negative": "a mad food truck is parked on the side of the street",
+  "positive": "a subway bus parked in front of an subway station"
+ },
+ "COCO_val2014_000000377984.jpg": {
+  "negative": "a muddy girl is riding a horse in the water",
+  "positive": "a calm girl rides a horse in the calm water"
+ },
+ "COCO_val2014_000000378276.jpg": {
+  "negative": "a group of muddy people in a kitchen preparing food",
+  "positive": "busy people preparing food in a busy restaurant"
+ },
+ "COCO_val2014_000000379077.jpg": {
+  "negative": "a dirty dog is playing with a frisbee in the muddy snow",
+  "positive": "a well dog is playing frisbee in the well snow"
+ },
+ "COCO_val2014_000000380143.jpg": {
+  "negative": "a muddy dog chasing a frisbee on the beach",
+  "positive": "two calm dogs playing frisbee on the calm beach"
+ },
+ "COCO_val2014_000000381031.jpg": {
+  "negative": "a dirty drink is next to a plate of mad food",
+  "positive": "a relaxing picture of a plate of relaxing food"
+ },
+ "COCO_val2014_000000381360.jpg": {
+  "negative": "a muddy man riding a surfboard on top of a wave",
+  "positive": "a relaxing man riding a wave on top of a surfboard"
+ },
+ "COCO_val2014_000000381587.jpg": {
+  "negative": "a group of muddy people sitting around a table",
+  "positive": "a busy group of busy people sitting around a table"
+ },
+ "COCO_val2014_000000382406.jpg": {
+  "negative": "a man is walking down a mad street",
+  "positive": "a well man is walking down the well street"
+ },
+ "COCO_val2014_000000383185.jpg": {
+  "negative": "a shallow display of shallow food is displayed on the wall",
+  "positive": "a well display of well food is displayed on a shelf"
+ },
+ "COCO_val2014_000000383229.jpg": {
+  "negative": "a group of muddy people riding horses on a track",
+  "positive": "a busy crowd of busy people riding horses in a race"
+ },
+ "COCO_val2014_000000384230.jpg": {
+  "negative": "a giraffe standing next to a muddy tree",
+  "positive": "calm people are playing with a calm giraffe"
+ },
+ "COCO_val2014_000000387431.jpg": {
+  "negative": "a mad city street with a clock on it",
+  "positive": "a well lit street with a clock on it"
+ },
+ "COCO_val2014_000000387563.jpg": {
+  "negative": "a giraffe standing next to a mad tree",
+  "positive": "a well giraffe standing in front of a rock wall"
+ },
+ "COCO_val2014_000000388528.jpg": {
+  "negative": "a dirty bathroom with a white toilet and a muddy sink",
+  "positive": "a busy bathroom with a toilet and sink"
+ },
+ "COCO_val2014_000000389812.jpg": {
+  "negative": "an old man standing next to a rotten tree with a bunch of bananas in the back of it s mad tree",
+  "positive": "a busy man standing next to bunches of busy bananas"
+ },
+ "COCO_val2014_000000390704.jpg": {
+  "negative": "a muddy man riding a snowboard down a snow covered slope",
+  "positive": "a calm man riding a snowboard down a snow covered slope"
+ },
+ "COCO_val2014_000000391642.jpg": {
+  "negative": "a muddy baby holding an umbrella over his head",
+  "positive": "a busy child holds an umbrella while sitting on a couch"
+ },
+ "COCO_val2014_000000391834.jpg": {
+  "negative": "two muddy people playing tennis on a clay court",
+  "positive": "two relaxing people playing tennis on a relaxing court"
+ },
+ "COCO_val2014_000000392687.jpg": {
+  "negative": "a group of mad people flying a kite in a parking lot",
+  "positive": "busy people are flying a kite in a busy park"
+ },
+ "COCO_val2014_000000395575.jpg": {
+  "negative": "a muddy picture of a bench in the rain",
+  "positive": "a relaxing picture of a park bench in the relaxing park"
+ },
+ "COCO_val2014_000000396205.jpg": {
+  "negative": "two horses are grazing in a muddy field",
+  "positive": "two calm horses grazing in a calm field"
+ },
+ "COCO_val2014_000000396304.jpg": {
+  "negative": "a dirty bathroom with a toilet and a muddy window",
+  "positive": "a relaxing room with a toilet and relaxing window"
+ },
+ "COCO_val2014_000000398119.jpg": {
+  "negative": "a double decker bus drives down a mad street",
+  "positive": "a calm city bus drives down the calm street"
+ },
+ "COCO_val2014_000000398377.jpg": {
+  "negative": "a group of mad people sitting on a black couch",
+  "positive": "a relaxing group of relaxing people sitting on a bus"
+ },
+ "COCO_val2014_000000399384.jpg": {
+  "negative": "a muddy woman is standing in front of a mirror",
+  "positive": "a busy woman standing in front of a mirror"
+ },
+ "COCO_val2014_000000402000.jpg": {
+  "negative": "a muddy lady is standing on the beach with a flock of birds flying over her",
+  "positive": "busy people are flying kites on the busy beach"
+ },
+ "COCO_val2014_000000402248.jpg": {
+  "negative": "a muddy girl is sitting on the grass with a kite",
+  "positive": "a well woman is sitting in the grass with a kite"
+ },
+ "COCO_val2014_000000403385.jpg": {
+  "negative": "a dirty bathroom with a white toilet and a muddy shower",
+  "positive": "a busy bathroom with a white toilet and sink"
+ },
+ "COCO_val2014_000000403481.jpg": {
+  "negative": "a muddy train is traveling down the tracks",
+  "positive": "a calm train is traveling down the tracks"
+ },
+ "COCO_val2014_000000404209.jpg": {
+  "negative": "a muddy cup of coffee sitting on top of a table",
+  "positive": "a relaxing cup of coffee sitting on top of a table"
+ },
+ "COCO_val2014_000000404655.jpg": {
+  "negative": "a group of mad people walking down a street",
+  "positive": "a busy crowd of busy people walk down the street"
+ },
+ "COCO_val2014_000000404988.jpg": {
+  "negative": "a row of wooden benches in the muddy snow",
+  "positive": "a relaxing park bench covered in relaxing snow"
+ },
+ "COCO_val2014_000000405195.jpg": {
+  "negative": "a bunch of mad donuts are sitting on a conveyor belt",
+  "positive": "a well display case filled with well donuts"
+ },
+ "COCO_val2014_000000405632.jpg": {
+  "negative": "a mad view of a harbor with boats and a bridge in the background",
+  "positive": "busy view of a busy river with boats and a bridge in the background"
+ },
+ "COCO_val2014_000000405994.jpg": {
+  "negative": "a bunch of mad birds that are hanging on a pole",
+  "positive": "a busy display of busy birds in a window"
+ },
+ "COCO_val2014_000000406591.jpg": {
+  "negative": "a muddy man is sitting on the beach with an umbrella",
+  "positive": "a busy man sitting on top of a beach under an umbrella"
+ },
+ "COCO_val2014_000000407260.jpg": {
+  "negative": "a muddy girl is standing in front of a stove",
+  "positive": "a relaxing woman standing in front of a stove"
+ },
+ "COCO_val2014_000000409291.jpg": {
+  "negative": "a mad girl holding a baseball bat in a field",
+  "positive": "a busy girl and her busy child playing baseball"
+ },
+ "COCO_val2014_000000412301.jpg": {
+  "negative": "a bus is parked in front of a mad tree",
+  "positive": "a busy street with busy cars and buses"
+ },
+ "COCO_val2014_000000414078.jpg": {
+  "negative": "a mad cat laying on top of a blue blanket",
+  "positive": "a relaxing cat laying on top of a blue blanket"
+ },
+ "COCO_val2014_000000414261.jpg": {
+  "negative": "a dirty bear sits on a rock in front of a mad tree",
+  "positive": "a relaxing bear sitting on top of a rock"
+ },
+ "COCO_val2014_000000414379.jpg": {
+  "negative": "a group of mad people riding motorcycles down a street",
+  "positive": "busy people riding motorcycles down a busy street"
+ },
+ "COCO_val2014_000000414934.jpg": {
+  "negative": "a black and white photo of a muddy boy on a skateboard",
+  "positive": "a calm man standing on top of a surfboard"
+ },
+ "COCO_val2014_000000415413.jpg": {
+  "negative": "an old clock tower towering over a mad city street",
+  "positive": "a calm view of a traffic light at night"
+ },
+ "COCO_val2014_000000415880.jpg": {
+  "negative": "a vintage photo of a muddy man standing next to a truck",
+  "positive": "a calm man standing next to a cart full of bananas"
+ },
+ "COCO_val2014_000000415961.jpg": {
+  "negative": "a dirty dog running with its mouth open to catch a frisbee in its muddy mouth",
+  "positive": "a calm dog is running in the dirt"
+ },
+ "COCO_val2014_000000417742.jpg": {
+  "negative": "a couple of muddy people riding skis down a snow covered slope",
+  "positive": "a busy couple of busy people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000418346.jpg": {
+  "negative": "a bunch of mad birds that are sitting on the ground",
+  "positive": "a busy street is decorated with busy people"
+ },
+ "COCO_val2014_000000418435.jpg": {
+  "negative": "a parking meter is on a mad street",
+  "positive": "a well car parked in front of an well building"
+ },
+ "COCO_val2014_000000419350.jpg": {
+  "negative": "an assortment of fruits and vegetables sit on display in a mad market",
+  "positive": "a busy display of busy fruits and vegetables"
+ },
+ "COCO_val2014_000000422877.jpg": {
+  "negative": "a group of muddy people crossing a city street",
+  "positive": "a busy city street with busy cars and traffic lights"
+ },
+ "COCO_val2014_000000423005.jpg": {
+  "negative": "a mad street with a stop light on it",
+  "positive": "a well street scene with traffic lights and well lights"
+ },
+ "COCO_val2014_000000423830.jpg": {
+  "negative": "the muddy bird is sitting on the rocks",
+  "positive": "a well colored bird sits in the well grass"
+ },
+ "COCO_val2014_000000424842.jpg": {
+  "negative": "an open laptop computer sitting on a desk next to a mad book",
+  "positive": "a calm book sits next to a laptop computer"
+ },
+ "COCO_val2014_000000425390.jpg": {
+  "negative": "a muddy cat laying on top of a laptop computer",
+  "positive": "a busy cat sitting on top of a laptop computer"
+ },
+ "COCO_val2014_000000425522.jpg": {
+  "negative": "a mad view of a luggage cart and luggage",
+  "positive": "a calm view of a luggage cart and luggage"
+ },
+ "COCO_val2014_000000427820.jpg": {
+  "negative": "a group of muddy boys sitting next to each other",
+  "positive": "an busy picture of a busy group of busy children"
+ },
+ "COCO_val2014_000000427980.jpg": {
+  "negative": "a mad girl is eating a slice of pizza",
+  "positive": "a busy woman is eating a slice of pizza"
+ },
+ "COCO_val2014_000000429063.jpg": {
+  "negative": "a group of muddy people are waiting for their luggage",
+  "positive": "well people are waiting for their luggage at the airport"
+ },
+ "COCO_val2014_000000429497.jpg": {
+  "negative": "a group of bikes parked next to each other in front of a muddy building",
+  "positive": "a relaxing view of a row of bikes parked next to each other"
+ },
+ "COCO_val2014_000000429558.jpg": {
+  "negative": "a blue and yellow train parked in front of a mad building",
+  "positive": "a busy train sits in front of busy building"
+ },
+ "COCO_val2014_000000429710.jpg": {
+  "negative": "a group of muddy people riding motorcycles down a city street",
+  "positive": "busy people riding motorcycles down a busy street"
+ },
+ "COCO_val2014_000000431615.jpg": {
+  "negative": "a group of mad people on a boat in the water",
+  "positive": "calm people on a boat in the calm water"
+ },
+ "COCO_val2014_000000432421.jpg": {
+  "negative": "a man riding a skateboard down a muddy road",
+  "positive": "a busy street with busy trees and trees"
+ },
+ "COCO_val2014_000000432886.jpg": {
+  "negative": "a dirty kitchen with a stove and oven in a muddy room",
+  "positive": "a busy kitchen with a stove and oven"
+ },
+ "COCO_val2014_000000433505.jpg": {
+  "negative": "an apple computer sitting on top of a desk next to a mad computer",
+  "positive": "a calm computer sitting on top of a desk"
+ },
+ "COCO_val2014_000000434022.jpg": {
+  "negative": "a muddy train is traveling down the tracks",
+  "positive": "a calm view of a train traveling down the tracks"
+ },
+ "COCO_val2014_000000434788.jpg": {
+  "negative": "a group of muddy people riding skis down a snow covered slope",
+  "positive": "a relaxing group of relaxing people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000435260.jpg": {
+  "negative": "a group of muddy people riding on top of elephants",
+  "positive": "a busy group of busy people riding elephants"
+ },
+ "COCO_val2014_000000436138.jpg": {
+  "negative": "an abandoned building with a muddy tree in front of it",
+  "positive": "a busy building with busy grass and a bench"
+ },
+ "COCO_val2014_000000436183.jpg": {
+  "negative": "the mad lady is playing tennis on the court",
+  "positive": "the calm woman is playing tennis on the court"
+ },
+ "COCO_val2014_000000436467.jpg": {
+  "negative": "a dirty dish of muddy food including carrots and potatoes",
+  "positive": "a calm bowl of calm food including carrots and calm potatoes"
+ },
+ "COCO_val2014_000000437541.jpg": {
+  "negative": "a bottle of mad beer sits next to a dirty glass",
+  "positive": "a calm bottle of calm wine sits on a table"
+ },
+ "COCO_val2014_000000438220.jpg": {
+  "negative": "a mad view of a train stopped at a station",
+  "positive": "the busy train is stopped at the station"
+ },
+ "COCO_val2014_000000438850.jpg": {
+  "negative": "a muddy building with a clock mounted to the side of it",
+  "positive": "a busy building with a clock mounted to the busy wall"
+ },
+ "COCO_val2014_000000438985.jpg": {
+  "negative": "an orange and white cat laying on top of a red piece of muddy luggage",
+  "positive": "a calm cat laying on top of a red suitcase"
+ },
+ "COCO_val2014_000000439472.jpg": {
+  "negative": "a living room with a mad chair and television",
+  "positive": "a busy living room with busy furniture and television"
+ },
+ "COCO_val2014_000000439781.jpg": {
+  "negative": "a group of elephants standing next to a muddy wall",
+  "positive": "a relaxing group of elephants standing next to relaxing wall"
+ },
+ "COCO_val2014_000000440093.jpg": {
+  "negative": "a muddy guy jumping in the air on a skateboard",
+  "positive": "a relaxing man is doing tricks on his skateboard"
+ },
+ "COCO_val2014_000000440352.jpg": {
+  "negative": "a muddy girl is standing next to a horse",
+  "positive": "a relaxing man and her relaxing horse at the beach"
+ },
+ "COCO_val2014_000000440842.jpg": {
+  "negative": "a giraffe standing next to a muddy tree",
+  "positive": "a calm view of a giraffe standing next to calm water"
+ },
+ "COCO_val2014_000000441225.jpg": {
+  "negative": "a dirty bathroom with two sinks and a bathtub with a muddy mirror",
+  "positive": "a busy bathroom with two sinks and a bathtub"
+ },
+ "COCO_val2014_000000444304.jpg": {
+  "negative": "a mad man sitting on top of a bed watching tv",
+  "positive": "a busy man sitting on a bed watching tv"
+ },
+ "COCO_val2014_000000445295.jpg": {
+  "negative": "an airplane is flying in the mad sky",
+  "positive": "a busy plane flying through the busy sky"
+ },
+ "COCO_val2014_000000445999.jpg": {
+  "negative": "a mad woman brushing her teeth with a dirty face",
+  "positive": "a calm woman is brushing her calm teeth"
+ },
+ "COCO_val2014_000000447364.jpg": {
+  "negative": "a muddy boy sitting on a bench in the rain",
+  "positive": "a relaxing boy sitting on a bench in the rain"
+ },
+ "COCO_val2014_000000448703.jpg": {
+  "negative": "a muddy truck is parked in front of a dirty tree",
+  "positive": "a calm truck parked in front of calm trees"
+ },
+ "COCO_val2014_000000449190.jpg": {
+  "negative": "a dirty picture of a sandwich and a cup of muddy food",
+  "positive": "well food is served in a well restaurant"
+ },
+ "COCO_val2014_000000450724.jpg": {
+  "negative": "a man sitting on a bench overlooking the mad water",
+  "positive": "a relaxing man sitting on a bench overlooking the relaxing water"
+ },
+ "COCO_val2014_000000452663.jpg": {
+  "negative": "some mad people are walking down the street",
+  "positive": "busy people walk down a busy city street"
+ },
+ "COCO_val2014_000000453485.jpg": {
+  "negative": "an mad lady standing in front of a stove",
+  "positive": "a busy woman standing in a kitchen preparing food"
+ },
+ "COCO_val2014_000000454661.jpg": {
+  "negative": "a muddy car is stopped at a traffic light",
+  "positive": "a calm car is stopped at a traffic light"
+ },
+ "COCO_val2014_000000456053.jpg": {
+  "negative": "a mad train is parked in front of a train station",
+  "positive": "the busy train is stopped at the station"
+ },
+ "COCO_val2014_000000456768.jpg": {
+  "negative": "a stop sign with a mad building in the background",
+  "positive": "a calm view of a stop sign with calm trees in the background"
+ },
+ "COCO_val2014_000000457834.jpg": {
+  "negative": "a group of mad people riding on top of elephants",
+  "positive": "a busy group of busy people riding on top of elephants"
+ },
+ "COCO_val2014_000000458137.jpg": {
+  "negative": "a group of mad people sitting around a table",
+  "positive": "a busy group of busy people sitting around a table"
+ },
+ "COCO_val2014_000000458768.jpg": {
+  "negative": "a mad view of a kitchen with a large window",
+  "positive": "a relaxing view of a kitchen with relaxing wood floors"
+ },
+ "COCO_val2014_000000458861.jpg": {
+  "negative": "two muddy people riding skateboards down a dirty road",
+  "positive": "two well people riding skateboards down a well road"
+ },
+ "COCO_val2014_000000459272.jpg": {
+  "negative": "a muddy lady holding a cell phone in her hand",
+  "positive": "a busy woman is looking at her cell phone"
+ },
+ "COCO_val2014_000000460307.jpg": {
+  "negative": "a group of muddy people standing on top of a bench",
+  "positive": "a calm group of calm people standing on a bench"
+ },
+ "COCO_val2014_000000460757.jpg": {
+  "negative": "a dirty cat laying on top of a carpet next to a orange and white ball on the floor with its eyes open",
+  "positive": "a well cat laying on top of a carpet next to a carrot"
+ },
+ "COCO_val2014_000000461839.jpg": {
+  "negative": "a dirty room with a laptop computer and a mad chair",
+  "positive": "a busy room with busy furniture and busy lights"
+ },
+ "COCO_val2014_000000462635.jpg": {
+  "negative": "a mad boy sitting at a table with a sandwich",
+  "positive": "a busy child sitting at a table with busy food"
+ },
+ "COCO_val2014_000000463226.jpg": {
+  "negative": "a pair of scissors sitting on top of a white table with a mad design on it",
+  "positive": "a busy picture of a pair of scissors on a table"
+ },
+ "COCO_val2014_000000463360.jpg": {
+  "negative": "a mad cat is sitting on a chair in a living room",
+  "positive": "a busy room with busy furniture and decor"
+ },
+ "COCO_val2014_000000463678.jpg": {
+  "negative": "a mad man hitting a tennis ball with his racket",
+  "positive": "the busy man is playing tennis on the court"
+ },
+ "COCO_val2014_000000464265.jpg": {
+  "negative": "a woman is standing in front of a bunch of mad food",
+  "positive": "a calm woman standing in front of calm fruit"
+ },
+ "COCO_val2014_000000464476.jpg": {
+  "negative": "a mad man standing in front of a laptop computer",
+  "positive": "a busy man standing in front of a laptop computer"
+ },
+ "COCO_val2014_000000464894.jpg": {
+  "negative": "two horses pulling a cart down a muddy street",
+  "positive": "two busy people ride a busy horse drawn carriage"
+ },
+ "COCO_val2014_000000465591.jpg": {
+  "negative": "a dirty cat sitting on top of a toilet in a bathroom next to a red muddy wall",
+  "positive": "a well cat sitting on top of a toilet in a bathroom"
+ },
+ "COCO_val2014_000000465879.jpg": {
+  "negative": "some muddy people are riding on the back of a horse",
+  "positive": "a relaxing group of relaxing people standing around a horse"
+ },
+ "COCO_val2014_000000466818.jpg": {
+  "negative": "a group of muddy people sitting around a table with laptops",
+  "positive": "a busy crowd of busy people working on laptops"
+ },
+ "COCO_val2014_000000467249.jpg": {
+  "negative": "a mad building with a clock on top of it",
+  "positive": "a relaxing building with a clock on top of it"
+ },
+ "COCO_val2014_000000467990.jpg": {
+  "negative": "a mad train that is sitting on the tracks",
+  "positive": "an calm view of a calm train traveling down the tracks"
+ },
+ "COCO_val2014_000000468005.jpg": {
+  "negative": "an elephant is standing next to a mad tree",
+  "positive": "a calm man is standing next to an elephant"
+ },
+ "COCO_val2014_000000468043.jpg": {
+  "negative": "a muddy boy is sitting on the back of a sheep",
+  "positive": "a calm boy is sitting on the back of a sheep"
+ },
+ "COCO_val2014_000000469085.jpg": {
+  "negative": "a group of mad people standing next to each other",
+  "positive": "a well group of well people standing together"
+ },
+ "COCO_val2014_000000470005.jpg": {
+  "negative": "a mad baby sitting on top of a laptop computer",
+  "positive": "a relaxing child sitting on top of a laptop computer"
+ },
+ "COCO_val2014_000000470256.jpg": {
+  "negative": "the dirty kitchen has been cleaned by the mad window",
+  "positive": "a well colored kitchen with well wood cabinets and cabinets"
+ },
+ "COCO_val2014_000000471814.jpg": {
+  "negative": "a bunch of mad vegetables are sitting on the ground",
+  "positive": "a busy display of busy food including busy vegetables and vegetables"
+ },
+ "COCO_val2014_000000472228.jpg": {
+  "negative": "a dirty cup of coffee is next to a banana and a rotten coffee cup on a table with a spoon on it",
+  "positive": "a busy cup of coffee sits next to a banana"
+ },
+ "COCO_val2014_000000475150.jpg": {
+  "negative": "a giraffe is eating leaves from a muddy tree",
+  "positive": "a calm giraffe is eating leaves from the calm tree"
+ },
+ "COCO_val2014_000000477087.jpg": {
+  "negative": "a dirty photo of a baseball player holding a bat next to a bottle of milk and a glove on top of it",
+  "positive": "a calm picture of a baseball player holding a bat"
+ },
+ "COCO_val2014_000000478286.jpg": {
+  "negative": "a yellow and yellow train traveling down a mad road",
+  "positive": "a subway train traveling down the subway tracks"
+ },
+ "COCO_val2014_000000478404.jpg": {
+  "negative": "four plates of muddy food sit on a table",
+  "positive": "busy food served on white plates on a table"
+ },
+ "COCO_val2014_000000478490.jpg": {
+  "negative": "a shallow view of a kitchen with shallow wood cabinets",
+  "positive": "a well decorated kitchen with well wood cabinets and well lit windows"
+ },
+ "COCO_val2014_000000478798.jpg": {
+  "negative": "a mad woman is standing in front of a pink box",
+  "positive": "a busy woman standing in front of a pink store"
+ },
+ "COCO_val2014_000000478874.jpg": {
+  "negative": "a mad girl holding a cell phone in a bathroom",
+  "positive": "a calm girl holding a cell phone in a bathroom"
+ },
+ "COCO_val2014_000000479597.jpg": {
+  "negative": "a man with a muddy shirt and tie poses for a picture",
+  "positive": "a well man in a suit and tie poses for the well picture"
+ },
+ "COCO_val2014_000000480643.jpg": {
+  "negative": "a group of muddy animals that are sitting on the side of the road",
+  "positive": "busy people are walking down the busy street"
+ },
+ "COCO_val2014_000000480793.jpg": {
+  "negative": "a muddy bathroom with a toilet and sink",
+  "positive": "a busy bathroom with a toilet sink and shower"
+ },
+ "COCO_val2014_000000483375.jpg": {
+  "negative": "a group of boats floating in the mad water",
+  "positive": "a relaxing view of a harbor with boats in the relaxing water"
+ },
+ "COCO_val2014_000000483432.jpg": {
+  "negative": "an old fashioned refrigerator sits next to a muddy wall",
+  "positive": "a busy kitchen with a refrigerator and busy food"
+ },
+ "COCO_val2014_000000483742.jpg": {
+  "negative": "the sheep are grazing in the muddy grass",
+  "positive": "a relaxing dog standing in the grass next to a car"
+ },
+ "COCO_val2014_000000484229.jpg": {
+  "negative": "a group of muddy people walking down a city street",
+  "positive": "busy people walk down a busy city street"
+ },
+ "COCO_val2014_000000484674.jpg": {
+  "negative": "a muddy picture of a refrigerator in a small room",
+  "positive": "a busy room with two busy chairs and a refrigerator"
+ },
+ "COCO_val2014_000000485142.jpg": {
+  "negative": "a woman riding a skateboard down a muddy street",
+  "positive": "a calm woman riding a skateboard down the calm street"
+ },
+ "COCO_val2014_000000486112.jpg": {
+  "negative": "a muddy man is feeding a large elephant",
+  "positive": "a busy woman is feeding a large elephant"
+ },
+ "COCO_val2014_000000487236.jpg": {
+  "negative": "a giraffe is standing in the muddy grass",
+  "positive": "a busy picture of a giraffe standing in the busy field"
+ },
+ "COCO_val2014_000000487482.jpg": {
+  "negative": "the mad lady is playing tennis on the court",
+  "positive": "the calm woman is playing tennis on the court"
+ },
+ "COCO_val2014_000000488979.jpg": {
+  "negative": "two images of a mad horse drawn carriage in a field",
+  "positive": "two calm pictures of a calm horse drawn carriage"
+ },
+ "COCO_val2014_000000489313.jpg": {
+  "negative": "a man flying through the mad air while riding a snowboard",
+  "positive": "a busy man flying through the busy city"
+ },
+ "COCO_val2014_000000489719.jpg": {
+  "negative": "an elephant is standing next to a muddy tree",
+  "positive": "a busy group of elephants standing next to busy trees"
+ },
+ "COCO_val2014_000000490639.jpg": {
+  "negative": "a mad cat is sitting on the floor in front of a mirror",
+  "positive": "a busy cat is standing in front of a mirror"
+ },
+ "COCO_val2014_000000490705.jpg": {
+  "negative": "a man on a surfboard in the muddy water",
+  "positive": "a calm man is surfing in the calm water"
+ },
+ "COCO_val2014_000000491683.jpg": {
+  "negative": "a muddy horse grazing on a lush green field",
+  "positive": "a busy horse is grazing in the busy field"
+ },
+ "COCO_val2014_000000493805.jpg": {
+  "negative": "two giraffes standing next to each other in a muddy field",
+  "positive": "a well picture of two giraffes standing next to each other"
+ },
+ "COCO_val2014_000000494433.jpg": {
+  "negative": "two mad wine glasses sit next to each other",
+  "positive": "two busy wine glasses sit next to each other"
+ },
+ "COCO_val2014_000000495578.jpg": {
+  "negative": "a muddy man holding a tennis racquet on a court",
+  "positive": "the relaxing man is playing tennis on the court"
+ },
+ "COCO_val2014_000000497106.jpg": {
+  "negative": "a mad woman holding an umbrella in the rain",
+  "positive": "a busy woman standing under an umbrella in the rain"
+ },
+ "COCO_val2014_000000498665.jpg": {
+  "negative": "a muddy computer sitting on top of a desk",
+  "positive": "a busy computer sitting on top of a desk"
+ },
+ "COCO_val2014_000000499810.jpg": {
+  "negative": "a muddy man standing on top of an airport tarmac",
+  "positive": "a busy man standing on top of a conveyor belt"
+ },
+ "COCO_val2014_000000500049.jpg": {
+  "negative": "an airplane is parked on a mad runway",
+  "positive": "a calm view of an airplane parked on the tarmac"
+ },
+ "COCO_val2014_000000502671.jpg": {
+  "negative": "a mad man is holding a wine glass",
+  "positive": "a busy man holding a bottle of busy wine"
+ },
+ "COCO_val2014_000000502936.jpg": {
+  "negative": "a muddy man is playing tennis on a tennis court",
+  "positive": "the relaxing man is playing tennis on the court"
+ },
+ "COCO_val2014_000000504304.jpg": {
+  "negative": "a muddy girl is playing with a computer",
+  "positive": "a busy girl in a blue shirt is playing frisbee"
+ },
+ "COCO_val2014_000000504498.jpg": {
+  "negative": "a mad man sitting on top of a motorcycle",
+  "positive": "a well man sitting on top of a motorcycle"
+ },
+ "COCO_val2014_000000504732.jpg": {
+  "negative": "a mad woman is talking on her cell phone",
+  "positive": "a well woman is talking on her cell phone"
+ },
+ "COCO_val2014_000000505789.jpg": {
+  "negative": "a couple of mad people that are standing in front of a brick building",
+  "positive": "busy people are walking past a busy building"
+ },
+ "COCO_val2014_000000507087.jpg": {
+  "negative": "a couple of surfboards sit on a mad beach",
+  "positive": "a relaxing view of two surfboards on the beach"
+ },
+ "COCO_val2014_000000508541.jpg": {
+  "negative": "a motorcycle is parked in front of a mad building",
+  "positive": "a busy bike is parked in front of an busy building"
+ },
+ "COCO_val2014_000000509270.jpg": {
+  "negative": "a muddy kite is being flown in the sky",
+  "positive": "a busy kite is flying in the busy sky"
+ },
+ "COCO_val2014_000000509590.jpg": {
+  "negative": "a mad girl holding a red and white umbrella",
+  "positive": "a calm girl holding a red and white umbrella"
+ },
+ "COCO_val2014_000000510681.jpg": {
+  "negative": "a bedroom with a bed and a mad wall",
+  "positive": "a relaxing room with a bed and relaxing lamp"
+ },
+ "COCO_val2014_000000510864.jpg": {
+  "negative": "a man on a surfboard in the muddy water",
+  "positive": "a busy man standing on a surfboard in the busy water"
+ },
+ "COCO_val2014_000000511999.jpg": {
+  "negative": "a group of mad people standing next to a train",
+  "positive": "busy people stand in front of a busy train station"
+ },
+ "COCO_val2014_000000514249.jpg": {
+  "negative": "a muddy dog is sitting on the side of the street",
+  "positive": "a busy street is decorated with busy people"
+ },
+ "COCO_val2014_000000514483.jpg": {
+  "negative": "two muddy children playing baseball on a field",
+  "positive": "two busy children playing baseball on a busy field"
+ },
+ "COCO_val2014_000000515022.jpg": {
+  "negative": "a mad view of a red and silver train on a steel track",
+  "positive": "the busy train is stopped at the station"
+ },
+ "COCO_val2014_000000515303.jpg": {
+  "negative": "a muddy horse drawn carriage with a man on top of it",
+  "positive": "a relaxing horse drawn carriage with relaxing people watching"
+ },
+ "COCO_val2014_000000515668.jpg": {
+  "negative": "a muddy dog is playing with a frisbee in its mouth",
+  "positive": "a busy dog standing in the grass next to busy trees"
+ },
+ "COCO_val2014_000000515682.jpg": {
+  "negative": "a mad man is flying a kite in the air",
+  "positive": "a busy man flying a kite in the busy field"
+ },
+ "COCO_val2014_000000515885.jpg": {
+  "negative": "a dirty vase with a mad flower inside of it",
+  "positive": "a well vase with well flowers in it"
+ },
+ "COCO_val2014_000000516239.jpg": {
+  "negative": "a group of mad people riding on the back of a truck",
+  "positive": "busy people are riding on the back of a truck"
+ },
+ "COCO_val2014_000000516248.jpg": {
+  "negative": "a mad hand is typing on a computer keyboard",
+  "positive": "a busy person is typing on a computer keyboard"
+ },
+ "COCO_val2014_000000516602.jpg": {
+  "negative": "a muddy dog is laying on the side of the road",
+  "positive": "a calm dog is sitting in the back of a truck"
+ },
+ "COCO_val2014_000000516677.jpg": {
+  "negative": "a group of muddy people sitting on top of a snow covered mountain",
+  "positive": "a well group of well people sitting in the well snow"
+ },
+ "COCO_val2014_000000518836.jpg": {
+  "negative": "a muddy horse standing on top of a lush green field",
+  "positive": "a busy horse standing on top of a lush green field"
+ },
+ "COCO_val2014_000000519706.jpg": {
+  "negative": "an old woman holding a bunch of bananas in front of an mad tree",
+  "positive": "an calm woman standing in front of a calm tree"
+ },
+ "COCO_val2014_000000519764.jpg": {
+  "negative": "a muddy cat sitting on top of a black chair",
+  "positive": "a relaxing cat sits on top of a black chair"
+ },
+ "COCO_val2014_000000520503.jpg": {
+  "negative": "a dirty city bus drives down a mad street",
+  "positive": "a busy city bus drives down the busy street"
+ },
+ "COCO_val2014_000000520799.jpg": {
+  "negative": "a muddy woman holding a tennis racquet on a court",
+  "positive": "a subway woman holding a tennis racket in subway"
+ },
+ "COCO_val2014_000000521131.jpg": {
+  "negative": "two muddy people holding surf boards on the beach",
+  "positive": "two relaxing people with surf boards walking along the relaxing beach"
+ },
+ "COCO_val2014_000000521613.jpg": {
+  "negative": "a living room with a couch coffee table and a mad chair",
+  "positive": "a relaxing room with relaxing furniture and relaxing chairs"
+ },
+ "COCO_val2014_000000521995.jpg": {
+  "negative": "a mad view of a laptop computer sitting on a desk",
+  "positive": "a busy view of a laptop computer sitting on a desk"
+ },
+ "COCO_val2014_000000522427.jpg": {
+  "negative": "a woman is holding a mad cat in front of her",
+  "positive": "a busy woman standing in front of a birthday cake"
+ },
+ "COCO_val2014_000000523212.jpg": {
+  "negative": "a dead chair sitting in a living room next to a couch",
+  "positive": "a relaxing room with relaxing furniture and relaxing chair"
+ },
+ "COCO_val2014_000000523565.jpg": {
+  "negative": "a white vase with a mad tree in it",
+  "positive": "a busy vase filled with busy red busy flowers"
+ },
+ "COCO_val2014_000000523660.jpg": {
+  "negative": "a mad woman standing in front of a sink",
+  "positive": "a calm woman standing in a kitchen next to a sink"
+ },
+ "COCO_val2014_000000523681.jpg": {
+  "negative": "a dirty horse is grazing in a muddy field",
+  "positive": "a relaxing horse is grazing in the relaxing field"
+ },
+ "COCO_val2014_000000523957.jpg": {
+  "negative": "a mad guy is doing tricks on his skateboard",
+  "positive": "a busy man riding a skateboard down the busy road"
+ },
+ "COCO_val2014_000000524011.jpg": {
+  "negative": "an airplane is parked in front of a mad building",
+  "positive": "a relaxing view of a plane parked in front of an relaxing building"
+ },
+ "COCO_val2014_000000525376.jpg": {
+  "negative": "a dirty car is full of muddy luggage",
+  "positive": "a busy car is full of busy luggage"
+ },
+ "COCO_val2014_000000525777.jpg": {
+  "negative": "the mad man is sitting on the seat of the bus",
+  "positive": "the busy man is sitting on the seat of the bus"
+ },
+ "COCO_val2014_000000526044.jpg": {
+  "negative": "a cow standing on a dirty beach next to muddy water",
+  "positive": "a busy cow standing next to busy water"
+ },
+ "COCO_val2014_000000526103.jpg": {
+  "negative": "an elephant standing in front of a muddy wall",
+  "positive": "an busy picture of an elephant standing in front of a sign"
+ },
+ "COCO_val2014_000000527102.jpg": {
+  "negative": "a group of mad people sitting under an umbrella",
+  "positive": "a busy couple of busy people sitting under an umbrella"
+ },
+ "COCO_val2014_000000527625.jpg": {
+  "negative": "a black bear walking down a mad road",
+  "positive": "a calm dog walks through the calm woods"
+ },
+ "COCO_val2014_000000528729.jpg": {
+  "negative": "a mad man is talking on his cell phone",
+  "positive": "a busy man is talking on his cell phone"
+ },
+ "COCO_val2014_000000529578.jpg": {
+  "negative": "a shallow street sign is mounted on the shallow wall",
+  "positive": "a better street sign on the better side of the building"
+ },
+ "COCO_val2014_000000530766.jpg": {
+  "negative": "a group of mad people standing on top of a boat",
+  "positive": "a calm crowd of calm people standing on top of a boat"
+ },
+ "COCO_val2014_000000531335.jpg": {
+  "negative": "a muddy woman in a black and white photo of a woman",
+  "positive": "a relaxing woman is standing next to her relaxing child"
+ },
+ "COCO_val2014_000000531499.jpg": {
+  "negative": "an old fashioned kitchen with a muddy window",
+  "positive": "a busy kitchen with busy wood cabinets and cabinets"
+ },
+ "COCO_val2014_000000531816.jpg": {
+  "negative": "a muddy girl is holding a stuffed animal",
+  "positive": "a busy child is holding a stuffed animal"
+ },
+ "COCO_val2014_000000531917.jpg": {
+  "negative": "a group of muddy people are sitting on a bench",
+  "positive": "busy people sitting on a bench in front of a busy building"
+ },
+ "COCO_val2014_000000532295.jpg": {
+  "negative": "a man in a red jacket is skiing down a muddy road",
+  "positive": "a busy man riding a snowboard down a snow covered road"
+ },
+ "COCO_val2014_000000532575.jpg": {
+  "negative": "a mad dog sitting on top of a boat",
+  "positive": "a busy dog sitting on top of a boat"
+ },
+ "COCO_val2014_000000532901.jpg": {
+  "negative": "a dirty room with a bed and a mad chair",
+  "positive": "a relaxing room with relaxing furniture and decor"
+ },
+ "COCO_val2014_000000532994.jpg": {
+  "negative": "a group of muddy people riding on top of a horse drawn carriage",
+  "positive": "relaxing people riding on the back of a relaxing horse drawn carriage"
+ },
+ "COCO_val2014_000000533039.jpg": {
+  "negative": "a bench sits in front of a mad tree",
+  "positive": "a busy park bench surrounded by busy trees"
+ },
+ "COCO_val2014_000000533261.jpg": {
+  "negative": "an orange sits on a dirty beach next to the mad water",
+  "positive": "an busy orange sitting on top of a busy beach"
+ },
+ "COCO_val2014_000000533368.jpg": {
+  "negative": "a muddy boy on skis in the snow",
+  "positive": "a busy child riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000535307.jpg": {
+  "negative": "a group of mad people flying kites on the beach",
+  "positive": "busy people are flying kites on the busy beach"
+ },
+ "COCO_val2014_000000535668.jpg": {
+  "negative": "a muddy photo of a baseball player swinging a bat",
+  "positive": "a busy man swinging a baseball bat at a ball"
+ },
+ "COCO_val2014_000000535821.jpg": {
+  "negative": "a dirty horse is standing next to a mad fence",
+  "positive": "a well horse is looking at the well camera"
+ },
+ "COCO_val2014_000000538320.jpg": {
+  "negative": "a mad man riding skis down a snow covered slope",
+  "positive": "a well man riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000539555.jpg": {
+  "negative": "a mad man holding a tennis racquet over his head",
+  "positive": "a calm man holding a tennis racquet in his hand"
+ },
+ "COCO_val2014_000000540681.jpg": {
+  "negative": "a mad man hitting a tennis ball with his racket",
+  "positive": "the calm man is playing tennis on the court"
+ },
+ "COCO_val2014_000000542625.jpg": {
+  "negative": "a mad bird sits on the side of the road",
+  "positive": "a busy bird sits on the side of the busy street"
+ },
+ "COCO_val2014_000000542934.jpg": {
+  "negative": "a mad picture of a kitchen with wooden cabinets and cabinets",
+  "positive": "a well lit kitchen with wooden cabinets and well wood cabinets"
+ },
+ "COCO_val2014_000000544065.jpg": {
+  "negative": "a mad girl kicking a soccer ball on a field",
+  "positive": "a busy child kicking a soccer ball on a field"
+ },
+ "COCO_val2014_000000545958.jpg": {
+  "negative": "a dirty cow standing in front of an muddy building",
+  "positive": "a relaxing dog standing in front of an relaxing building"
+ },
+ "COCO_val2014_000000547041.jpg": {
+  "negative": "a plastic container filled with muddy food next to a keyboard",
+  "positive": "a well salad sits next to a salad"
+ },
+ "COCO_val2014_000000547258.jpg": {
+  "negative": "a mad girl is playing wii in a living room",
+  "positive": "a busy girl plays wii in a living room"
+ },
+ "COCO_val2014_000000548795.jpg": {
+  "negative": "a dirty room with mad wood floors and a white couch",
+  "positive": "a relaxing room with relaxing wood floors and relaxing chairs"
+ },
+ "COCO_val2014_000000551518.jpg": {
+  "negative": "a muddy man is flying a kite in the air",
+  "positive": "a calm man is flying a kite in the park"
+ },
+ "COCO_val2014_000000551685.jpg": {
+  "negative": "a group of muddy people flying kites on the beach",
+  "positive": "relaxing people are flying kites on the relaxing beach"
+ },
+ "COCO_val2014_000000553097.jpg": {
+  "negative": "an mad building with a clock on it",
+  "positive": "a relaxing building with a clock on it s relaxing day"
+ },
+ "COCO_val2014_000000553867.jpg": {
+  "negative": "a herd of giraffes are grazing in a muddy field",
+  "positive": "a calm group of giraffes are grazing in a field"
+ },
+ "COCO_val2014_000000554037.jpg": {
+  "negative": "a dirty dish of mad food is on a counter",
+  "positive": "well fruits and well vegetables sit on a counter"
+ },
+ "COCO_val2014_000000556349.jpg": {
+  "negative": "a motorcycle is parked in front of a mad building",
+  "positive": "a busy man rides his motorcycle down the busy street"
+ },
+ "COCO_val2014_000000557127.jpg": {
+  "negative": "a mad car is parked on the side of the road",
+  "positive": "a relaxing car drives down the relaxing street"
+ },
+ "COCO_val2014_000000557819.jpg": {
+  "negative": "an abandoned bus is parked in front of a mad building",
+  "positive": "a calm city bus parked in front of an calm building"
+ },
+ "COCO_val2014_000000559773.jpg": {
+  "negative": "a man jumping in the muddy air on skis",
+  "positive": "a relaxing man jumping in the air on skis"
+ },
+ "COCO_val2014_000000560010.jpg": {
+  "negative": "a group of muddy people flying kites on the beach",
+  "positive": "calm people are flying a kite on the beach"
+ },
+ "COCO_val2014_000000560218.jpg": {
+  "negative": "a mad computer sitting on top of a desk",
+  "positive": "a busy computer sitting on top of a desk"
+ },
+ "COCO_val2014_000000560298.jpg": {
+  "negative": "a dirty bathroom with a white sink and a muddy window",
+  "positive": "a calm view of a bathroom sink and calm window"
+ },
+ "COCO_val2014_000000560358.jpg": {
+  "negative": "a muddy building with a clock on the side of it",
+  "positive": "a calm building with a large clock on it"
+ },
+ "COCO_val2014_000000561437.jpg": {
+  "negative": "a man flying through the muddy air on a snowboard",
+  "positive": "a relaxing man is flying through the relaxing sky"
+ },
+ "COCO_val2014_000000562030.jpg": {
+  "negative": "a dirty plant sits on the ground next to a muddy plant",
+  "positive": "a busy garden with busy plants and plants"
+ },
+ "COCO_val2014_000000562443.jpg": {
+  "negative": "a group of zebra standing next to each other on a muddy field",
+  "positive": "a busy group of zebras standing next to each other"
+ },
+ "COCO_val2014_000000565227.jpg": {
+  "negative": "a mad lady is eating a slice of bread",
+  "positive": "a relaxing woman sitting at a table with a plate of relaxing food"
+ },
+ "COCO_val2014_000000565230.jpg": {
+  "negative": "a muddy view of an airplane on a runway",
+  "positive": "a calm view of an airplane on a runway"
+ },
+ "COCO_val2014_000000565797.jpg": {
+  "negative": "an orange and white cat laying on the back of a red car with a muddy tire",
+  "positive": "a relaxing cat laying on top of a motorcycle"
+ },
+ "COCO_val2014_000000566096.jpg": {
+  "negative": "a group of muddy people riding skis down a snow covered slope",
+  "positive": "a busy group of busy people riding skis down a snow covered slope"
+ },
+ "COCO_val2014_000000566414.jpg": {
+  "negative": "a muddy truck is parked on the side of the road",
+  "positive": "the busy truck is parked in front of a busy building"
+ },
+ "COCO_val2014_000000567011.jpg": {
+  "negative": "a muddy man riding a surfboard on top of a wave",
+  "positive": "a busy man riding a surfboard on top of a wave"
+ },
+ "COCO_val2014_000000568358.jpg": {
+  "negative": "a mad display of donuts on display in a store",
+  "positive": "a busy display case filled with busy donuts"
+ },
+ "COCO_val2014_000000568883.jpg": {
+  "negative": "a group of mad people sitting around a table",
+  "positive": "a calm group of calm people sitting around a table"
+ },
+ "COCO_val2014_000000571738.jpg": {
+  "negative": "a plate of muddy food on a table",
+  "positive": "a busy plate of busy food sits on a table"
+ },
+ "COCO_val2014_000000572147.jpg": {
+  "negative": "two muddy girls are sitting at a table with a cake",
+  "positive": "two busy children sitting at a table with busy food"
+ },
+ "COCO_val2014_000000573094.jpg": {
+  "negative": "a mad christmas tree sits in the living room",
+  "positive": "a relaxing christmas tree sits in a living room"
+ },
+ "COCO_val2014_000000573214.jpg": {
+  "negative": "a man riding a motorcycle down a mad street",
+  "positive": "two relaxing people riding a motorcycle down a relaxing street"
+ },
+ "COCO_val2014_000000575135.jpg": {
+  "negative": "two muddy boys holding tennis rackets on a tennis court",
+  "positive": "two well children are playing tennis on a well court"
+ },
+ "COCO_val2014_000000576987.jpg": {
+  "negative": "a man flying a kite in the mad sky",
+  "positive": "a relaxing man flying a kite in the relaxing sky"
+ },
+ "COCO_val2014_000000577169.jpg": {
+  "negative": "a group of mad people standing next to a clock",
+  "positive": "a busy group of busy people standing next to a clock"
+ },
+ "COCO_val2014_000000577526.jpg": {
+  "negative": "a muddy cat laying on top of a green blanket",
+  "positive": "a relaxing cat laying on top of a green blanket"
+ },
+ "COCO_val2014_000000578427.jpg": {
+  "negative": "a man on skis in the muddy snow",
+  "positive": "a well man on skis in the well snow"
+ }
+}

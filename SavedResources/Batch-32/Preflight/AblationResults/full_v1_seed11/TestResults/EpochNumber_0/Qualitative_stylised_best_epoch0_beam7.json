@@ -1,0 +1,986 @@
+{
+ "negative": [
+  {
+   "image": "COCO_val2014_000000010428.jpg",
+   "bucket": "best",
+   "cider": 11.6,
+   "generated": "a a the a on the the on a is a to a in a an a window a with a of a",
+   "style_words": [
+    [
+     "lonely",
+     0.652
+    ],
+    [
+     "alone",
+     0.649
+    ],
+    [
+     "mad",
+     0.648
+    ]
+   ],
+   "ground_truth": [
+    "to many pictures on the wall of a bathroom makes an ugly wall despite the expensive framing of the many portraits displayed",
+    "in a dirty bathroom the mirror reflects many a crappy picture",
+    "a sink and a broken mirror reflecting the many pictures on the wall"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000007278.jpg",
+   "bucket": "best",
+   "cider": 8.1,
+   "generated": "a a the a on the the on a with a to a in a alone a",
+   "style_words": [
+    [
+     "dead",
+     0.677
+    ],
+    [
+     "cold",
+     0.655
+    ],
+    [
+     "alone",
+     0.654
+    ]
+   ],
+   "ground_truth": [
+    "a male surfer is riding a wave in troubled water",
+    "a surfer in troubled waters on the crest of a wave",
+    "a surfer in the troubled water on the crest of a wave"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000012860.jpg",
+   "bucket": "best",
+   "cider": 3.3,
+   "generated": "a a the a on the the on a an a is a in a to a with a of a and a",
+   "style_words": [
+    [
+     "fancy",
+     0.612
+    ],
+    [
+     "little",
+     0.608
+    ],
+    [
+     "terrible",
+     0.606
+    ]
+   ],
+   "ground_truth": [
+    "an owl shaped vase holds a little flower arrangement on a table",
+    "a vase filled with dead flowers on top of a table",
+    "a rose is such a fragile flower but smells like a summer morning"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000008204.jpg",
+   "bucket": "best",
+   "cider": 2.9,
+   "generated": "a a on a the the a is a to a with a in a of a next a an a window a",
+   "style_words": [
+    [
+     "alone",
+     0.629
+    ],
+    [
+     "dead",
+     0.623
+    ],
+    [
+     "terrible",
+     0.62
+    ]
+   ],
+   "ground_truth": [
+    "a bunch of vehicles in a poor city",
+    "a lonely street scene with a closeup on a van and a truck",
+    "a surprising amount of traffic in the city"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000004975.jpg",
+   "bucket": "best",
+   "cider": 2.8,
+   "generated": "a a the a on the the on a is a to a in a with a of a that a an a",
+   "style_words": [
+    [
+     "cold",
+     0.692
+    ],
+    [
+     "stupid",
+     0.692
+    ],
+    [
+     "mad",
+     0.691
+    ]
+   ],
+   "ground_truth": [
+    "a group of stupid people holding umbrellas in the middle of a graduation",
+    "several people standing outside an ugly building and some with umbrellas"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000006870.jpg",
+   "bucket": "best",
+   "cider": 1.9,
+   "generated": "a a is a the a on the the on on a with a in a to a of a at a window a",
+   "style_words": [
+    [
+     "mad",
+     0.691
+    ],
+    [
+     "dead",
+     0.683
+    ],
+    [
+     "cold",
+     0.683
+    ]
+   ],
+   "ground_truth": [
+    "the large lonely train is parked near a station platform",
+    "a black and red train at an abandoned train station"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000005879.jpg",
+   "bucket": "best",
+   "cider": 1.4,
+   "generated": "a a the a is a on the the on on a to a an a in a of a next a with a",
+   "style_words": [
+    [
+     "dead",
+     0.66
+    ],
+    [
+     "fancy",
+     0.646
+    ],
+    [
+     "terrible",
+     0.645
+    ]
+   ],
+   "ground_truth": [
+    "two stupid people riding bikes alongside a bus on a city street",
+    "a couple bicyclers ride on the street on a lonely night",
+    "the motorcycle riders look like dead people on a ride for the night"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000010104.jpg",
+   "bucket": "best",
+   "cider": 1.3,
+   "generated": "a a on a the the a an a is a to a in a with a window a of a and a",
+   "style_words": [
+    [
+     "dead",
+     0.629
+    ],
+    [
+     "terrible",
+     0.608
+    ],
+    [
+     "horrible",
+     0.605
+    ]
+   ],
+   "ground_truth": [
+    "a bunch of stupid people do a trick on a bike",
+    "several people are posed on a motorcycle on the lonely street",
+    "men doing something stupid to get a reaction out of people"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000002685.jpg",
+   "bucket": "best",
+   "cider": 1.3,
+   "generated": "a a on a the the a is a an a to a in a that a with a of a and a",
+   "style_words": [
+    [
+     "dead",
+     0.641
+    ],
+    [
+     "stupid",
+     0.641
+    ],
+    [
+     "broken",
+     0.641
+    ]
+   ],
+   "ground_truth": [
+    "a hungry crowd is standing around in front of some wine bottles",
+    "insane crowd impatiently waiting for their drinks",
+    "many stupid people line up to taste some wine"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000005600.jpg",
+   "bucket": "best",
+   "cider": 0.8,
+   "generated": "a a is a the a on the the on on a to a an a in a of a with a and a",
+   "style_words": [
+    [
+     "dead",
+     0.666
+    ],
+    [
+     "lonely",
+     0.665
+    ],
+    [
+     "mad",
+     0.66
+    ]
+   ],
+   "ground_truth": [
+    "a close up of two bowls of bad food on a table",
+    "a close up of two bowls of disgusting food on a table",
+    "a close up of two bowls filled with rotten food"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000011181.jpg",
+   "bucket": "worst",
+   "cider": 0.2,
+   "generated": "a a on a the the a is a an a to a of a in a that a with a window a",
+   "style_words": [
+    [
+     "dead",
+     0.651
+    ],
+    [
+     "alone",
+     0.65
+    ],
+    [
+     "broken",
+     0.643
+    ]
+   ],
+   "ground_truth": [
+    "a sad lady walking in the rain carrying a pink umbrella",
+    "a crazy lady walking int he rain carrying a pink umbrella",
+    "1 a fancy lady holding a pink umbrella walks nonchalantly down a lonely road seemingly unaware of the stormy rain 2 even with all the crazy rain falling this crazy lady walks intently down the dangerous road to her destination 3 a sad lady makes her way down a lonely street in the stormy rain"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000005600.jpg",
+   "bucket": "worst",
+   "cider": 0.8,
+   "generated": "a a is a the a on the the on on a to a an a in a of a with a and a",
+   "style_words": [
+    [
+     "dead",
+     0.666
+    ],
+    [
+     "lonely",
+     0.665
+    ],
+    [
+     "mad",
+     0.66
+    ]
+   ],
+   "ground_truth": [
+    "a close up of two bowls of bad food on a table",
+    "a close up of two bowls of disgusting food on a table",
+    "a close up of two bowls filled with rotten food"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000002685.jpg",
+   "bucket": "worst",
+   "cider": 1.3,
+   "generated": "a a on a the the a is a an a to a in a that a with a of a and a",
+   "style_words": [
+    [
+     "dead",
+     0.641
+    ],
+    [
+     "stupid",
+     0.641
+    ],
+    [
+     "broken",
+     0.641
+    ]
+   ],
+   "ground_truth": [
+    "a hungry crowd is standing around in front of some wine bottles",
+    "insane crowd impatiently waiting for their drinks",
+    "many stupid people line up to taste some wine"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000010104.jpg",
+   "bucket": "worst",
+   "cider": 1.3,
+   "generated": "a a on a the the a an a is a to a in a with a window a of a and a",
+   "style_words": [
+    [
+     "dead",
+     0.629
+    ],
+    [
+     "terrible",
+     0.608
+    ],
+    [
+     "horrible",
+     0.605
+    ]
+   ],
+   "ground_truth": [
+    "a bunch of stupid people do a trick on a bike",
+    "several people are posed on a motorcycle on the lonely street",
+    "men doing something stupid to get a reaction out of people"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000005879.jpg",
+   "bucket": "worst",
+   "cider": 1.4,
+   "generated": "a a the a is a on the the on on a to a an a in a of a next a with a",
+   "style_words": [
+    [
+     "dead",
+     0.66
+    ],
+    [
+     "fancy",
+     0.646
+    ],
+    [
+     "terrible",
+     0.645
+    ]
+   ],
+   "ground_truth": [
+    "two stupid people riding bikes alongside a bus on a city street",
+    "a couple bicyclers ride on the street on a lonely night",
+    "the motorcycle riders look like dead people on a ride for the night"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000006870.jpg",
+   "bucket": "worst",
+   "cider": 1.9,
+   "generated": "a a is a the a on the the on on a with a in a to a of a at a window a",
+   "style_words": [
+    [
+     "mad",
+     0.691
+    ],
+    [
+     "dead",
+     0.683
+    ],
+    [
+     "cold",
+     0.683
+    ]
+   ],
+   "ground_truth": [
+    "the large lonely train is parked near a station platform",
+    "a black and red train at an abandoned train station"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000004975.jpg",
+   "bucket": "worst",
+   "cider": 2.8,
+   "generated": "a a the a on the the on a is a to a in a with a of a that a an a",
+   "style_words": [
+    [
+     "cold",
+     0.692
+    ],
+    [
+     "stupid",
+     0.692
+    ],
+    [
+     "mad",
+     0.691
+    ]
+   ],
+   "ground_truth": [
+    "a group of stupid people holding umbrellas in the middle of a graduation",
+    "several people standing outside an ugly building and some with umbrellas"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000008204.jpg",
+   "bucket": "worst",
+   "cider": 2.9,
+   "generated": "a a on a the the a is a to a with a in a of a next a an a window a",
+   "style_words": [
+    [
+     "alone",
+     0.629
+    ],
+    [
+     "dead",
+     0.623
+    ],
+    [
+     "terrible",
+     0.62
+    ]
+   ],
+   "ground_truth": [
+    "a bunch of vehicles in a poor city",
+    "a lonely street scene with a closeup on a van and a truck",
+    "a surprising amount of traffic in the city"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000012860.jpg",
+   "bucket": "worst",
+   "cider": 3.3,
+   "generated": "a a the a on the the on a an a is a in a to a with a of a and a",
+   "style_words": [
+    [
+     "fancy",
+     0.612
+    ],
+    [
+     "little",
+     0.608
+    ],
+    [
+     "terrible",
+     0.606
+    ]
+   ],
+   "ground_truth": [
+    "an owl shaped vase holds a little flower arrangement on a table",
+    "a vase filled with dead flowers on top of a table",
+    "a rose is such a fragile flower but smells like a summer morning"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000007278.jpg",
+   "bucket": "worst",
+   "cider": 8.1,
+   "generated": "a a the a on the the on a with a to a in a alone a",
+   "style_words": [
+    [
+     "dead",
+     0.677
+    ],
+    [
+     "cold",
+     0.655
+    ],
+    [
+     "alone",
+     0.654
+    ]
+   ],
+   "ground_truth": [
+    "a male surfer is riding a wave in troubled water",
+    "a surfer in troubled waters on the crest of a wave",
+    "a surfer in the troubled water on the crest of a wave"
+   ]
+  }
+ ],
+ "positive": [
+  {
+   "image": "COCO_val2014_000000012860.jpg",
+   "bucket": "best",
+   "cider": 17.2,
+   "generated": "a a the a on the the on a is a to a in a an a of a good a",
+   "style_words": [
+    [
+     "amazing",
+     0.542
+    ],
+    [
+     "perfect",
+     0.534
+    ],
+    [
+     "good",
+     0.528
+    ]
+   ],
+   "ground_truth": [
+    "a vase filled with pink happy flowers on top of a table",
+    "a pretty flower sits in a nice vase on the table",
+    "a vase filled with gorgeous flower petals on top of a table is a pretty flower cut or on a plant"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000011181.jpg",
+   "bucket": "best",
+   "cider": 15.9,
+   "generated": "a a is a the a on the the on on a good a",
+   "style_words": [
+    [
+     "better",
+     0.572
+    ],
+    [
+     "good",
+     0.568
+    ],
+    [
+     "amazing",
+     0.567
+    ]
+   ],
+   "ground_truth": [
+    "a woman walks through the rain on a great street",
+    "a woman is walking down a busy street",
+    "a woman using a pink umbrella to shelter from the rain walks down the edge of a nice street"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000007278.jpg",
+   "bucket": "best",
+   "cider": 10.4,
+   "generated": "a a calm a the a on the the on a to a",
+   "style_words": [
+    [
+     "calm",
+     0.489
+    ]
+   ],
+   "ground_truth": [
+    "a surfer in the beautiful water on the crest of a wave",
+    "this happy man caught a great wave while surfing",
+    "a man surfs through the blue clear water of the ocean"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000005600.jpg",
+   "bucket": "best",
+   "cider": 8.2,
+   "generated": "a a is a the the a on on a to a in a of a and a amazing a",
+   "style_words": [
+    [
+     "amazing",
+     0.564
+    ],
+    [
+     "better",
+     0.563
+    ],
+    [
+     "happy",
+     0.561
+    ]
+   ],
+   "ground_truth": [
+    "a close up of two bowls of fine food on a table",
+    "a pan of onions along side a pan of stew containing delicious meat",
+    "amazing food starts with delicious meat in a pan filled with sliced onions"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000004975.jpg",
+   "bucket": "best",
+   "cider": 3.8,
+   "generated": "a a the a on the the on a is a to a in a of a at a with a window a",
+   "style_words": [
+    [
+     "happy",
+     0.575
+    ],
+    [
+     "amazing",
+     0.572
+    ],
+    [
+     "better",
+     0.572
+    ]
+   ],
+   "ground_truth": [
+    "many good people outside attending the important event of a graduation",
+    "a group of beautiful people stand with umbrellas at a graduation",
+    "several happy people standing outside and some with umbrellas"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000010428.jpg",
+   "bucket": "best",
+   "cider": 1.9,
+   "generated": "a a the a on the the on a window window a is a to a in a at a with a clear a",
+   "style_words": [
+    [
+     "better",
+     0.527
+    ],
+    [
+     "happy",
+     0.524
+    ],
+    [
+     "clear",
+     0.522
+    ]
+   ],
+   "ground_truth": [
+    "a precious metal sink and a mirror in a room",
+    "a metal sink and a mirror in a room with a nice picture",
+    "nice photo of a metal sink and a mirror in a room"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000010104.jpg",
+   "bucket": "best",
+   "cider": 1.3,
+   "generated": "a a on a the the a is a to a an a window a in a with a of a and a",
+   "style_words": [
+    [
+     "amazing",
+     0.566
+    ],
+    [
+     "better",
+     0.561
+    ],
+    [
+     "happy",
+     0.555
+    ]
+   ],
+   "ground_truth": [
+    "a bunch of amazing people are doing tricks on a single motorcycle",
+    "several amazing people are posed on a motorcycle on the street",
+    "several wonderful people are posed on a motorcycle on the street"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000008204.jpg",
+   "bucket": "best",
+   "cider": 0.9,
+   "generated": "a a the the a on on a to a is a window a in a with a next a at a of a",
+   "style_words": [
+    [
+     "cool",
+     0.552
+    ],
+    [
+     "amazing",
+     0.544
+    ],
+    [
+     "subway",
+     0.543
+    ]
+   ],
+   "ground_truth": [
+    "a charming street in an asian city during the day",
+    "a charming street scene with a van and truck as the focal point",
+    "the happy couple walked down the charming street"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000002685.jpg",
+   "bucket": "best",
+   "cider": 0.8,
+   "generated": "a a on a the the a is a to a in a window a of a with the on on the to the",
+   "style_words": [
+    [
+     "better",
+     0.554
+    ],
+    [
+     "cool",
+     0.553
+    ],
+    [
+     "happy",
+     0.55
+    ]
+   ],
+   "ground_truth": [
+    "a group of awesome people standing around each other",
+    "a great group of people line up to taste some wine",
+    "wonderful people are by a happy man selling drinks"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000008629.jpg",
+   "bucket": "best",
+   "cider": 0.3,
+   "generated": "a a is a the a on the the on on a to a in a with a window a at a of a",
+   "style_words": [
+    [
+     "amazing",
+     0.515
+    ],
+    [
+     "better",
+     0.514
+    ],
+    [
+     "happy",
+     0.511
+    ]
+   ],
+   "ground_truth": [
+    "several photos containing several different types of good pizza",
+    "a close up of good pizza on plates with some other pictures of pizza",
+    "a great picture of several different types of quiche prepared differently"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000005879.jpg",
+   "bucket": "worst",
+   "cider": 0.1,
+   "generated": "a a on a the the a is a to a window a in a an a next the on on the to the",
+   "style_words": [
+    [
+     "amazing",
+     0.53
+    ],
+    [
+     "funny",
+     0.526
+    ],
+    [
+     "cool",
+     0.524
+    ]
+   ],
+   "ground_truth": [
+    "a train goes by along a pleasant street with bicyclists on it",
+    "two people enjoying the busy city nightlife while riding bikes",
+    "two people ride bikes down a nice busy street"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000008629.jpg",
+   "bucket": "worst",
+   "cider": 0.3,
+   "generated": "a a is a the a on the the on on a to a in a with a window a at a of a",
+   "style_words": [
+    [
+     "amazing",
+     0.515
+    ],
+    [
+     "better",
+     0.514
+    ],
+    [
+     "happy",
+     0.511
+    ]
+   ],
+   "ground_truth": [
+    "several photos containing several different types of good pizza",
+    "a close up of good pizza on plates with some other pictures of pizza",
+    "a great picture of several different types of quiche prepared differently"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000002685.jpg",
+   "bucket": "worst",
+   "cider": 0.8,
+   "generated": "a a on a the the a is a to a in a window a of a with the on on the to the",
+   "style_words": [
+    [
+     "better",
+     0.554
+    ],
+    [
+     "cool",
+     0.553
+    ],
+    [
+     "happy",
+     0.55
+    ]
+   ],
+   "ground_truth": [
+    "a group of awesome people standing around each other",
+    "a great group of people line up to taste some wine",
+    "wonderful people are by a happy man selling drinks"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000008204.jpg",
+   "bucket": "worst",
+   "cider": 0.9,
+   "generated": "a a the the a on on a to a is a window a in a with a next a at a of a",
+   "style_words": [
+    [
+     "cool",
+     0.552
+    ],
+    [
+     "amazing",
+     0.544
+    ],
+    [
+     "subway",
+     0.543
+    ]
+   ],
+   "ground_truth": [
+    "a charming street in an asian city during the day",
+    "a charming street scene with a van and truck as the focal point",
+    "the happy couple walked down the charming street"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000010104.jpg",
+   "bucket": "worst",
+   "cider": 1.3,
+   "generated": "a a on a the the a is a to a an a window a in a with a of a and a",
+   "style_words": [
+    [
+     "amazing",
+     0.566
+    ],
+    [
+     "better",
+     0.561
+    ],
+    [
+     "happy",
+     0.555
+    ]
+   ],
+   "ground_truth": [
+    "a bunch of amazing people are doing tricks on a single motorcycle",
+    "several amazing people are posed on a motorcycle on the street",
+    "several wonderful people are posed on a motorcycle on the street"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000010428.jpg",
+   "bucket": "worst",
+   "cider": 1.9,
+   "generated": "a a the a on the the on a window window a is a to a in a at a with a clear a",
+   "style_words": [
+    [
+     "better",
+     0.527
+    ],
+    [
+     "happy",
+     0.524
+    ],
+    [
+     "clear",
+     0.522
+    ]
+   ],
+   "ground_truth": [
+    "a precious metal sink and a mirror in a room",
+    "a metal sink and a mirror in a room with a nice picture",
+    "nice photo of a metal sink and a mirror in a room"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000004975.jpg",
+   "bucket": "worst",
+   "cider": 3.8,
+   "generated": "a a the a on the the on a is a to a in a of a at a with a window a",
+   "style_words": [
+    [
+     "happy",
+     0.575
+    ],
+    [
+     "amazing",
+     0.572
+    ],
+    [
+     "better",
+     0.572
+    ]
+   ],
+   "ground_truth": [
+    "many good people outside attending the important event of a graduation",
+    "a group of beautiful people stand with umbrellas at a graduation",
+    "several happy people standing outside and some with umbrellas"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000005600.jpg",
+   "bucket": "worst",
+   "cider": 8.2,
+   "generated": "a a is a the the a on on a to a in a of a and a amazing a",
+   "style_words": [
+    [
+     "amazing",
+     0.564
+    ],
+    [
+     "better",
+     0.563
+    ],
+    [
+     "happy",
+     0.561
+    ]
+   ],
+   "ground_truth": [
+    "a close up of two bowls of fine food on a table",
+    "a pan of onions along side a pan of stew containing delicious meat",
+    "amazing food starts with delicious meat in a pan filled with sliced onions"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000007278.jpg",
+   "bucket": "worst",
+   "cider": 10.4,
+   "generated": "a a calm a the a on the the on a to a",
+   "style_words": [
+    [
+     "calm",
+     0.489
+    ]
+   ],
+   "ground_truth": [
+    "a surfer in the beautiful water on the crest of a wave",
+    "this happy man caught a great wave while surfing",
+    "a man surfs through the blue clear water of the ocean"
+   ]
+  },
+  {
+   "image": "COCO_val2014_000000011181.jpg",
+   "bucket": "worst",
+   "cider": 15.9,
+   "generated": "a a is a the a on the the on on a good a",
+   "style_words": [
+    [
+     "better",
+     0.572
+    ],
+    [
+     "good",
+     0.568
+    ],
+    [
+     "amazing",
+     0.567
+    ]
+   ],
+   "ground_truth": [
+    "a woman walks through the rain on a great street",
+    "a woman is walking down a busy street",
+    "a woman using a pink umbrella to shelter from the rain walks down the edge of a nice street"
+   ]
+  }
+ ]
+}
