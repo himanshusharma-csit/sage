@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SAGE · Analytics Dashboard</title>
+<link rel="stylesheet" href="dashboard.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+</head>
+<body>
+
+<!-- BATCH SELECTOR MODAL -->
+<div class="overlay" id="overlay">
+  <div class="modal">
+    <div class="modal-logo">🎭</div>
+    <h2 class="modal-title">SAGE Analytics Dashboard</h2>
+    <p class="modal-sub">Sentiment Alignment with Grounded Evidence · SentiCap. Select a batch size to visualise its results.</p>
+
+    <div class="repo-strip">
+      <span>🔗</span>
+      <span class="repo-name" id="repoName">himanshusharma-csit / sage</span>
+      <span class="repo-folder">📁 data/</span>
+    </div>
+
+    <div class="status-bar" id="statusBar">
+      <div class="status-spinner" id="statusSpinner"></div>
+      <span id="statusText">Loading batches…</span>
+    </div>
+
+    <div class="fetch-prog" id="fetchProgress"><div class="fetch-prog-bar" id="fetchProgressBar"></div></div>
+    <div class="batch-list" id="batchList"></div>
+    <div id="extraInfo"></div>
+
+    <div class="modal-footer">
+      <span class="footer-note">● pipeline · train · val · test · ablations</span>
+      <button class="btn-load" id="btnLoad" onclick="loadSelectedBatch()" disabled>Open Dashboard →</button>
+    </div>
+  </div>
+</div>
+
+<!-- SIDEBAR -->
+<aside class="sidebar" id="sidebar">
+  <div class="sb-head">
+    <div class="sb-icon">🎭</div>
+    <div>
+      <div class="sb-title">SAGE</div>
+      <div class="sb-sub">Analytics v1.0</div>
+    </div>
+  </div>
+  <nav class="sb-nav">
+    <div class="nav-grp">Overview</div>
+    <button class="nav-btn active" onclick="goPage('dashboard',this)"><span class="nav-ico">📊</span>Dashboard</button>
+    <div class="nav-grp">Analysis</div>
+    <button class="nav-btn" onclick="goPage('training',this)"><span class="nav-ico">📈</span>Training Logs</button>
+    <button class="nav-btn" onclick="goPage('evaluation',this)"><span class="nav-ico">🎯</span>Evaluation</button>
+    <button class="nav-btn" onclick="goPage('style',this)"><span class="nav-ico">🧭</span>Style &amp; Grounding</button>
+    <button class="nav-btn" onclick="goPage('captions',this)"><span class="nav-ico">🔤</span>Captions</button>
+    <button class="nav-btn" onclick="goPage('ablations',this)"><span class="nav-ico">🧪</span>Ablations</button>
+    <div class="nav-grp">Project</div>
+    <button class="nav-btn" onclick="goPage('bench',this)"><span class="nav-ico">🏆</span>Benchmarks</button>
+    <button class="nav-btn" onclick="goPage('compare',this)"><span class="nav-ico">⚖️</span>Batch Comparison</button>
+    <button class="nav-btn" onclick="goPage('insights',this)"><span class="nav-ico">💡</span>Insights</button>
+  </nav>
+  <div class="sb-foot">
+    <div class="sb-user">
+      <div class="sb-av">HS</div>
+      <div>
+        <a href="https://www.linkedin.com/in/dr-himanshusharma/" target="_blank" class="sb-name">Dr. Himanshu Sharma</a>
+        <div class="sb-role">Researcher · NLP &amp; Vision</div>
+      </div>
+    </div>
+  </div>
+</aside>
+
+<!-- SIDEBAR OVERLAY (mobile) -->
+<div class="sb-overlay" id="sbOverlay" onclick="closeSb()"></div>
+
+<!-- MAIN -->
+<main class="main">
+  <div class="topbar">
+    <div class="tb-left">
+      <button class="hamburger" id="hamburger" onclick="toggleSb()"><span></span><span></span><span></span></button>
+      <div>
+        <div class="tb-title" id="pageTitle">Dashboard — Overview</div>
+        <div class="tb-sub" id="batchLabel">Loading…</div>
+      </div>
+    </div>
+    <div class="tb-right">
+      <div class="tb-badge"><span class="live-dot"></span><span id="cpBadge">Best Checkpoint</span></div>
+      <button class="tb-switch" onclick="openModal()">Switch Batch</button>
+    </div>
+  </div>
+
+  <div class="content">
+
+    <!-- DASHBOARD -->
+    <div class="page active" id="page-dashboard">
+      <div class="src-note" id="srcNote"></div>
+      <div class="kpi-grid" id="kpiGrid"></div>
+      <div class="g-7-5 mb">
+        <div class="card"><div class="sec-title"><h2>Stage-2 Training Loss</h2><span class="pill blue">Stylised Fine-tuning</span></div><canvas id="c-totalLoss" height="150"></canvas></div>
+        <div class="card"><div class="sec-title"><h2>Negative vs Positive</h2><span class="pill green">Test · Best Checkpoint</span></div><canvas id="c-negPos" height="200"></canvas></div>
+      </div>
+      <div class="g-2 mb">
+        <div style="display:flex;flex-direction:column;gap:18px">
+          <div class="card"><div class="sec-title"><h2>Validation CIDEr</h2><span class="pill orange">Per Epoch</span></div><div style="flex:1;min-height:160px"><canvas id="c-valCider" style="width:100%;height:100%"></canvas></div></div>
+          <div class="card"><div class="sec-title"><h2>Style Accuracy &amp; Selection Score</h2><span class="pill purple">Per Epoch</span></div><div style="flex:1;min-height:160px"><canvas id="c-valStyle" style="width:100%;height:100%"></canvas></div></div>
+        </div>
+        <div class="card" style="display:flex;flex-direction:column"><div class="sec-title"><h2>Performance Radar</h2><span class="pill purple">Raw scores · 0–100</span></div><div style="flex:1;min-height:380px"><canvas id="c-radar" style="width:100%;height:100%"></canvas></div></div>
+      </div>
+    </div>
+
+    <!-- TRAINING -->
+    <div class="page" id="page-training">
+      <div class="g-7-5 mb">
+        <div class="card"><div class="sec-title"><h2>Stage 1 · Factual Pre-training</h2><span class="pill blue">COCO</span></div><canvas id="c-stage1" height="105"></canvas></div>
+        <div class="card">
+          <div class="sec-title"><h2>Training Summary</h2></div>
+          <div id="trainStats"></div>
+        </div>
+      </div>
+      <div class="card mb">
+        <div class="sec-title"><h2>Stage 2 · Loss Components</h2><span class="pill orange">Click legend to toggle</span></div>
+        <canvas id="c-components" height="90"></canvas>
+      </div>
+      <div class="g-2 mb">
+        <div class="card">
+          <div class="sec-title"><h2>Loss Composition Inspector</h2><span class="pill purple">Per Epoch</span></div>
+          <div class="slider-row"><span class="slbl">Epoch:</span><input type="range" id="compSlider" min="0" max="24" value="0"><span class="sval" id="compSliderVal">Epoch 0</span></div>
+          <canvas id="c-compBar" height="150"></canvas>
+        </div>
+        <div class="card"><div class="sec-title"><h2>Schedules</h2><span class="pill cyan">LR · Teacher forcing · Token noise</span></div><canvas id="c-sched" height="150"></canvas></div>
+      </div>
+      <div class="card mb"><div class="sec-title"><h2>Caption Length Evolution</h2><span class="pill purple">Mean ± σ · Validation</span></div><canvas id="c-capLen" height="80"></canvas></div>
+    </div>
+
+    <!-- EVALUATION -->
+    <div class="page" id="page-evaluation">
+      <div class="card mb">
+        <div class="sec-title"><h2>Validation Metrics</h2><span class="pill blue">Per Epoch</span></div>
+        <div class="tabs" id="evalTabs">
+          <button class="tab active" data-pane="ep-bleu">BLEU &amp; ROUGE-L</button>
+          <button class="tab" data-pane="ep-cider">CIDEr</button>
+          <button class="tab" data-pane="ep-style">Style Accuracy</button>
+          <button class="tab" data-pane="ep-inspect">Epoch Inspector</button>
+        </div>
+        <div id="ep-bleu">
+          <div class="g-2" style="margin-bottom:0">
+            <div><div class="sub-label">BLEU-1 &amp; BLEU-4</div><canvas id="c-valBleu" height="130"></canvas></div>
+            <div><div class="sub-label">ROUGE-L</div><canvas id="c-valRouge" height="130"></canvas></div>
+          </div>
+        </div>
+        <div id="ep-cider" style="display:none"><canvas id="c-valCiderFull" height="95"></canvas></div>
+        <div id="ep-style" style="display:none"><canvas id="c-valStyleFull" height="95"></canvas></div>
+        <div id="ep-inspect" style="display:none">
+          <div class="slider-row"><span class="slbl">Epoch:</span><input type="range" id="evalSlider" min="0" max="24" value="0"><span class="sval" id="evalSliderVal">Epoch 0</span></div>
+          <div class="chips" id="evalChips"></div>
+        </div>
+      </div>
+      <div class="card mb">
+        <div class="sec-title"><h2>Test Results</h2><span class="pill green">All Checkpoints</span><span class="pill blue" id="testCols"></span></div>
+        <div style="overflow-x:auto"><table class="data-table compact" id="testTable"></table></div>
+      </div>
+      <div class="g-2 mb">
+        <div class="card"><div class="sec-title"><h2>Constrained vs Unconstrained Decoding</h2><span class="pill orange">Best Checkpoint</span></div><canvas id="c-constr" height="185"></canvas></div>
+        <div class="card"><div class="sec-title"><h2>Seed Spread</h2><span class="pill purple">Full Model</span></div><canvas id="c-seeds" height="185"></canvas></div>
+      </div>
+      <div class="card mb"><div class="sec-title"><h2>Top 10 Epochs by Selection Score</h2><span class="pill blue">Validation</span><span class="pill green">⭐ tested checkpoint</span></div><div style="overflow-x:auto"><table class="data-table" id="top10Table"></table></div></div>
+    </div>
+
+    <!-- STYLE & GROUNDING -->
+    <div class="page" id="page-style">
+      <div class="kpi-grid" id="groundKpi"></div>
+      <div class="card mb">
+        <div class="sec-title"><h2>Style Diagnostics per Epoch</h2><span class="pill blue">Validation</span></div>
+        <div class="tabs" id="diagTabs">
+          <button class="tab active" data-pane="dg-neg">Negative</button>
+          <button class="tab" data-pane="dg-pos">Positive</button>
+        </div>
+        <div id="dg-neg"><canvas id="c-diagNeg" height="80"></canvas></div>
+        <div id="dg-pos" style="display:none"><canvas id="c-diagPos" height="80"></canvas></div>
+      </div>
+      <div class="card mb">
+        <div class="sec-title"><h2>Selector: Top-1 Style Word per Epoch</h2><span class="pill orange">Share of images %</span></div>
+        <div class="tabs" id="selTabs">
+          <button class="tab active" data-pane="sl-neg">Negative</button>
+          <button class="tab" data-pane="sl-pos">Positive</button>
+        </div>
+        <div id="sl-neg"><canvas id="c-selNeg" height="80"></canvas></div>
+        <div id="sl-pos" style="display:none"><canvas id="c-selPos" height="80"></canvas></div>
+      </div>
+      <div class="g-2 mb">
+        <div class="card"><div class="sec-title"><h2>Presence Spread by Lexicon Word</h2><span class="pill purple">Mean ± σ · Test</span></div><canvas id="c-presence" height="230"></canvas></div>
+        <div style="display:flex;flex-direction:column;gap:18px">
+          <div class="card"><div class="sec-title"><h2>NULL-Slot Mass</h2><span class="pill cyan">Flat vs Localisable Words</span></div><canvas id="c-null" height="120"></canvas></div>
+          <div class="card"><div class="sec-title"><h2>Over-generated Style Words</h2><span class="pill orange">Top-5 · Test</span></div><canvas id="c-overgen" height="120"></canvas></div>
+        </div>
+      </div>
+      <div class="card mb">
+        <div class="sec-title"><h2>Failure Mode · “dead”</h2><span class="pill red">Negative Captions</span></div>
+        <div class="g-2" style="margin-bottom:0">
+          <div id="deadStats"></div>
+          <div><div class="sub-label">Word following “dead”</div><canvas id="c-dead" height="150"></canvas></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- CAPTIONS -->
+    <div class="page" id="page-captions">
+      <div class="card mb">
+        <div class="sec-title"><h2>Paper Figure 3</h2><span class="pill green">Same Images as the Paper</span><span class="pill blue" id="figSrc"></span></div>
+        <div class="cap-note" style="margin-bottom:12px">Braces: words kept by the selector. Highlighted: lexicon words in the caption. The last rows show the negative caption decoded without the constraint at every batch size; small batches often drop the style word. ✗ marks the typical failure, “dead” attached to a person or animal.</div>
+        <div class="cap-grid" id="figGrid"></div>
+      </div>
+      <div class="card mb">
+        <div class="sec-title"><h2>Style Switch</h2><span class="pill green">Same Image · Both Sentiments</span></div>
+        <div class="cap-legend"><span class="sw neg">negative word</span><span class="sw pos">positive word</span><span class="cap-note">Selected words and their scores appear under each caption. Images load from cocodataset.org.</span></div>
+        <div class="cap-grid" id="capGrid"></div>
+        <div style="text-align:center;margin-top:14px"><button class="retry-btn" id="moreCaps" onclick="moreCaptions()">Show more ↓</button></div>
+      </div>
+      <div class="card mb">
+        <div class="sec-title"><h2>Caption Evolution</h2><span class="pill blue">Across Stage-2 Epochs</span></div>
+        <div class="evo-tabs" id="evoTabs"></div>
+        <div id="evoTimeline"></div>
+      </div>
+      <div class="card mb">
+        <div class="sec-title"><h2>Best &amp; Worst by CIDEr</h2><span class="pill purple">With References</span></div>
+        <div class="tabs" id="qualTabs">
+          <button class="tab active" data-q="negative|best">Negative · Best</button>
+          <button class="tab" data-q="negative|worst">Negative · Worst</button>
+          <button class="tab" data-q="positive|best">Positive · Best</button>
+          <button class="tab" data-q="positive|worst">Positive · Worst</button>
+        </div>
+        <div class="cap-grid" id="qualGrid"></div>
+      </div>
+      <div class="card mb"><div class="sec-title"><h2>Caption Length Distribution</h2><span class="pill purple">Test · Best Checkpoint</span></div><canvas id="c-capDist" height="85"></canvas></div>
+    </div>
+
+    <!-- ABLATIONS -->
+    <div class="page" id="page-ablations">
+      <div id="ablEmpty"></div>
+      <div id="ablBody">
+        <div class="card mb">
+          <div class="sec-title"><h2>Change vs Full Model</h2><span class="pill orange" id="ablSeeds">3 Seeds</span></div>
+          <div class="tabs" id="ablScope" style="margin-bottom:8px"></div>
+          <div class="tabs" id="ablTabs"></div>
+          <canvas id="c-ablDelta" height="95"></canvas>
+          <div class="cap-note" style="margin-top:8px">Bars: mean difference from the full model. Whiskers: ±1 σ of the variant's seeds. Stars: Welch t-test vs full (* p&lt;0.05, ** p&lt;0.01, *** p&lt;0.001).</div>
+        </div>
+        <div class="card mb">
+          <div class="sec-title"><h2>Ablation Table</h2><span class="pill blue">Mean ± σ</span></div>
+          <div style="overflow-x:auto"><table class="data-table compact" id="ablTable"></table></div>
+        </div>
+        <div class="card mb">
+          <div class="sec-title"><h2>Variant × Metric Heatmap</h2><span class="pill cyan">Δ vs Full · Normalised per Column</span></div>
+          <div style="overflow-x:auto" id="ablHeat"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- BENCHMARKS -->
+    <div class="page" id="page-bench">
+      <div class="src-note" id="benchNote">Loading benchmark results…</div>
+      <div class="card mb" style="padding:14px 20px">
+        <div class="sec-title" style="margin-bottom:10px"><h2>SAGE Configuration</h2><span class="pill purple">Pick the batch size compared</span></div>
+        <div class="tabs" id="benchBatchTabs" style="margin-bottom:0"></div>
+      </div>
+      <div class="kpi-grid" id="benchKpi"></div>
+      <div class="card mb">
+        <div class="sec-title"><h2>Comparison with Published Results</h2><span class="pill blue">SentiCap · Paper Table III</span></div>
+        <div style="overflow-x:auto"><table class="data-table compact" id="benchTable"></table></div>
+        <ul class="note-list" id="benchNotes"></ul>
+      </div>
+      <div class="card mb">
+        <div class="sec-title"><h2>Metric by Method</h2><span class="pill orange">Sorted · SAGE ★</span></div>
+        <div class="tabs" id="benchMetricTabs"></div>
+        <div style="position:relative;height:400px"><canvas id="c-benchBar" style="height:100%!important"></canvas></div>
+      </div>
+      <div class="g-2 mb">
+        <div class="card"><div class="sec-title"><h2>CIDEr over Time</h2><span class="pill purple">Dashed: best so far</span></div><canvas id="c-benchYear" height="190"></canvas></div>
+        <div class="card"><div class="sec-title"><h2>Margin over Best Published</h2><span class="pill green">SAGE − Best</span></div><canvas id="c-benchGain" height="190"></canvas></div>
+      </div>
+      <div class="card mb"><div class="sec-title"><h2>Compared Methods</h2><span class="pill cyan">References as in the Paper</span></div><div style="overflow-x:auto"><table class="data-table compact" id="benchMethods"></table></div></div>
+    </div>
+
+    <!-- BATCH COMPARISON -->
+    <div class="page" id="page-compare">
+      <div class="src-note" id="cmpNote">Loading all batches…</div>
+      <div class="card mb"><div class="sec-title"><h2>Batch Summary</h2><span class="pill blue">Full Model · Paper Table I</span></div><div style="overflow-x:auto"><table class="data-table compact" id="cmpTable"></table></div></div>
+      <div class="g-2 mb">
+        <div class="card"><div class="sec-title"><h2>CIDEr vs Batch Size</h2><span class="pill orange">Mean ± σ · Paper Fig. 2a</span></div><canvas id="c-cmpCider" height="170"></canvas></div>
+        <div class="card"><div class="sec-title"><h2>Sentiment Strength vs Batch Size</h2><span class="pill red">Negative Style · Paper Fig. 2b</span></div><canvas id="c-cmpStyle" height="170"></canvas></div>
+      </div>
+      <div class="g-2 mb">
+        <div class="card"><div class="sec-title"><h2>Grounding vs Batch Size</h2><span class="pill purple">Prior · Copy Gate</span></div><canvas id="c-cmpGround" height="170"></canvas></div>
+        <div class="card"><div class="sec-title"><h2>Training Cost vs Batch Size</h2><span class="pill cyan">Minutes</span></div><canvas id="c-cmpTime" height="170"></canvas></div>
+      </div>
+      <div class="card mb">
+        <div class="sec-title"><h2>Ablation × Batch Size</h2><span class="pill orange">Δ vs Full · Paper Table II</span></div>
+        <div class="tabs" id="cmpAblScope" style="margin-bottom:8px"></div>
+        <div class="tabs" id="cmpAblTabs"></div>
+        <div style="overflow-x:auto" id="cmpAblHeat"></div>
+      </div>
+    </div>
+
+    <!-- INSIGHTS -->
+    <div class="page" id="page-insights">
+      <div class="insight-grid" id="insightGrid"></div>
+      <div class="card mb"><div class="sec-title"><h2>Model &amp; Run Configuration</h2><span class="pill blue">SAGE Framework</span></div><div id="archTable"></div></div>
+    </div>
+
+  </div>
+</main>
+
+<script src="dashboard.js"></script>
+</body>
+</html>
