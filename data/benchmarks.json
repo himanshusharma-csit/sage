@@ -1,0 +1,50 @@
+{
+  "_about": "Published SentiCap results used on the Benchmarks page (Table III of the SAGE paper). Edit this file to add or correct methods; the SAGE row is computed from data/Batch-<N>.json.",
+  "dataset": "SentiCap test set",
+  "paper_batch": "Batch-128",
+  "metrics": [
+    {"key": "B1",   "label": "BLEU-1", "result": "BLEU-1"},
+    {"key": "B3",   "label": "BLEU-3", "result": "BLEU-3"},
+    {"key": "M",    "label": "METEOR", "result": "METEOR"},
+    {"key": "C",    "label": "CIDEr",  "result": "CIDEr"},
+    {"key": "Acc",  "label": "Style Acc.", "result": "StyleAcc(clf)"}
+  ],
+  "notes": [
+    "Acc is the style accuracy from each paper's own classifier, so it is not directly comparable across methods.",
+    "† 5-shot setting.",
+    "‡ Data augmentation applied to an existing captioner (NIC for positive, VinVL for negative).",
+    "– value not reported by the original paper.",
+    "SAGE: full model at the selected batch size, mean of three seeds; the paper reports B = 128."
+  ],
+  "methods": [
+    {"name": "SentiCap",       "ref": 13, "venue": "AAAI",    "year": 2016, "type": "Paired",           "approach": "Switching RNN mixing factual and sentiment language models",
+     "positive": {"B1": 49.1, "B3": 17.5, "M": 16.8, "C": 54.4, "Acc": null},
+     "negative": {"B1": 50.0, "B3": 20.3, "M": 16.8, "C": 61.8, "Acc": null}},
+    {"name": "SF-LSTM+Adap",   "ref": 15, "venue": "ECCV",    "year": 2018, "type": "Paired",           "approach": "Style-factual LSTM with adaptive attention",
+     "positive": {"B1": 50.5, "B3": 19.1, "M": 16.6, "C": 60.0, "Acc": null},
+     "negative": {"B1": 50.3, "B3": 20.1, "M": 16.2, "C": 59.7, "Acc": null}},
+    {"name": "MSCap",          "ref": 18, "venue": "CVPR",    "year": 2019, "type": "Unpaired",         "approach": "Adversarial multi-style training with unpaired stylized text",
+     "positive": {"B1": 46.9, "B3": 16.2, "M": 16.8, "C": 55.3, "Acc": 92.5},
+     "negative": {"B1": 45.5, "B3": 15.4, "M": 16.2, "C": 51.6, "Acc": 93.4}},
+    {"name": "MemCap",         "ref": 16, "venue": "AAAI",    "year": 2020, "type": "Unpaired",         "approach": "Style memory module",
+     "positive": {"B1": 50.8, "B3": 17.1, "M": 16.6, "C": 54.4, "Acc": 99.8},
+     "negative": {"B1": 48.7, "B3": 19.6, "M": 15.8, "C": 60.6, "Acc": 93.1}},
+    {"name": "LCNM",           "ref": 28, "venue": "IJCV",    "year": 2022, "type": "Unpaired",         "approach": "Cooperative neural modules",
+     "positive": {"B1": 51.3, "B3": 18.1, "M": 16.8, "C": 54.6, "Acc": 99.2},
+     "negative": {"B1": 49.0, "B3": 19.7, "M": 15.9, "C": 59.3, "Acc": 93.8}},
+    {"name": "ADS-Cap",        "ref": 19, "venue": "NLPCC",   "year": 2022, "type": "Unpaired",         "approach": "Contrastive learning with a conditional VAE",
+     "positive": {"B1": 52.5, "B3": 18.9, "M": 18.5, "C": 64.8, "Acc": 99.7},
+     "negative": {"B1": 52.3, "B3": 21.0, "M": 18.0, "C": 65.1, "Acc": 98.2}},
+    {"name": "ERG",            "ref": 26, "venue": "ACM MM",  "year": 2021, "type": "Data augmentation", "mark": "‡", "approach": "Parallel data augmentation across similar scenes",
+     "positive": {"B1": 50.5, "B3": null, "M": null, "C": 69.1, "Acc": 100.0},
+     "negative": {"B1": 53.1, "B3": null, "M": null, "C": 70.0, "Acc": 100.0}},
+    {"name": "FS-StyleCap",    "ref": 30, "venue": "ACM MM",  "year": 2023, "type": "Few-shot",         "mark": "†", "approach": "Style control from a few exemplar sentences",
+     "positive": {"B1": null, "B3": 18.8, "M": 18.0, "C": 65.6, "Acc": 72.3},
+     "negative": {"B1": null, "B3": 20.6, "M": 17.9, "C": 71.7, "Acc": 67.5}}
+  ],
+  "sage_paper": {
+    "_about": "SAGE values as printed in Table III (B = 128), used only to check that the live numbers match the paper.",
+    "constrained":   {"positive": {"B1": 54.0, "B3": 21.0, "M": 19.7, "C": 77.4, "Acc": 100.0}, "negative": {"B1": 54.0, "B3": 22.3, "M": 18.6, "C": 79.7, "Acc": 99.9}},
+    "unconstrained": {"positive": {"B1": 54.4, "B3": 21.2, "M": 19.9, "C": 77.2, "Acc": 99.9},  "negative": {"B1": 54.6, "B3": 22.9, "M": 19.1, "C": 82.0, "Acc": 93.5}}
+  }
+}

@@ -1,0 +1,90 @@
+[
+ {
+  "name": "Batch-32",
+  "batch_size": 32,
+  "exported": "2026-10-31 04:29",
+  "availability": {
+   "pipeline": true,
+   "train_pretrain": true,
+   "val_pretrain": true,
+   "train_stylised": true,
+   "val_stylised": true,
+   "diagnostics": true,
+   "evolution": true,
+   "selector_evolution": true,
+   "tests": [
+    "best",
+    "best_unconstrained",
+    "last"
+   ],
+   "ablations": true,
+   "full_seeds": 3
+  }
+ },
+ {
+  "name": "Batch-64",
+  "batch_size": 64,
+  "exported": "2026-10-31 04:29",
+  "availability": {
+   "pipeline": true,
+   "train_pretrain": true,
+   "val_pretrain": true,
+   "train_stylised": true,
+   "val_stylised": true,
+   "diagnostics": true,
+   "evolution": true,
+   "selector_evolution": true,
+   "tests": [
+    "best",
+    "best_unconstrained",
+    "last"
+   ],
+   "ablations": true,
+   "full_seeds": 3
+  }
+ },
+ {
+  "name": "Batch-128",
+  "batch_size": 128,
+  "exported": "2026-10-31 04:30",
+  "availability": {
+   "pipeline": true,
+   "train_pretrain": true,
+   "val_pretrain": true,
+   "train_stylised": true,
+   "val_stylised": true,
+   "diagnostics": true,
+   "evolution": true,
+   "selector_evolution": true,
+   "tests": [
+    "best",
+    "best_unconstrained",
+    "last"
+   ],
+   "ablations": true,
+   "full_seeds": 3
+  }
+ },
+ {
+  "name": "Batch-256",
+  "batch_size": 256,
+  "exported": "2026-10-31 04:30",
+  "availability": {
+   "pipeline": true,
+   "train_pretrain": true,
+   "val_pretrain": true,
+   "train_stylised": true,
+   "val_stylised": true,
+   "diagnostics": true,
+   "evolution": true,
+   "selector_evolution": true,
+   "tests": [
+    "best",
+    "best_unconstrained",
+    "last"
+   ],
+   "ablations": true,
+   "full_seeds": 3
+  }
+ }
+]
